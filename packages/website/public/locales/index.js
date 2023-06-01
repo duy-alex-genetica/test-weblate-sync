@@ -43,13 +43,15 @@ const wlSyncTranslations = async () => {
         const zipFilePath = `/Users/alexpham/Workspace/_genetica/genetica.asia/packages/website/public/locales/archives/${slugifyFileName}.zip`
 
         // data.append('template', 'en.json');
-        data.append('template', `en.json`);
+        data.append('template', `packages/website/public/locales/en/${file}.json`);
         data.append('name', fileName);
         data.append('slug', slugifyFileName);
         data.append('file_format', 'json');
         data.append('new_lang', 'add');
-        data.append('zipfile', fs.createReadStream(zipFilePath));
-        data.append('filemask', `*.json`);
+        data.append('repo', 'https://github.com/duy-alex-genetica/test-weblate-sync');
+        data.append('branch', 'main');
+        // data.append('zipfile', fs.createReadStream(zipFilePath));
+        data.append('filemask', `packages/website/public/locales/*/${file}.json`);
         // data.append('filemask', `*/${slugifyFileName}.json`);
         data.append('source_language', 'en');
 
