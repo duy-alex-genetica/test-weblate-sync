@@ -1,0 +1,12 @@
+{
+  "header": {
+    "title": "Board of Advisors"
+  },
+  "body": {
+    "sectionAdvisors": {
+      "actions": {
+        "seeMore": "See more"
+      }
+    }
+  }
+}

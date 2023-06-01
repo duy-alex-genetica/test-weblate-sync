@@ -1,0 +1,268 @@
+{
+  "header": {
+    "steps": {
+      "1": "Giỏ hàng",
+      "2": "Thanh toán",
+      "3": "Hoàn thành"
+    }
+  },
+  "body": {
+    "cartDetails": {
+      "field": {
+        "service": {
+          "label": "Dịch vụ"
+        },
+        "quantity": {
+          "label": "Số lượng"
+        },
+        "price": {
+          "label": "Giá"
+        },
+        "discount": {
+          "label": "Khuyến mãi"
+        },
+        "subtotal": {
+          "label": "Tổng tạm tính"
+        }
+      },
+      "upSell": {
+        "content": {
+          "title": "Ưu đãi khi nâng cấp dịch vụ từ G-Intel Kid",
+          "subtitle": "Nâng cấp lên G-Kid Pro",
+          "package": "Gói",
+          "save": "Tiết kiệm",
+          "description1": "Nhận thêm hơn <b>400 kết quả</b> về hơn <b>25 tính trạng</b> khác trong báo cáo",
+          "description2": "Hiểu con trẻ toàn diện từ mọi góc độ",
+          "numberGIntelKidInCart": "Gói G-Intel Kid trong giỏ hàng",
+          "numberOfPackageUpgraded": "Số gói được nâng cấp",
+          "upgradeToGKidPro": "Nâng cấp lên G-Kid Pro",
+          "upgradeFromGIntelKid": "Nâng cấp từ G-Intel Kid"
+        },
+        "actions": {
+          "addToCart": "Thêm vào giỏ hàng"
+        },
+        "modalUpSellItemDeleteConfirmation": {
+          "message": "Sản phẩm G-Kid Pro trong giỏ hàng sẽ bị xoá nếu bạn xoá sản phẩm này.",
+          "confirm": "Bạn vẫn muốn xoá?"
+        }
+      }
+    },
+    "formRedeem": {
+      "field": {
+        "promotionCode": {
+          "label": "Bạn có mã giảm giá?",
+          "placeholder": {
+            "1": "Nhập mã",
+            "2": "Chọn hoặc nhập mã giảm giá"
+          }
+        }
+      },
+      "errors": {
+        "1": "Mã giảm giá không hợp lệ. Vui lòng kiểm tra.",
+        "2": "Mã giảm giá không áp dụng cho dịch vụ này.",
+        "3": "Mã đã được sử dụng.",
+        "4": "Mã ưu đãi đã được nhập trước đó, liên hệ hotline để được hỗ trợ.",
+        "5": "Mã không hợp lệ. Có thể bạn cần đăng nhập trước khi sử dụng mã."
+      },
+      "actions": {
+        "applyPromotion": "Áp dụng",
+        "login": "Đăng nhâp"
+      }
+    },
+    "orderSummary": {
+      "title": "Tổng thanh toán",
+      "meta": {
+        "subtotal": {
+          "label": "Tổng tạm tính",
+          "tooltip": "Mã giảm giá không được áp dụng đồng thời với chương trình khuyến mãi khác."
+        },
+        "discount": {
+          "label": "Giảm giá"
+        },
+        "total": {
+          "label": "Tổng thanh toán"
+        }
+      },
+      "actions": {
+        "checkout": "Thanh toán"
+      }
+    },
+    "formOrderInformation": {
+      "header": {
+        "title": "Thông tin mua hàng"
+      },
+      "field": {
+        "email": {
+          "placeholder": "Email",
+          "error": {
+            "invalid": "Email không đúng."
+          }
+        },
+        "name": {
+          "placeholder": "Họ và tên"
+        },
+        "phone": {
+          "placeholder": "Số điện thoại"
+        }
+      }
+    },
+    "formCartDetails": {
+      "header": {
+        "title": "Dịch vụ"
+      },
+      "field": {
+        "quantity": {
+          "label": "Số lượng"
+        }
+      },
+      "actions": {
+        "updateAddress": {
+          "text": "Thay đổi"
+        }
+      }
+    },
+    "formAddress": {
+      "header": {
+        "title": "Địa chỉ nhận bộ thu mẫu"
+      },
+      "field": {
+        "fullLocation": {
+          "placeholder": "Tỉnh/Thành phố, Quận/Huyện, Phường/Xã"
+        },
+        "city": {
+          "placeholder": "Tỉnh/Thành phố"
+        },
+        "district": {
+          "placeholder": "Quận/Huyện"
+        },
+        "ward": {
+          "placeholder": "Phường/Xã"
+        },
+        "address": {
+          "placeholder": "Địa chỉ cụ thể"
+        },
+        "search": {
+          "placeholder": "Tìm kiếm"
+        },
+        "postalCode": {
+          "placeholder": "Mã bưu điện"
+        }
+      },
+      "errors": {
+        "1": "Vui lòng nhập địa chỉ để tiếp tục thanh toán",
+        "2": "Hiện tại chúng tôi không giao hàng tới {{country}}. Vui lòng gửi email cho chúng tôi theo địa chỉ <a href='mailto:contact@genetica.asia'>contact@genetica.asia</a> để được hỗ trợ."
+      },
+      "actions": {
+        "back": {
+          "text": "Trở lại"
+        },
+        "complete": {
+          "text": "Hoàn thành"
+        },
+        "adjust": {
+          "text": "Thay đổi"
+        }
+      }
+    },
+    "formPaymentMethod": {
+      "header": {
+        "title": "Phương thức thanh toán"
+      },
+      "field": {
+        "paymentMethods": {
+          "1": {
+            "title": "Chuyển khoản ngân hàng",
+            "description": "(Ngân hàng điện tử/Mã QR)"
+          },
+          "2": {
+            "title": "Thẻ ngân hàng",
+            "description": "(Thẻ ATM/thẻ tin dụng/thẻ debit)"
+          },
+          "3": {
+            "description": "",
+            "title": "Ví điện tử (Momo, ZaloPay)"
+          },
+          "4": {
+            "title": "Trả góp 0% qua thẻ tín dụng",
+            "description": "(Áp dụng cho đơn hàng từ 3,000,000đ)"
+          },
+          "5": {
+            "description": "",
+            "title": "Ngân hàng TMCP Sài Gòn (SCB) (Internet Banking)"
+          },
+          "6": {
+            "title": "Chuyển khoản trực tiếp",
+            "description": "Chuyển đến số tài khoản ngân hàng"
+          },
+          "7": {
+            "title": "Chuyển khoản qua QR-Code",
+            "description": "Thanh toán qua VNPay"
+          },
+          "8": {
+            "title": "Thẻ tín dụng/thẻ ghi nợ",
+            "description": "Thanh toán bằng thẻ tín dụng/ghi nợ"
+          },
+          "9": {
+            "title": "Thẻ ATM",
+            "description": "Thanh toán qua OnePay"
+          },
+          "10": {
+            "title": "Thanh toán Momo",
+            "description": "Thanh toán qua ứng dụng Momo"
+          },
+          "11": {
+            "title": "Thanh toán ZaloPay",
+            "description": "Thanh toán qua ứng dụng ZaloPay"
+          }
+        }
+      }
+    },
+    "sectionBankTransfer": {
+      "header": {
+        "title": "Hướng dẫn chuyển khoản"
+      },
+      "body": {
+        "title": "Để thanh toán, bạn hãy dùng bất kỳ ngân hàng nào để chuyển khoản đến tài khoản sau:",
+        "meta": {
+          "beneficiaryBank": "Tên ngân hàng",
+          "branch": "Chi nhánh",
+          "beneficiaryName": "Người nhận",
+          "amount": "Số tiền (VNĐ)",
+          "accountNumber": "Số tài khoản",
+          "transactionDescription": "Nội dung chuyển khoản"
+        },
+        "message": {
+          "notice": "<span>Lưu ý</span>: Nội dung chuyển khoản là bắt buộc để Genetica có thể nhận biết và xác minh giao dịch của bạn.",
+          "help": "Chúng tôi sẽ gửi tin nhắn xác nhận thanh toán thành công sau khi xác thực chuyển khoản. Bạn sẽ nhận được Bộ thu mẫu trong 2-3 ngày làm việc."
+        },
+        "actions": {
+          "openBankApp": "Mở ứng dụng/website ngân hàng",
+          "copy": "Sao chép",
+          "copied": "Đã sao chép!"
+        }
+      }
+    },
+    "sectionEmptyCart": {
+      "body": {
+        "title": "Giỏ hàng trống",
+        "description": "Chưa có dịch vụ nào trong giỏ hàng của bạn.",
+        "widgetSeeMore": {
+          "title": "Tìm hiểu các dịch vụ khác"
+        }
+      }
+    }
+  },
+  "modal": {
+    "content": {
+      "messagePrefix": "Bạn muốn xóa",
+      "messageSuffix": "khỏi giỏ hàng?"
+    },
+    "action": {
+      "remove": "Xóa",
+      "cancel": "Hủy"
+    }
+  },
+  "emptyContent": {
+    "message": "Bạn không có bất kỳ mặt hàng nào trong giỏ hàng của mình. Xem cửa hàng của chúng tôi:"
+  }
+}

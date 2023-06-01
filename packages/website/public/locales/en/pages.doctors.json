@@ -1,0 +1,22 @@
+{
+  "header": {
+    "title": "Meet our Experts"
+  },
+  "body": {
+    "filters": {
+      "title": {
+        "label": "Filter",
+        "option": {
+          "all": "All"
+        }
+      }
+    },
+    "list": {
+      "item": {
+        "buttonDetails": {
+          "label": "Doctor information"
+        }
+      }
+    }
+  }
+}

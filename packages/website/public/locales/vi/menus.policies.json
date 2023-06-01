@@ -1,0 +1,25 @@
+{
+  "children": {
+    "termsOfService": {
+      "label": "Điều khoản dịch vụ"
+    },
+    "privacyPolicy": {
+      "label": "Chính sách quyền riêng tư"
+    },
+    "generalTransactionConditions": {
+      "label": "Điều kiện giao dịch"
+    },
+    "serviceDeliveryProcess": {
+      "label": "Phương thức cung cấp dịch vụ"
+    },
+    "paymentMethods": {
+      "label": "Phương thức thanh toán"
+    },
+    "returnAndComplaintHandlingPolicy": {
+      "label": "Chính sách Xử lý khiếu nại"
+    },
+    "serviceExchangeCancellationAndRefundPolicy": {
+      "label": "Chính sách đổi, hủy & hoàn phí dịch vụ"
+    }
+  }
+}

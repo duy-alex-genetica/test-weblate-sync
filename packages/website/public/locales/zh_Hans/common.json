@@ -1,0 +1,1030 @@
+{
+  "prepositions": {
+    "from": "从",
+    "to": "到",
+    "above": "以上",
+    "under": "以下"
+  },
+  "modules": {
+    "cardPackage": {
+      "tags": {
+        "isBestSelling": {
+          "label": "最畅销"
+        },
+        "hasBestValue": {
+          "label": "最超值"
+        },
+        "isHotDeal": {
+          "label": "热卖"
+        },
+        "isCombo": {
+          "label": "套"
+        },
+        "isNew": {
+          "label": "新产品"
+        },
+        "hasPromotion": {
+          "label": "折扣 {{value}}%"
+        }
+      },
+      "sectionTestedTraits": {
+        "title": "这份遗传报告提供了以下方面的详细分析："
+      },
+      "message": {
+        "consultant": "包括与我们专家的报告解释咨询"
+      }
+    },
+    "checkout": {
+      "header": {
+        "shippingInformation": {
+          "label": "运输<br/>信息"
+        },
+        "paymentMethod": {
+          "label": "付款方式<br/>"
+        }
+      },
+      "shippingInformation": {
+        "title": {
+          "checkout": "添加您的送货地址",
+          "unlockOrder": "转发地址"
+        },
+        "content": {
+          "fullName": {
+            "label": "姓名"
+          },
+          "phoneNumber": {
+            "label": "电话号码"
+          },
+          "country": {
+            "label": "送货到国家",
+            "error": {
+              "message": "我们目前不运送到越南以外的地方。 请发送电子邮件至 <1>contact@genetica.asia</1> 寻求支持。"
+            }
+          },
+          "province": {
+            "label": "省/市"
+          },
+          "district": {
+            "label": "区/郡"
+          },
+          "ward": {
+            "label": "街道/镇"
+          },
+          "email": {
+            "label": "电子邮件"
+          },
+          "address": {
+            "label": "地址"
+          }
+        },
+        "footer": {
+          "buttonContinue": {
+            "label": "继续"
+          },
+          "buttonConfirmFreeOrder": {
+            "label": "确认免费订单"
+          }
+        }
+      },
+      "paymentMethod": {
+        "title": "选择您的付款方式",
+        "header": {
+          "edit": {
+            "label": "编辑"
+          }
+        },
+        "content": {
+          "abbank": {
+            "title": "安平商业股份银行 (ABBANK)（网上银行）"
+          },
+          "scb": {
+            "title": "西贡商业股份银行 (SCB)（网上银行）"
+          },
+          "onepayCreditCard": {
+            "title": "信用卡/借记卡"
+          },
+          "onepayATMCard": {
+            "title": "提款卡"
+          },
+          "vnPay": {
+            "title": "越南支付宝",
+            "description": "（网上银行/二维码）"
+          },
+          "moMo": {
+            "title": "MoMo"
+          },
+          "zaloPay": {
+            "title": "ZaloPay"
+          },
+          "bankTransfer": {
+            "title": "银行转账",
+            "description": "使用您的网上银行账户快速轻松地进行付款。"
+          },
+          "installment": {
+            "title": "0%利息信用卡分期付款",
+            "description": "适用于最低金额为 3,000,000 越南盾的订单",
+            "modal": {
+              "header": {
+                "title": "条款和条件"
+              },
+              "body": {
+                "content": "<p>适用于扣除折扣后（如果有）最低金额为 3,000,000đ 的所有订单。</p><ul><li>在 Genetica 的网站或应用上购买时适用</li><li><span> 分期付款期限：3/6 个月</span></li><li>客户将按照通常的方法和流程支付这些分期付款</li><li>分期付款金额将显示在持卡人的月结单上</li ></ul><p><span>注意：</span></p><ul><li>确保您的信用额度</li><li>分期付款期限必须短于您的剩余有效期 信用卡</li><li>分期交易更改为分期付款后，持卡人不得更改或取消分期交易</li></ul><p><span>客户只需支付金额 记录在他们的订单中，无需任何额外费用。</span></p>"
+              },
+              "footer": {
+                "action": {
+                  "confirm": "我同意分期付款条件"
+                }
+              }
+            }
+          }
+        },
+        "footer": {
+          "policy": {
+            "title": "我同意 Genetica 的<1>服务条款</1><2/>和<4>隐私政策</4>"
+          },
+          "buttonPurchase": {
+            "label": "购买"
+          },
+          "buttonPlaceOrder": {
+            "label": "下订单"
+          }
+        }
+      },
+      "sectionSummary": {
+        "header": {
+          "title": "总共",
+          "action": "编辑",
+          "items": "项目"
+        },
+        "content": {
+          "list": {
+            "item": {
+              "unlock": "开锁",
+              "for": "给"
+            }
+          },
+          "promotion": {
+            "title": "优惠"
+          },
+          "estimatedShippingFees": {
+            "title": "预计运费",
+            "content": {
+              "checkout": "免费",
+              "unlockOrder": "0"
+            }
+          },
+          "total": {
+            "title": "总金额"
+          },
+          "promotionCode": {
+            "description": "我有一个优惠券",
+            "button": {
+              "label": "申请"
+            }
+          },
+          "saved": {
+            "title": "你已保存了"
+          }
+        }
+      },
+      "error": {
+        "action": "再试一次"
+      }
+    },
+    "checkoutCallBackV2": {
+      "sectionCallbackSuccess": {
+        "title": "感谢您选择我们的服务！",
+        "description": "我们将尽快发送 取样试剂套<1 />如需支持，请联系：<3>1900 599 927</3>",
+        "backToHome": {
+          "content": "返回首页"
+        },
+        "backToMainMiniApp": {
+          "content": "返回商店"
+        }
+      },
+      "sectionCallbackFailed": {
+        "title": "您的支付失败！",
+        "content": {
+          "line1": "出了些问题。 请再试一次。",
+          "line2": "如果此问题再次发生，请联系 Genetica 热线：<1 /> <3>1900 599 927</3> 或电子邮件：<5>cs@genetica.asia</5>",
+          "backToHome": {
+            "content": "返回首页"
+          },
+          "backToMainMiniApp": {
+            "content": "返回商店"
+          }
+        }
+      }
+    },
+    "checkoutBankTransferCallBack": {
+      "title": "收据已创建！",
+      "chooseBank": "选择收款银行：",
+      "messageContent": {
+        "beneficiaryName": {
+          "label": "账户名称"
+        },
+        "accountNumber": {
+          "label": "账号"
+        },
+        "beneficiaryBank": {
+          "label": "收款银行"
+        },
+        "branch": {
+          "label": "分支"
+        },
+        "amount": {
+          "label": "转账的金额"
+        },
+        "message": {
+          "label": "转账的信息"
+        }
+      },
+      "buttonGoToBankSCB": {
+        "label": "开SCB Internet Banking"
+      },
+      "contact": {
+        "content": "转账前请根据以下<br/>信息"
+      },
+      "appointment": {
+        "cart": "一旦转账得到验证，我们将与您联系<br/>并在 1-3 个<br/>工作日内将唾液收集套件发送到您的地址。",
+        "unlock": "您的报告将在 14 天内发出。"
+      },
+      "orderNumber": {
+        "content": "您的订单号"
+      },
+      "downloadApp": {
+        "content": {
+          "before": "您可以下载 Genetica 应用并使用您的手机 <br/> 号码登录",
+          "between": "查看您的付款历史记录并<br/>接收",
+          "after": "稍后报告。"
+        }
+      },
+      "backToHome": {
+        "content": "回到主页"
+      },
+      "backToMainMiniApp": {
+        "content": "返回商店"
+      }
+    },
+    "checkoutCallBack": {
+      "sectionCallbackSuccess": {
+        "title": "您的支付成功！",
+        "orderNumber": {
+          "content": "您的订单号"
+        },
+        "appointment": {
+          "content": {
+            "checkout": "我们的工作人员将在 1-3 个工作日内与您联系并将收集套件发送到 <br/> 您的地址。",
+            "unlockOrder": "您的报告将在 14 天内发布。"
+          }
+        },
+        "downloadApp": {
+          "content": {
+            "before": "您可以下载 Genetica 应用并使用您的手机 <br/> 号码登录",
+            "between": "查看您的付款历史记录并<br/>接收",
+            "after": "稍后报告。"
+          }
+        },
+        "contact": {
+          "content": "如有任何问题，请联系 Genetica：<1/> <3>1900 599 927</3> 或 <5>cs@genetica.asia</5>"
+        },
+        "backToHome": {
+          "content": "回到主页"
+        }
+      },
+      "sectionCallbackFailed": {
+        "title": "您的支付失败！",
+        "content": {
+          "line1": "出了些问题。 请再试一次。",
+          "line2": "如果此问题再次发生，请联系 Genetica 热线：<1/> <3>1900 599 927</3> 或电子邮件：<5>cs@genetica.asia</5>",
+          "backToHome": {
+            "content": "回到主页"
+          }
+        }
+      }
+    },
+    "contactUs": {
+      "header": {
+        "title": "联系"
+      },
+      "description": {
+        "title": "留下您的信息，Genetica®将尽快与您联系"
+      },
+      "content": {
+        "form": {
+          "name": {
+            "label": "你的名字（可选）"
+          },
+          "phone": {
+            "label": "电话号码"
+          },
+          "email": {
+            "label": "你的邮件"
+          },
+          "gender": {
+            "label": "男/女",
+            "options": {
+              "male": "男性",
+              "female": "女性",
+              "other": "其他"
+            }
+          },
+          "types": {
+            "label": "Genetica® 如何提供帮助？"
+          },
+          "topic": {
+            "label": "请选择一个主题"
+          },
+          "message": {
+            "label": "您的消息（如果有）"
+          },
+          "submit": {
+            "label": "提交"
+          }
+        },
+        "error": {
+          "required": "必需的",
+          "error": "错误",
+          "pastDate": "预订日期不能小于当前日期",
+          "invalidDate": "日期无效"
+        }
+      }
+    },
+    "contactUsV2": {
+      "header": {
+        "title": "客户服务",
+        "description": "留下您的信息，Genetica®将在24小时内与您联系。"
+      },
+      "content": {
+        "form": {
+          "name": {
+            "label": "你的名字（可选）"
+          },
+          "phone": {
+            "label": "电话号码"
+          },
+          "email": {
+            "label": "你的邮件"
+          },
+          "gender": {
+            "label": "男/女",
+            "options": {
+              "male": "男性",
+              "female": "女性",
+              "other": "其他"
+            }
+          },
+          "types": {
+            "label": "Genetica® 如何提供帮助？"
+          },
+          "topic": {
+            "label": "请选择一个主题"
+          },
+          "message": {
+            "label": "您的消息（若有）"
+          },
+          "submit": {
+            "label": "现在提交"
+          },
+          "hotline": {
+            "label": "热线"
+          }
+        },
+        "error": {
+          "required": "请输入电话号码",
+          "error": "错误",
+          "invalidPhoneNumber": "无效的电话号码"
+        }
+      }
+    },
+    "footer": {
+      "links": {
+        "about": {
+          "label": "关于我们"
+        },
+        "contact": {
+          "label": "接触"
+        },
+        "frequentlyAskedQuestions": {
+          "label": "常见问题"
+        },
+        "termsOfService": {
+          "label": "服务条款"
+        },
+        "privacyPolicy": {
+          "label": "隐私政策"
+        },
+        "news": {
+          "label": "消息"
+        },
+        "generalTransactionConditions": {
+          "label": "一般交易条件"
+        },
+        "serviceDeliveryProcess": {
+          "label": "服务交付流程"
+        },
+        "paymentMethods": {
+          "label": "支付方式"
+        },
+        "returnAndComplaintHandlingPolicy": {
+          "label": "投诉处理政策"
+        },
+        "careers": {
+          "label": "招聘"
+        },
+        "serviceExchangeCancellationAndRefundPolicy": {
+          "label": "服务交换、取消和退款政策"
+        },
+        "pressRelease": {
+          "label": "报纸公告"
+        },
+        "disclaimer": {
+          "label": "免责声明"
+        }
+      },
+      "addresses": {
+        "us": {
+          "label": "美国总部",
+          "address": "1011 23rd St.<br/>第 15 单元<br/>旧金山，CA 94107"
+        },
+        "singapore": {
+          "label": "新加坡办事处",
+          "address": "16 Raffles Quay<br/>#33-03 Hong Leong Building<br/>新加坡 (048581)"
+        },
+        "hanoi": {
+          "label": "河内办事处",
+          "address": "Cau Giay郡，Dich Vong Hau区，Ton That Thuyet街，07巷国家创新中心NIC大楼, 9楼"
+        },
+        "hcm": {
+          "label": "胡志明办事处",
+          "address": "第三郡， Vo Thi Sau 区， Pham Ngoc Thach 路，2楼"
+        }
+      },
+      "copyrightNotice": "Genetica.asia © 版权所有 2022 | Gene Friend Vietnam, Inc.<br/><span>企业注册号：0108276596。</span>",
+      "listAppLinks": {
+        "header": {
+          "title": "下载 Genetica 应用"
+        }
+      },
+      "didYouKnow": {
+        "header": "你可知道",
+        "body": {
+          "list": {
+            "whatIsGeneDecoding": {
+              "label": "解码基因是什么？"
+            }
+          }
+        }
+      },
+      "information": {
+        "header": "信息",
+        "body": {
+          "list": {
+            "aboutGenetica": {
+              "label": "关于基因"
+            },
+            "frequentlyAskedQuestions": {
+              "label": "常见问题"
+            },
+            "contact": {
+              "label": "联系"
+            },
+            "careers": {
+              "label": "招聘"
+            }
+          }
+        }
+      },
+      "policiesAndTerms": {
+        "header": "政策与条款",
+        "body": {
+          "list": {
+            "termsOfService": {
+              "label": "服务条款"
+            },
+            "privacyPolicy": {
+              "label": "隐私和保密信息的政策"
+            },
+            "generalTransactionConditions": {
+              "label": "一般交易条件"
+            },
+            "serviceDeliveryProcess": {
+              "label": "服务交付流程"
+            },
+            "paymentMethods": {
+              "label": "支付方式"
+            },
+            "returnAndComplaintHandlingPolicy": {
+              "label": "投诉处理政策"
+            },
+            "serviceExchangeCancellationAndRefundPolicy": {
+              "label": "服务交换、取消和退款政策"
+            },
+            "disclaimer": {
+              "label": "免责声明"
+            }
+          }
+        }
+      },
+      "socialMedia": {
+        "header": "信息频道"
+      },
+      "backToTop": {
+        "label": "返回页首"
+      }
+    },
+    "header": {
+      "menu": {
+        "home": {
+          "label": "主页"
+        },
+        "products": {
+          "label": "产品",
+          "children": {
+            "adults": {
+              "label": "自我实现"
+            },
+            "kids": {
+              "label": "儿童发展"
+            },
+            "health": {
+              "label": "健康与保健"
+            },
+            "autism": {
+              "label": "G-自闭症"
+            },
+            "immunity": {
+              "label": "G-免疫力"
+            },
+            "awareness": {
+              "label": "G-意识"
+            },
+            "smart": {
+              "label": "G-智能"
+            }
+          },
+          "dropdown": {
+            "title": "产品类别"
+          }
+        },
+        "geneticReports": {
+          "label": "基因报告",
+          "children": {
+            "package": {
+              "new": {
+                "label": "新的！"
+              },
+              "promotion": {
+                "label": "优惠！"
+              },
+              "allReports": "所有 {{count}} 报告",
+              "allReports_plural": "所有 {{count}} 份报告"
+            }
+          }
+        },
+        "geneticConsultation": {
+          "label": "遗传咨询"
+        },
+        "partners": {
+          "label": "合作者",
+          "dropdown": {
+            "corporate": {
+              "label": "企业合作伙伴"
+            },
+            "advocate": {
+              "label": "个人合作者"
+            }
+          }
+        },
+        "blog": {
+          "label": "网志"
+        },
+        "contact": {
+          "label": "联系"
+        },
+        "salivaCollectingGuide": {
+          "label": "唾液收集指南",
+          "url": "https://youtu.be/8nMElgmkOaM?list=PLHSgVYL21dUWMzEtcKq6WslmHDlZescHa"
+        },
+        "pressRelease": {
+          "label": "新信息"
+        },
+        "careers": {
+          "label": "招聘"
+        },
+        "news": {
+          "label": "消息"
+        },
+        "aboutUs": {
+          "label": "关于我们"
+        },
+        "language": {
+          "label": "语言"
+        },
+        "search": {
+          "label": "搜索",
+          "placeholder": "输入您的关键字..."
+        }
+      },
+      "links": {
+        "frequentlyAskedQuestions": {
+          "label": "常见问题"
+        },
+        "guides": {
+          "label": "指南",
+          "children": {
+            "salivaCollectingGuide": {
+              "label": "唾液收集指南",
+              "url": "https://youtu.be/8nMElgmkOaM?list=PLHSgVYL21dUWMzEtcKq6WslmHDlZescHa"
+            },
+            "reportReadingGuide": {
+              "label": "如何阅读遗传报告"
+            },
+            "consultation": {
+              "label": "预约咨询会"
+            }
+          }
+        },
+        "home": {
+          "label": "主页"
+        },
+        "introduction": {
+          "label": "介绍"
+        },
+        "news": {
+          "label": "消息",
+          "children": {
+            "newsAndEvents": {
+              "label": "新闻与事件"
+            },
+            "blog": {
+              "label": "网志"
+            },
+            "press": {
+              "label": "媒体对 Genetica 的评价"
+            }
+          }
+        },
+        "partners": {
+          "label": "合作者",
+          "children": {
+            "corporate": {
+              "label": "企业合作伙伴"
+            },
+            "advocate": {
+              "label": "成为我们的拥护者"
+            }
+          }
+        },
+        "products": {
+          "label": "产品",
+          "children": {
+            "adults": {
+              "label": "成年人"
+            },
+            "health": {
+              "label": "健康"
+            },
+            "kids": {
+              "label": "孩子们"
+            },
+            "family": {
+              "label": "家庭"
+            }
+          }
+        }
+      },
+      "actions": {
+        "search": {
+          "input": {
+            "placeholder": "输入您的关键字"
+          }
+        },
+        "signIn": {
+          "label": "登入"
+        },
+        "account": {
+          "account": {
+            "label": "账户"
+          },
+          "reports": {
+            "label": "我的报告"
+          },
+          "consultation": {
+            "label": "咨询"
+          },
+          "signOut": {
+            "label": "登出"
+          }
+        },
+        "cart": {
+          "viewCart": {
+            "label": "检查您的购物车"
+          }
+        }
+      },
+      "topBanner": {
+        "list": {
+          "1": {
+            "text": "哪种饮食最适合你？",
+            "action": {
+              "label": "免费试用"
+            }
+          },
+          "2": {
+            "text": "0%分期付款计划",
+            "action": {
+              "label": "了解更多"
+            }
+          },
+          "3": {
+            "text": "享受 45% 的折扣来庆祝越南妇女节",
+            "action": {
+              "label": "现在探索"
+            }
+          }
+        }
+      }
+    },
+    "modalContactFailed": {
+      "modal": {
+        "content": {
+          "text": "发生错误！"
+        },
+        "actions": {
+          "close": {
+            "label": "关闭"
+          },
+          "tryAgain": {
+            "label": "再试一次"
+          }
+        }
+      }
+    },
+    "modalContactSuccess": {
+      "modal": {
+        "header": {
+          "title": "谢谢你！"
+        },
+        "content": {
+          "text": "感谢您对 Genetica 的关注。 我们的工作人员会尽快与您联系。"
+        },
+        "actions": {
+          "close": {
+            "label": "关闭"
+          },
+          "confirmation": {
+            "label": "好的"
+          }
+        }
+      }
+    },
+    "modalEditCart": {
+      "modal": {
+        "header": {
+          "title": "编辑您的购物车"
+        },
+        "content": {
+          "removed": "删除",
+          "undo": "撤消"
+        }
+      }
+    },
+    "modalError": {
+      "header": {
+        "title": "错误！"
+      },
+      "content": {
+        "message": "令牌无效"
+      },
+      "actions": {
+        "reLogin": {
+          "label": "重新登录"
+        }
+      }
+    },
+    "modalOtp": {
+      "header": "输入一次性密码",
+      "description": "一条包含 6 位代码的短信已发送到您的电话号码 <b>({{phoneNumber}})</b>",
+      "content": {
+        "formOtp": {
+          "actions": {
+            "resendOTP": {
+              "label": "重新发送一次性密码",
+              "label2": "后"
+            }
+          }
+        }
+      }
+    },
+    "modalSignOutConfirm": {
+      "content": {
+        "text": "您确定要退出吗？"
+      },
+      "actions": {
+        "cancel": {
+          "label": "取消"
+        },
+        "signOut": {
+          "label": "登出"
+        }
+      }
+    },
+    "modalVerifyError": {
+      "content": {
+        "text": "错误！"
+      }
+    },
+    "modalVerifySuccess": {
+      "content": {
+        "text": "确认成功"
+      },
+      "actions": {
+        "close": {
+          "label": "返回首页"
+        }
+      }
+    },
+    "modalConfirmLeaving": {
+      "modal": {
+        "content": {
+          "text": "返回购物车后，填写的信息将丢失。"
+        },
+        "actions": {
+          "confirm": {
+            "label": "确认"
+          },
+          "cancel": {
+            "label": "取消"
+          }
+        }
+      }
+    },
+    "packageCategories": {
+      "list": {
+        "item": {
+          "actions": {
+            "learnMore": {
+              "label": "了解更多"
+            }
+          }
+        }
+      }
+    },
+    "sectionGBaseDietQuizAnchor": {
+      "header": {
+        "actions": {
+          "show": {
+            "label": "展示"
+          },
+          "hide": {
+            "label": "隐藏"
+          }
+        }
+      },
+      "body": {
+        "content": {
+          "title": "测验",
+          "description": "什么饮食最适合您的基因？",
+          "actions": {
+            "letsDoThis": {
+              "label": "开始做测验"
+            }
+          }
+        }
+      }
+    },
+    "sectionGeneticReports": {
+      "header": {
+        "title": "基因报告"
+      },
+      "body": {
+        "content": {
+          "buttonBuyNow": {
+            "label": "立即购买"
+          }
+        }
+      }
+    },
+    "sectionRelatedPosts": {
+      "header": {
+        "title": "相关文章"
+      }
+    },
+    "sectionShare": {
+      "body": {
+        "list": {
+          "itemFacebook": {
+            "title": "分享到Facebook"
+          },
+          "itemTwitter": {
+            "title": "分享到Twitter"
+          },
+          "itemLinkedin": {
+            "title": "分享到 Linkedin"
+          }
+        }
+      }
+    },
+    "sectionSignIn": {
+      "header": {
+        "title": "咨询预约",
+        "description": "使用您的电话号码登录",
+        "label": "登录"
+      },
+      "body": {
+        "formSignIn": {
+          "fields": {
+            "phoneNumber": {
+              "placeholder": "电话号码"
+            }
+          },
+          "buttons": {
+            "signIn": {
+              "label": "登入"
+            }
+          }
+        }
+      }
+    },
+    "sectionUserBar": {
+      "welcome": "欢迎，{{userName}}！",
+      "signOut": {
+        "label": "登出"
+      }
+    },
+    "serviceList": {
+      "list": {
+        "item": {
+          "price": {
+            "label": "开始于"
+          },
+          "actions": {
+            "buyNow": {
+              "label": "立即购买"
+            },
+            "learnMore": {
+              "label": "了解更多"
+            }
+          }
+        }
+      }
+    },
+    "staticPages": {
+      "sidebar": {
+        "menu": {
+          "about": {
+            "label": "关于 Genetica®"
+          },
+          "frequentlyAskedQuestions": {
+            "label": "常见问题"
+          },
+          "contact": {
+            "label": "联系我们"
+          },
+          "careers": {
+            "label": "招聘"
+          },
+          "reportReadingGuide": {
+            "label": "如何阅读遗传报告"
+          }
+        }
+      }
+    },
+    "subheader": {
+      "contactUs": {
+        "label": "联系我们："
+      },
+      "redeem": {
+        "label": "礼物代码"
+      },
+      "doctors": {
+        "label": "我们的专家"
+      },
+      "myCart": {
+        "label": "购物车"
+      },
+      "myAccount": {
+        "label": "我的账户",
+        "children": {
+          "signIn": {
+            "label": "登入"
+          },
+          "signOut": {
+            "label": "登出"
+          }
+        }
+      },
+      "account": {
+        "label": "账户"
+      }
+    },
+    "widgetQuickDial": {
+      "links": {
+        "0": {
+          "label": "预约咨询"
+        }
+      }
+    }
+  }
+}

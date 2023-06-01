@@ -1,0 +1,64 @@
+{
+  "header": {
+    "title": "Thông tin quan trọng",
+    "description": "Việc xác nhận các thông tin quan trọng sau giúp bảo vệ tính bảo mật của báo cáo giải mã gen của bạn."
+  },
+  "body": {
+    "form": {
+      "field": {
+        "name": {
+          "label": "Họ và tên",
+          "value": {
+            "empty": "Chưa có"
+          },
+          "error": {
+            "empty": "Vui lòng không để trống thông tin này"
+          }
+        },
+        "phone": {
+          "label": "Số điện thoại nhận báo cáo",
+          "notification": "Vui lòng sử dụng đúng số điện thoại này khi đăng nhập xem báo cáo chi tiết trên app Genetica"
+        },
+        "email": {
+          "label": "Email nhận báo cáo",
+          "value": {
+            "empty": "Chưa có"
+          },
+          "error": {
+            "format": "Email không đúng",
+            "empty": "Vui lòng không để trống thông tin này"
+          }
+        },
+        "dob": {
+          "label": "Ngày sinh",
+          "value": {
+            "empty": "Chưa có"
+          },
+          "error": {
+            "format": "Ngày sinh không đúng",
+            "empty": "Vui lòng không để trống thông tin này",
+            "limitAge": "Dịch vụ bạn đã đăng kí không áp dụng cho độ tuổi bạn vừa nhập. Liên hệ hotline 1900 599 927 để được Genetica hỗ trợ"
+          }
+        },
+        "gender": {
+          "label": "Giới tính",
+          "values": {
+            "empty": "Chưa có",
+            "male": "Nam",
+            "female": "Nữ",
+            "unspecified": "Không xác định"
+          },
+          "error": {
+            "empty": "Vui lòng không để trống thông tin này"
+          }
+        },
+        "policy": {
+          "label": "Tôi đồng ý cung cấp thông tin để thực hiện các dịch vụ của Genetica. Tôi đảm bảo tính chính xác và tự chịu trách nhiệm về những thông tin đã cung cấp như trên."
+        },
+        "submit": {
+          "label": "Xác nhận"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "alert": {
+    "promotion": {
+      "invalid": {
+        "message": "Invalid promotion code"
+      },
+      "required": {
+        "message": "The promotion code field is required."
+      }
+    }
+  }
+}

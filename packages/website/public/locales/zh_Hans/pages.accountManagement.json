@@ -1,0 +1,146 @@
+{
+  "account": {
+    "title": "我的账户",
+    "edit": {
+      "title": "修改账户信息"
+    },
+    "content": {
+      "label": {
+        "accountPhoneNumber": "账户电话号码",
+        "fullName": "姓名",
+        "contactNumber": "联系电话",
+        "email": "电子邮件",
+        "optional": "选修的",
+        "gender": "性别",
+        "dateOfBirth": "出生日期",
+        "signInPhoneNumber": "登录电话号码",
+        "otherContactNumbers": "其他联系电话",
+        "updateContactNumber": "更新联系电话"
+      },
+      "placeholder": {
+        "email": "输入你的电子邮箱地址"
+      },
+      "value": {
+        "male": "男性",
+        "female": "女性",
+        "unspecified": "未指定",
+        "notAvailable": "（无法使用）"
+      },
+      "updatePhoneNumber": {
+        "actions": {
+          "submit": {
+            "label": "提交"
+          },
+          "close": {
+            "label": "关闭"
+          }
+        },
+        "successMessage": {
+          "title": "您已成功更新联系号码",
+          "description": "<b>{{ name }}：</b> {{ currentPhoneNumber }} <br /> <span> 已更改为 </span> <br/> <b>{{ name }}：</b> {{ phoneNumberUpdated }}",
+          "description2": "此电话号码将出现在“账户”>“其他联系电话”中。"
+        },
+        "errorMessage": {
+          "description": "请添加电话号码，以便我们可以呼叫此人。"
+        }
+      }
+    },
+    "errorMessage": {
+      "fullName": "您必须输入您的姓名",
+      "contactPhoneNumber": "您必须输入您的电话号码",
+      "required": "必需的",
+      "error": "错误"
+    },
+    "modalMessage": {
+      "errorMessage": "发生了错误。 您的更改尚未保存。",
+      "successMessage": "更新信息成功！"
+    },
+    "action": {
+      "editAccountInfo": "修改账户信息",
+      "save": "保存",
+      "cancel": "取消",
+      "tryAgain": "再试一次"
+    }
+  },
+  "reports": {
+    "title": "我的报告",
+    "content": {
+      "labels": {
+        "": "",
+        "sampleStatusTracking": "样本状态追踪",
+        "awaitingSample": "等待样本",
+        "daysUntilPublication": "距离发布还有 {{count}} 天",
+        "daysUntilPublication_plural": "{{count}} 天后发布",
+        "daysLeftToBeUnlocked": "解锁还有 {{count}} 天",
+        "daysLeftToBeUnlocked_plural": "解锁还有 {{count}} 天",
+        "unlocking": "解锁"
+      },
+      "actions": {
+        "viewDetails": {
+          "label": "查看详细"
+        },
+        "viewReport": {
+          "label": "查看报告"
+        },
+        "download": {
+          "label": "下载"
+        }
+      },
+      "footer": {
+        "labels": {
+          "seeAllReports": "查看所有 {{count}} 份报告",
+          "collapse": "缩小"
+        }
+      }
+    },
+    "reportEmpty": {
+      "label": "您没有要显示的报告"
+    },
+    "loading": {
+      "label": "加载中"
+    },
+    "modal": {
+      "content": {
+        "downloadApp": {
+          "label": "在此处下载 Genetica 应用以查看您的报告"
+        }
+      },
+      "actions": {
+        "close": {
+          "label": "关闭"
+        }
+      }
+    }
+  },
+  "securitySettings": {
+    "title": "您的设备",
+    "subtitle": "您目前已在这些设备上登录 Genetica",
+    "content": {
+      "labels": {
+        "activeNow": "现在激活",
+        "logoutTime": "{{ date }} 在 {{ time }}"
+      },
+      "actions": {
+        "logOutOfAllDevices": "注销所有设备"
+      }
+    },
+    "modal": {
+      "content": {
+        "message": "这将使您从当前登录的每台设备上退出 Genetica。 你确定要这样做吗？"
+      },
+      "actions": {
+        "agree": "同意",
+        "cancel": "取消"
+      }
+    }
+  },
+  "sidebar": {
+    "myAccount": "我的账户",
+    "profiles": "简介",
+    "consultation": "咨询",
+    "redeem": "收到打折代码",
+    "paymentHistory": "支付历史",
+    "securitySettings": "安全设定",
+    "reports": "我的报告"
+  }
+}

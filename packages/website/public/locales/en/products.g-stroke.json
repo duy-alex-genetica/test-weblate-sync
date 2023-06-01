@@ -1,0 +1,17 @@
+{
+  "title": "G-Stroke",
+  "subtitle": "",
+  "description": "Hereditary Stroke Screening",
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "The Stroke report will provide the following information:",
+      "description": "<ul><li>Pathogenic or likely pathogenic mutations that increase risk of strokes (ischemic stroke, hemorrhagic stroke).</li><li>Stroke Risk Score: a polygenic score that indicates the patient's increased risk of Stroke.</li><li>Provide in-depth knowledge about gene-related causes of stroke.</li><li>Information to help make informed medical and lifestyle decisions in regard to the user's risk of stroke, as well as available prevention and monitoring options.</li><li>Helpful and personalized recommendations.</li></ul>"
+    },
+    "2": {
+      "subtitle": "",
+      "title": "Simple, Safe, and Non-Invasive",
+      "description": "Only your saliva is required. Our advanced technology allows us to extract DNA from saliva. This makes it simpler, safer, and more convenient to run genetic analyses as compared to conventional procedures that rely on blood samples."
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "body": {
+    "sectionAboutUs": {
+      "header": {
+        "title": "Genetica® is a biotech company providing genetic testing services powered by AI",
+        "description": "<p>Genetica® is a biotech company providing genetic testing services powered by AI. Based in San Francisco, Genetica® is empowered by scientists from the world’s leading universities, such as UCSF, Harvard, Stanford, and Cornell.\nIn partnership with Illumina® and Thermo Fisher Scientific, Genetica’s® gene decoding chip is a proprietary piece of technology that’s manufactured specifically for the Asian population. By analyzing hundreds of genes, our reports provide comprehensive information about a person’s health-related risks, innate potential, behavior, and abilities.</p><p>Our mission is to help optimize the development, and protect the healthy life, of you and your family.</p>"
+      }
+    }
+  },
+  "header": {
+    "title": "About Genetica"
+  }
+}

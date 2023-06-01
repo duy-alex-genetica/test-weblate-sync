@@ -1,0 +1,70 @@
+{
+  "header": {
+    "title": {
+      "prefix": ""
+    }
+  },
+  "sectionFilters": {
+    "field": {
+      "ages": "Ages",
+      "demands": "Traits",
+      "filterBy": "Filter by"
+    },
+    "actions": {
+      "select": "Select",
+      "seeMore": "See more"
+    }
+  },
+  "sectionTestimonials": {
+    "title": "Over <br>100,000 customers <br>choose Genetica",
+    "description": "Listen to our customers' stories <br />and share yours to us!",
+    "actions": {
+      "seeOtherStories": "More stories from our customers"
+    }
+  },
+  "sectionDownload": {
+    "title": "Read sample report <br/>Download Genetica app now!",
+    "description": "1000+ relevant results on Genetica mobile app, <br/>easy to access any time, and anywhere."
+  },
+  "sectionComparePackages": {
+    "comparisonTable": {
+      "columnLabel": {
+        "installment": "0% interest instalment plan"
+      }
+    }
+  },
+  "sectionCompareCombos": {
+    "comparisonTable": {
+      "columnLabel": {
+        "1": "Services include",
+        "2": "Service quantity"
+      },
+      "packageRows": {
+        "1": {
+          "title": "G-Pro",
+          "description": "Comprehensive care for adults"
+        },
+        "2": {
+          "title": "G-Kid Pro",
+          "description": "Comprehensive care for children"
+        },
+        "3": {
+          "title": "Unlock G-Immunity *",
+          "description": "Understand your immunity"
+        },
+        "4": {
+          "title": "Unlock G-Allergy *",
+          "description": "Access inherent risks of allergies"
+        },
+        "5": {
+          "title": "Unlock G-Stroke *",
+          "description": "Access inherent risk of stroke"
+        }
+      },
+      "tooltip": {
+        "seeDetails": "Go to product details"
+      },
+      "notice": "Unlocking packages are only applied to users using G-Pro or G-Kid Pro in the Combo and are inapplicable to new users.<br />Contact Genetica Hotline to get support on customizing quantity and services in the combo, depending on your family's needs."
+    }
+  }
+}

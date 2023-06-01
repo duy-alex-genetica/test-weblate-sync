@@ -1,0 +1,111 @@
+{
+  "header": {
+    "title": "咨询预约"
+  },
+  "body": {
+    "sectionSteps": {
+      "list": {
+        "0": {
+          "label": "选择报告"
+        },
+        "1": {
+          "label": "选择频道"
+        },
+        "2": {
+          "label": "选择一个时间段"
+        }
+      }
+    },
+    "sectionSelectReports": {
+      "header": {
+        "title": "选择报告"
+      },
+      "body": {
+        "meta": {
+          "expectedSessionLength": {
+            "label": "预计会话长度"
+          }
+        }
+      }
+    },
+    "sectionSelectConsultationMethods": {
+      "header": {
+        "title": "选择咨询渠道"
+      },
+      "body": {
+        "description": "请选择电话号码"
+      }
+    },
+    "sectionSelectTimeslot": {
+      "header": {
+        "title": "选择一个时间段"
+      },
+      "body": {
+        "timeslots": {
+          "empty": {
+            "label": "没有可用的时间段！<br/>请选择其他日期或联系我们的热线<b>1900 599 927</b>"
+          }
+        }
+      }
+    },
+    "sectionActions": {
+      "next": {
+        "label": "下一个"
+      },
+      "back": {
+        "label": "返回"
+      },
+      "book": {
+        "label": "预订"
+      }
+    },
+    "sectionSelectedProfile": {
+      "header": {
+        "title": "基因检测结果"
+      }
+    },
+    "sectionSelectedReports": {
+      "header": {
+        "title": "报告",
+        "title_plural": "报告"
+      }
+    },
+    "sectionSelectedConsultationMethod": {
+      "header": {
+        "title": "渠道"
+      }
+    },
+    "sectionCreatedAppointment": {
+      "header": {
+        "title": "预订成功！"
+      },
+      "body": {
+        "description": "您的遗传咨询预约已成功处理。",
+        "sectionInformation": {
+          "headers": {
+            "name": {
+              "label": "姓名"
+            },
+            "reports": {
+              "label": "报告"
+            },
+            "channel": {
+              "label": "渠道"
+            },
+            "timeslot": {
+              "label": "时间"
+            }
+          }
+        },
+        "actions": {
+          "backToHomepage": {
+            "label": "返回首页"
+          }
+        }
+      },
+      "footer": {
+        "description": "下载 Genetica 应用以接收有关您的预订时间表的通知。"
+      }
+    }
+  }
+}

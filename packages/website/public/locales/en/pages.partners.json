@@ -1,0 +1,19 @@
+{
+  "header": {
+    "title": "Our Partners",
+    "breadcrumb": {
+      "home": "Home",
+      "partners": "Partners"
+    }
+  },
+  "sectionPartnersVN": {
+    "header": {
+      "title": "Partners in Vietnam"
+    }
+  },
+  "sectionPartnersUS": {
+    "header": {
+      "title": "Partners in the U.S."
+    }
+  }
+}

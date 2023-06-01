@@ -1,0 +1,22 @@
+{
+  "body": {
+    "formCartDetails": {
+      "header": {
+        "title": "Service"
+      },
+      "labels": {
+        "unlock": "Unlock",
+        "removed": "removed",
+        "for": "For"
+      },
+      "actions": {
+        "saveCartItemForLater": {
+          "text": "Delete"
+        },
+        "undoSaveCartItemForLater": {
+          "text": "Undo"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "sidebar": {
+    "myAccount": "Tài khoản của tôi",
+    "profiles": "Hồ sơ",
+    "consultation": "Tư vấn",
+    "securitySettings": "Cài đặt bảo mật",
+    "reports": "Báo cáo",
+    "redeem": "Redeem",
+    "paymentHistory": "Payment history"
+  },
+  "account": {
+    "content": {
+      "label": {
+        "email": "Email",
+        "accountPhoneNumber": "Số điện thoại đăng nhập",
+        "fullName": "Họ tên",
+        "contactNumber": "Số điện thoại liên hệ",
+        "optional": "không bắt buộc",
+        "gender": "Giới tính",
+        "dateOfBirth": "Ngày sinh",
+        "signInPhoneNumber": "Số điện thoại đăng nhập",
+        "otherContactNumbers": "Số Điện Thoại Liên Hệ Khác",
+        "updateContactNumber": "Cập nhật thông tin liên hệ"
+      },
+      "placeholder": {
+        "email": "Nhập địa chỉ email của bạn"
+      },
+      "value": {
+        "male": "Nam",
+        "female": "Nữ",
+        "unspecified": "Chưa xác định",
+        "notAvailable": "(Không có)"
+      },
+      "updatePhoneNumber": {
+        "actions": {
+          "submit": {
+            "label": "Cập nhật"
+          },
+          "close": {
+            "label": "Đóng"
+          }
+        },
+        "successMessage": {
+          "title": "Xác nhận cập nhật số điện thoại liên hệ thành công",
+          "description": "<b>{{ name }}:</b> {{ currentPhoneNumber }} <br /> <span> đã được cập nhật thành </span> <br/> <b>{{ name }}:</b> {{ phoneNumberUpdated }}",
+          "description2": "Thông tin sẽ được lưu lại ở mục Số điện thoại liên hệ khác trong Tài Khoản."
+        },
+        "errorMessage": {
+          "description": "Vui lòng thêm số điện thoại để Genetica có thể gọi cho khách hàng này."
+        }
+      }
+    },
+    "title": "Tài khoản của tôi",
+    "edit": {
+      "title": "Sửa thông tin tài khoản"
+    },
+    "errorMessage": {
+      "fullName": "Bạn cần điền họ tên",
+      "contactPhoneNumber": "Bạn cần điền số điện thoại",
+      "required": "Bắt buộc",
+      "error": "Lỗi"
+    },
+    "modalMessage": {
+      "errorMessage": "Có lỗi xảy ra. Thay đổi của bạn chưa được lưu lại.",
+      "successMessage": "Cập nhật thông tin thành công!"
+    },
+    "action": {
+      "editAccountInfo": "Sửa thông tin tài khoản",
+      "save": "Lưu",
+      "cancel": "Hủy",
+      "tryAgain": "Thử lại"
+    }
+  },
+  "securitySettings": {
+    "title": "Thiết bị bạn đã đăng nhập",
+    "subtitle": "Gần đây bạn đã đăng nhập trên các thiết bị này",
+    "content": {
+      "labels": {
+        "activeNow": "Đang hoạt động",
+        "logoutTime": "{{ date }} lúc {{ time }}"
+      },
+      "actions": {
+        "logOutOfAllDevices": "Đăng xuất khỏi tất cả"
+      }
+    },
+    "modal": {
+      "content": {
+        "message": "Thao tác này sẽ đăng xuất tài khoản Genetica của bạn từ tất cả các thiết bị mà bạn đang đăng nhập. Bạn có chắc chắn muốn thực hiện không?"
+      },
+      "actions": {
+        "agree": "Đồng ý",
+        "cancel": "Hủy"
+      }
+    }
+  },
+  "reports": {
+    "title": "Báo cáo",
+    "content": {
+      "labels": {
+        "": "Bước",
+        "sampleStatusTracking": "Theo dõi trạng thái mẫu",
+        "awaitingSample": "Đang chờ mẫu",
+        "daysUntilPublication": "Còn {{count}} ngày cho tới khi xuất bản",
+        "daysUntilPublication_plural": "Còn {{count}} ngày cho tới khi xuất bản",
+        "daysLeftToBeUnlocked": "Còn {{count}} ngày để mở khóa",
+        "daysLeftToBeUnlocked_plural": "Còn {{count}} ngày để mở khóa",
+        "unlocking": "Đang chờ mở khóa"
+      },
+      "actions": {
+        "viewDetails": {
+          "label": "Xem chi tiết"
+        },
+        "viewReport": {
+          "label": "Xem Báo Cáo"
+        },
+        "download": {
+          "label": "Tải xuống"
+        }
+      },
+      "footer": {
+        "labels": {
+          "seeAllReports": "Xem tất cả {{count}} báo cáo",
+          "collapse": "Thu gọn"
+        }
+      }
+    },
+    "reportEmpty": {
+      "label": "Bạn chưa có báo cáo nào"
+    },
+    "loading": {
+      "label": "Đang tải"
+    },
+    "modal": {
+      "content": {
+        "downloadApp": {
+          "label": "Tải app Genetica tại đây để xem báo cáo của bạn"
+        }
+      },
+      "actions": {
+        "close": {
+          "label": "Đóng"
+        }
+      }
+    }
+  }
+}

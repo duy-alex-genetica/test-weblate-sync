@@ -1,0 +1,77 @@
+{
+  "postConsultation": {
+    "header": {
+      "title": "Bạn nghĩ thế nào?",
+      "for": "Buổi tư vấn cho"
+    },
+    "body": {
+      "submit": "Gửi",
+      "loading": "Đang tải"
+    },
+    "success": {
+      "title": "Cám ơn Anh/Chị đã hoàn thành khảo sát",
+      "content": "Vui lòng mở ứng dụng Genetica® để nhận ngay Quà tặng Voucher \"mở khóa\" bất kỳ báo cáo giải mã gen nào của Genetica® <i>(ngoại trừ dịch vụ G-Care, G-Pro, G-Kid Care & G-Kid Pro)</i>.",
+      "contactUs": "Nếu cần hỗ trợ, Anh/Chị vui lòng liên hệ Genetica® qua Hotline",
+      "backToHomePage": "Quay về trang chủ"
+    },
+    "errors": {
+      "default": {
+        "title": "Câu hỏi dành cho bạn không thể tải được vào lúc này.",
+        "message": "Vui lòng thử lại sau"
+      },
+      "dataRetrieveFailed": {
+        "title": "Câu hỏi dành cho bạn không thể tải được vào lúc này.",
+        "message": "Vui lòng thử lại sau"
+      },
+      "feedbackFormExpired": {
+        "title": "",
+        "message": "Câu hỏi dành cho bạn đã quá hạn!"
+      }
+    },
+    "modalError": {
+      "content": "Phản hồi của bạn không thể gửi được vào lúc này, vui lòng thử lại. Nếu cần hỗ trợ, vui lòng liên hệ hotline",
+      "action": "Đóng"
+    }
+  },
+  "preConsultation": {
+    "header": {
+      "progress": {
+        "label": "Bạn đã trả lời được {{value}}% bộ câu hỏi"
+      },
+      "for": "Cho"
+    },
+    "body": {
+      "loading": "Đang tải"
+    },
+    "actions": {
+      "skip": "Bỏ qua",
+      "back": "Trở lại",
+      "next": "Tiếp theo",
+      "submit": "Gửi"
+    },
+    "success": {
+      "title": "Cảm ơn bạn đã hoàn thành cuộc khảo sát.",
+      "content": "",
+      "contactUs": "Để được hỗ trợ, vui lòng liên hệ với chúng tôi qua Hotline",
+      "backToHomePage": "Quay về trang chủ"
+    },
+    "errors": {
+      "default": {
+        "title": "Câu hỏi dành cho bạn không thể tải được vào lúc này.",
+        "message": "Vui lòng thử lại sau"
+      },
+      "dataRetrieveFailed": {
+        "title": "Câu hỏi dành cho bạn không thể tải được vào lúc này.",
+        "message": "Vui lòng thử lại sau"
+      },
+      "feedbackFormExpired": {
+        "title": "",
+        "message": "Câu hỏi dành cho bạn đã quá hạn!"
+      }
+    },
+    "modalError": {
+      "content": "Phản hồi của bạn không thể gửi được vào lúc này, vui lòng thử lại. Nếu cần hỗ trợ, vui lòng liên hệ hotline",
+      "action": "Đóng"
+    }
+  }
+}

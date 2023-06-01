@@ -1,0 +1,16 @@
+{
+  "title": "Cách đọc báo cáo",
+  "sidebar": {
+    "menu": {
+      "title": "Chọn chủ đề"
+    }
+  },
+  "sectionMenu": {
+    "actions": {
+      "seeMore": "Xem thêm"
+    }
+  },
+  "sectionReportReadingGuide": {
+    "title": "Hướng dẫn đọc báo cáo {{reportName}}"
+  }
+}

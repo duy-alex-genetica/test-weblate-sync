@@ -1,0 +1,257 @@
+{
+  "title": "Child Development",
+  "subtitle": "For Children",
+  "description": "Unlock your child's full potential. Optimize their education, nutrition, physical training, and health care.",
+  "sections": {
+    "intelligence": {
+      "subtitle": "Intelligence",
+      "title": "Discover Your Child's Potential and Talents",
+      "description": "Many people grow up never knowing their true talents, as talents can be elusive. Knowledge of your child’s genetic makeup will help to accurately pin-point their potential and aptitudes. This can give your child a head start in developing their talents to the fullest.",
+      "traits": {
+        "1": "IQ",
+        "2": "EQ",
+        "3": "Cognitive ability"
+      }
+    },
+    "nutrition": {
+      "subtitle": "Nutrition",
+      "title": "Optimize Your Child’s Nutritional Plan",
+      "description": "Genetics play a key role in determining a child’s overall development, especially during early childhood. Getting to know your child’s genetic background can help you create a personalized diet plan that’s perfect for them.",
+      "traits": {
+        "1": "Carbohydrate Metabolism",
+        "2": "Fat Metabolism",
+        "3": "Protein Metabolism"
+      }
+    },
+    "behavior": {
+      "subtitle": "Behavior",
+      "title": "Understand Your Child’s Behavioral Tendencies",
+      "description": "Your child’s temperament is determined by a combination of hereditary and environmental factors. Help your child thrive by harmonizing your parenting style with who your child is, and is supposed to be.",
+      "traits": {
+        "1": "Extraversion",
+        "2": "Conscientiousness",
+        "3": "Emotional instability"
+      }
+    },
+    "health": {
+      "subtitle": "Health",
+      "title": "Assess Your Child’s Health Risks",
+      "description": "Be aware of your child’s risk of metabolic disorders and dangerous cancers in order to make informed decisions and take preventative actions.",
+      "traits": {
+        "1": "Obesity risk score"
+      }
+    }
+  },
+  "packages": {
+    "1": {
+      "title": "G-Kid Care",
+      "subtitle": ""
+    },
+    "2": {
+      "title": "G-Kid Pro",
+      "subtitle": ""
+    }
+  },
+  "reportCategories": {
+    "1": {
+      "name": "Behavioral Alignment reports",
+      "reports": {
+        "1": {
+          "name": "Extraversion"
+        },
+        "2": {
+          "name": "Conscientiousness"
+        },
+        "3": {
+          "name": "Emotional Instability"
+        },
+        "4": {
+          "name": "Aggression"
+        },
+        "5": {
+          "name": "Risk Taking Tendency"
+        },
+        "6": {
+          "name": "Stress-handling Ability"
+        }
+      }
+    },
+    "2": {
+      "3": {
+        "name": "Macronutrient Metabolism Reports",
+        "reports": {
+          "17": {
+            "name": "Carbohydrate Metabolism"
+          },
+          "18": {
+            "name": "Fat Metabolism"
+          },
+          "19": {
+            "name": "Protein Metabolism"
+          }
+        }
+      },
+      "4": {
+        "name": "Nutritional Requirement reports",
+        "reports": {
+          "20": {
+            "name": "Vitamin A Requirement"
+          },
+          "21": {
+            "name": "Vitamin B2 Requirement"
+          },
+          "22": {
+            "name": "Vitamin B6 Requirement"
+          },
+          "23": {
+            "name": "Vitamin B12 Requirement"
+          },
+          "24": {
+            "name": "Vitamin C Requirement"
+          },
+          "25": {
+            "name": "Vitamin D Requirement"
+          },
+          "26": {
+            "name": "Folate Requirement"
+          },
+          "27": {
+            "name": "Essential Minerals Requirement"
+          }
+        }
+      },
+      "5": {
+        "name": "Eating Behavior reports",
+        "reports": {
+          "28": {
+            "name": "Emotional Eating"
+          },
+          "29": {
+            "name": "Bitter Taste"
+          },
+          "30": {
+            "name": "Sweet Taste"
+          }
+        }
+      },
+      "6": {
+        "name": "Health Risk reports",
+        "reports": {
+          "31": {
+            "name": "Obesity Risk Score"
+          },
+          "32": {
+            "name": "Diabetes Risk Score"
+          },
+          "33": {
+            "name": "Cardiometabolic Risk Score"
+          }
+        }
+      },
+      "name": "Scholastic Talent reports",
+      "reports": {
+        "7": {
+          "name": "IQ"
+        },
+        "8": {
+          "name": "EQ"
+        },
+        "9": {
+          "name": "Cognitive Ability"
+        },
+        "10": {
+          "name": "Educational Attainment"
+        },
+        "11": {
+          "name": "Math Ability"
+        },
+        "12": {
+          "name": "Language-learning Ability"
+        },
+        "13": {
+          "name": "Musical Ability"
+        },
+        "14": {
+          "name": "Endurance Ability"
+        },
+        "15": {
+          "name": "Power Strength"
+        },
+        "16": {
+          "name": "Cardiorespiratory Fitness"
+        }
+      }
+    },
+    "3": {
+      "name": "Macronutrient Metabolism Reports",
+      "reports": {
+        "17": {
+          "name": "Carbohydrate Metabolism"
+        },
+        "18": {
+          "name": "Fat Metabolism"
+        },
+        "19": {
+          "name": "Protein Metabolism"
+        }
+      }
+    },
+    "4": {
+      "name": "Nutritional Requirement reports",
+      "reports": {
+        "20": {
+          "name": "Vitamin A Requirement"
+        },
+        "21": {
+          "name": "Vitamin B2 Requirement"
+        },
+        "22": {
+          "name": "Vitamin B6 Requirement"
+        },
+        "23": {
+          "name": "Vitamin B12 Requirement"
+        },
+        "24": {
+          "name": "Vitamin C Requirement"
+        },
+        "25": {
+          "name": "Vitamin D Requirement"
+        },
+        "26": {
+          "name": "Folate Requirement"
+        },
+        "27": {
+          "name": "Essential Minerals Requirement"
+        }
+      }
+    },
+    "5": {
+      "name": "Eating Behavior reports",
+      "reports": {
+        "28": {
+          "name": "Emotional Eating"
+        },
+        "29": {
+          "name": "Bitter Taste"
+        },
+        "30": {
+          "name": "Sweet Taste"
+        }
+      }
+    },
+    "6": {
+      "name": "Health Risk reports",
+      "reports": {
+        "31": {
+          "name": "Obesity Risk Score"
+        },
+        "32": {
+          "name": "Diabetes Risk Score"
+        },
+        "33": {
+          "name": "Cardiometabolic Risk Score"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "Hủy lịch tư vấn"
+  },
+  "body": {
+    "information": {
+      "labels": {
+        "appointmentInformation": "Thông tin lịch",
+        "consultationTime": "Thời gian tư vấn",
+        "consultationFor": "Tư vấn cho",
+        "method": "Phương thức"
+      },
+      "reason": "Vui lòng nhập lý do huỷ lịch"
+    },
+    "question": "Hãy cho chúng tôi biết lý do bạn huỷ lịch",
+    "actions": {
+      "backToHome": "Không, tôi muốn giữ lịch hiện tại",
+      "cancel": "Huỷ lịch"
+    }
+  },
+  "success": {
+    "body": {
+      "title": "Huỷ lịch tư vấn thành công",
+      "description": "Lịch tư vấn của bạn đã bị huỷ với lý do <b>“{{reason}}”</b>. Vui lòng liên hệ 1900599927 nếu cần hỗ trợ",
+      "actions": {
+        "backToHome": "Quay về trang chủ"
+      }
+    }
+  },
+  "appointmentCanceled": {
+    "description": "Lịch tư vấn của bạn đã bị huỷ. Vui lòng liên hệ 1900599927 nếu cần hỗ trợ",
+    "actions": {
+      "backToHome": "Quay về trang chủ"
+    },
+    "loading": "Đang tải"
+  },
+  "appointmentCompleted": {
+    "description": "Lịch tư vấn của bạn đã hoàn tất. Vui lòng liên hệ 1900599927 nếu cần hỗ trợ"
+  },
+  "appointmentOverScheduleTime": {
+    "description": "Bạn không thể huỷ lịch này do phiên tư vấn đã bắt đầu. Vui lòng liên hệ 1900599927 nếu cần hỗ trợ"
+  }
+}

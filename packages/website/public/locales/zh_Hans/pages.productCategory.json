@@ -1,0 +1,70 @@
+{
+  "header": {
+    "title": {
+      "prefix": ""
+    }
+  },
+  "sectionFilters": {
+    "field": {
+      "ages": "年龄",
+      "demands": "特点",
+      "filterBy": "筛选"
+    },
+    "actions": {
+      "select": "选择",
+      "seeMore": "查看更多"
+    }
+  },
+  "sectionTestimonials": {
+    "title": "超过 <br>100,000 名客户 <br>选择 Genetica",
+    "description": "聆听我们客户的故事<br />并与我们分享您的故事！",
+    "actions": {
+      "seeOtherStories": "来自我们客户的更多故事"
+    }
+  },
+  "sectionDownload": {
+    "title": "阅读示例报告<br/>立即下载 Genetica 应用程序！",
+    "description": "Genetica 移动应用程序上有 1000 多个相关结果，<br/>可随时随地轻松访问。"
+  },
+  "sectionComparePackages": {
+    "comparisonTable": {
+      "columnLabel": {
+        "installment": "0%利息分期付款"
+      }
+    }
+  },
+  "sectionCompareCombos": {
+    "comparisonTable": {
+      "columnLabel": {
+        "1": "服务包括",
+        "2": "服务数量"
+      },
+      "packageRows": {
+        "1": {
+          "title": "G-Pro",
+          "description": "成人综合护理"
+        },
+        "2": {
+          "title": "G-Kid Pro",
+          "description": "全面护理孩子"
+        },
+        "3": {
+          "title": "解锁 G-免疫力 *",
+          "description": "了解您的免疫力"
+        },
+        "4": {
+          "title": "解锁G-过敏*",
+          "description": "接触过敏的固有风险"
+        },
+        "5": {
+          "title": "解锁 G-脑卒中 *",
+          "description": "评估中风的固有风险"
+        }
+      },
+      "tooltip": {
+        "seeDetails": "转到产品详细信息"
+      },
+      "notice": "解锁套餐仅适用于组合使用G-Pro或G-Kid Pro的用户，新用户不适用。<br />联系Genetica热线获取组合数量和服务定制支持，具体取决于您的家庭需求 ."
+    }
+  }
+}

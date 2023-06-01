@@ -1,0 +1,86 @@
+{
+  "common": {
+    "labels": {
+      "originalPrice": "Giá gốc",
+      "specialOffer": "Siêu ưu đãi khi mua dịch vụ",
+      "benefits": "Lợi ích dịch vụ",
+      "serviceFeatures": "Đặc điểm dịch vụ",
+      "downloadAppAt": "Tải ứng dụng tại",
+      "relatedServices": "Dịch vụ liên quan",
+      "priceNotInclude": "Chi phí chưa bao gồm",
+      "details": "Thông tin chi tiết",
+      "result": "Kết quả"
+    },
+    "buttons": {
+      "installment": "Trả góp 0%",
+      "addToCart": "Thêm vào giỏ hàng",
+      "videoHelp": "Video hướng dẫn",
+      "seeDetails": "Xem chi tiết",
+      "buyNow": "Mua ngay",
+      "viewSampleReport": "Xem báo cáo gen mẫu",
+      "seeMore": "Xem thêm",
+      "seeAll": "Xem tất cả",
+      "seeMoreComparison": "Xem thêm so sánh",
+      "viewSampleReportPDF": "Xem báo cáo mẫu PDF",
+      "installmentTerms": "Quy định trả góp"
+    }
+  },
+  "sectionServiceNotInclude": {
+    "title": "Giá gói không bao gồm các chi phí",
+    "items": {
+      "1": {
+        "title": "Phí Tư vấn chuyên sâu cùng chuyên gia"
+      },
+      "2": {
+        "title": "Phí bộ thu mẫu",
+        "description": "Đối với trường hợp phải thu mẫu lần 3"
+      },
+      "3": {
+        "title": "Phí in báo cáo giấy theo yêu cầu"
+      }
+    }
+  },
+  "sectionServiceInclusion": {
+    "title": "Dịch vụ bao gồm",
+    "items": {
+      "1": "Bộ thu mẫu nước bọt (Kit lấy mẫu, Phiếu xác nhận, Phiếu hướng dẫn)",
+      "2": "Báo cáo giải mã gen qua Ứng dụng Genetica",
+      "3": "Buổi tư vấn giải thích báo cáo với chuyên gia của Genetica"
+    }
+  },
+  "sectionSubmenu": {
+    "items": {
+      "details": "Thông tin chi tiết",
+      "howToUse": "Hướng dẫn sử dụng",
+      "compareServices": "So sánh dịch vụ",
+      "relevantServices": "Dịch vụ liên quan",
+      "contactUs": "Liên hệ với chúng tôi"
+    }
+  },
+  "sectionProcess": {
+    "title": "Quy trình sử dụng đơn giản",
+    "steps": {
+      "1": {
+        "title": "Bước 1. Nhận bộ thu mẫu",
+        "description": "Genetica sẽ gửi bộ thu mẫu nước bọt đến địa chỉ của bạn."
+      },
+      "2": {
+        "title": "Bước 2. Lấy mẫu và gửi mẫu",
+        "description": "Lấy nước bọt đơn giản và không đau theo hướng dẫn trong bộ thu mẫu. Thông báo với chúng tôi qua ứng dụng Genetica hoặc hotline để thu hồi mẫu."
+      },
+      "3": {
+        "title": "Bước 3. Nhận kết quả báo cáo",
+        "description": "Nhận kết quả giải mã gen trên ứng dụng Genetica hoặc email trong 30 ngày làm việc kể từ lúc chúng tôi nhận được mẫu nước bọt đạt yêu cầu."
+      }
+    },
+    "links": {
+      "salivaCollectingGuide": "https://youtu.be/Vc9PQVddhVs?list=PLHSgVYL21dUW3ENntE8brlRmRFH18JMM2"
+    }
+  },
+  "sectionServiceComparison": {
+    "title": "So sánh <br />Dịch vụ"
+  },
+  "sectionDownloadSampleReport": {
+    "title": "Nhận kết quả qua ứng dụng Genetica."
+  }
+}

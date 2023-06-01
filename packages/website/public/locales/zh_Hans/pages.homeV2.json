@@ -1,0 +1,226 @@
+{
+  "title": "Genetica® 美国技术亚洲人基因型测试",
+  "sectionAdvisors": {
+    "body": {
+      "title": "专业咨询部",
+      "description": "我们的顾问委员会是硅谷最成功的投资者和来自哈佛、斯坦福、康奈尔等常春藤联盟大学的顶级教授。",
+      "actions": {
+        "1": {
+          "label": "了解更多"
+        }
+      }
+    }
+  },
+  "sectionDownload": {
+    "body": {
+      "title": "遗传学移动应用程序",
+      "description": "超过 1000 多份关于您自己的深度报告 <br/> 触手可及",
+      "subtitle": "立即下载应用程序"
+    }
+  },
+  "sectionBenefits": {
+    "header": {
+      "title": "<br/>基因检测的好处"
+    },
+    "body": {
+      "list": {
+        "0": {
+          "actions": {
+            "learnMore": {
+              "label": "了解更多"
+            }
+          }
+        },
+        "1": {
+          "title": "个性化您自己的<br/>生活方式",
+          "description": "根据对潜力、营养需求、健身计划和专家建议的遗传分析来设计您的发展计划。"
+        },
+        "2": {
+          "title": "帮助您的孩子<br/>充分发挥潜力",
+          "description": "认识孩子的天生能力，在医疗保健、教育和未来定位方面创造最适合的发展路径。"
+        },
+        "3": {
+          "title": "尽早了解您的健康<br/>风险",
+          "description": "通过我们专家的个性化建议预防天性疾病。"
+        }
+      }
+    }
+  },
+  "sectionMedia": {
+    "header": {
+      "title": "媒体对 Genetica 的评价"
+    }
+  },
+  "sectionPartners": {
+    "header": {
+      "title": "我们的合作者",
+      "description": "Genetica® 被我们的全球合作伙伴公认为个人基因组学行业的领先者。"
+    },
+    "body": {
+      "menu": {
+        "partnersFromUSA": {
+          "label": "在美国"
+        },
+        "partnersFromVietnam": {
+          "label": "在越南"
+        }
+      }
+    }
+  },
+  "sectionCertificates": {
+    "header": {
+      "title": "国际证书"
+    },
+    "body": {
+      "certificate": {
+        "1": "证书",
+        "2": "CAP证书"
+      },
+      "description": "Genetica 在旧金山和越南的实验室符合 CLIA 标准——美国最严格的实验室准确性标准。<br /><br />通过分析数百个基因，我们的基因报告提供了关于身体、行为、智力特征和 健康风险，为每个用户提供个性化建议。"
+    }
+  },
+  "sectionProcess": {
+    "header": {
+      "title": "3步测试过程"
+    },
+    "body": {
+      "list": {
+        "1": {
+          "title": "注册服务",
+          "description": "购买后，Genetica 会将 DNA 采集套件发送到您的注册地址。"
+        },
+        "2": {
+          "title": "收集您的唾液样本",
+          "description": "只需按照 DNA 检测试剂盒内的说明收集唾液即可。 准备就绪后，将您的唾液寄回给我们进行 DNA 分析。",
+          "actions": {
+            "1": {
+              "label": "教学视频"
+            }
+          }
+        },
+        "3": {
+          "title": "30 个工作日内出结果",
+          "description": "下载 Genetica 移动应用程序，通过个性化推荐查看您的综合结果。",
+          "actions": {
+            "1": {
+              "label": "谷歌播放"
+            },
+            "2": {
+              "label": "应用商店"
+            }
+          },
+          "thumbnail": {
+            "caption": "通过以下方式下载应用程序："
+          }
+        }
+      }
+    }
+  },
+  "sectionServices": {
+    "header": {
+      "title": "服务"
+    },
+    "body": {
+      "list": {
+        "adults": {
+          "title": "成年人",
+          "subtitle": "对于 18 岁以上的人"
+        },
+        "kids": {
+          "title": "孩子们",
+          "subtitle": "对于 18 岁以下的孩子"
+        },
+        "health": {
+          "title": "健康",
+          "subtitle": "所有年龄段"
+        }
+      }
+    }
+  },
+  "sectionSpecialists": {
+    "header": {
+      "title": "认识 Genetica® 专家",
+      "description": "我们的专家是来自全国各大医院和研究机构的经验丰富的医生。",
+      "actions": {
+        "1": {
+          "label": "了解更多"
+        }
+      }
+    }
+  },
+  "sectionTestimonials": {
+    "header": {
+      "title": "客户体验"
+    },
+    "body": {
+      "list": {
+        "0": {
+          "actions": {
+            "viewMore": {
+              "label": "查看更多"
+            }
+          }
+        },
+        "-1": {
+          "content": "<p>Genetica 已为数以千计的客户提供服务，帮助他们优化生活方式。 </p> <p> 让我们听听他们鼓舞人心的故事，并告诉我们您的故事。</p>",
+          "actions": {
+            "listenToOtherStory": "听别人的故事"
+          }
+        }
+      }
+    }
+  },
+  "sectionUtilities": {
+    "body": {
+      "list": {
+        "1": {
+          "title": "样本报告"
+        },
+        "2": {
+          "title": "预约咨询会",
+          "description": "预约咨询会"
+        },
+        "3": {
+          "title": "礼品码",
+          "description": "礼品码"
+        }
+      }
+    }
+  },
+  "sectionWhyChoosingGenetica": {
+    "header": {
+      "title": "为什么选择 Genetica<span>®</span>"
+    },
+    "body": {
+      "list": {
+        "0": {
+          "actions": {
+            "viewDetails": {
+              "label": "查看详情"
+            }
+          }
+        },
+        "1": {
+          "title": "美国标准技术<br/>具有99.9%的准确度"
+        },
+        "2": {
+          "title": "使用区块链技术确保客户数据安全<br/>"
+        },
+        "3": {
+          "title": "收集唾液样本 - 安全<br/>非侵入性"
+        },
+        "4": {
+          "title": "深入的结果咨询<br/>与遗传专家"
+        }
+      }
+    }
+  },
+  "sectionBestSellingPackages": {
+    "header": {
+      "title": "最畅销的服务"
+    },
+    "actions": {
+      "viewAllProducts": "查看 Genetica 的所有服务"
+    }
+  }
+}

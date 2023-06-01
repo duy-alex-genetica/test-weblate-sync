@@ -1,0 +1,2147 @@
+{
+  "404": {
+    "content": {
+      "notification": {
+        "link": "Back to home page",
+        "text": "or search for more information"
+      },
+      "search": {
+        "placeholder": "Search on Genetica"
+      },
+      "suggest": {
+        "about": {
+          "label": "About Us"
+        },
+        "adults": {
+          "label": "Self-actualization"
+        },
+        "contact": {
+          "label": "Contact"
+        },
+        "health": {
+          "label": "Health & wellness"
+        },
+        "kids": {
+          "label": "Child development"
+        },
+        "salivaCollectingGuide": {
+          "label": "Saliva Collecting Guide"
+        },
+        "title": "You might be interested in:"
+      }
+    },
+    "title": "Page not found"
+  },
+  "404v2": {
+    "content": {
+      "text": "Sorry, page not found"
+    }
+  },
+  "about": {
+    "header": {
+      "title": "About Genetica"
+    },
+    "body": {
+      "sectionAboutUs": {
+        "header": {
+          "title": "Genetica® is a biotech company providing genetic testing services powered by AI",
+          "description": "<p>Genetica® is a biotech company providing genetic testing services powered by AI. Based in San Francisco, Genetica® is empowered by scientists from the world’s leading universities, such as UCSF, Harvard, Stanford, and Cornell.\nIn partnership with Illumina® and Thermo Fisher Scientific, Genetica’s® gene decoding chip is a proprietary piece of technology that’s manufactured specifically for the Asian population. By analyzing hundreds of genes, our reports provide comprehensive information about a person’s health-related risks, innate potential, behavior, and abilities.</p><p>Our mission is to help optimize the development, and protect the healthy life, of you and your family.</p>"
+        }
+      }
+    }
+  },
+  "accountManagement": {
+    "account": {
+      "title": "My account",
+      "edit": {
+        "title": "Edit account info"
+      },
+      "content": {
+        "label": {
+          "accountPhoneNumber": "Account phone number",
+          "fullName": "Full name",
+          "contactNumber": "Contact number",
+          "email": "Email",
+          "optional": "optional",
+          "gender": "Gender",
+          "dateOfBirth": "Date of birth",
+          "signInPhoneNumber": "Sign-in phone number",
+          "otherContactNumbers": "Other Contact Numbers",
+          "updateContactNumber": "Update Contact Number"
+        },
+        "placeholder": {
+          "email": "Enter your email address"
+        },
+        "value": {
+          "male": "Male",
+          "female": "Female",
+          "unspecified": "Unspecified",
+          "notAvailable": "(Not available)"
+        },
+        "updatePhoneNumber": {
+          "actions": {
+            "submit": {
+              "label": "Submit"
+            }
+          },
+          "successMessage": {
+            "title": "You have updated your contact number successfully",
+            "description": "<b>{{ name }}:</b> {{ currentPhoneNumber }} <br /> <span> has been changed to </span> <br/> <b>{{ name }}:</b> {{ phoneNumberUpdated }}",
+            "description2": "This phone number will be appeared in Account > Other Contact Numbers."
+          },
+          "errorMessage": {
+            "description": "Please add phone number so that we can call this person."
+          }
+        }
+      },
+      "errorMessage": {
+        "fullName": "You must specify your name",
+        "contactPhoneNumber": "You must specify your phone number",
+        "required": "Required",
+        "error": "Error"
+      },
+      "modalMessage": {
+        "errorMessage": "An error has occurred. Your changes haven’t been saved.",
+        "successMessage": "Update Information Successful!"
+      },
+      "action": {
+        "editAccountInfo": "Edit account info",
+        "save": "Save",
+        "cancel": "Cancel",
+        "tryAgain": "Try Again"
+      }
+    },
+    "reports": {
+      "title": "My reports",
+      "content": {
+        "labels": {
+          "": "",
+          "sampleStatusTracking": "Sample status tracking",
+          "awaitingSample": "A waiting sample",
+          "daysUntilPublication": "{{count}} day until publication",
+          "daysUntilPublication_plural": "{{count}} days until publication",
+          "daysLeftToBeUnlocked": "{{count}} day left to be unlocked",
+          "daysLeftToBeUnlocked_plural": "{{count}} days left to be unlocked",
+          "unlocking": "Unlocking"
+        },
+        "actions": {
+          "viewDetails": {
+            "label": "View details"
+          },
+          "viewReport": {
+            "label": "View Report"
+          },
+          "download": {
+            "label": "Download"
+          }
+        },
+        "footer": {
+          "labels": {
+            "seeAllReports": "See all {{count}} reports",
+            "collapse": "collapse"
+          }
+        }
+      },
+      "reportEmpty": {
+        "label": "You have no reports to show"
+      },
+      "loading": {
+        "label": "Loading"
+      },
+      "modal": {
+        "content": {
+          "downloadApp": {
+            "label": "Download Genetica App here to view your report"
+          }
+        },
+        "actions": {
+          "close": {
+            "label": "Close"
+          }
+        }
+      }
+    },
+    "securitySettings": {
+      "title": "Your devices",
+      "subtitle": "You're currently signed in to Genetica on these devices",
+      "content": {
+        "labels": {
+          "activeNow": "Active now",
+          "logoutTime": "{{ date }} at {{ time }}"
+        },
+        "actions": {
+          "logOutOfAllDevices": "Log out of all devices"
+        }
+      },
+      "modal": {
+        "content": {
+          "message": "This will log you out of Genetica from every device that you’re currently logged in on. Are you sure you want to do that?"
+        },
+        "actions": {
+          "agree": "Agree",
+          "cancel": "Cancel"
+        }
+      }
+    },
+    "sidebar": {
+      "myAccount": "My account",
+      "profiles": "Profiles",
+      "consultation": "Consultation",
+      "redeem": "Redeem",
+      "paymentHistory": "Payment history",
+      "securitySettings": "Security settings",
+      "reports": "My reports"
+    }
+  },
+  "advisors": {
+    "header": {
+      "title": "Board of Advisors"
+    },
+    "body": {
+      "sectionAdvisors": {
+        "actions": {
+          "seeMore": "See more"
+        }
+      }
+    }
+  },
+  "blog": {
+    "common": {
+      "labels": {
+        "relatedPosts": "Related news",
+        "referencePosts": "Read more",
+        "mostReadPosts": "Most read",
+        "recentPosts": "Recent posts",
+        "highlightPosts": "Highlight posts"
+      },
+      "actions": {
+        "seeMore": "See more",
+        "seeDetails": "See details"
+      }
+    },
+    "header": {
+      "title": "Blog"
+    },
+    "body": {
+      "sectionFilters": {
+        "title": "Filter by Category",
+        "content": {
+          "list": {
+            "itemShowAll": "Show all"
+          }
+        }
+      },
+      "sectionHeader": {
+        "title": "News and Events",
+        "description": {
+          "segments": [
+            "Get the latest news about Genetica",
+            "here."
+          ]
+        }
+      },
+      "sectionNavbar": {
+        "menuItems": {
+          "news": "News",
+          "blog": "Blog",
+          "press": "Media say about Genetica"
+        }
+      },
+      "sectionFollowUs": {
+        "title": "Follow us on"
+      },
+      "sectionSharingSocials": {
+        "title": "Share on"
+      },
+      "sectionBreadcrumb": {
+        "menuItems": {
+          "home": "Homepage",
+          "blog": "Blog",
+          "news": "News",
+          "experts": "Consultant Team"
+        }
+      },
+      "sectionPostContent": {
+        "meta": {
+          "author": "Written by:",
+          "doctor": "Consulting doctor:",
+          "doctor_plural": "Consulting doctors:"
+        }
+      }
+    }
+  },
+  "blogDetails": {
+    "body": {
+      "sectionAuthor": {
+        "buttonSeeMore": {
+          "label": "See more"
+        }
+      },
+      "sectionReference": {
+        "header": {
+          "title": "Reference"
+        },
+        "buttonSeeMore": {
+          "label": "See more"
+        }
+      },
+      "sectionShare": {
+        "header": {
+          "title": "Share"
+        }
+      },
+      "sectionDiscussion": {
+        "header": {
+          "title": "Discussion about this post"
+        }
+      }
+    }
+  },
+  "careerDetails": {
+    "header": {
+      "title": "Recruitment"
+    },
+    "body": {
+      "sectionOtherJobs": {
+        "title": "We are also looking for"
+      }
+    }
+  },
+  "careers": {
+    "header": {
+      "title": "Recruitment"
+    },
+    "body": {
+      "sectionJobs": {
+        "contentEmpty": {
+          "description": "Sorry, we don’t have any <br/>vacancies at the moment!"
+        }
+      }
+    }
+  },
+  "cartAndCheckout": {
+    "header": {
+      "steps": {
+        "1": "Your Cart",
+        "2": "Payment",
+        "3": "Order Completed"
+      }
+    },
+    "body": {
+      "cartDetails": {
+        "field": {
+          "service": {
+            "label": "Service"
+          },
+          "quantity": {
+            "label": "Quantity"
+          },
+          "price": {
+            "label": "Price"
+          },
+          "discount": {
+            "label": "Discount"
+          },
+          "subtotal": {
+            "label": "Subtotal"
+          }
+        }
+      },
+      "formRedeem": {
+        "field": {
+          "promotionCode": {
+            "label": "Have a promo code?",
+            "placeholder": {
+              "1": "Enter promo code",
+              "2": "Select or enter a promo code"
+            }
+          }
+        },
+        "errors": {
+          "1": "Promo code is not valid. Please check again.",
+          "2": "The promotion is not applied for this service.",
+          "3": "This code had been used.",
+          "4": "Promo code has been entered before, contact hotline for support."
+        },
+        "actions": {
+          "applyPromotion": "Apply"
+        }
+      },
+      "orderSummary": {
+        "title": "Summary",
+        "meta": {
+          "subtotal": {
+            "label": "Subtotal"
+          },
+          "discount": {
+            "label": "Discount"
+          },
+          "total": {
+            "label": "Total"
+          }
+        },
+        "actions": {
+          "checkout": "Check out"
+        }
+      },
+      "formOrderInformation": {
+        "header": {
+          "title": "Order information"
+        },
+        "field": {
+          "name": {
+            "placeholder": "Full name"
+          },
+          "phone": {
+            "placeholder": "Phone number"
+          },
+          "email": {
+            "placeholder": "Email"
+          }
+        }
+      },
+      "formAddress": {
+        "header": {
+          "title": "Your delivery address"
+        },
+        "field": {
+          "fullLocation": {
+            "placeholder": "Province/City, District, Ward"
+          },
+          "city": {
+            "placeholder": "Province/City"
+          },
+          "district": {
+            "placeholder": "District"
+          },
+          "ward": {
+            "placeholder": "Ward"
+          },
+          "address": {
+            "placeholder": "Detailed address"
+          },
+          "search": {
+            "placeholder": "Search"
+          },
+          "postalCode": {
+            "placeholder": "Postal Code"
+          }
+        },
+        "errors": {
+          "1": "Please provide your delivery address to process payment",
+          "2": "We do not deliver to {{country}} at the moment. Please email us at <a href='mailto:contact@genetica.asia'>contact@genetica.asia</a> for support."
+        },
+        "actions": {
+          "back": {
+            "text": "Back"
+          },
+          "complete": {
+            "text": "Complete"
+          },
+          "adjust": {
+            "text": "Adjust"
+          }
+        }
+      },
+      "formCartDetails": {
+        "header": {
+          "title": "Service"
+        },
+        "field": {
+          "quantity": {
+            "label": "Quantity"
+          }
+        },
+        "actions": {
+          "updateAddress": {
+            "text": "Adjust"
+          }
+        }
+      },
+      "formPaymentMethod": {
+        "header": {
+          "title": "Payment methods"
+        },
+        "field": {
+          "paymentMethods": {
+            "1": {
+              "title": "Bank transfer",
+              "description": "(Digital bank/QR code)"
+            },
+            "2": {
+              "title": "Card",
+              "description": "(ATM/credit/debit card)"
+            },
+            "3": {
+              "title": "Mobile wallet (Momo, ZaloPay)",
+              "description": ""
+            },
+            "4": {
+              "title": "0% interest installment when paying via credit card",
+              "description": "(Applied to order’s total from 3,000,000 dong and above)"
+            },
+            "5": {
+              "title": "Saigon Commercial Bank (Internet Banking)",
+              "description": ""
+            },
+            "6": {
+              "title": "Direct bank transfer",
+              "description": "Transfer directly to our bank account "
+            },
+            "7": {
+              "title": "Transfer with QR-Code",
+              "description": "Pay with VNPay"
+            },
+            "8": {
+              "title": "Credit/Debit Card",
+              "description": "Pay with a credit/debit card"
+            },
+            "9": {
+              "title": "ATM Card",
+              "description": "Pay with OnePay"
+            },
+            "10": {
+              "title": "Pay with Momo",
+              "description": "Pay in Momo App"
+            },
+            "11": {
+              "title": "Pay with ZaloPay",
+              "description": "Pay in ZaloPay App"
+            }
+          }
+        }
+      },
+      "sectionBankTransfer": {
+        "header": {
+          "title": "Bank Transfer Instructions"
+        },
+        "body": {
+          "title": "To process payment, you can use any bank account to transfer to the account below:",
+          "meta": {
+            "beneficiaryBank": "Beneficiary bank",
+            "branch": "Branch",
+            "beneficiaryName": "Beneficiary name",
+            "amount": "Amount (VNĐ)",
+            "accountNumber": "Account number",
+            "transactionDescription": "Transaction description"
+          },
+          "message": {
+            "notice": "<span>Note</span>: Transaction description is required so that Genetica can identify and verify your payment.",
+            "help": "You will be notified by SMS when your payment is completed. You will receive the Sample Collection Kit in 2-3 working days."
+          },
+          "actions": {
+            "openBankApp": "Open app/bank website",
+            "copy": "Copy",
+            "copied": "Copied!"
+          }
+        }
+      },
+      "sectionEmptyCart": {
+        "body": {
+          "title": "Your Cart Is Empty",
+          "description": "Looks like you haven't added anything yet.",
+          "widgetSeeMore": {
+            "title": "Learn more about services"
+          }
+        }
+      }
+    },
+    "modal": {
+      "content": {
+        "messagePrefix": "Remove",
+        "messageSuffix": "from your cart?"
+      },
+      "action": {
+        "remove": "Remove",
+        "cancel": "Cancel"
+      }
+    },
+    "emptyContent": {
+      "message": "You don’t have any items in your cart. Browse our shop:"
+    }
+  },
+  "checkout": {
+    "alert": {
+      "promotion": {
+        "invalid": {
+          "message": "Invalid promotion code"
+        },
+        "required": {
+          "message": "The promotion code field is required."
+        }
+      }
+    }
+  },
+  "consultation": {
+    "body": {
+      "sectionProfiles": {
+        "header": {
+          "title": "Select a profile for booking"
+        },
+        "body": {
+          "list": {
+            "item": {
+              "description": "{{count}} report eligible for booking",
+              "description_plural": "{{count}} reports eligible for booking",
+              "actions": {
+                "book": {
+                  "label": "Book"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "consultationBooking": {
+    "header": {
+      "title": "Consultation Booking"
+    },
+    "body": {
+      "sectionSteps": {
+        "list": [
+          {
+            "label": "Select reports"
+          },
+          {
+            "label": "Choose a channel"
+          },
+          {
+            "label": "Pick a timeslot"
+          }
+        ]
+      },
+      "sectionSelectReports": {
+        "header": {
+          "title": "Select reports"
+        },
+        "body": {
+          "meta": {
+            "expectedSessionLength": {
+              "label": "Expected session length"
+            }
+          }
+        }
+      },
+      "sectionSelectConsultationMethods": {
+        "header": {
+          "title": "Choose a consultation channel"
+        },
+        "body": {
+          "description": "Please choose a phone number"
+        }
+      },
+      "sectionSelectTimeslot": {
+        "header": {
+          "title": "Pick a timeslot"
+        },
+        "body": {
+          "timeslots": {
+            "empty": {
+              "label": "No timeslots available!<br/>Please pick a different date or contact our Hotline <b>1900 599 927</b>"
+            }
+          }
+        }
+      },
+      "sectionActions": {
+        "next": {
+          "label": "Next"
+        },
+        "back": {
+          "label": "Back"
+        },
+        "book": {
+          "label": "Book"
+        }
+      },
+      "sectionSelectedProfile": {
+        "header": {
+          "title": "Profile"
+        }
+      },
+      "sectionSelectedReports": {
+        "header": {
+          "title": "Report",
+          "title_plural": "Reports"
+        }
+      },
+      "sectionSelectedConsultationMethod": {
+        "header": {
+          "title": "Channel"
+        }
+      },
+      "sectionCreatedAppointment": {
+        "header": {
+          "title": "Booking successful!"
+        },
+        "body": {
+          "description": "Your booking for a Genetic consultation has been processed successfully.",
+          "sectionInformation": {
+            "headers": {
+              "name": {
+                "label": "Name"
+              },
+              "reports": {
+                "label": "Reports"
+              },
+              "channel": {
+                "label": "Channel"
+              },
+              "timeslot": {
+                "label": "Timeslot"
+              }
+            }
+          },
+          "actions": {
+            "backToHomepage": {
+              "label": "Back to homepage"
+            }
+          }
+        },
+        "footer": {
+          "description": "Download the Genetica mobile app to receive notification about your booking schedule."
+        }
+      }
+    }
+  },
+  "consultationContact": {
+    "header": {
+      "title": "Book a consultation session"
+    },
+    "body": {
+      "title": "Select consultation channel",
+      "content": {
+        "menu": {
+          "phone": "Online",
+          "office": "Meet up"
+        },
+        "form": {
+          "label": {
+            "1": "Contact information",
+            "2": "Consultation time",
+            "3": "Select time slot",
+            "4": "Buy for",
+            "5": "Topic",
+            "6": "Price range (optional)",
+            "7": "Select price",
+            "8": "Location"
+          },
+          "name": "Your name (optional)",
+          "dropdown": {
+            "labelDefault": "Select",
+            "price": {
+              "labelDefault": "Select price"
+            },
+            "timeBooking": {
+              "labelDefault": "Select time slot"
+            }
+          },
+          "locations": {
+            "1": {
+              "label": "Hà Nội Office",
+              "description": "9th Floor, National Innovation Center - NIC Building, Lane 07 Ton That Thuyet Street, Dich Vong Hau Ward, Cau Giay District"
+            },
+            "2": {
+              "label": "Hồ Chí Minh Office",
+              "description": "2nd Floor, 40 Pham Ngoc Thach Street, Vo Thi Sau Ward, Dist.3"
+            }
+          },
+          "serviceUsers": {
+            "1": "Kid",
+            "2": "Adult"
+          },
+          "topics": {
+            "1": "Nutrition, fitness",
+            "2": "Intelligence, behavior",
+            "3": "Health and Wellness",
+            "4": "Child development"
+          },
+          "priceOptions": {
+            "1": "Under 3,000,000đ",
+            "2": "From 3,000,000đ to 5,000,000đ",
+            "3": "From 5,000,000đ to 10,000,000đ",
+            "4": "Above 10,000,000đ"
+          },
+          "button": {
+            "label": "Book"
+          }
+        }
+      }
+    },
+    "modal": {
+      "success": {
+        "online": {
+          "content": "Thank you for your interest in Genetica®! Our staff will contact you as soon as possible. Please make sure your mobile is available at any time.",
+          "action": "Back to home"
+        },
+        "meetUp": {
+          "content": "Thank you for your interest in Genetica®! Our staff will contact you as soon as possible.",
+          "action": "Back to home"
+        }
+      }
+    }
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "content": {
+      "timeOfWeek": {
+        "label": "Monday - Friday"
+      },
+      "office": "Offices",
+      "contacts": "Contacts",
+      "workingHours": "Working hours",
+      "mondayToFriday": "Monday - Friday"
+    }
+  },
+  "disclaimer": {
+    "header": {
+      "title": "Disclaimer"
+    }
+  },
+  "doctors": {
+    "header": {
+      "title": "Meet our Experts"
+    },
+    "body": {
+      "filters": {
+        "title": {
+          "label": "Filter",
+          "option": {
+            "all": "All"
+          }
+        }
+      },
+      "list": {
+        "item": {
+          "buttonDetails": {
+            "label": "Doctor information"
+          }
+        }
+      }
+    }
+  },
+  "frequentlyAskedQuestions": {
+    "title": "Frequently Asked Questions"
+  },
+  "generalTransactionConditions": {
+    "header": {
+      "title": "General Transaction Conditions"
+    }
+  },
+  "getYourOwnGeneNft": {
+    "content": {
+      "FAQs": {
+        "1": {
+          "question": "1. What is <span>GeneNFT</span>?",
+          "answer": "<span>GeneNFT</span> is a type of digital asset that represents an individual's genetic data. Your genotype is completely unique, so is your <span>GeneNFT</span>."
+        },
+        "2": {
+          "question": "2. What is the purpose of <span>GeneNFT</span>?",
+          "answer": "In addition to being a digital asset, <span>GeneNFT</span> acts as a certificate (token) that ensures the user's full ownership of their genetic data."
+        },
+        "3": {
+          "question": "3. How does <span>GeneNFT</span> work? How to own one?",
+          "answer": "After conducting the Gene Decoding Service at Genetica, your genetic data will be encrypted, stored, secured and administered on the Gene Friend Network system as a digital asset. Gene Friend Network credits the ownership of this property for you."
+        },
+        "4": {
+          "question": "4. How can I check my <span>GeneNFT</span>?",
+          "answer": {
+            "1": "1. Download and open the Genetica app.",
+            "2": "2. Accessing the Genetica app, going to the <b>Genetica Wallet</b>, opening the <span>GeneNFT</span> tab, users can:<ul><li>- See your own <span>GeneNFT</span> certificate</li><li>- Check NFT tokens directly on the blockchain network</li></ul>"
+          }
+        },
+        "5": {
+          "question": "5. Some governments have not recognized NFT as a digital asset, so is there any risk in owning it?",
+          "answer": "You do not have any legal risk associated with <span>GeneNFT</span>. <span>GeneNFT</span> simplifies the ownership of your data. We digitize this ownership through NFT and leave it to you to manage."
+        },
+        "6": {
+          "question": "6. Will <span>GeneNFT</span> help me make money, and how?",
+          "answer": "<p>There is no guarantee of a person's ability to generate financial income from genetic data. To the best of our knowledge, there has never been a documented case of becoming wealthy through selling or renting one's genetic data.</p><p>However, the genetic information of a subset of individuals that are relevant to a particular field of study can help research efforts aimed at applying genetic information to areas such as personalized medicine, individualized specific drugs.. In these cases, research institutions are often willing to sponsor a small fee for access to genetic data analysis.</p><p><span>GeneNFT</span> owners have the right to allow or not allow anyone to access their genetic data, in return for a funding fee mentioned above, or simply for free in contribution to humanity's progress.</p><p>All authorized data access from the owner of the genome himself (which is yourself) is fully documented and transparent to the owner.</p>"
+        }
+      },
+      "contactForm": {
+        "title": "Get a free consultation about <span>GeneNFT</span>",
+        "description": "Leave your information, Genetica® will contact you as soon as possible",
+        "form": {
+          "field": {
+            "name": "Your name (optional)",
+            "phone": "Phone number"
+          },
+          "submit": "Submit"
+        },
+        "more": "Learn more about gene decoding"
+      },
+      "modalSuccess": {
+        "header": {
+          "title": "Request successful",
+          "description": "Should you have any questions, contact us via hotline <1>1900 599 927</1> for better support."
+        },
+        "action": {
+          "close": {
+            "label": "Close"
+          }
+        }
+      },
+      "modalError": {
+        "header": {
+          "title": "Request failed",
+          "description": "Should you have any questions, contact us via hotline <1>1900 599 927</1> for better support."
+        },
+        "action": {
+          "close": {
+            "label": "Try again"
+          }
+        }
+      }
+    }
+  },
+  "home": {
+    "title": "Genetica® American Technology Genotype Test for Asians",
+    "section1": {
+      "title": "Explore Your Genes<br>Define Your Future",
+      "description": "Data-driven & scientifically proven reports that help you design the optimal lifestyle for you and your family.",
+      "button": {
+        "label": "Learn more"
+      }
+    },
+    "sectionTutorials": {
+      "body": {
+        "list": [
+          {
+            "subtitle": "Received your collection kit?",
+            "title": "Watch our saliva collecting tutorial"
+          },
+          {
+            "subtitle": "Received your report?",
+            "title": "Book an appointment",
+            "actions": {
+              "book": {
+                "label": "Book now"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "section2": {
+      "header": {
+        "title": "1000+ reports, 1 click away"
+      },
+      "footer": {
+        "text": "* Paying the starting fee will give you access to our <b>Care</b> package. Unlock the <b>Pro</b> package to enjoy the full benefits."
+      }
+    },
+    "sectionProcess": {
+      "header": {
+        "title": "Our simple DNA test process"
+      },
+      "body": {
+        "list": {
+          "1": {
+            "title": "Purchase your testing kit",
+            "description": "Your Genetica DNA testing kit will be delivered directly to your door after purchase."
+          },
+          "2": {
+            "title": "Collect your saliva sample",
+            "description": "Simply follow the instruction found inside the DNA tesing kit to collect your saliva. Once ready, send your saliva back to us for DNA analysis."
+          },
+          "3": {
+            "title": "Results ready in 30 working days",
+            "description": "Install the Genetica mobile app to view your comprehensive results and personalized recommendations."
+          }
+        }
+      }
+    },
+    "sectionLearnMoreAboutUs": {
+      "header": {
+        "title": "Learn more about us"
+      },
+      "body": {
+        "actions": {
+          "viewMore": {
+            "label": "View more"
+          }
+        }
+      }
+    },
+    "sectionPrivacyAndSecurityStatement": {
+      "title": "Privacy And Security",
+      "description": "Your information is completely safe with Genetica®. We take utmost care to ensure that your data is protected, secured and available only to you."
+    },
+    "sectionAdvisors": {
+      "header": {
+        "title": "Advised by leading experts",
+        "description": "Our Board of Advisors comprises of Silicon Valey's most successful investors and top professors from Ivy League universities like Harvard, Stanford, Cornell, etc.",
+        "actions": {
+          "button": {
+            "label": "Learn more"
+          }
+        }
+      }
+    },
+    "sectionTestimonials": {
+      "header": {
+        "title": "Testimonials"
+      },
+      "body": {
+        "content": {
+          "slide": {
+            "cta": {
+              "content": "<p>Genetica has served thousands of customers and helped them optimize their lifestyles. </p> <p> Let’s hear their inspiring stories and tell us yours.</p>",
+              "actions": {
+                "listenToOtherStory": "Listen to others' stories"
+              }
+            }
+          }
+        },
+        "actions": {
+          "viewMore": {
+            "label": "View more"
+          }
+        }
+      },
+      "list": [
+        {
+          "giver": {
+            "name": "Vy Le",
+            "description": "Triathlete"
+          },
+          "comment": {
+            "title": "Amazing services",
+            "content": "I am satisfied with the Gene report of Genetica® Service. To know this Gene analysis is meaningful to me for rearranging my exercises more effectively."
+          }
+        },
+        {
+          "giver": {
+            "name": "Anh Nguyen",
+            "description": "Proud husband & father"
+          },
+          "comment": {
+            "title": "Amazing services",
+            "content": "The Gene report of Genetica® Service of GENETICA® help me to understand my strengths and weaknesses. This allows me to personalize my fitness plan to perform well."
+          }
+        },
+        {
+          "giver": {
+            "name": "Lam Nguyen",
+            "description": "Endurance runner"
+          },
+          "comment": {
+            "title": "Amazing services",
+            "content": "I could define the practicing method which is tailored-made for my health and the exercise progress."
+          }
+        }
+      ]
+    }
+  },
+  "homeV2": {
+    "title": "Genetica® American Technology Genotype Test for Asians",
+    "sectionAdvisors": {
+      "body": {
+        "title": "Professional Advisory Department",
+        "description": "Our Board of Advisors are Silicon Valey's most successful investors and top professors from Ivy League universities such as Harvard, Stanford, Cornell and more.",
+        "actions": {
+          "1": {
+            "label": "Learn more"
+          }
+        }
+      }
+    },
+    "sectionDownload": {
+      "body": {
+        "title": "Genetica Mobile App",
+        "description": "More than 1000+ in-depth reports about yourself right <br/> at your fingertips",
+        "subtitle": "Download App now"
+      }
+    },
+    "sectionBenefits": {
+      "header": {
+        "title": "Benefits of <br/>genetic testing"
+      },
+      "body": {
+        "list": {
+          "0": {
+            "actions": {
+              "learnMore": {
+                "label": "Learn more"
+              }
+            }
+          },
+          "1": {
+            "title": "Personalize Your Own <br/>Lifestyle",
+            "description": "Design your development plan based on genetic analysis about potential, nutrition needs, fitness scheme and recommendations from experts."
+          },
+          "2": {
+            "title": "Help your children <br/>reach their full potential",
+            "description": "Recognize your children's inborn abilities to create the best fitted development path in healthcare, education and future orientation."
+          },
+          "3": {
+            "title": "Understand Your Health <br/>Risks Early",
+            "description": "Prevent inherent diseases with personalized recommendations from our experts."
+          }
+        }
+      }
+    },
+    "sectionMedia": {
+      "header": {
+        "title": "Media say about Genetica"
+      }
+    },
+    "sectionPartners": {
+      "header": {
+        "title": "Our Partners",
+        "description": "Genetica® is recognized as the leading player in the personal genomics industry by our partners across the globe."
+      },
+      "body": {
+        "menu": {
+          "partnersFromUSA": {
+            "label": "In the US"
+          },
+          "partnersFromVietnam": {
+            "label": "In Vietnam"
+          }
+        }
+      }
+    },
+    "sectionCertificates": {
+      "header": {
+        "title": "International Certificate"
+      },
+      "body": {
+        "certificate": {
+          "1": "CLIA Certificate",
+          "2": "CAP Certificate"
+        },
+        "description": "Genetica's laboratories in San Francisco and Vietnam meet CAP & CLIA standards - the strictest U.S. standards for the accuracy of laboratories.<br /><br />By analyzing hundreds of genes, our genetic reports provide precise scientific information about physical, behavioral, intellectual traits & health risks, with personalized recommendations for each user."
+      }
+    },
+    "sectionProcess": {
+      "header": {
+        "title": "3-step testing process"
+      },
+      "body": {
+        "list": {
+          "1": {
+            "title": "Register Service",
+            "description": "After purchase, Genetica will send the DNA collection kit to your registered address."
+          },
+          "2": {
+            "title": "Collect your saliva sample",
+            "description": "Simply follow the instruction found inside the DNA tesing kit to collect your saliva. Once ready, send your saliva back to us for DNA analysis.",
+            "actions": {
+              "1": {
+                "label": "Instructional video"
+              }
+            }
+          },
+          "3": {
+            "title": "Results ready in 30 working days",
+            "description": "Download Genetica mobile app to view your comprehensive results with personalized recommendations.",
+            "actions": {
+              "1": {
+                "label": "Google Play"
+              },
+              "2": {
+                "label": "App Store"
+              }
+            },
+            "thumbnail": {
+              "caption": "Download App via:"
+            }
+          }
+        }
+      }
+    },
+    "sectionServices": {
+      "header": {
+        "title": "Services"
+      },
+      "body": {
+        "list": {
+          "adults": {
+            "title": "Adults",
+            "subtitle": "For individuals over 18"
+          },
+          "kids": {
+            "title": "Kids",
+            "subtitle": "For kids under 18"
+          },
+          "health": {
+            "title": "Health",
+            "subtitle": "All ages"
+          }
+        }
+      }
+    },
+    "sectionSpecialists": {
+      "header": {
+        "title": "Meet Genetica® Experts",
+        "description": "Our Experts are highly experienced doctors from major hospitals and research institutes <br/>across the country.",
+        "actions": {
+          "1": {
+            "label": "Learn more"
+          }
+        }
+      }
+    },
+    "sectionTestimonials": {
+      "header": {
+        "title": "Testimonials"
+      },
+      "body": {
+        "list": {
+          "0": {
+            "actions": {
+              "viewMore": {
+                "label": "View more"
+              }
+            }
+          },
+          "-1": {
+            "content": "<p>Genetica has served thousands of customers and helped them optimize their lifestyles. </p> <p> Let’s hear their inspiring stories and tell us yours.</p>",
+            "actions": {
+              "listenToOtherStory": "Listen to others' stories"
+            }
+          }
+        }
+      }
+    },
+    "sectionUtilities": {
+      "body": {
+        "list": {
+          "1": {
+            "title": "Sample reports"
+          },
+          "2": {
+            "title": "Book a consultation session",
+            "description": "Book a consultation session"
+          },
+          "3": {
+            "title": "Gift Code",
+            "description": "Gift Code"
+          }
+        }
+      }
+    },
+    "sectionWhyChoosingGenetica": {
+      "header": {
+        "title": "Why Choosing Genetica<span>®</span>"
+      },
+      "body": {
+        "list": {
+          "0": {
+            "actions": {
+              "viewDetails": {
+                "label": "View details"
+              }
+            }
+          },
+          "1": {
+            "title": "U.S. Standard Technology <br/>With99.9% Of Accuracy"
+          },
+          "2": {
+            "title": "Keep Customer Data Secure <br/>With Blockchain Technology"
+          },
+          "3": {
+            "title": "Collecting Saliva Sample - Safe <br/>and Non-invasive"
+          },
+          "4": {
+            "title": "In-depth Result Consultation <br/>With Genetic Experts"
+          }
+        }
+      }
+    },
+    "sectionBestSellingPackages": {
+      "header": {
+        "title": "Best Selling Services"
+      },
+      "actions": {
+        "viewAllProducts": "See All Services at Genetica"
+      }
+    }
+  },
+  "landing": {
+    "christmas-event": {
+      "contact": "Contact us",
+      "buyNow": "Buy now",
+      "partner": "International partners:",
+      "form": {
+        "title": {
+          "1": "explore",
+          "2": "YOUR CHILD’S SCHOLASTIC TALENTS",
+          "3": "TODAY!"
+        },
+        "phone": "Phone number*",
+        "description": "We will contact you upon receipt of your phone number.",
+        "submit": "contact us"
+      },
+      "modal": {
+        "success": {
+          "1": "Thanks for your information.",
+          "2": "Genetica",
+          "3": "will contact you <br/> upon receipt of <br/> your phone number."
+        },
+        "error": "Invalid phone number",
+        "action": "Close"
+      }
+    },
+    "tetEvent": {
+      "contact": "Contact us",
+      "buyNow": "Buy now",
+      "partner": "International partners:",
+      "form": {
+        "title": {
+          "1": "explore",
+          "2": "YOUR CHILD'S SCHOLASTIC TALENTS",
+          "3": "TODAY!"
+        },
+        "phone": "Phone number*",
+        "description": "We will contact you upon receipt of your phone number.",
+        "submit": "contact us"
+      },
+      "modal": {
+        "success": {
+          "1": "Thanks for your information.",
+          "2": "Genetica",
+          "3": "will contact you <br/> upon receipt of <br/> your phone number."
+        },
+        "error": "Invalid phone number",
+        "action": "Close"
+      }
+    },
+    "newYearResolution": {
+      "contact": "Contact us",
+      "buyNow": "Buy now",
+      "partner": "International partners:",
+      "form": {
+        "title": {
+          "1": "New year resolution",
+          "2": "decoding success",
+          "3": "today!"
+        },
+        "phone": "Phone number*",
+        "description": "We will contact you upon receipt of your phone number.",
+        "submit": "contact us"
+      },
+      "modal": {
+        "success": {
+          "1": "Thanks for your information.",
+          "2": "Genetica",
+          "3": "will contact you <br/> upon receipt of <br/> your phone number."
+        },
+        "error": "Invalid phone number",
+        "action": "Close"
+      }
+    }
+  },
+  "news": {
+    "header": {
+      "title": "News"
+    }
+  },
+  "newsDetails": {
+    "body": {
+      "sectionShare": {
+        "header": {
+          "title": "Share"
+        }
+      },
+      "sectionDiscussion": {
+        "header": {
+          "title": "Discussion about this post"
+        }
+      }
+    }
+  },
+  "partners": {
+    "header": {
+      "title": "Our Partners",
+      "breadcrumb": {
+        "home": "Home",
+        "partners": "Partners"
+      }
+    },
+    "sectionPartnersVN": {
+      "header": {
+        "title": "Partners in Vietnam"
+      }
+    },
+    "sectionPartnersUS": {
+      "header": {
+        "title": "Partners in the U.S."
+      }
+    }
+  },
+  "paymentMethods": {
+    "header": {
+      "title": "Payment Methods"
+    }
+  },
+  "pressRelease": {
+    "header": {
+      "title": "Press Release"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Statement and Disclosure of Information",
+    "content": "<p>This Privacy Statement and Disclosure of Information (the<b>\"Statement\"</b>) applies to the website located at<a href=\"https://genetica.asia/\">https://genetica.asia/</a>and any other website, application (including the Software and/or any other mobile application), pages, features and/or contents owned and operated by Gene Friend (the<b>\"Website\"</b>) and your use of our Services. In this Statement, the terms \"we\" and \"us\" refer to Gene Friend and its Permitted Party; and the terms \"you\" and \"your\" refer to User. The Website may also contain links to other sites and/or applications owned and operated by other entities, to which this Statement shall not be applied.</p><p>This Statement is designed to provide you a better understanding on how we collect, use, store, process, share and transfer your information in association with your use of our Services. Please make sure you review this Statement and our<b>Terms of Service</b>(the \"<b>TOS</b>\") carefully since you will be required to give your consent to this Statement and our TOS before proceeding further with your use of our Services.</p><h3>1. Definitions</h3><p>Unless being differently stated in this section or this Statement, the terms of which first letters are in upper case shall have the respective meanings as given to them in the TOS, which can be found at<a href=\"/terms-of-service/\">https://genetica.asia/terms-of-service/</a>.</p><p>(i) \"<b>Aggregate Information</b>\": information, that has been combined with that of other users and analyzed or evaluated as a whole, such that no specific individual may be reasonably identified.</p><p>(ii) \"<b>Individual-Level Genetic Information</b>\": information, about a single individual's genotypes, diseases or other traits/characteristics, but which is not necessarily tied to Registration Information.</p><p>(iii) \"<b>Report</b>\": means, Genetic Information and general recommendations rendered by Gene Friend basing on the test result of your gene.</p><h3>2. Your Information We Collect</h3><p>(i) Personal Information we collect from your registration and/or use our Website and/or our Service</p><p>(ii) Other information you provide us:</p><p>a)<u>User Content:</u>Some of our Services allow you to create and post or upload content, such as data, text, software, music, audio, photographs, graphics, video, messages, or other materials that you create or provide to us through either a public or private transmission, including but not limited to any discussions, posts, or messages you send on Gene Friend's forums.</p><p>b)<u>Blogs and Forums:</u>Our Website offers publicly accessible blogs. Additionally, Gene Friend clients may participate in our online forums. You should be aware that any information you provide or post in these areas may be read, collected, and used by others who access them. To request the removal or de-identification of any information that can be used to identify you from our blogs or forums, please contact us at cs@genetica.asia. Please note that whenever you post something publicly, in some cases, it may be impossible to remove all instances of the posted information, for example, if someone has taken a screenshot of your posting. Please exercise caution before choosing to share any information publicly on our blogs, forums or in any other posting. You may be required to register with a third-party application to post a comment. To learn how the third-party application uses your information, please review the third-party's privacy statement.</p><p>c)<u>Gifts:</u>If you provide us with information about others, or if others give us your information, for the purpose of ordering the Services as a gift, we will only use that information for the specific reason for which it was provided to us. Once a gift recipient registers for his or her Services and agrees to this Statement, our TOS, and if applicable, certain consent documents (e.g. the Request Form), such information will be used in manners consistent with this Statement, and will not be shared with the purchaser, unless they independently choose to share their own information through the Services with the purchaser.</p><p>d)<u>Customer service:</u>When you contact our Customer Care or correspond with us about our Services, we collect information to: track and respond to your inquiry; investigate any breach of our TOS, this Statement or applicable laws or regulations; and analyze and improve our Services.</p><p>(iii) Information we collect from your use of Services:</p><p><u>Saliva sample:</u>To use our genetic testing services, you must purchase, or receive as a Service gift given to you by other person, the Sample Collection Kit; create an online Genetica Account and register your Sample Collection Kit, and ship your saliva sample to Gene Friend. Gene Friend and/or its Permitted Party will extract the DNA from your saliva sample for analysis. During the Sample Collection Kit registration, you are asked to review our relevant Request Form, and submit us your fulfilled and signed ones.</p><p>(iv) Other sources of information: We also collect information that is publicly available. For example, we may collect information you submit to a blog, a forum, a chat room, or a social network like Facebook, Twitter or Google+. We may also collect information about you from other companies and organizations. The information we receive depends on your privacy settings with such information resources, of which features are either hosted by a third-party or hosted directly on our Website. Your interactions with these features are governed by the privacy policies of the third-party companies providing them. We do not control the third-party site's information practices. You should always review and, if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to our Website or Services.</p><p>By gathering additional information about you, we can correct inaccurate information, enhance the security of your transactions and give you product recommendations and special offers that are more likely to interest you.</p><h3>3. How We Use Information</h3><p>Gene Friend will use and share your information described above in Section 2 with third parties only in the ways that are described in this Statement, including:</p><p>(i) For the Service operation, provision, analyzation and improvement, include, among other things:</p><p>a) Open your Genetica Account, enable purchase function and process payments, communicate with you, and implement your requests (e.g., referrals);</p><p>b) Enable and enhance your use of the Web, including authenticating your visits, providing personalized content and information, and tracking your usage of our Services;</p><p>c) Contact you about your Genetica Account, and any relevant information about our Services (e.g. Statement changes, security updates or issues, etc.);</p><p>d) Enforce our TOS and other agreements with you;</p><p>e) Monitor, detect, investigate and prevent prohibited or illegal behaviors on our Services, to combat spam and other security risks;</p><p>f) Perform research &amp; development activities, which may include, for example, conducting data analysis and research in order to develop new or improve existing products and services, and performing quality control activities;</p><p>g) Provision of customer support; and</p><p>h) Obtaining surveys, polls and obtaining testimonials. We value your feedback and may send you surveys, polls, or requests for testimonials to improve and optimize our Services. You are in control of the information you would like to share with us. If you do not wish to receive these requests, you can manage them in your Genetica Account settings.</p><p>(ii) For the process of genetic test:</p><p>As, described above in Section 2.(iii), to use our genetic testing service and receive the results, you must create a Genetica Account, register your Sample Collection Kit, and submit your saliva sample to us to process and analyze in order to provide you with the Genetic Information, depending on the Services purchased. Gene Friend continuously works to improve our Services based on our research and product development, and genetic associations identified in scientific literature. If you are eligible to receive additional reports or updates in the future, you may be notified of or may directly access these updates.</p><p>(iii) For sharing your information with others:</p><p>Gene, Friend gives you the ability to share information, including Personal Information, through the Services. You have the option to share directly with individuals, using Genetica Account, through (a) our forums, (b) relative finding features (e.g., \"DNA Relatives\"), (c) other sharing features and tools.</p><p>For sharing your information for the Gene Friend Research and/or Product Development which may be sponsored by, conducted on behalf of, or in collaboration with third parties, such as non-profit foundations, academic institutions or pharmaceutical companies. Gene Friend Research may study a specific group or population, identify potential areas or targets for therapeutics development, conduct or support the development of drugs, diagnostics or devices to diagnose, predict or treat medical or other health conditions, work with public, private and/or non-profit entities on genetic research initiatives, or otherwise create, commercialize, and apply this new knowledge to improve health care. Gene Friend Research uses Aggregate and/or Individual-Level Genetic Information and Self-Reported Information as specified in the appropriate Request Form.</p><p>If you choose not to complete a corresponding Request Form or any additional agreement with Gene Friend, your information as described in this section will not be used for the Gene Friend Research and Product Development. However, your Genetic Information and Self-Reported Information may still be used by us and shared with our third-party service providers as outlined in this Statement.</p><p>(iv) For recruiting you for external research:</p><p>Research is an important aspect of the Services and we want to ensure interested participants are aware of additional opportunities to contribute to interesting, novel scientific research conducted by academic institutions, healthcare organizations, pharmaceutical companies, and other groups. If you have chosen to participate in the Gene Friend Research and Product Development, from time to time we may inform you of third party research opportunities for which you may be eligible. However we will not share Individual-Level Genetic Information or Self-Reported Information with any third party without your consent. If you do not wish to receive these notifications, you can manage them by editing your preferences in your Genetica Account settings.</p><p>(v) For the provision of marketing communications:</p><p>By creating a Genetica Account, you agree that we may send you product and promotional emails or notifications about our Services, and offers on new products, services, promotions or contests. You can unsubscribe from receiving these marketing communications at any time. To unsubscribe, click the email footer \"unsubscribe\" link or go to the \"Preferences\" section of your Genetica Account settings to edit your email notification preferences. You may not opt-out of receiving non-promotional messages regarding your Genetica Account, such as technical notices, purchase confirmations, or Service-related emails.</p><h3>4. Information we share with third parties</h3><p>(i) General service providers:</p><p>We share the information described above in Section 2 with our third-party service providers, as necessary for them to provide their services to us and help us perform our contract with you. Service providers are third parties (other companies or individuals) that help us to provide, analyze and improve our Services. While Gene Friend directly conducts the majority of data processing activities required to provide our Services to you, we engage some third-party service providers to assist in supporting our Services, including, but not limited to in the following areas:</p><p>a) Order fulfillment and shipping.</p><p>b) Our CLIA-certified genotyping lab.</p><p>c) Customer Care support.</p><p>d) Cloud storage, IT, and Security.</p><p>(ii) Aggregate Information:</p><p>We may share Aggregate Information, which is information that has been stripped of your name and contact information and combined with information of others so that you cannot reasonably be identified as an individual, with third parties. This kind of information is different from Individual-Level Genetic Information and is not Personal Information because it does not identify any particular individual or disclose any particular individual's data. Gene Friend will ask for your consent to share Individual-Level Genetic Information or Self-Reported Information with any third party, other than our service providers, as necessary for us to provide the Services to you.</p><p>(iii) Information we share with commonly owned entities:</p><p>We may share some or all of your information with other companies under common ownership or control of Gene Friend, which may include our subsidiaries, our corporate parent, or any other subsidiaries owned by our corporate parent in order to provide you better service and improve user experience. Generally, sharing such information is necessary for us to perform our contract with you. We may provide additional notice and ask for your prior consent if we wish to share your information described above in the Section 2 with our commonly owned entities in a materially different way than discussed in this Statement.</p><p>(iv) For helping us protect lawful interests and/or as requested by applicable laws:</p><p>You acknowledge and agree that Gene Friend is free to preserve and disclose any and all Personal Information to law enforcement agencies or others if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process (such as a judicial proceeding, court order, or government inquiry) or obligations that Gene Friend may owe pursuant to ethical and other professional rules, laws, and regulations; (b) enforce the TOS and/or other agreements with you, and/or our policies and; (c) respond to claims that any content violates the rights of third parties; or (d) protect the rights, property, or personal safety of Gene Friend, its employees, its Users, its clients, and the public.</p><p>(v) Business transactions:</p><p>In the event that Gene Friend goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, you acknowledge and agree that all your information as described above in the Section 2 will be among the assets to be transferred, and would remain subject to the privacy statement of the transferee in question.</p><h3>5. Your right to control</h3><p>(i) Access to your Genetica Account:</p><p>We provide you with access to your Gene Friend data within your Genetica Account. You can access and download data processed by Gene Friend within your Genetica Account settings and within applicable reports, tools, and features. If you lose access to your Genetica Account or email address of Genetica Account, please contact Customer Care for assistance. If you lose access to your Genetica Account, in certain circumstances, we may require that you submit additional information sufficient to verify your identity before providing access or otherwise releasing information to you. If you choose not to submit the required documentation, or the information provided is not sufficient for the purposes sought, Gene Friend will not be able to sufficiently verify your identity in order to complete your request.</p><p>You may access, correct or update most of your Registration Information on your own within your Genetica Account settings.</p><p>(ii) Marketing communications:</p><p>As noted in Section 3.(v), you may be asked to opt-in to receive product and promotional emails or notifications when creating your Genetica Account depending on where you are located. Otherwise, you may view or update your email notification preferences by visiting your Genetica Account settings or by contacting our Privacy Administrator at contact@genetica.asia. You can also click the \"unsubscribe\" button at the bottom of promotional email communications.</p><p>(iii) Sharing outside of the Services:</p><p>You may decide to share your information with friends and/or family members, doctors or other health care professionals, and/or other individuals outside of our Services, including through third-party services such as social networks and third-party apps that connect to our Website through our application programming interface (\"API\"). These third parties may use your information differently than we do under this Statement. Please make such choices carefully and review the policies of all other third parties involved in the transaction. Gene Friend does not endorse or sponsor any API applications, and does not affirm the accuracy or validity of any interpretations made by third party API applications. Gene Friend will have no responsibility or liability for any consequences that may result from your release or share of your information with others.</p><p>(iv) Legal Retention Requirements:</p><p>Gene Friend and our third-party genotyping laboratory may retain your Genetic Information, date of birth, and sex as required for compliance with applicable legal obligations.</p><h3>6. Security Measures</h3><p>(i) Gene Friend takes seriously the trust you place in us. Gene Friend implements physical, technical, and administrative measures to prevent unauthorized access to or disclosure of your information, to maintain data accuracy, to ensure the appropriate use of information, and otherwise safeguard your Personal Information from any unauthorized access and/or use in accordance with this Statement and applicable laws.</p><p>(ii) You acknowledge and agree that protecting your information is also your responsibility. You are required to be responsible for safeguarding your password, and other authentication information you use to access our Services. You should not disclose your authentication information to any third party and should immediately notify Gene Friend of any unauthorized use of your password. Gene Friend cannot secure your information that you release on your own or that you request us to release.</p><p>(iii) Your information collected through the Services may be stored and processed in Vietnam or any other country in which Gene Friend or its Permitted Party maintains facilities and, therefore, your information may be subject to the laws of those other jurisdictions which may be different from the laws of your country of residence.</p><h3>7. Children's privacy</h3><p>Gene Friend is committed to protect the privacy of children as well as adults. Neither Gene Friend Website/Application nor any of its Services are designed for, intended to attract, or directed toward children under the age of 18. A parent or legal guardian, however, may collect a saliva sample from, create an account for, and provide information related to, his or her child who is under the age of 18 or the kid under age of 18 who is under his/her guardian. The parent or guardian assumes full responsibility for ensuring that the information that he/she provides to Gene Friend about his or her child or the kid is under his/her guardian is kept secure and that the information submitted is accurate.</p><h3>8. Linked websites</h3><p>Gene Friend provides links to third-party websites operated by organizations not affiliated with Gene Friend. Gene Friend does not disclose your information to organizations operating such linked third-party websites. Gene Friend does not review or endorse, and is not responsible for the privacy practices of these organizations. We encourage you to read the statement of each and every website that you visit. This Statement applies solely to information collected by Gene Friend and our service providers on our behalf.</p><h3>9. Changes to this Statement</h3><p>Whenever this Statement is changed in a material way, a notice will be posted as part of this Statement and on our Website for 30 days prior to the effective of the change(s). Gene Friend may provide additional \"just-in-time\" disclosures or additional information about the data collection, use and sharing practices of specific Services. Such notices may supplement or clarify Gene Friend's privacy practices or may provide you with additional choices about how Gene Friend collects, processes, stores, uses, shares and transfers your Personal Information. You should review this Statement frequently for your update of our changes.</p><h3>10. Contact information</h3><p>If you have questions about this Statement, or wish to submit a complaint, please email Gene Friend's Privacy Administrator at:<a href=\"mailto:contact@genetica.asia\">contact@genetica.asia</a></p><p>Last update on: October 14, 2022</p><p>If there will be any update, amendment, or changes to our Privacy Statement and Disclosure of Information then these will be posted on this page.</p>",
+    "sidebar": {
+      "menu": {
+        "privacyPolicy": {
+          "label": "Privacy Policy"
+        },
+        "termsOfService": {
+          "label": "Terms of Service"
+        }
+      }
+    }
+  },
+  "productCategory": {
+    "header": {
+      "title": {
+        "prefix": ""
+      }
+    },
+    "sectionFilters": {
+      "field": {
+        "ages": "Ages",
+        "demands": "Traits",
+        "filterBy": "Filter by"
+      },
+      "actions": {
+        "select": "Select",
+        "seeMore": "See more"
+      }
+    },
+    "sectionTestimonials": {
+      "title": "Over <br>100,000 customers <br>choose Genetica",
+      "description": "Listen to our customers' stories <br />and share yours to us!",
+      "actions": {
+        "seeOtherStories": "More stories from our customers"
+      }
+    },
+    "sectionDownload": {
+      "title": "Read sample report <br/>Download Genetica app now!",
+      "description": "1000+ relevant results on Genetica mobile app, <br/>easy to access any time, and anywhere."
+    },
+    "sectionComparePackages": {
+      "comparisonTable": {
+        "columnLabel": {
+          "installment": "0% interest instalment plan"
+        }
+      }
+    },
+    "sectionCompareCombos": {
+      "comparisonTable": {
+        "columnLabel": {
+          "1": "Services include",
+          "2": "Service quantity"
+        },
+        "packageRows": [
+          {
+            "title": "G-Pro",
+            "description": "Comprehensive care for adults"
+          },
+          {
+            "title": "G-Kid Pro",
+            "description": "Comprehensive care for children"
+          },
+          {
+            "title": "Mở khóa G-Immunity *",
+            "description": "Understand your immunity"
+          },
+          {
+            "title": "Mở khóa G-Allergy *",
+            "description": "Access inherent risks of allergies"
+          },
+          {
+            "title": "Mở khóa G-Stroke *",
+            "description": "Access inherent risks of allergies"
+          }
+        ],
+        "tooltip": {
+          "seeDetails": "Go to product details"
+        },
+        "notice": "Unlocking packages are only applied to users using G-Pro or G-Kid Pro in the Combo and are inapplicable to new users.<br />Contact Genetica Hotline to get support on customizing quantity and services in the combo, depending on your family's needs."
+      }
+    }
+  },
+  "productDetails": {
+    "header": {
+      "content": {
+        "seeTestedTraits": {
+          "label": "Other Traits"
+        }
+      },
+      "packages": {
+        "statistics": {
+          "numberOfGenesAnalyzed": {
+            "label": "genes analyzed"
+          },
+          "numberOfResultsAndPersonalizedRecommendations": {
+            "label": "results & personalized<br/>recommendations"
+          },
+          "salivaOnly": {
+            "label": "saliva only"
+          },
+          "numberOfCommonCancers": {
+            "label": "common cancers"
+          },
+          "personalizedRecommendations": {
+            "label": "Personalized Recommendations"
+          },
+          "everyoneWillBenefit": {
+            "label": "Everyone will benefit"
+          }
+        }
+      },
+      "actions": {
+        "addToCart": {
+          "label": "Add to cart"
+        },
+        "download": {
+          "label": "View sample report (PDF)"
+        }
+      }
+    },
+    "body": {
+      "sectionSection": {
+        "content": {
+          "traits": {
+            "seeDetails": {
+              "label": "See details"
+            }
+          }
+        }
+      },
+      "sectionBanners1": {
+        "header": {
+          "title": "Get Your Results<br/>Anywhere, Anytime."
+        },
+        "body": {
+          "list": {
+          }
+        }
+      },
+      "sectionPackageFeatures": {
+        "header": {
+          "title": "Select the right package for you",
+          "healthTitle": "List of tested cancers"
+        },
+        "body": {
+          "table": {
+            "header": {
+              "userObject": "User object",
+              "geneAnalyzed": "Gene analyzed",
+              "genes": "genes",
+              "upTo": "Up to",
+              "Results": "Results",
+              "results": "results",
+              "resultsValue": "Up to {{value}} results",
+              "personalisedRecommendations": "Recommendations",
+              "viewReportOnMobileApp": "Reports on mobile app",
+              "paperReport": "Reports in hard copies",
+              "availableAtRequest": "Upon request",
+              "actions": {
+                "addToCart": {
+                  "label": "Add to cart"
+                }
+              },
+              "genders": {
+                "male": "Male",
+                "female": "Female"
+              }
+            },
+            "footer": {
+              "seeAllReports": "See all reports"
+            }
+          }
+        }
+      },
+      "sectionOtherServices": {
+        "header": {
+          "title": "Other services"
+        }
+      },
+      "sectionBanners2": {
+        "list": {
+          "1": {
+            "title": "Experts from the U.S",
+            "description": "Our lab in San Francisco hosts some of science's brightest minds."
+          },
+          "2": {
+            "title": "AI technology",
+            "description": "We use cutting-edge artificial intelligence to reveal the secrets of your genes."
+          },
+          "3": {
+            "title": "Security",
+            "description": "Your information is safe, secure, and accessible only to you."
+          },
+          "4": {
+            "title": "Results after 30 days",
+            "description": "Your reports will be available on your phone and sent to your door."
+          }
+        }
+      },
+      "sectionTestedTraits": {
+        "header": {
+          "title": "Traits Tested"
+        },
+        "body": {
+          "labels": {
+            "genes": "genes"
+          }
+        }
+      },
+      "sectionGetInTouch": {
+        "header": {
+          "title": "Still Got Questions?"
+        },
+        "body": {
+          "description": {
+            "textBefore": "Feel free to get in touch with your inquires about ",
+            "textAfter": ". Our staff will get back to you as soon as possible. Remember, we want to hear from you!"
+          }
+        },
+        "footer": {
+          "actions": {
+            "text": "Get in touch"
+          }
+        }
+      }
+    }
+  },
+  "productDetailsV2": {
+    "common": {
+      "labels": {
+        "originalPrice": "Original price",
+        "specialOffer": "Special offer",
+        "benefits": "Benefits you'll get",
+        "serviceFeatures": "Service features",
+        "downloadAppAt": "Download app",
+        "relatedServices": "Relevant services",
+        "priceNotInclude": "Price does not include",
+        "details": "Details",
+        "result": "Result"
+      },
+      "buttons": {
+        "installment": "0% Installment",
+        "addToCart": "Add to your cart",
+        "videoHelp": "Follow guideline in this video",
+        "seeDetails": "See details",
+        "buyNow": "Buy now",
+        "viewSampleReport": "View sample report",
+        "seeMore": "See more",
+        "seeAll": "See all",
+        "seeMoreComparison": "See comparison",
+        "viewSampleReportPDF": "View sample report (PDF)",
+        "installmentTerms": "Installment terms & conditions"
+      }
+    },
+    "sectionServiceNotInclude": {
+      "title": "Price does not include costs",
+      "items": {
+        "1": {
+          "title": "In-depth consultation with expert"
+        },
+        "2": {
+          "title": "Sample collection kit",
+          "description": "Applied to 3rd time saliva collection"
+        },
+        "3": {
+          "title": "Report in hard copy (upon request)"
+        }
+      }
+    },
+    "sectionServiceInclusion": {
+      "title": "Service includes",
+      "items": {
+        "1": "DNA collection kit (Sample collection tube, Registration form, Guideline)",
+        "2": "Genetic reports on Genetica app",
+        "3": "Consultation with Genetica's expert"
+      }
+    },
+    "sectionSubmenu": {
+      "items": {
+        "details": "Details",
+        "howToUse": "How to use",
+        "compareServices": "Compare services",
+        "relevantServices": "Relevant services",
+        "contactUs": "Contact us"
+      }
+    },
+    "sectionProcess": {
+      "title": "Simple process",
+      "steps": {
+        "1": {
+          "title": "Step 1: Receive DNA collection kit",
+          "description": "Genetica will send the DNA collection kit to your address."
+        },
+        "2": {
+          "title": "Step 2: Collect and send your saliva sample",
+          "description": "The saliva extraction is simple and painless. You can easily follow the steps in the attached guide.\nAfter that, please notify us via Genetica mobile app or hotline for sample collection."
+        },
+        "3": {
+          "title": "Step 3: Receive genetic report",
+          "description": "Your genetic reports will be issued after 30 working days, counting from the day we receive your qualified saliva. Read your report on Genetica mobile app or your registered E-mail box."
+        }
+      },
+      "links": {
+        "salivaCollectingGuide": "https://youtu.be/8nMElgmkOaM?list=PLHSgVYL21dUWMzEtcKq6WslmHDlZescHa"
+      }
+    },
+    "sectionServiceComparison": {
+      "title": "Compare <br />Services"
+    },
+    "sectionDownloadSampleReport": {
+      "title": "Receive the report on Genetica mobile app."
+    }
+  },
+  "redeem": {
+    "sectionInputCode": {
+      "header": {
+        "title": "Gifts Code",
+        "description": "Enter the referral code you received"
+      },
+      "body": {
+        "formInsertCode": {
+          "fields": {
+            "code": {
+              "placeholder": "Gifts code / Referral code"
+            }
+          },
+          "buttons": {
+            "submit": {
+              "label": "Submit"
+            }
+          }
+        }
+      }
+    },
+    "sectionCustomerInformation": {
+      "header": {
+        "title": "Customer information",
+        "description": "Please provide your information so that Genetica can deliver the saliva collecting kit to you"
+      },
+      "body": {
+        "formCustomerInformation": {
+          "fields": {
+            "name": {
+              "label": "Full name",
+              "placeholder": "Full name",
+              "error": {
+                "message": {
+                  "error": "Error",
+                  "required": "Required"
+                }
+              }
+            },
+            "phone": {
+              "label": "Phone number",
+              "placeholder": "Phone number",
+              "error": {
+                "message": {
+                  "error": "Invalid phone number",
+                  "required": "Required"
+                }
+              }
+            },
+            "address": {
+              "label": "Address",
+              "fields": {
+                "country": {
+                  "placeholder": "Country",
+                  "error": {
+                    "message": {
+                      "outsideVietNam": "We do not deliver to outside of Vietnam at the moment. Please email us at <1>contact@genetica.asia</1> for support.",
+                      "required": "Required"
+                    }
+                  }
+                },
+                "provinceCity": {
+                  "placeholder": "Province/City",
+                  "error": {
+                    "message": {
+                      "error": "Error",
+                      "required": "Required"
+                    }
+                  }
+                },
+                "district": {
+                  "placeholder": "District",
+                  "error": {
+                    "message": {
+                      "error": "Error",
+                      "required": "Required"
+                    }
+                  }
+                },
+                "ward": {
+                  "placeholder": "Ward",
+                  "error": {
+                    "message": {
+                      "error": "Error",
+                      "required": "Required"
+                    }
+                  }
+                },
+                "locationDetail": {
+                  "placeholder": "Location detail (land mark, number etc)",
+                  "error": {
+                    "message": {
+                      "error": "Error",
+                      "required": "Required"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "buttons": {
+            "submit": {
+              "label": "finish"
+            }
+          }
+        }
+      }
+    },
+    "modalSuccess": {
+      "header": {
+        "title": "Thank you for choosing Genetica®"
+      },
+      "body": {
+        "message": {
+          "notify": "Genetica will send a saliva collecting kit to your address within 1 - 3 working days:",
+          "address": "9th Floor, National Innovation Center - NIC, No.07 Ton That Thuyet Street, Dich Vong Hau Ward, Cau Giay District, Hanoi city, VietNam",
+          "contact": "Should you require any further support, please contact us via email <1>cs@genetica.asia</1> or hotline <3>1900 599 927</3>."
+        },
+        "button": {
+          "label": "Back to home page"
+        }
+      }
+    },
+    "modalError": {
+      "header": {
+        "title": "Something went wrong"
+      },
+      "body": {
+        "message": {
+          "notify": "Your changes haven’t been saved.",
+          "contact": "Should you require any further support, please contact us via email <1>cs@genetica.asia</1> or hotline <3>1900 599 927</3>."
+        },
+        "button": {
+          "label": "Try again"
+        }
+      }
+    }
+  },
+  "reportReadingGuide": {
+    "title": "How to read genetic reports",
+    "sidebar": {
+      "menu": {
+        "title": "Choose topics"
+      }
+    },
+    "sectionMenu": {
+      "actions": {
+        "seeMore": "See more"
+      }
+    },
+    "sectionReportReadingGuide": {
+      "title": "Guide to read {{reportName}} report"
+    }
+  },
+  "returnAndComplaintHandlingPolicy": {
+    "header": {
+      "title": "Complaint-Handling Policy"
+    }
+  },
+  "screeningQuestionnaire": {
+    "title": "Screening Questionnaire",
+    "subtitle": "- Coming soon -"
+  },
+  "search": {
+    "title": "Search results for:",
+    "content": {
+      "sectionProductPackages": {
+        "title": "Products"
+      },
+      "sectionBlog": {
+        "title": "Blog"
+      },
+      "sectionNews": {
+        "title": "News"
+      },
+      "press": {
+        "title": "Media say about Genetica"
+      },
+      "sectionEmpty": {
+        "description": "Sorry, cannot find related products <br/>to your search"
+      }
+    }
+  },
+  "serviceDeliveryProcess": {
+    "header": {
+      "title": "Service Delivery Process"
+    }
+  },
+  "serviceExchangeCancellationAndRefundPolicy": {
+    "header": {
+      "title": "Service Exchange, Cancellation & Refund Policy"
+    }
+  },
+  "surveys": {
+    "postConsultation": {
+      "header": {
+        "title": "What do you think?",
+        "for": "A consultation session for"
+      },
+      "body": {
+        "submit": "Send",
+        "loading": "Loading"
+      },
+      "success": {
+        "title": "Thank you for completing the survey",
+        "content": "Please open your Genetica® App to receive our gift for you - an unlock voucher applied for any Genetica® service <i>(except for G-Care, G-Pro, G-Kid Care & G-Kid Pro)</i>.",
+        "contactUs": "For support, please contact us via Hotline",
+        "backToHomePage": "Back to homepage"
+      },
+      "errors": {
+        "default": {
+          "title": "The questions for you could not be loaded at this time.",
+          "message": "Please try again later"
+        },
+        "dataRetrieveFailed": {
+          "title": "The questions for you could not be loaded at this time.",
+          "message": "Please try again later"
+        },
+        "feedbackFormExpired": {
+          "title": "",
+          "message": "The questions for you have expired!"
+        }
+      },
+      "modalError": {
+        "content": "Your feedback cannot be sent at this time, please try again. For support, please contact via hotline",
+        "action": "OK"
+      }
+    },
+    "preConsultation": {
+      "header": {
+        "progress": {
+          "label": "You have completed {{ value }}% of the questionnaire"
+        },
+        "for": "For"
+      },
+      "body": {
+        "loading": "Loading"
+      },
+      "actions": {
+        "skip": "Skip",
+        "back": "Back",
+        "next": "Next",
+        "submit": "Submit"
+      },
+      "success": {
+        "title": "Thanks for completing the survey.",
+        "content": "",
+        "contactUs": "For support, please contact us via Hotline",
+        "backToHomePage": "Back to homepage"
+      },
+      "errors": {
+        "default": {
+          "title": "The questions for you could not be loaded at this time.",
+          "message": "Please try again later"
+        },
+        "dataRetrieveFailed": {
+          "title": "The questions for you could not be loaded at this time.",
+          "message": "Please try again later"
+        },
+        "feedbackFormExpired": {
+          "title": "",
+          "message": "The questions for you have expired!"
+        }
+      },
+      "modalError": {
+        "content": "Your feedback cannot be sent at this time, please try again. For support, please contact via hotline",
+        "action": "OK"
+      }
+    },
+    "onboarding": {
+      "content": {
+        "title": "Welcome to Genetica",
+        "description": "Please tell us a bit about you so we can serve you better. Your input is very important to us!"
+      },
+      "actions": {
+        "skip": "Skip",
+        "close": "Close",
+        "previous": "Previous",
+        "next": "Next",
+        "finish": "Finish"
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "Terms of Service",
+    "content": "<p>PLEASE READ THESE TERMS OF SERVICE CAREFULLY SINCE BY USING THE SERVICES, YOU AGREE TO BE BOUND WITH THESE TERMS OF SERVICE (THE \"<b>TOS</b>\") AND ALL TERMS INCORPORATED HEREIN BY REFERENCE. IF YOU DO NOT AGREE WITH THESE TERMS OF SERVICE, PLEASE DO NOT USE THE SERVICES.</p><h3>1. DEFINITIONS</h3><p>(i) \"<b>Aggregated Genetic and Self-Reported Information</b>\" is Genetic and Self-Reported Information that has been combined with that of other Users and analyzed or evaluated as a whole, such that no specific individual may be reasonably identified.</p><p>(ii) \"<b>Customer Care</b>\" is the support functions offered by Gene Friend to User during the use of the Services.</p><p>(iii) \"<b>Gene Friend</b>\" means Gene Friend Vietnam Company Limited, which duly incorporated under the Enterprise Registration Certificate No. 0108276596 issued by the Department of Planning and Investment of Ho Chi Minh City on 16 May 2018, with its office locates at 2nd Floor, 40 Pham Ngoc Thach Street, Vo Thi Sau Ward, Dist.3, Ho Chi Minh City, Vietnam (also referred to as \"we\" or \"us\")</p><p>(iv) \"<b>Genetica Account</b>\" is an account created free of charge by the User, and allowed by Gene Friend, on the Web and/or Application for the purposes of his/her access and/or using the Services.</p><p>(v) \"<b>Gene Friend Research</b>\" means scientific research that Gene Friend performs with the intention to publish in a peer-reviewed scientific journal. The use of your information for the purpose of Gene Friend Research shall be in accordance with the consent in the applicable Letter of Consent, these TOS and the Privacy Statement.</p><p>(vi) \"<b>Permitted Party</b>\"/ \"<b>Permitted Parties</b>\" means Gene Friend's Partner, i.e. Gene Friend Way, Inc., which incorporated under License No. 4086894 issued by the Secretary of State of California on 5 December 2017, and/or any other third party which has valid agreements with the Gene Friend in the provision of the Service.</p><p>(vii) \"<b>Personal Information</b>\" is information that can be used to identify you, either alone or in combination with other information. Gene Friend collects, processes, stores, and uses the following types of Personal Information:</p><p>a. \"<b>Genetic Information</b>\" is information regarding your genotype (e.g. the As, Ts, Cs, and Gs at particular locations in your genome), generated through the processing of your saliva sample by Gene Friend or by its Permitted Parties, successors, and/or assignees; or otherwise processed by and/or contributed to Gene Friend;</p><p>b. \"<b>Registration Information</b>\" is the information you provide about yourself when registering for and/or purchasing our Services (including but not limited to, name, email, address, User ID and password, and payment information); and</p><p>c. \"<b>Self-Reported Information</b>\" is all information about yourself, including your disease conditions, other health-related information, personal traits, ethnicity, family history, and other information that you enter into surveys, forms, or features while signed in to your Genetica Account.</p><p>(viii) \"<b>Privacy Statement and Disclosure of Information</b>\" is the Gene Friend Privacy Statement and Disclosure of Information located at<a href=\"https://genetica.asia/privacy-policy\">https://genetica.asia/privacy-policy</a>.</p><p>(ix) \"<b>Product Development</b>\" means research performed for the purpose of new product development and new product development activities performed by Gene Friend on de-identified User data. These activities may include, among other things, improving our Services and/or offering new products or services to you; performing quality control activities; conducting data analysis that may lead to and/or include commercialization with a third party</p><p>(x) \"<b>Service</b>\" or \"<b>Services</b>\" means Gene Friend's products, software, services, Application and Website (including but not limited to text, graphics, images, and other material and information) as accessed and used from time to time by the User, regardless if the use is in connection with an Genetica Account or not.</p><p>(xi) \"<b>User</b>\" means any person who accesses or uses the Service and/or Web and/or Application.</p><p>(xii) \"<b>User Content</b>\" is all information, data, text, software, music, audio, photographs, graphics, video, messages, or other materials – other than Genetic Information and Self-Reported Information generated by Users of Gene Friend's Services and transmitted, whether publicly or privately, to or through the Web.</p><p>(xiii) \"<b>Web</b>\" means the Gene Friend's website located at<a href=\"https://genetica.asia\">https://genetica.asia</a>.</p><p>(xiv) “<b>Application</b>” means the mobile application used for User to register their information and Service of Gene Friend.</p><h3>2. ACCEPTANCE OF TERMS</h3><p>Your use of Gene Friend's Services (excluding any services provided by Gene Friend under a separate agreement) is subject to the terms of the legal agreement between you and Gene Friend set forth in these TOS and in any and all documents incorporated herein by reference. Except as specified herein, these TOS apply to any use of the Services, including but not limited to (i) submitting a saliva sample for DNA extraction and processing, (ii) uploading a digital version of your Genetic Information and interacting with it on the Web and/or Application, and/or (iii) creating and using a free Genetica Account without providing your saliva sample or Genetic Information. In order to use the Services, you must first agree to these TOS. You may not use the Services if you do not accept these TOS. You can accept these TOS by (i) clicking to accept or agree to these TOS, where this option is made available to you by Gene Friend for any Service; or by (ii) actually using the Services. In this case, you acknowledge and agree that Gene Friend will treat your use of the Services as acceptance of these TOS from that point onwards. In addition, when using particular Services, you shall be subject to any guidelines or rules applicable to such services that may be posted from time to time. All such guidelines or rules are hereby incorporated by reference into these TOS. Gene Friend may also offer other services from time to time that are governed by different terms of service.</p><h3>3. PREREQUISITES</h3><p>Whether or not you submit your own saliva sample, a saliva sample of anyone for whom you have legal authority to agree, or otherwise provide your own Genetic Information, you use the Services and accept these TOS only when you are eighteen (18) years of age or older and have full capacity for civil acts to agree to these TOS on behalf of yourself or those for whom you have legal authority.</p><p>Neither Gene Friend's Web/Application nor any of its Services are designed for, intended to attract, or directed toward children under the age of 18.</p><h3>4. DESCRIPTION OF THE SERVICES</h3><p>The Services include access to the Web and/or Application and personal genotyping services, including the collection and analysis of your saliva sample. Unless explicitly stated otherwise, each new feature that augments or enhances the current Services shall be subject to these TOS. You acknowledge and agree that the Services are provided \"AS-IS\" and are based on the current state of the art of genetic research and technology in use by Gene Friend at the time of the purchase or viewing. As research progresses and scientific knowledge and technology evolve, Gene Friend is constantly innovating in order to provide the best possible experience for its Users. You acknowledge and agree that the form and nature of the Services which Gene Friend provides may change from time to time without prior notice to you. As part of this continuing innovation, you acknowledge and agree that Gene Friend may stop (permanently or temporarily) providing some Services (or any features within the Services) to you or to Users generally at Gene Friend's sole discretion, without prior notice to you. You may stop using the Services at any time. You do not need to specifically inform Gene Friend when you stop using the Services. Gene Friend assumes no responsibility for the use of Services outside the terms of these TOS or other applicable terms.</p><p>You are responsible for any Internet service fees as well as any device/ equipment which are necessary or required for your use of our Web and/or Application and/or Services.</p><h3>5. RISKS AND CONSIDERATIONS REGARDING SERVICES</h3><p>Once you obtain your Genetic Information, the knowledge is irrevocable. You should not assume that any information we may be able to provide to you, whether now or as genetic research advances, will be welcome or positive. You should also understand that as research advances, in order for you to assess the meaning of your DNA in the context of such advances, you may need to obtain further services from Gene Friend, your physician, a genetic counselor, or other health care provider.</p><p>We encourage you to talk to a genetic counselor, a health professional with special training in genetic conditions, prior to the collection of your sample for testing to learn more, so that you can make an informed decision about whether the test is right for you. A genetic counselor also can help you understand your results and options.</p><p>The laboratory may not be able to process your sample, and the laboratory process may result in errors. The laboratory may not be able to process your sample up to 3.0% of the sample if (i) your saliva sample does not contain a sufficient volume of DNA, (ii) you do not provide enough saliva sample, or (iii) the results from processing do not meet our standards for accuracy. If the processing fails for any of these reasons, the User shall, at our request, provide us with other saliva sample (the second sample), and Gene Friend will reprocess the same at no charge to the User. However, in such case, the delay time shall not be counted into the time limit for Gene Friend to conduct and complete the process. In addition, Gene Friend shall not be responsible for any and all fees or expenses incurred by you as the result of such delay.</p><p>If the User sends another sample and Gene Friend's attempts to process the second sample are unsuccessful, Gene Friend will not send additional Sample Collection Kits, provided the User shall not resubmit another sample through a future purchase of the service, Gene Friend shall have the right to reject to process your sample without any legal and refund responsibility for you, in any one of the circumstances as provided in the Section 3(f) of the Letter of Consent. In addition, if the User breaches these TOS and resubmits another sample through a future purchase of the service and the processing is not successful, Gene Friend will not offer to reprocess the sample or provide the User a refund. Even for processing that meets our high standards, a small, unknown fraction of the data generated during the laboratory process may be un-interpretable or incorrect (referred to as \"Errors\"). As this possibility is known in advance, Users are not entitled to refunds where these Errors occur.</p><p>You should not change your health behaviors solely on the basis of information from Gene Friend. Please make sure to discuss your Genetic Information with a physician or other health care provider before you act upon the Genetic Information resulting from Gene Friend's Services. In any case, if you have concerns or questions about what you learn through Gene Friend, you should contact your physician or other health care provider. Please note that genetic risk assessment is not applicable to results of carrier screening tests.</p><p>Genetic research is not comprehensive. While we measure many hundreds of thousands of data points from your DNA, only a small percentage of them are known to be related to human traits or health conditions.</p><p>Genetic Information you share with others could be used against your interests. You should be careful about sharing your Genetic Information with others.</p><p>Furthermore, Genetic Information that you choose to share with your physician or other health care provider may become part of your medical record and through that route be accessible to other health care providers and/or insurance companies in the future.</p><p>We do not provide medical advice. The Genetic Information provided by Gene Friend is for your research and informational. The Services are not intended to be used by the User for any diagnostic purpose and are not a substitute for professional medical advice. You should always seek the advice of your physician or other health care provider with any questions you may have regarding diagnosis, cure, treatment, mitigation, or prevention of any disease or other medical condition or impairment or the status of your health.</p><p>Gene Friend does not endorse, warranty or guarantee the effectiveness of any specific course of action, resources, tests, physician or other health care providers, drugs, biologics, medical devices or other products, procedures, opinions, or other information that may be mentioned on our Web and/or Application. If we provide to you on our Web and/or Application any recommendations that identify you, based on your Genetic Information and Self-Reported Information and scientific literature or research, potentially actionable information, this information is intended for informational purposes only and for discussion with your physician or other healthcare provider.</p><h3>6. USER REPRESENTATIONS</h3><p>By accessing the Services, you agree to, acknowledge, and represent as follows:</p><p>You understand that information you learn from Gene Friend is not designed to independently diagnose, prevent, or treat any condition or disease or to ascertain the state of your health in the absence of medical and clinical information. You acknowledge that Gene Friend urges you to seek the advice of your physician or other health care provider if you have questions or concerns arising from your Genetic Information.</p><p>You give permission to Gene Friend, its Permitted Parties, successors and assignees to perform genotyping services on the DNA extracted from your saliva sample and you specifically request Gene Friend to disclose the results of analyses performed on your DNA to you and to others you specifically authorize.</p><p>You represent that you are eighteen (18) years of age or older and have full capacity for civil acts if you are providing a saliva sample or accessing your Genetic Information.</p><p>You guarantee that any saliva sample you provide is your own saliva; if you are agreeing to these TOS on behalf of a person for whom you have legal authorization, you confirm that the saliva sample provided will be the saliva of that person.</p><p>You agree that any saliva sample you provide and all resulting data may be transferred and/or processed outside the country in which you reside.</p><p>You take responsibility for all possible consequences resulting from your sharing with others access to your Genetic Information and your Self-Reported Information.</p><p>Waiver of Property Rights: You understand that by providing any sample, having your Genetic Information processed, accessing your Genetic Information, or providing your Self-Reported Information, you acquire no rights in any research or commercial products that may be developed by Gene Friend or its collaborating partners. You specifically understand that you will not receive compensation for any research or commercial products that include or result from your Genetic Information or Self-Reported Information.</p><h3>7. ACCOUNT CREATION, GENETICA ACCOUNT, PASSWORD, AND SECURITY OBLIGATIONS</h3><p>In consideration of your use of the Services, you agree to: (i) provide true, accurate, current, and complete Registration Information about yourself as prompted by the Services; and (ii) maintain and promptly update the Registration Information to keep it true, accurate, current, and complete. If you provide any Registration Information that is untrue, inaccurate, not current, or incomplete, or if Gene Friend has a reasonable ground to suspect that such information is untrue, inaccurate, not current, or incomplete, Gene Friend has the right to suspend or terminate your Genetica Account and refuse any and all your current or future use of the Services (or any portion thereof). The Services are for use only in the country to which your Sample Collection Kit was shipped from Gene Friend.</p><p>After you have purchased our Service(s), you will create a password and Genetica Account designation. You are responsible for maintaining the confidentiality of your password and Genetica Account, and are fully responsible for all activities that occur under your password or Genetica Account. If you allow third parties to access the Web and/or Application through your username and password, you will defend and indemnify Gene Friend, its Permitted Party and any of its other affiliates against any liability, costs, or damages, including attorney fees, arising out of claims or suits by such third parties based upon or relating to such access and/or use. You agree to: (i) immediately notify Gene Friend of any unauthorized use of your password, your Genetica Account and/or any other breach of security, and (ii) ensure that you exit from your Genetica Account at the end of each session. Gene Friend cannot and will not be liable for any loss or damage arising from your failure to comply with this Section.</p><h3>8. GENE FRIEND PRIVACY STATEMENT AND DISCLOSURE OF INFORMATION</h3><p>Please read the Gene Friend's Privacy Statement and Disclosure of Information available at<a href=\"https://genetica.asia/privacy-policy\">https://genetica.asia/privacy-policy</a>carefully to understand how Gene Friend collects, processes, stores, uses and discloses information about Users and how to update or change your Personal Information and how we communicate with you.</p><p>You acknowledge and agree that Gene Friend has the right to monitor any use of its systems by its personnel at any time and maintain copies documenting such monitoring. Gene Friend may, in its sole discretion, restrict your access to the Web and/or Application for any reason. Our Privacy Statement and Disclosure of Information sets forth the only expectations of privacy any individual should have in terms of usage of the Gene Friend's Services, the Web and/or Application, or other systems. Gene Friend will never release your individual-level Genetic Information and/or Self-Reported Information to any third party without asking for and receiving your explicit consent to do so, unless required by law.</p><h3>9. USER CONDUCT – UNLAWFUL AND PROHIBITED USE</h3><p>As a condition of your use of the Services and/ or the Web and/or Application, you warrant to Gene Friend that you will not use the Services for any purpose that is unlawful or prohibited by these TOS and applicable laws. You may not use the Services in any manner that could damage, disable, overburden, or impair the Services or interfere with any other party's use and enjoyment of the Services. You may not obtain or attempt to obtain any materials or information through any means not intentionally made available or provided for through the Services.</p><p>Furthermore you agree not conduct any act that is unlawful or prohibited by these TOS and applicable laws, and/or infringe legitimate rights or interest of any other User, and/or cause damage or harm to the Web and/or Application and/or our Services.</p><p>You acknowledge and agree that you are solely responsible for (and that Gene Friend has no responsibility to you or to any third party for) any breach of your obligations or commitment under these TOS and for the consequences (including any loss or damage which Gene Friend may suffer) of any such breach. In case of your breach of any one of these agreements Gene Friend has the right to suspend or terminate your Genetica Account and refuse any and all your current or future use of the Services (or any portion thereof) and you will defend and indemnify Gene Friend, its Permitted Party and any of its other affiliates against any liability, costs, or damages arising out of the breach of the representation.</p><p>If you violate the terms of this Section and/or Gene Friend has a reasonable ground to suspect that you have violated the terms of this Section, Gene Friend has the right to suspend or terminate your Genetica Account and refuse any and all your current or future use of the Services (or any portion thereof).</p><h3>10. MATERIAL POSTED THROUGH THE SERVICES</h3><p>Gene Friend will not, at all times, control any of the User Content posted via the Services and, as such, does not guarantee the accuracy, integrity, or legitimacy of such non-Gene Friend content. You acknowledge and agree that you must evaluate, and bear all risks associated with the use of any content, including any reliance on the accuracy, completeness, or usefulness of such content.</p><p>Under no circumstances will Gene Friend be liable in any way for pre-screening, reviewing, filtering, modifying, refusing, or moving any content that is available via the Services, and/or for any non-Gene Friend content, including, but not limited to, any errors or omissions in any such content, or for any loss or damage of any kind incurred as a result of the use of any such content posted, emailed, or otherwise transmitted via the Services. However, Gene Friend shall have the right to remove any content that violates these TOS or is deemed by Gene Friend, in its sole discretion, to be otherwise objectionable.</p><h3>11. MATERIAL PROVIDED TO GENE FRIEND – YOUR PROPRIETARY RIGHTS</h3><p>(i) User Content: You acknowledge that all User Content, whether publicly posted or privately transmitted, is the sole responsibility of the person from which such User Content originated. This means that you, and not Gene Friend, are entirely responsible for all User Content that you upload, post, email, or otherwise transmit via the Service. Gene Friend does not claim ownership of the User Content you provide to Gene Friend (including feedback and suggestions) or post, upload, input, or submit to the Service. Unless otherwise specified, you retain the copyright and any other rights you already hold over the User Content that you create and submit, post, or display on or through the Services. However, by submitting, posting, or displaying User Content, you give Gene Friend, its affiliated companies, sub-licensees, Permitted Party, and successors and assigns a perpetual, irrevocable, worldwide, royalty-free, and non-exclusive license to reproduce, adapt, modify, translate, publish, publicly perform, publicly display, distribute, copy, edit, reformat, and create derivative works from any User Content that you submit, post, or display on or through the Services. You acknowledge and agree that this license includes a right for Gene Friend to make such User Content available to other companies, organizations, or individuals with whom Gene Friend has relationships, and to use such User Content in connection with the provision of Services.</p><p>You understand that Gene Friend, in performing the required technical steps to provide the Services to our Users, may (a) transmit or distribute your User Content over various public networks and in various media; and (b) make such changes to your content as are necessary to conform and adapt that content to the technical requirements of connecting networks, devices, services, or media. You acknowledge and agree that this license shall permit Gene Friend to take these actions. You represent and warrant to Gene Friend that you have all the rights, power, and authority necessary to grant the above license.</p><p>(ii) Genetic and/or Self-Reported Information: Disclosure of individual-level Genetic and/or Self-Reported Information to third parties will not occur without explicit consent, unless required by law. Please note that Gene Friend cannot control any further distribution of Genetic and/or Self-Reported Information that you share publicly on the Gene Friend Web and/or Application. You acknowledge and agree that you are responsible for protecting and enforcing those rights and that Gene Friend has no obligation to do so on your behalf.</p><p>Your saliva sample, once submitted to and analyzed by us, is processed in an irreversible manner and cannot be returned to you. See our Web and/or Application for more information on sample processing. Any Genetic Information derived from your saliva remains your information, subject to rights we retain as set forth in these TOS. You understand that you should not expect any financial benefit from Gene Friend as a result of having your Genetic Information processed; made available to you; or, as provided in our Privacy Statement and Disclosure of Information and TOS, shared with or included in Aggregated Genetic and Self-Reported Information, shared with research partners, including commercial partners.</p><p>(iii)<b>Waiver of Property Rights</b>: As stated above, you understand that by providing any sample, having your Genetic Information processed, accessing your Genetic Information, or providing Self-Reported Information, you acquire no rights in any research or commercial products that may be developed by Gene Friend or its collaborating partners. You specifically understand that you will not receive compensation for any research or commercial products that include or result from your Genetic Information or Self-Reported Information.</p><h3>12. INDEMNITY</h3><p>You agree to defend and hold Gene Friend, and its subsidiaries, affiliates, officers, agents, Permitted Parties, contractors, partners, employees, successors, and assigns harmless from any claim, or demand, including reasonable attorneys' fees, made by any third party due to or arising out of User Content you submit, post to, or transmit through the Service; your use of the Service; your connection to the Service; your violation of these TOS; or your violation of any rights of another.</p><p>If you have submitted a saliva sample or otherwise provided your own Genetic Information, you will defend and hold harmless Gene Friend, its employees, Permited Parties, contractors, successors, and assigns from any liability arising out of the use or disclosure of any information obtained from genotyping your saliva sample and/or analyzing your Genetic Information, which is disclosed to you consistent with our Privacy Statement and Disclosure of Information or results from any third-party add-ons to tools we provide. In addition, if you choose to provide your Genetic and/or Self-Reported Information to third parties – whether individuals to whom you facilitate the access, intentionally or inadvertently, or to third parties for diagnostic or other purposes – you agree to defend and hold harmless Gene Friend, its employees, Permited Parties, contractors, successors, and assigns from any and all liability arising from such disclosure or use of your Genetic and/or Self-Reported Information.</p><h3>13. NO RESALE OF SERVICE</h3><p>Unless otherwise agreed in a separate agreement between you and Gene Friend, you agree not to display, distribute, license, perform, publish, reproduce, duplicate, copy, create derivative works from, modify, sell, resell, exploit, transfer, or transmit for any commercial purposes, all or any portion of the Services, use of the Services, or access to the Services.</p><h3>14. MODIFICATIONS TO SERVICES</h3><p>Gene Friend reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Services (or any part thereof) with or without notice. You acknowledge and agree that: (i) modifications may result in a delay in computations for some of the Gene Friend features or Services, and (ii) Gene Friend shall not be liable to you or to any third party for any modification, suspension, or discontinuance of the Services.</p><p>The Software (as defined below in Section 19) that you use may from time to time automatically download and install updates from Gene Friend. These updates are designed to improve, enhance, and further develop the Services and may take the form of bug fixes, enhanced functions, new software modules, and completely new versions. You agree to receive such updates (and permit Gene Friend to deliver these to you) as part of your use of the Services.</p><p>You acknowledge that Gene Friend may offer different or additional technologies or features to collect and/or interpret Genetic Information in the future and that your initial purchase of the Service does not entitle you to any different or additional technologies or features for collection or interpretation of your Genetic Information without fee, and that you will have to pay additional fees in order to have your Genetic Information collected, processed, and/or interpreted using any future or additional technologies or features.</p><h3>15. TERMINATION</h3><p>Gene Friend may at any time, terminate its legal agreement with you (and in conjunction therewith, your password and Genetica Account(s)) if: (i) you have breached any provision of these TOS (or have acted in manner which shows that you do not intend to, or are unable to comply with, the provisions of these TOS); (ii) Gene Friend is required to do so by the law (for example, where the provision of the Services to you is, or becomes, unlawful); (iii) the Permitted Party with whom Gene Friend offered the Services to you has terminated its relationship with Gene Friend or ceased to offer the Services to you; (iv) Gene Friend is transitioning to no longer providing the Services to Users in the country or state in which you reside or from which you use the Services; or (v) the provision of the Services to you by Gene Friend is, in Gene Friend's opinion, no longer commercially viable.</p><p>Any suspected fraudulent, abusive, or illegal activity that may be grounds for termination of your use of the Services may be referred to appropriate law enforcement authorities. You acknowledge and agree that Gene Friend shall not be liable to you or any third party for any termination of your access to the Services.</p><h3>16. SURVIVAL OF TERMS</h3><p>When these TOS come to an end, all of the legal rights, obligations, and liabilities that you and Gene Friend have benefited from, been subject to (or which have accrued over time while these TOS have been in force) or which are expressed to continue indefinitely, shall be unaffected by this cessation, and the provisions of sections 1.(Definitions); 2.(Acceptance of Terms); 3.(Prerequisites); 4.(Description of the Services); 5.(Risks and Considerations Regarding Services); 6.(User Representations); 7.(Account Creation, Genetica Account, Password and Security Obligations); 8.(Gene Friend Privacy Statement and Disclosure of Information); 9.(User Conduct – Unlawful and Prohibited Use); 10.(Material Posted through the Service); 11.(Material Provided to Gene Friend – Your Proprietary Rights); 12.(Indemnity); 13.(No Resale of Services); 15.(Termination); 16.(Survival of Terms); 17.(Dealings with Information Providers and Listed Resources); 18.(Hyperlinks and third party Website); 19.(Gene Friend Proprietary Rights); 20.(DISCLAIMER OF WARRANTIES); 21.(LIMITATION OF LIABILITY); 22.(Notice); 24.(Violation or Suspected Violation of TOS); and 25.(Miscellaneous) shall continue to apply to such rights, obligations, and liabilities indefinitely.</p><h3>17. DEALINGS WITH INFORMATION PROVIDERS AND LISTED RESOURCES</h3><p>Your correspondence or business dealings with, or participation in promotions of, information providers, vendors, and/or resources found on or through the Services, including payment and delivery of related goods or services, and any other terms, conditions, warranties, or representations associated with such dealings, are solely between you and such information provider or resource. You acknowledge and agree that Gene Friend shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such information provider or resources on the Services.</p><h3>18. HYPERLINKS AND THE THIRD PARTY WEBSITE</h3><p>The Services provides, and third parties may provide, links to other sites and resources on the Internet (\"<b>Third Party Sites and Resources</b>\"). Since Gene Friend has no control over such Third Party Sites and Resources, you acknowledge and agree that Gene Friend is not responsible for the availability of such Third Party Sites or Resources, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such Third Party Sites or Resources. You further acknowledge and agree that Gene Friend shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, or services available on or through any such Third Party Site or Resources.</p><h3>19. GENE FRIEND'S PROPRIETARY RIGHTS</h3><p>You acknowledge and agree that Gene Friend (or Gene Friend's licensors, as applicable) own all legal right, title, and interest in and to the Services, including any intellectual property rights (including but not limited to patents) which subsist in the Services (whether those rights happen to be registered or not, and wherever in the world those rights may exist). You further acknowledge that the Services may contain information which is designated confidential by Gene Friend and that you shall not disclose such information without Gene Friend's prior written consent.</p><p>You further acknowledge and agree that the Services and any necessary software used in connection with the Services (\"<b>Software</b>\") contain proprietary and confidential information that is protected by applicable intellectual property and other laws. You further acknowledge and agree that information presented to you through the Services or sponsors is protected by copyrights, trademarks, service marks, patents, or other proprietary rights and laws. Except as expressly authorized by Gene Friend, you agree not to and not to permit anyone else to modify, rent, lease, loan, sell, distribute, or create derivative works of, reverse engineer, decompile, or otherwise attempt to extract the source code of the Services or Software or any part thereof, in whole or in part. Software, if any, that is made available to download from the Services, excluding software that may be made available by end-users through the Services, is the copyrighted work of Gene Friend and/or its suppliers. Your use of the Software is governed by the terms of the end User license agreement, if any, which accompanies or is included with the Software (\"<b>License Agreement</b>\"). You may not install or use any Software that is accompanied by or includes a License Agreement unless you first agree to the License Agreement terms.</p><p>Gene Friend Way, Inc., Gene Friend, Genetica, and other Gene Friend's logos and product and service names are trademarks of or licensed to Gene Friend and these marks together with any other Gene Friend trade names, service marks, logos, domain names, and other distinctive brand features are the \"<b>Gene Friend Marks</b>\". Unless you have agreed otherwise in writing with Gene Friend, nothing in these TOS gives you a right to use any Gene Friend Marks and you agree not to display, or use in any manner, Gene Friend Marks.</p><p>You agree that you shall not remove, obscure, or alter any proprietary rights notices (including copyright and trade mark notices) that may be affixed to or contained within the Services.</p><p>Unless you have been expressly authorized to do so in writing by Gene Friend, you agree that in using the Services, you will not use any trade mark, service mark, trade name, logo of any company or organization in a way that is likely or intended to cause confusion about the owner or authorized User of such marks, names, or logos.</p><p>For any Software not accompanied by a License Agreement, Gene Friend grants you a personal, non-transferable, and non-exclusive right and license to use the object code of its Software on a single computer. You may not (and may not allow any third party to) copy, modify, create a derivative work of, reverse engineer, reverse assemble, or otherwise attempt to discover any source code, sell, assign, sublicense, grant a security interest in, or otherwise transfer any right in the Software unless this is expressly permitted or required by law, or unless you have been specifically told that you may do so by Gene Friend, in writing. This license is for the sole purpose of enabling you to use and enjoy the benefit of the Services as provided by Gene Friend, in the manner permitted by these TOS. Unless Gene Friend has given you specific written permission to do so, you may not assign (or grant a sublicense of) your rights to use the Software, grant a security interest in or over your rights to use the Software, or otherwise transfer any part of your rights to use the Software. You agree not to modify the Software in any manner or form, or to use modified versions of the Software, including (without limitation) for the purpose of obtaining unauthorized access to the Service. You agree not to access the Service by any means other than through the interface that is provided by Gene Friend for use in accessing the Service. Any rights not expressly granted herein are reserved.</p><h3>20. DISCLAIMER OF WARRANTIES</h3><p>YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT:</p><p>(i) YOUR USE OF THE SERVICES ARE AT YOUR SOLE RISK. THE SERVICES ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS. GENE FRIEND EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.</p><p>(ii) GENE FRIEND MAKES NO WARRANTY THAT (a) THE SERVICES WILL MEET YOUR REQUIREMENTS; (b) THE SERVICES WILL BE UNINTERRUPTED, TIMELY, UNFAILINGLY SECURE, OR ERROR-FREE; (c) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE; (d) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICES WILL MEET YOUR EXPECTATIONS, AND (e) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.</p><p>(iii) ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS DONE AT YOUR OWN DISCRETION AND RISK, AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.</p><p>(iv) ANY AND ALL ADVICE OR INFORMATION (INCLUDING BUT NOT LIMITED TO THE GENE INFORMATION), WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM GENE FRIEND, AND/OR THROUGH OR FROM THE SERVICES, ARE ONLY FOR THE PURPOSE OF YOUR REFERENCE, SHALL NOT BE TREATED IN ANY WAY AS MEDICAL ADVICE, SHALL BE USED AT YOUR OWN RISK AND SOLELY RESPONSIBLE FOR BY YOU, AND SHALL NOT CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TOS.</p><p>(v) YOU SHOULD ALWAYS USE CAUTION WHEN GIVING OUT ANY PERSONALLY IDENTIFYING INFORMATION ABOUT YOURSELF OR THOSE FOR WHOM YOU HAVE LEGAL AUTHORITY. GENE FRIEND DOES NOT CONTROL OR ENDORSE ANY ACTIONS RESULTING FROM YOUR PARTICIPATION IN THE SERVICES AND, THEREFORE, GENE FRIEND SPECIFICALLY DISCLAIMS ANY LIABILITY WITH REGARD TO ANY ACTIONS RESULTING FROM YOUR PARTICIPATION IN THE SERVICES.</p><p>(vi) ONLY YOU ARE RESPONSIBLE FOR THE COMPLETION, ACCURACY AND LEGITIMACY OF INFORMATION AND/OR THE SALIVA SAMPLE PROVIDED BY YOU TO GENE FRIEND AS WELL AS GENE FRIEND'S USE OF SUCH PERSONAL INFORMATION AND SALIVA SAMPLE IN ACCORDANCE WITH THESE TOS.</p><h3>21. LIMITATION OF LIABILITY</h3><p>WITHIN THE LIMITS ALLOWED BY APPLICABLE LAWS, YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT GENE FRIEND SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF GENE FRIEND HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (i) THE USE OR THE INABILITY TO USE THE SERVICES; (ii) ANY ACTION YOU TAKE BASED ON THE INFORMATION YOU RECEIVE IN THROUGH OR FROM THE SERVICES, (iii) YOUR FAILURE TO KEEP YOUR PASSWORD OR GENETICA ACCOUNT DETAILS SECURE AND CONFIDENTIAL, (iv) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION, OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE SERVICES; (v) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (vi) THE IMPROPER AUTHORIZATION FOR THE SERVICES BY SOMEONE CLAIMING SUCH AUTHORITY; or (vii) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICES.</p><h3>22. NOTICE</h3><p>Notices to you may be made via either email or regular mail. Gene Friend may also provide notices of changes to these TOS or other matters by displaying notices or links to notices to you generally on or through the Services.</p><p>Official notices related to these TOS must be sent to us at:</p><p><b>Gene Friend Vietnam Company Limited</b></p><p><b>2nd Floor, 40 Pham Ngoc Thach Street, Vo Thi Sau Ward, Dist.3, Ho Chi Minh City, Vietnam</b></p><p>Any notices that you provide without compliance with this section on Notices shall have no legal effect.</p><h3>23. CHANGES TO THESE TOS</h3><p>Gene Friend reserves the right to change, modify and/or eliminate all or any portion of these TOS at any time and in its sole discretion. Any changes or modifications will be effective immediately upon posting the revisions to the Web and Application, and you waive any right you may have to receive specific notice of such changes or modifications. You acknowledge and agree that if you use the Services after the date on which these TOS have changed, Gene Friend will treat your use as acceptance of the updated TOS. Therefore, you should review these TOS frequently to understand the terms and conditions that apply to the Services. If you do not agree to the updated TOS, you must stop using the Services.</p><h3>24. VIOLATION OR SUSPECTED VIOLATION OF TOS</h3><p>If you violate the terms of these TOS and/or Gene Friend has a reasonable ground to suspect that you have violated the terms of these TOS, Gene Friend has the right to suspend or terminate your Genetica Account and refuse any and all your current or future use of the Services (or any portion thereof).</p><h3>25. MISCELLANEOUS</h3><p>(i)<b>Entire Agreement</b></p><p>These TOS constitute the entire agreement between you and Gene Friend and govern your use of the Services, superseding any prior agreements between you and Gene Friend on this subject. You also may be subject to additional terms and conditions that may apply when you use affiliate services, third-party content, or third-party software.</p><p>(ii)<b>Applicable Law and Dispute Resolution</b></p><p>All claims or disputes arising out of or in relation to these TOS or the Services shall be resolved in accordance with applicable laws in Vietnam.</p><p>(iii)<b>Waiver</b></p><p>The failure of Gene Friend to exercise or enforce any right or provision of these TOS shall not constitute a waiver of such right or provision. If any provision of these TOS is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of these TOS remain in full force and effect.</p><p>(iv)<b>Admissibility of printed version</b></p><p>A printed version of these TOS and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these TOS to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.</p><p>(v)<b>Section Titles</b></p><p>The section titles in these TOS are for convenience only and have no legal or contractual effect.</p><p>(vi)<b>Assignment</b></p><p>You may not assign or delegate any your rights or obligations under the TOS. Any purported assignment and delegation shall be ineffective. We may freely assign or delegate any and all our rights and obligations under the TOS, fully or partially without notice to you. We may also substitute, by way of unilateral novation, effective upon notice to you, Gene Friend for any third party that assumes our rights and obligations under these TOS.</p><p>Last updated on: October 14, 2022</p>",
+    "sidebar": {
+      "menu": {
+        "privacyPolicy": {
+          "label": "Privacy Policy"
+        },
+        "termsOfService": {
+          "label": "Terms of Service"
+        }
+      }
+    }
+  },
+  "unlockv2": {
+    "body": {
+      "formCartDetails": {
+        "header": {
+          "title": "Service"
+        },
+        "labels": {
+          "unlock": "Unlock",
+          "removed": "removed",
+          "for": "For"
+        },
+        "actions": {
+          "saveCartItemForLater": {
+            "text": "Delete"
+          },
+          "undoSaveCartItemForLater": {
+            "text": "Undo"
+          }
+        }
+      }
+    }
+  },
+  "verified": {
+    "error": "An error occurred. Please open the link again!",
+    "description": "Your information has already been confirmed",
+    "contact": "Contact us via <1>1900599927</1> or <3>cs@genetica.asia</3> if you need any further support.",
+    "backToHome": "Back to homepage"
+  },
+  "verify": {
+    "header": {
+      "title": "Important information",
+      "description": "Confirming the information below helps protect the confidentiality of your genetic report."
+    },
+    "body": {
+      "form": {
+        "field": {
+          "name": {
+            "label": "Full name",
+            "value": {
+              "empty": "Unavailable"
+            },
+            "error": {
+              "empty": "Please do not leave this field blank"
+            }
+          },
+          "phone": {
+            "label": "Phone number to receive report",
+            "notification": "Please use this phone number when signing in Genetica app to view the detail report"
+          },
+          "email": {
+            "label": "Email to receive report",
+            "value": {
+              "empty": "Unavailable"
+            },
+            "error": {
+              "format": "Invalid Email",
+              "empty": "Please do not leave this field blank"
+            }
+          },
+          "dob": {
+            "label": "Date of birth",
+            "value": {
+              "empty": "Unavailable"
+            },
+            "error": {
+              "format": "Invalid Date of birth",
+              "empty": "Please do not leave this field blank",
+              "limitAge": "Your registered service is not applicable to the age you entered. Contact Genetica via 1900 599 927 for any support"
+            }
+          },
+          "gender": {
+            "label": "Gender",
+            "values": {
+              "empty": "Unavailable",
+              "male": "Male",
+              "female": "Female",
+              "unspecified": "Unspecified"
+            },
+            "error": {
+              "empty": "Please do not leave this field blank"
+            }
+          },
+          "policy": {
+            "label": "I hereby agree to provide my information in order to perform the service(s) of Genetica(r). I assure the accuracy of the information and shall be solely responsible for the information provided above."
+          },
+          "submit": {
+            "label": "Confirm"
+          }
+        }
+      }
+    }
+  },
+  "whatIsGeneDecoding": {
+    "header": {
+      "title": "What is gene decoding?"
+    },
+    "body": {
+      "sectionHero": {
+        "title": "What is genetic testing, <br/>gene decoding?",
+        "description": "Gene decoding uses laboratory methods to deciper deoxyribonucleic acid (DNA) inside your genes. Genes exist inside your cells, the are materials you are inherented from your parents. Gene decoding through genetic tests help determine matters relating to genetics such as intellectual and physical potential, behavioral tendencies, and health risks."
+      },
+      "sectionBenefits": {
+        "title": "Benefits of Genetic Testing",
+        "description": "There are various types of genetic tests. Genetic testing helps:",
+        "benefits": {
+          "1": {
+            "title": "Explore yourself based on <br/>your genes",
+            "items": [
+              "Optimize your workout plan.",
+              "Optimize your nutritional plan."
+            ]
+          },
+          "2": {
+            "title": "Personalized recommendations",
+            "items": [
+              "Explore scholastic potential.",
+              "Sharpen your strengths.",
+              "Improve your shortcomings."
+            ]
+          },
+          "3": {
+            "title": "Preventive care to diseases",
+            "items": [
+              "Diagnose diseases.",
+              "Determine mutations causing diseases.",
+              "Determine disease severity.",
+              "Determine mutations showing possibilities of passing to your children.",
+              "Guide suitable medications and treatment for each individual.",
+              "Determine mutations increasing risks of having diseases."
+            ]
+          }
+        }
+      },
+      "sectionWhy": {
+        "title": "Why having genetic testing?",
+        "description": "Have gene analyzed and grasp your “biological map” handy, unlock potential and help <br>people achieve their best versions.",
+        "reasons": {
+          "1": {
+            "title": "Understand how genes impact your body.",
+            "description": "In recent years, genetic testing contributes significant information to global medicine and science. Hereditary genes allow us to access how variations in DNA interacting with one another and influence our development, behaviors, and health foundation."
+          },
+          "2": {
+            "title": "Genes are like universal key helping us understand ourselves.",
+            "description": "Genes open a pandora of hidden information inside our body, making each individual unique in their own way."
+          }
+        }
+      }
+    }
+  }
+}

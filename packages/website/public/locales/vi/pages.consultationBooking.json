@@ -1,0 +1,112 @@
+
+{
+  "header": {
+    "title": "Đặt lịch tư vấn"
+  },
+  "body": {
+    "sectionSteps": {
+      "list": {
+        "0": {
+          "label": "Chọn báo cáo"
+        },
+        "1": {
+          "label": "Chọn phương thức"
+        },
+        "2": {
+          "label": "Chọn thời gian"
+        }
+      }
+    },
+    "sectionSelectReports": {
+      "header": {
+        "title": "Chọn báo cáo"
+      },
+      "body": {
+        "meta": {
+          "expectedSessionLength": {
+            "label": "Dự kiến thời gian"
+          }
+        }
+      }
+    },
+    "sectionSelectConsultationMethods": {
+      "header": {
+        "title": "Chọn kênh tư vấn"
+      },
+      "body": {
+        "description": "Vui lòng chọn số điện thoại"
+      }
+    },
+    "sectionSelectTimeslot": {
+      "header": {
+        "title": "Chọn thời gian"
+      },
+      "body": {
+        "timeslots": {
+          "empty": {
+            "label": "Không còn slot trống! <br/>Vui lòng chọn ngày khác hoặc liên hệ Hotline <b>1900 599 927</b>"
+          }
+        }
+      }
+    },
+    "sectionActions": {
+      "next": {
+        "label": "Tiếp"
+      },
+      "back": {
+        "label": "Quay lại"
+      },
+      "book": {
+        "label": "Đặt lịch"
+      }
+    },
+    "sectionSelectedProfile": {
+      "header": {
+        "title": "Hồ sơ gen"
+      }
+    },
+    "sectionSelectedReports": {
+      "header": {
+        "title": "Báo cáo",
+        "title_plural": "Báo cáo"
+      }
+    },
+    "sectionSelectedConsultationMethod": {
+      "header": {
+        "title": "Kênh tư vấn"
+      }
+    },
+    "sectionCreatedAppointment": {
+      "header": {
+        "title": "Đặt lịch thành công"
+      },
+      "body": {
+        "description": "Lịch tư vấn của bạn đã được xử lý thành công.",
+        "sectionInformation": {
+          "headers": {
+            "name": {
+              "label": "Tên"
+            },
+            "reports": {
+              "label": "Báo cáo"
+            },
+            "channel": {
+              "label": "Kênh tư vấn"
+            },
+            "timeslot": {
+              "label": "Thời gian"
+            }
+          }
+        },
+        "actions": {
+          "backToHomepage": {
+            "label": "Quay về trang chủ"
+          }
+        }
+      },
+      "footer": {
+        "description": "Tải ứng dụng Genetica để nhận những thông báo mới nhất về lịch tư vấn của bạn"
+      }
+    }
+  }
+}

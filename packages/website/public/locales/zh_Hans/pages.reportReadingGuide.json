@@ -1,0 +1,16 @@
+{
+  "title": "如何阅读遗传报告",
+  "sidebar": {
+    "menu": {
+      "title": "选择主题"
+    }
+  },
+  "sectionMenu": {
+    "actions": {
+      "seeMore": "查看更多"
+    }
+  },
+  "sectionReportReadingGuide": {
+    "title": "{{reportName}}报告阅读指南"
+  }
+}

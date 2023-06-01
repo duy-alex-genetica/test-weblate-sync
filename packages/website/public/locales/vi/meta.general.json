@@ -1,0 +1,24 @@
+{
+  "legalName": "CÔNG TY TNHH GENE FRIEND VIỆT NAM",
+  "description": "Genetica® | Xét Nghiệm Gen Công Nghệ Mỹ Cho Người Châu Á",
+  "address": {
+    "streetAddress": "Tầng 2, Số 40 Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3",
+    "addressLocality": "Thành phố Hồ Chí Minh",
+    "addressCountry": "Việt Nam",
+    "addressPostalCode": "700000",
+    "addressCountryCode": "VN"
+  },
+  "GeoCoordinates": {
+    "latitude": 10.7851302,
+    "longitude": 106.6935657
+  },
+  "dayOfWeek": {
+    "1": "Thứ hai",
+    "2": "Thứ sáu",
+    "3": "thứ năm",
+    "4": "Thứ Tư",
+    "5": "Thứ ba"
+  },
+  "email": "cs@genetica.asia",
+  "telephone": "1900 599 927"
+}

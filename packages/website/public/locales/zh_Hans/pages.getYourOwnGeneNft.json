@@ -1,0 +1,67 @@
+{
+  "content": {
+    "FAQs": {
+      "1": {
+        "question": "1. 什么是<span>GeneNFT</span>？",
+        "answer": "<span>GeneNFT</span> 是一种代表个人基因数据的数字资产。 您的基因型是完全独一无二的，您的 <span>GeneNFT</span> 也是如此。"
+      },
+      "2": {
+        "question": "2.<span>GeneNFT</span>的目的是什么？",
+        "answer": "<span>GeneNFT</span> 除了是一种数字资产外，还充当证书（令牌），确保用户对其基因数据拥有完全所有权。"
+      },
+      "3": {
+        "question": "3. <span>GeneNFT</span> 是如何工作的？ 如何拥有一个？",
+        "answer": "在 Genetica 进行基因解码服务后，您的基因数据将作为数字资产在 Gene Friend Network 系统上加密、存储、保护和管理。 Gene Friend Network 将此财产的所有权归功于您。"
+      },
+      "4": {
+        "question": "4. 如何查看我的<span>GeneNFT</span>？",
+        "answer": {
+          "1": "1. 下载并打开 Genetica 应用。",
+          "2": "2. 访问 Genetica 应用，转到 <b>Genetica 钱包</b>，打开 <span>GeneNFT</span> 选项卡，用户可以：<ul><li>- 查看您自己的 <span>GeneNFT< /span> 证书</li><li>- 直接在区块链网络上查看 NFT 代币</li></ul>"
+        }
+      },
+      "5": {
+        "question": "5. 一些政府尚未承认NFT为数字资产，持有NFT是否存在风险？",
+        "answer": "您没有任何与 <span>GeneNFT</span> 相关的法律风险。 <span>GeneNFT</span> 简化了您的数据所有权。 我们通过 NFT 将这种所有权数字化，交给你来管理。"
+      },
+      "6": {
+        "question": "6. <span>GeneNFT</span> 会帮我赚钱吗？如何赚钱？",
+        "answer": "<p>无法保证一个人有能力从基因数据中获得经济收入。 据我们所知，从来没有记录在案的通过出售或出租个人基因数据致富的案例。</p><p>但是，与特定领域相关的个体子集的遗传信息 研究可以帮助旨在将遗传信息应用于个性化医疗、个性化特定药物等领域的研究工作。在这些情况下，研究机构通常愿意赞助少量费用以获取遗传数据分析。</p><p> <span>GeneNFT</span> 所有者有权允许或不允许任何人访问他们的基因数据，以换取上述资金费用，或者只是免费为人类进步做出贡献。</p><p> 基因组所有者本人（即您自己）的所有授权数据访问均已完整记录并对所有者透明。</p>"
+      }
+    },
+    "contactForm": {
+      "title": "获得关于 <span>GeneNFT</span> 的免费咨询",
+      "description": "留下您的信息，Genetica®将尽快与您联系",
+      "form": {
+        "field": {
+          "name": "你的名字（可选）",
+          "phone": "电话号码"
+        },
+        "submit": "提交"
+      },
+      "more": "了解有关基因解码的更多信息"
+    },
+    "modalSuccess": {
+      "header": {
+        "title": "请求成功",
+        "description": "如果您有任何疑问，请通过热线 <1>1900 599 927</1> 联系我们以获得更好的支持。"
+      },
+      "action": {
+        "close": {
+          "label": "关闭"
+        }
+      }
+    },
+    "modalError": {
+      "header": {
+        "title": "请求失败",
+        "description": "如果您有任何疑问，请通过热线 <1>1900 599 927</1> 联系我们以获得更好的支持。"
+      },
+      "action": {
+        "close": {
+          "label": "再试一次"
+        }
+      }
+    }
+  }
+}

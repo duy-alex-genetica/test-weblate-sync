@@ -1,0 +1,33 @@
+{
+  "title": "Không tìm thấy trang",
+  "content": {
+    "notification": {
+      "link": "Quay lại trang chủ",
+      "text": "hoặc tìm kiếm thêm thông tin"
+    },
+    "search": {
+      "placeholder": "Tìm kiếm trong Genetica"
+    },
+    "suggest": {
+      "title": "Có thể bạn quan tâm:",
+      "adults": {
+        "label": "Hiện thực hóa bản thân"
+      },
+      "kids": {
+        "label": "Phát triển toàn diện"
+      },
+      "health": {
+        "label": "Sức khỏe"
+      },
+      "about": {
+        "label": "Giới thiệu"
+      },
+      "contact": {
+        "label": "Liên hệ"
+      },
+      "salivaCollectingGuide": {
+        "label": "Hướng dẫn lấy mẫu"
+      }
+    }
+  }
+}

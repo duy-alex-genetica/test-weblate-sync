@@ -1,0 +1,1074 @@
+{
+  "punctuationMarks": {
+    "fullStop": "."
+  },
+  "cardPackage": {
+    "tags": {
+      "isBestSelling": {
+        "label": "Best selling"
+      },
+      "hasBestValue": {
+        "label": "Best value"
+      },
+      "isHotDeal": {
+        "label": "Hot Deal"
+      },
+      "isCombo": {
+        "label": "Combo"
+      },
+      "isNew": {
+        "label": "New Product"
+      },
+      "hasPromotion": {
+        "label": "Discount {{value}}%"
+      }
+    },
+    "sectionTestedTraits": {
+      "title": "This genetic report provides detailed analysis of:"
+    },
+    "message": {
+      "consultant": "Include a report explanation session with our specialists"
+    }
+  },
+  "checkout": {
+    "header": {
+      "shippingInformation": {
+        "label": "Shipping <br/> information"
+      },
+      "paymentMethod": {
+        "label": "Payment <br/> Method"
+      }
+    },
+    "shippingInformation": {
+      "title": {
+        "checkout": "Add your delivery address",
+        "unlockOrder": "Delivery information"
+      },
+      "content": {
+        "fullName": {
+          "label": "Full name"
+        },
+        "phoneNumber": {
+          "label": "Phone number"
+        },
+        "country": {
+          "label": "Deliver to country",
+          "error": {
+            "message": "We do not deliver to outside of Vietnam at the moment. Please email us at <1>contact@genetica.asia</1> for support."
+          }
+        },
+        "province": {
+          "label": "Province/City"
+        },
+        "district": {
+          "label": "District"
+        },
+        "ward": {
+          "label": "Ward"
+        },
+        "email": {
+          "label": "Email"
+        },
+        "address": {
+          "label": "Address"
+        }
+      },
+      "footer": {
+        "buttonContinue": {
+          "label": "Continue"
+        },
+        "buttonConfirmFreeOrder": {
+          "label": "Confirm free order"
+        }
+      }
+    },
+    "paymentMethod": {
+      "title": "Choose your payment option",
+      "header": {
+        "edit": {
+          "label": "Edit"
+        }
+      },
+      "content": {
+        "abbank": {
+          "title": "An Binh Commercial Joint Stock Bank (ABBANK) (Internet banking)"
+        },
+        "scb": {
+          "title": "Saigon Commercial Joint Stock Bank (SCB) (Internet banking)"
+        },
+        "onepayCreditCard": {
+          "title": "Credit card / Debit card"
+        },
+        "onepayATMCard": {
+          "title": "ATM card"
+        },
+        "vnPay": {
+          "title": "VNPay",
+          "description": "(Internet banking / QR code)"
+        },
+        "moMo": {
+          "title": "MoMo"
+        },
+        "zaloPay": {
+          "title": "ZaloPay"
+        },
+        "bankTransfer": {
+          "title": "Bank Transfer",
+          "description": "Quickly and easily make the payment with your online banking account."
+        },
+        "installment": {
+          "title": "0% Interest Installment by Credit Card",
+          "description": "Apply to orders with a minimum amount of 3,000,000 VND",
+          "modal": {
+            "header": {
+              "title": "Terms & Conditions"
+            },
+            "body": {
+              "content": "<p>Apply to all orders with a minimum amount of 3,000,000đ after deducting discounts (if any).</p><ul><li>Apply when purchasing on Genetica’s website or app</li><li><span>Installment tenors: 3/6 months</span></li><li>Customers will pay these Installment as usual method and process</li><li>The Installment amount will be shown on the monthly statement of cardholders</li></ul><p><span>Note:</span></p><ul><li>Ensure your credit limit</li><li>The Installment tenors must be shorter than the remaining validity of your credit card</li><li>Cardholders are not allowed to change or cancel the Installment transaction after the transaction has been changed to Installment payment</li></ul><p><span>Customers only need to pay the amount recorded in their order without ANY additional charge.</span></p>"
+            },
+            "footer": {
+              "action": {
+                "confirm": "I agree with the installment conditions"
+              }
+            }
+          }
+        }
+      },
+      "footer": {
+        "policy": {
+          "title": "I agree to Genetica's <1>Terms of Service</1> <2/> and <4>Privacy Policy</4>"
+        },
+        "buttonPurchase": {
+          "label": "Purchase"
+        },
+        "buttonPlaceOrder": {
+          "label": "Place order"
+        }
+      }
+    },
+    "sectionSummary": {
+      "header": {
+        "title": "Summary",
+        "action": "Edit",
+        "items": "Items"
+      },
+      "content": {
+        "list": {
+          "item": {
+            "unlock": "Unlock",
+            "for": "For"
+          }
+        },
+        "promotion": {
+          "title": "Promotion"
+        },
+        "estimatedShippingFees": {
+          "title": "Estimated Shipping Fees",
+          "content": {
+            "checkout": "Free",
+            "unlockOrder": "0"
+          }
+        },
+        "total": {
+          "title": "Total"
+        },
+        "promotionCode": {
+          "description": "I have a promotion code",
+          "button": {
+            "label": "APPLY"
+          }
+        },
+        "saved": {
+          "title": "You saved"
+        }
+      }
+    },
+    "error": {
+      "action": "Try Again"
+    }
+  },
+  "checkoutCallBackV2": {
+    "sectionCallbackSuccess": {
+      "title": "Thank you for choosing our service!",
+      "description": "We will send the DNA collection kit soon <1 />For support, please contact: <3>1900 599 927</3>",
+      "backToHome": {
+        "content": "Back to homepage"
+      },
+      "backToMainMiniApp": {
+        "content": "Back To Shop"
+      }
+    },
+    "sectionCallbackFailed": {
+      "title": "Your Payment is Failed!",
+      "content": {
+        "line1": "Something went wrong. Please try again.",
+        "line2": "If this problem happens again, please contact Genetica hotline: <1 /> <3>1900 599 927</3> or email: <5>cs@genetica.asia</5>",
+        "backToHome": {
+          "content": "Back to homepage"
+        },
+        "backToMainMiniApp": {
+          "content": "Back To Shop"
+        }
+      }
+    }
+  },
+  "checkoutBankTransferCallBack": {
+    "title": "Receipt created!",
+    "chooseBank": "Choose beneficiary bank:",
+    "messageContent": {
+      "beneficiaryName": {
+        "label": "Beneficiary name"
+      },
+      "accountNumber": {
+        "label": "Account number"
+      },
+      "beneficiaryBank": {
+        "label": "Beneficiary bank"
+      },
+      "branch": {
+        "label": "Branch"
+      },
+      "amount": {
+        "label": "Amount"
+      },
+      "message": {
+        "label": "Message"
+      }
+    },
+    "buttonGoToBankSCB": {
+      "label": "Open SCB Internet Banking"
+    },
+    "contact": {
+      "content": "Please transfer according to the following <br/> information before"
+    },
+    "appointment": {
+      "cart": "Once the transfer has been verified, we will contact you <br/> and send a Saliva Collecting Kit to your address within 1-3 <br/> working days.",
+      "unlock": "Your reports will be issued within 14 days."
+    },
+    "orderNumber": {
+      "content": "Your order number"
+    },
+    "downloadApp": {
+      "content": {
+        "before": "You can download Genetica app and login using your phone <br/> number",
+        "between": "to view your payment history and <br/> receive the",
+        "after": "report later."
+      }
+    },
+    "backToHome": {
+      "content": "BACK TO HOME"
+    },
+    "backToMainMiniApp": {
+      "content": "Back To Shop"
+    }
+  },
+  "checkoutCallBack": {
+    "sectionCallbackSuccess": {
+      "title": "Your Payment is Successful!",
+      "orderNumber": {
+        "content": "Your order number"
+      },
+      "appointment": {
+        "content": {
+          "checkout": "Our staff will contact you and send the Collection Kit to <br/> your address within 1-3 working days.",
+          "unlockOrder": "Your reports will be issued in 14 days."
+        }
+      },
+      "downloadApp": {
+        "content": {
+          "before": "You can download Genetica app and login using your phone <br/> number",
+          "between": "to view your payment history and <br/> receive the",
+          "after": "report later."
+        }
+      },
+      "contact": {
+        "content": "For any question, contact Genetica: <1/> <3>1900 599 927</3> or <5>cs@genetica.asia</5>"
+      },
+      "backToHome": {
+        "content": "BACK TO HOME"
+      }
+    },
+    "sectionCallbackFailed": {
+      "title": "Your Payment is Failed!",
+      "content": {
+        "line1": "Something went wrong. Please try again.",
+        "line2": "If this problem happens again, please contact Genetica hotline: <1/> <3>1900 599 927</3> or email: <5>cs@genetica.asia</5>",
+        "backToHome": {
+          "content": "BACK TO HOME"
+        }
+      }
+    }
+  },
+  "contactUs": {
+    "header": {
+      "title": "Contact Us"
+    },
+    "description": {
+      "title": "Leave your information, Genetica® will contact you as soon as possible"
+    },
+    "content": {
+      "form": {
+        "name": {
+          "label": "Your name (optional)"
+        },
+        "phone": {
+          "label": "Phone number"
+        },
+        "email": {
+          "label": "Your email"
+        },
+        "gender": {
+          "label": "Male/Female",
+          "options": {
+            "male": "Male",
+            "female": "Female",
+            "other": "Other"
+          }
+        },
+        "types": {
+          "label": "How can Genetica® help?"
+        },
+        "topic": {
+          "label": "Please select a topic"
+        },
+        "message": {
+          "label": "Your message (if any)"
+        },
+        "submit": {
+          "label": "Submit"
+        }
+      },
+      "error": {
+        "required": "Required",
+        "error": "Error",
+        "pastDate": "The booking date can not be smaller than current date",
+        "invalidDate": "Date is not valid"
+      }
+    }
+  },
+  "contactUsV2": {
+    "header": {
+      "title": "Customer Service",
+      "description": "Leave your information, Genetica® will contact you within 24 hours."
+    },
+    "content": {
+      "form": {
+        "name": {
+          "label": "Your name (optional)"
+        },
+        "phone": {
+          "label": "Phone number"
+        },
+        "email": {
+          "label": "Your email"
+        },
+        "gender": {
+          "label": "Male/Female",
+          "options": {
+            "male": "Male",
+            "female": "Female",
+            "other": "Other"
+          }
+        },
+        "types": {
+          "label": "How can Genetica® help?"
+        },
+        "topic": {
+          "label": "Please select a topic"
+        },
+        "message": {
+          "label": "Your message (if any)"
+        },
+        "submit": {
+          "label": "Submit now"
+        },
+        "hotline": {
+          "label": "Hotline"
+        }
+      },
+      "error": {
+        "required": "Please enter phone number",
+        "error": "Error",
+        "invalidPhoneNumber": "Invalid phone number"
+      }
+    }
+  },
+  "footer": {
+    "links": {
+      "about": {
+        "label": "About Us"
+      },
+      "contact": {
+        "label": "Contact"
+      },
+      "frequentlyAskedQuestions": {
+        "label": "Frequently Asked Questions"
+      },
+      "termsOfService": {
+        "label": "Terms of Service"
+      },
+      "privacyPolicy": {
+        "label": "Privacy Policy"
+      },
+      "news": {
+        "label": "News"
+      },
+      "generalTransactionConditions": {
+        "label": "General Transaction Conditions"
+      },
+      "serviceDeliveryProcess": {
+        "label": "Service Delivery Process"
+      },
+      "paymentMethods": {
+        "label": "Payment Methods"
+      },
+      "returnAndComplaintHandlingPolicy": {
+        "label": "Complaint-Handling Policy"
+      },
+      "careers": {
+        "label": "Career"
+      },
+      "serviceExchangeCancellationAndRefundPolicy": {
+        "label": "Service Exchange, Cancellation & Refund Policy"
+      },
+      "pressRelease": {
+        "label": "Press Release"
+      },
+      "disclaimer": {
+        "label": "Disclaimer"
+      }
+    },
+    "addresses": {
+      "us": {
+        "label": "US Head Office",
+        "address": "1011 23rd St.<br/>Unit 15<br/>San Francisco, CA 94107"
+      },
+      "singapore": {
+        "label": "Singapore Office",
+        "address": "16 Raffles Quay<br/>#33-03 Hong Leong Building<br/>Singapore (048581)"
+      },
+      "hanoi": {
+        "label": "Hà Nội Office",
+        "address": "9th Floor, National Innovation Center - NIC Building, <br/>Lane 07 Ton That Thuyet Street, Dich Vong Hau Ward, Cau Giay District"
+      },
+      "hcm": {
+        "label": "Hồ Chí Minh Office",
+        "address": "2nd Floor, 40 Pham Ngoc Thach Street, Vo Thi Sau Ward, Dist.3"
+      }
+    },
+    "copyrightNotice": "<span>Genetica.asia © Copyright 2022 | Gene Friend Vietnam, Inc.</span><br/><span>Business registration number: 0108276596.</span>",
+    "listAppLinks": {
+      "header": {
+        "title": "Download Genetica App"
+      }
+    },
+    "didYouKnow": {
+      "header": "Did You Know",
+      "body": {
+        "list": {
+          "whatIsGeneDecoding": {
+            "label": "What is gene decoding?"
+          }
+        }
+      }
+    },
+    "information": {
+      "header": "Information",
+      "body": {
+        "list": {
+          "aboutGenetica": {
+            "label": "About Genetica"
+          },
+          "frequentlyAskedQuestions": {
+            "label": "Frequently Asked Questions"
+          },
+          "contact": {
+            "label": "Contact"
+          },
+          "careers": {
+            "label": "Career"
+          }
+        }
+      }
+    },
+    "policiesAndTerms": {
+      "header": "Policies & Terms",
+      "body": {
+        "list": {
+          "termsOfService": {
+            "label": "Terms of Service"
+          },
+          "privacyPolicy": {
+            "label": "Privacy Statement and Disclosure of Information"
+          },
+          "generalTransactionConditions": {
+            "label": "General Transaction Conditions"
+          },
+          "serviceDeliveryProcess": {
+            "label": "Service Delivery Process"
+          },
+          "paymentMethods": {
+            "label": "Payment Methods"
+          },
+          "returnAndComplaintHandlingPolicy": {
+            "label": "Complaint-Handling Policy"
+          },
+          "serviceExchangeCancellationAndRefundPolicy": {
+            "label": "Service Exchange, Cancellation & Refund Policy"
+          },
+          "disclaimer": {
+            "label": "Disclaimer"
+          }
+        }
+      }
+    },
+    "socialMedia": {
+      "header": "Social Media"
+    },
+    "backToTop": {
+      "label": "Back to top"
+    }
+  },
+  "header": {
+    "menu": {
+      "home": {
+        "label": "Home"
+      },
+      "products": {
+        "label": "Products",
+        "children": {
+          "adults": {
+            "label": "Self-Actualization"
+          },
+          "kids": {
+            "label": "Child development"
+          },
+          "health": {
+            "label": "Health & Wellness"
+          },
+          "autism": {
+            "label": "G-Autism"
+          },
+          "immunity": {
+            "label": "G-Immunity"
+          },
+          "awareness": {
+            "label": "G-Awareness"
+          },
+          "smart": {
+            "label": "G-Smart"
+          }
+        },
+        "dropdown": {
+          "title": "Product Categories"
+        }
+      },
+      "geneticReports": {
+        "label": "Genetic reports",
+        "children": {
+          "package": {
+            "new": {
+              "label": "New!"
+            },
+            "promotion": {
+              "label": "Promotion!"
+            },
+            "allReports": "All {{count}} report",
+            "allReports_plural": "All {{count}} reports"
+          }
+        }
+      },
+      "geneticConsultation": {
+        "label": "Genetic consultation"
+      },
+      "partners": {
+        "label": "Partners",
+        "dropdown": {
+          "corporate": {
+            "label": "Corporate Partners"
+          },
+          "advocate": {
+            "label": "Advocate"
+          }
+        }
+      },
+      "blog": {
+        "label": "Blog"
+      },
+      "contact": {
+        "label": "Contact"
+      },
+      "salivaCollectingGuide": {
+        "label": "Saliva Collecting Guide",
+        "url": "https://youtu.be/8nMElgmkOaM?list=PLHSgVYL21dUWMzEtcKq6WslmHDlZescHa"
+      },
+      "pressRelease": {
+        "label": "Press Release"
+      },
+      "careers": {
+        "label": "Careers"
+      },
+      "news": {
+        "label": "News"
+      },
+      "aboutUs": {
+        "label": "About Us"
+      },
+      "language": {
+        "label": "Language"
+      },
+      "search": {
+        "label": "Search",
+        "placeholder": "Enter your keyword ..."
+      }
+    },
+    "links": {
+      "frequentlyAskedQuestions": {
+        "label": "FAQs"
+      },
+      "guides": {
+        "label": "Guides",
+        "children": {
+          "salivaCollectingGuide": {
+            "label": "Saliva Collecting Guide",
+            "url": "https://youtu.be/8nMElgmkOaM?list=PLHSgVYL21dUWMzEtcKq6WslmHDlZescHa"
+          },
+          "reportReadingGuide": {
+            "label": "How to read genetic reports"
+          },
+          "consultation": {
+            "label": "Book a consultation session"
+          }
+        }
+      },
+      "home": {
+        "label": "Home"
+      },
+      "introduction": {
+        "label": "Introduction"
+      },
+      "news": {
+        "label": "News",
+        "children": {
+          "newsAndEvents": {
+            "label": "News & Events"
+          },
+          "blog": {
+            "label": "Blog"
+          },
+          "press": {
+            "label": "Media say about Genetica"
+          }
+        }
+      },
+      "partners": {
+        "label": "Partners",
+        "children": {
+          "corporate": {
+            "label": "Corporate partners"
+          },
+          "advocate": {
+            "label": "Become Our Advocates"
+          }
+        }
+      },
+      "products": {
+        "label": "Products",
+        "children": {
+          "adults": {
+            "label": "Adults"
+          },
+          "health": {
+            "label": "Health"
+          },
+          "kids": {
+            "label": "Kids"
+          },
+          "combo": {
+            "label": "Combo"
+          }
+        }
+      }
+    },
+    "actions": {
+      "search": {
+        "input": {
+          "placeholder": "Enter your keyword"
+        }
+      },
+      "signIn": {
+        "label": "Sign in"
+      },
+      "account": {
+        "account": {
+          "label": "Account"
+        },
+        "reports": {
+          "label": "My reports"
+        },
+        "consultation": {
+          "label": "Consultation"
+        },
+        "signOut": {
+          "label": "Sign out"
+        }
+      },
+      "cart": {
+        "viewCart": {
+          "label": "Check your cart"
+        }
+      },
+      "dropdownChangeLanguage": {
+        "title": "Language",
+        "options": {
+          "vi": {
+            "name": "Tiếng Việt",
+            "code": "VI"
+          },
+          "en": {
+            "name": "English",
+            "code": "EN"
+          },
+          "zh": {
+            "name": "中文",
+            "code": "CN"
+          }
+        },
+        "cta": {
+          "save": "Save"
+        }
+      },
+      "dropdownChangeCurrency": {
+        "title": "Currency",
+        "options": {
+          "VND": {
+            "name": "Vietnam Dong",
+            "code": "VND"
+          },
+          "USD": {
+            "name": "U.S Dollar",
+            "code": "USD"
+          }
+        }
+      }
+    },
+    "topBanner": {
+      "list": {
+        "1": {
+          "text": "Which diet suits you best?",
+          "action": {
+            "label": "Try for Free"
+          }
+        },
+        "2": {
+          "text": "0% installment program",
+          "action": {
+            "label": "Learn more"
+          }
+        },
+        "3": {
+          "text": "Get 45% off to celebrate Vietnamese Women's Day",
+          "action": {
+            "label": "Explore now"
+          }
+        }
+      }
+    }
+  },
+  "modalContactFailed": {
+    "modal": {
+      "content": {
+        "text": "An error occurred!"
+      },
+      "actions": {
+        "close": {
+          "label": "Close"
+        },
+        "tryAgain": {
+          "label": "Try Again"
+        }
+      }
+    }
+  },
+  "modalContactSuccess": {
+    "modal": {
+      "header": {
+        "title": "Thank you!"
+      },
+      "content": {
+        "text": "Thank you for your interest in Genetica. Our staff will contact you as soon as possible."
+      },
+      "actions": {
+        "close": {
+          "label": "Close"
+        },
+        "confirmation": {
+          "label": "OK"
+        }
+      }
+    }
+  },
+  "modalEditCart": {
+    "modal": {
+      "header": {
+        "title": "Edit your cart"
+      },
+      "content": {
+        "removed": "removed",
+        "undo": "Undo"
+      }
+    }
+  },
+  "modalError": {
+    "header": {
+      "title": "Error!"
+    },
+    "content": {
+      "message": "Invalid token"
+    },
+    "actions": {
+      "reLogin": {
+        "label": "Login again"
+      }
+    }
+  },
+  "modalOtp": {
+    "header": "Enter OTP",
+    "description": "An SMS with a 6-digit code was sent to your phone number <b>({{phoneNumber}})</b>",
+    "content": {
+      "formOtp": {
+        "actions": {
+          "resendOTP": {
+            "label": "Resend OTP",
+            "label2": "after"
+          }
+        }
+      }
+    }
+  },
+  "modalSignOutConfirm": {
+    "content": {
+      "text": "Are you sure want to sign out?"
+    },
+    "actions": {
+      "cancel": {
+        "label": "Cancel"
+      },
+      "signOut": {
+        "label": "Sign out"
+      }
+    }
+  },
+  "modalVerifyError": {
+    "content": {
+      "text": "Error!"
+    }
+  },
+  "modalVerifySuccess": {
+    "content": {
+      "text": "Confirmed successfully"
+    },
+    "actions": {
+      "close": {
+        "label": "Back to homepage"
+      }
+    }
+  },
+  "modalConfirmLeaving": {
+    "modal": {
+      "content": {
+        "text": "By returning to the cart, filled information will be lost."
+      },
+      "actions": {
+        "confirm": {
+          "label": "Confirm"
+        },
+        "cancel": {
+          "label": "Cancel"
+        }
+      }
+    }
+  },
+  "packageCategories": {
+    "list": {
+      "item": {
+        "actions": {
+          "learnMore": {
+            "label": "Learn More"
+          }
+        }
+      }
+    }
+  },
+  "sectionGBaseDietQuizAnchor": {
+    "header": {
+      "actions": {
+        "show": {
+          "label": "Show"
+        },
+        "hide": {
+          "label": "Hide"
+        }
+      }
+    },
+    "body": {
+      "content": {
+        "title": "Quiz",
+        "description": "What diet is best for your genes?",
+        "actions": {
+          "letsDoThis": {
+            "label": "Let’s do this"
+          }
+        }
+      }
+    }
+  },
+  "sectionGeneticReports": {
+    "header": {
+      "title": "Genetic report"
+    },
+    "body": {
+      "content": {
+        "buttonBuyNow": {
+          "label": "Buy Now"
+        }
+      }
+    }
+  },
+  "sectionRelatedPosts": {
+    "header": {
+      "title": "Related articles"
+    }
+  },
+  "sectionShare": {
+    "body": {
+      "list": {
+        "itemFacebook": {
+          "title": "Share on Facebook"
+        },
+        "itemTwitter": {
+          "title": "Share on Twitter"
+        },
+        "itemLinkedin": {
+          "title": "Share on Linkedin"
+        }
+      }
+    }
+  },
+  "sectionSignIn": {
+    "header": {
+      "title": "Consultation Booking",
+      "description": "Sign in using your phone number",
+      "label": "Login"
+    },
+    "body": {
+      "formSignIn": {
+        "fields": {
+          "phoneNumber": {
+            "placeholder": "Phone number"
+          }
+        },
+        "buttons": {
+          "signIn": {
+            "label": "Sign in"
+          }
+        },
+        "errorPopup": {
+          "title": "Error!"
+        }
+      }
+    }
+  },
+  "sectionUserBar": {
+    "welcome": "Welcome, {{userName}}!",
+    "signOut": {
+      "label": "Sign out"
+    }
+  },
+  "serviceList": {
+    "list": {
+      "item": {
+        "price": {
+          "label": "Starting at"
+        },
+        "actions": {
+          "buyNow": {
+            "label": "Buy now"
+          },
+          "learnMore": {
+            "label": "Learn More"
+          }
+        }
+      }
+    }
+  },
+  "staticPages": {
+    "sidebar": {
+      "menu": {
+        "about": {
+          "label": "About Genetica®"
+        },
+        "frequentlyAskedQuestions": {
+          "label": "Frequently asked questions"
+        },
+        "contact": {
+          "label": "Contact Us"
+        },
+        "careers": {
+          "label": "Recruitment"
+        },
+        "reportReadingGuide": {
+          "label": "How to read genetic reports"
+        }
+      }
+    }
+  },
+  "subheader": {
+    "contactUs": {
+      "label": "Contact us:"
+    },
+    "redeem": {
+      "label": "Code Redeem"
+    },
+    "doctors": {
+      "label": "Meet our Experts"
+    },
+    "myCart": {
+      "label": "My cart"
+    },
+    "myAccount": {
+      "label": "My account",
+      "children": {
+        "signIn": {
+          "label": "Sign in"
+        },
+        "signOut": {
+          "label": "Sign out"
+        }
+      }
+    },
+    "account": {
+      "label": "Account"
+    }
+  },
+  "widgetQuickDial": {
+    "links": {
+      "0": {
+        "label": "Book a consultation session"
+      }
+    }
+  },
+  "modalOnboarding": {
+    "content": {
+      "title": "Welcome to Genetica",
+      "description": "Please tell us a bit about you so we can serve you better. Your input is very important to us!"
+    },
+    "actions": {
+      "skip": "Skip",
+      "close": "Close",
+      "previous": "Previous",
+      "next": "Next",
+      "finish": "Finish"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "alert": {
+    "promotion": {
+      "invalid": {
+        "message": "Mã khuyến mại không hợp lệ"
+      },
+      "required": {
+        "message": "Mã khuyến mại không được bỏ trống."
+      }
+    }
+  }
+}

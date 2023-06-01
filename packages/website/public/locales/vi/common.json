@@ -1,0 +1,1030 @@
+{
+  "modules": {
+    "cardPackage": {
+      "tags": {
+        "isBestSelling": {
+          "label": "Bán chạy nhất"
+        },
+        "hasBestValue": {
+          "label": "Giá trị nhất"
+        },
+        "isHotDeal": {
+          "label": "Hot deal"
+        },
+        "isCombo": {
+          "label": "Gói"
+        },
+        "isNew": {
+          "label": "Sản phẩm mới"
+        },
+        "hasPromotion": {
+          "label": "Khuyến mại"
+        }
+      },
+      "sectionTestedTraits": {
+        "title": "Báo cáo giải mã gen gồm các phân tích về:"
+      },
+      "message": {
+        "consultant": "Bao gồm gói giải thích báo cáo cùng chuyên gia"
+      }
+    },
+    "checkout": {
+      "header": {
+        "shippingInformation": {
+          "label": "Thông tin <br/> vận chuyển"
+        },
+        "paymentMethod": {
+          "label": "Phương thức <br/> thanh toán"
+        }
+      },
+      "shippingInformation": {
+        "title": {
+          "checkout": "Thêm địa chỉ chuyển phát",
+          "unlockOrder": "Địa chỉ chuyển phát"
+        },
+        "content": {
+          "fullName": {
+            "label": "Họ và tên"
+          },
+          "phoneNumber": {
+            "label": "Số điện thoại"
+          },
+          "country": {
+            "label": "Giao hàng đến Quốc gia",
+            "error": {
+              "message": "Hiện tại chúng tôi không giao hàng ra ngoài lãnh thổ Việt Nam. Vui lòng gửi email cho chúng tôi theo địa chỉ <1>contact@genetica.asia</1> để được hỗ trợ."
+            }
+          },
+          "province": {
+            "label": "Tỉnh/Thành phố"
+          },
+          "district": {
+            "label": "Huyện/Quận"
+          },
+          "ward": {
+            "label": "Xã/Phường"
+          },
+          "address": {
+            "label": "Địa chỉ"
+          },
+          "email": {
+            "label": "Email"
+          }
+        },
+        "footer": {
+          "buttonContinue": {
+            "label": "Tiếp tục"
+          },
+          "buttonConfirmFreeOrder": {
+            "label": "Xác nhận mua"
+          }
+        }
+      },
+      "paymentMethod": {
+        "title": "Chọn phương thức thanh toán",
+        "header": {
+          "edit": {
+            "label": "Sửa"
+          }
+        },
+        "content": {
+          "abbank": {
+            "title": "Ngân hàng Thương mại Cổ phần An Bình (ABBANK) (Internet banking)"
+          },
+          "scb": {
+            "title": "Ngân hàng TMCP Sài Gòn (SCB) (Internet banking)"
+          },
+          "onepayCreditCard": {
+            "title": "Thẻ tín dụng / Thẻ ghi nợ"
+          },
+          "onepayATMCard": {
+            "title": "Thẻ ATM"
+          },
+          "vnPay": {
+            "description": "(Ngân hàng điện tử / Mã QR)",
+            "title": "VNPay"
+          },
+          "bankTransfer": {
+            "title": "Chuyển khoản ngân hàng",
+            "description": "Thanh toán nhanh chóng và thuận tiện qua tài khoản ngân hàng trực tuyến."
+          },
+          "moMo": {
+            "title": "MoMo"
+          },
+          "installment": {
+            "title": "Trả góp 0% qua thẻ tín dụng",
+            "description": "Chỉ áp dụng với đơn hàng từ 3,000,000 VNĐ trở lên",
+            "modal": {
+              "header": {
+                "title": "Quy Định trả góp"
+              },
+              "body": {
+                "content": "<p>Áp dụng cho tất cả đơn hàng có giá trị từ 3.000.000đ trở lên sau khi đã trừ các khoản giảm giá (nếu có)</p><ul><li>Áp dụng khi mua hàng trên website và app của Genetica</li><li><span>Thời gian trả góp: 3 tháng hoặc 6 tháng</span></li><li>Khách hàng sẽ thanh toán các khoản này theo phương thức và thời hạn thanh toán thông thường của thẻ tín dụng.</li><li>Khoản tiền phải trả góp sẽ được hiển thị trên bảng sao kê hàng tháng.</li></ul><p><span>Lưu ý:</span></p><ul><li>Phải đảm bảo thẻ đủ hạn mức.</li><li>Kỳ hạn trả góp phải ngắn hơn thời gian hiệu lực còn lại của thẻ tín dụng.</li><li>Chủ thẻ không được thay đổi hoặc hủy giao dịch trả góp sau khi giao dịch đã chuyển sang trả góp.</li></ul><p><span>Khách hàng chỉ thanh toán đúng với giá trị dịch vụ sản phẩm của Genetica mà KHÔNG chịu BẤT KỲ CHI PHÍ phát sinh nào khác.</span></p>"
+              },
+              "footer": {
+                "action": {
+                  "confirm": "Tôi đồng ý với quy định trả góp"
+                }
+              }
+            }
+          },
+          "zaloPay": {
+            "title": "ZaloPay"
+          }
+        },
+        "footer": {
+          "policy": {
+            "title": "Tôi đồng ý với <1>điều khoản dịch vụ</1> <2/> và <4>chính sách bảo mật và quyền riêng tư</4> của Genetica"
+          },
+          "buttonPurchase": {
+            "label": "Mua"
+          },
+          "buttonPlaceOrder": {
+            "label": "Tạo đơn hàng"
+          }
+        }
+      },
+      "sectionSummary": {
+        "header": {
+          "title": "Chi tiết đơn hàng",
+          "action": "Sửa",
+          "items": "Mặt hàng"
+        },
+        "content": {
+          "list": {
+            "item": {
+              "unlock": "Mở khóa",
+              "for": "Cho"
+            }
+          },
+          "promotion": {
+            "title": "Khuyến mãi"
+          },
+          "estimatedShippingFees": {
+            "title": "Phí vận chuyển",
+            "content": {
+              "checkout": "Miễn phí",
+              "unlockOrder": "0"
+            }
+          },
+          "total": {
+            "title": "Tổng thanh toán"
+          },
+          "promotionCode": {
+            "description": "Tôi có mã giảm giá",
+            "button": {
+              "label": "ÁP DỤNG"
+            }
+          },
+          "saved": {
+            "title": "Bạn tiết kiệm"
+          }
+        }
+      },
+      "error": {
+        "action": "Thử lại"
+      }
+    },
+    "checkoutCallBack": {
+      "sectionCallbackSuccess": {
+        "title": "Thanh toán thành công!",
+        "orderNumber": {
+          "content": "Số đơn hàng của bạn"
+        },
+        "appointment": {
+          "content": {
+            "checkout": "Chúng tôi sẽ liên hệ với bạn và gửi ống thu mẫu <br/> đến địa chỉ của bạn trong 1 tới 3 ngày làm việc.",
+            "unlockOrder": "Báo cáo của bạn sẽ được phát hành trong vòng 14 ngày."
+          }
+        },
+        "downloadApp": {
+          "content": {
+            "before": "Bạn có thể tải ứng dụng Genetica và đăng nhập bằng số điện thoại <br/> của bạn",
+            "between": "để xem lịch sử thanh toán và <br/> nhận báo cáo",
+            "after": "sau này."
+          }
+        },
+        "contact": {
+          "content": "Mọi câu hỏi, vui lòng liên hệ Genetica: <1/> <3>1900 599 927</3> hoặc <5>cs@genetica.asia</5>"
+        },
+        "backToHome": {
+          "content": "Quay lại trang chủ"
+        }
+      },
+      "sectionCallbackFailed": {
+        "title": "Thanh toán thất bại!",
+        "content": {
+          "line1": "Đã có lỗi xảy ra. Vui lòng thử lại.",
+          "line2": "Nếu gặp lỗi này lần nữa, bạn vui lòng liên hệ Genetica qua hotline: <1/> <3>1900 599 927</3> hoặc email: <5>cs@genetica.asia</5>",
+          "backToHome": {
+            "content": "QUAY LẠI TRANG CHỦ"
+          }
+        }
+      }
+    },
+    "checkoutCallBackV2": {
+      "sectionCallbackSuccess": {
+        "backToMainMiniApp": {
+          "content": "Back To Shop"
+        },
+        "title": "Cảm ơn bạn đã sử dụng vụ",
+        "description": "Chúng tôi sẽ gửi bạn bộ thu mẫu trong thời gian sớm nhất <1 />Hotline hỗ trợ: <3>1900 599 927</3>",
+        "backToHome": {
+          "content": "Về trang chủ"
+        }
+      },
+      "sectionCallbackFailed": {
+        "content": {
+          "backToMainMiniApp": {
+            "content": "Back To Shop"
+          },
+          "line1": "Đã có lỗi xảy ra. Vui lòng thử lại.",
+          "line2": "Nếu gặp lỗi này lần nữa, bạn vui lòng liên hệ Genetica qua hotline: <1 /> <3>1900 599 927</3> hoặc email: <5>cs@genetica.asia</5>",
+          "backToHome": {
+            "content": "Về trang chủ"
+          }
+        },
+        "title": "Thanh toán thất bại!"
+      }
+    },
+    "checkoutBankTransferCallBack": {
+      "title": "Tạo đơn hàng thành công!",
+      "chooseBank": "Chọn một trong những tài khoản sau:",
+      "messageContent": {
+        "beneficiaryName": {
+          "label": "Chủ tài khoản"
+        },
+        "accountNumber": {
+          "label": "Số tài khoản"
+        },
+        "beneficiaryBank": {
+          "label": "Ngân hàng"
+        },
+        "branch": {
+          "label": "Chi nhánh"
+        },
+        "amount": {
+          "label": "Số tiền chuyển khoản"
+        },
+        "message": {
+          "label": "Nội dung chuyển khoản"
+        }
+      },
+      "buttonGoToBankSCB": {
+        "label": "Mở SCB Internet Banking"
+      },
+      "contact": {
+        "content": "Vui lòng chuyển khoản theo thông tin sau, <br/> trước"
+      },
+      "appointment": {
+        "cart": "Sau khi nhận được tiền chuyển khoản, chúng tôi sẽ liên hệ với bạn <br/> và gửi ống thu mẫu đến địa chỉ của bạn trong 1 tới 3 <br/> ngày làm việc.",
+        "unlock": "Báo cáo của bạn sẽ được phát hành trong vòng 14 ngày."
+      },
+      "orderNumber": {
+        "content": "Số đơn hàng của bạn"
+      },
+      "downloadApp": {
+        "content": {
+          "before": "Bạn có thể tải ứng dụng Genetica và đăng nhập bằng số điện thoại <br/> của bạn",
+          "between": "để xem lịch sử thanh toán và <br/> nhận báo cáo",
+          "after": "sau này."
+        }
+      },
+      "backToHome": {
+        "content": "QUAY LẠI TRANG CHỦ"
+      },
+      "backToMainMiniApp": {
+        "content": "Trở lại Shop"
+      }
+    },
+    "contactUs": {
+      "header": {
+        "title": "Liên Hệ"
+      },
+      "description": {
+        "title": "Để lại thông tin, Genetica® sẽ liên hệ để tư vấn miễn phí và hỗ trợ đăng ký dịch vụ"
+      },
+      "content": {
+        "form": {
+          "name": {
+            "label": "Họ và tên (không bắt buộc)"
+          },
+          "phone": {
+            "label": "Số điện thoại"
+          },
+          "email": {
+            "label": "Email"
+          },
+          "gender": {
+            "label": "Nam/Nữ",
+            "options": {
+              "male": "Nam",
+              "female": "Nữ",
+              "other": "Khác"
+            }
+          },
+          "types": {
+            "label": "Anh/chị quan tâm mảng dịch vụ nào của Genetica®"
+          },
+          "topic": {
+            "label": "Chọn vấn đề anh/chị cần hỗ trợ"
+          },
+          "message": {
+            "label": "Câu hỏi khác dành cho Genetica®"
+          },
+          "submit": {
+            "label": "GỬI"
+          }
+        },
+        "error": {
+          "required": "Bắt buộc",
+          "error": "Lỗi",
+          "pastDate": "Bạn không thể chọn ngày nhận tư vấn trong quá khứ",
+          "invalidDate": "Ngày đã chọn không hợp lệ"
+        }
+      }
+    },
+    "contactUsV2": {
+      "header": {
+        "title": "Chăm sóc khách hàng",
+        "description": "Để lại thông tin, Genetica® sẽ liên hệ trong vòng 24h."
+      },
+      "content": {
+        "form": {
+          "name": {
+            "label": "Họ và tên (không bắt buộc)"
+          },
+          "phone": {
+            "label": "Số điện thoại"
+          },
+          "email": {
+            "label": "Email"
+          },
+          "gender": {
+            "label": "Nam/Nữ",
+            "options": {
+              "male": "Nam",
+              "female": "Nữ",
+              "other": "Khác"
+            }
+          },
+          "types": {
+            "label": "Anh/chị quan tâm mảng dịch vụ nào của Genetica®"
+          },
+          "topic": {
+            "label": "Chọn chủ đề bạn quan tâm"
+          },
+          "message": {
+            "label": "Câu hỏi khác dành cho Genetica®"
+          },
+          "submit": {
+            "label": "Gửi"
+          },
+          "hotline": {
+            "label": "Tổng đài hỗ trợ"
+          }
+        },
+        "error": {
+          "required": "Vui lòng nhập số điện thoại",
+          "error": "Lỗi",
+          "invalidPhoneNumber": "Số điện thoại không hợp lệ"
+        }
+      }
+    },
+    "footer": {
+      "links": {
+        "about": {
+          "label": "Giới thiệu"
+        },
+        "contact": {
+          "label": "Liên hệ"
+        },
+        "frequentlyAskedQuestions": {
+          "label": "Câu hỏi thường gặp"
+        },
+        "termsOfService": {
+          "label": "Điều khoản dịch vụ"
+        },
+        "privacyPolicy": {
+          "label": "Chính sách bảo mật & quyền riêng tư"
+        },
+        "news": {
+          "label": "Tin tức"
+        },
+        "generalTransactionConditions": {
+          "label": "Điều kiện giao dịch"
+        },
+        "serviceDeliveryProcess": {
+          "label": "Phương thức cung cấp dịch vụ"
+        },
+        "paymentMethods": {
+          "label": "Phương thức thanh toán"
+        },
+        "returnAndComplaintHandlingPolicy": {
+          "label": "Chính sách xử lý khiếu nại"
+        },
+        "careers": {
+          "label": "Tuyển dụng"
+        },
+        "serviceExchangeCancellationAndRefundPolicy": {
+          "label": "Chính sách đổi, hủy & hoàn phí dịch vụ"
+        },
+        "pressRelease": {
+          "label": "Thông cáo báo chí"
+        },
+        "disclaimer": {
+          "label": "Các Giới Hạn và Trường Hợp Loại Trừ của Giải Mã Gen"
+        }
+      },
+      "addresses": {
+        "us": {
+          "label": "Trụ sở chính tại Mỹ",
+          "address": "1011 23rd St.<br/>Unit 15<br/>San Francisco, CA 94107"
+        },
+        "singapore": {
+          "label": "Văn phòng tại Singapore",
+          "address": "16 Raffles Quay<br/>#33-03 Hong Leong Building<br/>Singapore (048581)"
+        },
+        "hanoi": {
+          "label": "Văn phòng tại Hà Nội",
+          "address": "Tầng 9, Trung tâm Đổi Mới Sáng Tạo Quốc Gia - Tòa nhà NIC,<br/> Ngõ 7 Tôn Thất Thuyết, Phường Dịch Vọng Hậu, Quận Cầu Giấy"
+        },
+        "hcm": {
+          "label": "Văn phòng tại TP.HCM",
+          "address": "Tầng 2, Số 40 Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3"
+        }
+      },
+      "copyrightNotice": "Genetica.asia © 2022 - Bản quyền của công ty TNHH Gene Friend Việt Nam<br/><span>Giấy chứng nhận Đăng ký Kinh doanh số: 0108276596.</span>",
+      "listAppLinks": {
+        "header": {
+          "title": "Tải app tại"
+        }
+      },
+      "didYouKnow": {
+        "header": "Bạn có biết",
+        "body": {
+          "list": {
+            "whatIsGeneDecoding": {
+              "label": "Giải mã gen là gì"
+            }
+          }
+        }
+      },
+      "information": {
+        "header": "Thông tin",
+        "body": {
+          "list": {
+            "aboutGenetica": {
+              "label": "Về Genetica"
+            },
+            "frequentlyAskedQuestions": {
+              "label": "Câu hỏi thường gặp"
+            },
+            "contact": {
+              "label": "Liên hệ"
+            },
+            "careers": {
+              "label": "Tuyển dụng"
+            }
+          }
+        }
+      },
+      "policiesAndTerms": {
+        "header": "Chính sách & Điều khoản",
+        "body": {
+          "list": {
+            "termsOfService": {
+              "label": "Điều khoản dịch vụ"
+            },
+            "privacyPolicy": {
+              "label": "Chính sách bảo mật & quyền riêng tư"
+            },
+            "generalTransactionConditions": {
+              "label": "Điều kiện giao dịch"
+            },
+            "serviceDeliveryProcess": {
+              "label": "Phương thức cung cấp dịch vụ"
+            },
+            "paymentMethods": {
+              "label": "Phương thức thanh toán"
+            },
+            "returnAndComplaintHandlingPolicy": {
+              "label": "Chính sách xử lý khiếu nại"
+            },
+            "serviceExchangeCancellationAndRefundPolicy": {
+              "label": "Chính sách đổi, hủy & hoàn phí dịch vụ"
+            },
+            "disclaimer": {
+              "label": "Các Giới Hạn và Trường Hợp Loại Trừ của Giải Mã Gen"
+            }
+          }
+        }
+      },
+      "socialMedia": {
+        "header": "Kênh thông tin"
+      },
+      "backToTop": {
+        "label": "Trở lên trên"
+      }
+    },
+    "header": {
+      "menu": {
+        "home": {
+          "label": "Trang chủ"
+        },
+        "products": {
+          "label": "Sản phẩm",
+          "children": {
+            "adults": {
+              "label": "Hiện thực hóa bản thân"
+            },
+            "kids": {
+              "label": "Giúp trẻ phát triển toàn diện"
+            },
+            "health": {
+              "label": "Sức khỏe"
+            },
+            "autism": {
+              "label": "G-Autism"
+            },
+            "immunity": {
+              "label": "G-Immunity"
+            },
+            "awareness": {
+              "label": "G-Awareness"
+            },
+            "smart": {
+              "label": "G-Smart"
+            }
+          },
+          "dropdown": {
+            "title": "Danh mục sản phẩm"
+          }
+        },
+        "geneticReports": {
+          "label": "Báo cáo di truyền",
+          "children": {
+            "package": {
+              "new": {
+                "label": "Mới!"
+              },
+              "promotion": {
+                "label": "Khuyến mại!"
+              },
+              "allReports": "Tất cả {{count}} báo cáo",
+              "allReports_plural": "Tất cả {{count}} báo cáo"
+            }
+          }
+        },
+        "geneticConsultation": {
+          "label": "Tư vấn di truyền"
+        },
+        "partners": {
+          "label": "Đối tác",
+          "dropdown": {
+            "corporate": {
+              "label": "Đối tác doanh nghiệp"
+            },
+            "advocate": {
+              "label": "Đối tác cá nhân"
+            }
+          }
+        },
+        "contact": {
+          "label": "Liên hệ"
+        },
+        "salivaCollectingGuide": {
+          "label": "Hướng dẫn lấy mẫu",
+          "url": "https://youtu.be/Vc9PQVddhVs?list=PLHSgVYL21dUW3ENntE8brlRmRFH18JMM2"
+        },
+        "careers": {
+          "label": "Tuyển dụng"
+        },
+        "blog": {
+          "label": "Blog"
+        },
+        "news": {
+          "label": "Tin tức"
+        },
+        "aboutUs": {
+          "label": "Giới thiệu"
+        },
+        "language": {
+          "label": "Ngôn ngữ"
+        },
+        "search": {
+          "label": "Tìm kiếm",
+          "placeholder": "Nhập từ khóa ..."
+        },
+        "pressRelease": {
+          "label": "Press Release"
+        }
+      },
+      "links": {
+        "frequentlyAskedQuestions": {
+          "label": "Câu hỏi thường gặp"
+        },
+        "guides": {
+          "label": "Hướng dẫn",
+          "children": {
+            "salivaCollectingGuide": {
+              "label": "Hướng dẫn lấy mẫu",
+              "url": "https://youtu.be/Vc9PQVddhVs?list=PLHSgVYL21dUW3ENntE8brlRmRFH18JMM2"
+            },
+            "reportReadingGuide": {
+              "label": "Hướng dẫn đọc báo cáo"
+            },
+            "consultation": {
+              "label": "Đặt lịch tư vấn kết quả"
+            }
+          }
+        },
+        "home": {
+          "label": "Trang chủ"
+        },
+        "introduction": {
+          "label": "Giới thiệu"
+        },
+        "news": {
+          "label": "Tin tức",
+          "children": {
+            "newsAndEvents": {
+              "label": "Tin tức & Sự kiện"
+            },
+            "press": {
+              "label": "Báo chí nói về chúng tôi"
+            },
+            "blog": {
+              "label": "Blog"
+            }
+          }
+        },
+        "partners": {
+          "label": "Đối tác",
+          "children": {
+            "corporate": {
+              "label": "Đối tác doanh nghiệp"
+            },
+            "advocate": {
+              "label": "Đăng kí trở thành đối tác"
+            }
+          }
+        },
+        "products": {
+          "label": "Dịch vụ",
+          "children": {
+            "adults": {
+              "label": "Người lớn"
+            },
+            "health": {
+              "label": "Sức khỏe"
+            },
+            "kids": {
+              "label": "Trẻ em"
+            },
+            "family": {
+              "label": "Gia đình"
+            }
+          }
+        }
+      },
+      "actions": {
+        "search": {
+          "input": {
+            "placeholder": "Nhập từ khóa"
+          }
+        },
+        "signIn": {
+          "label": "Đăng nhập"
+        },
+        "account": {
+          "account": {
+            "label": "Tài khoản"
+          },
+          "reports": {
+            "label": "Báo cáo của tôi"
+          },
+          "consultation": {
+            "label": "Lịch tư vấn"
+          },
+          "signOut": {
+            "label": "Đăng xuất"
+          }
+        },
+        "cart": {
+          "viewCart": {
+            "label": "Xem giỏ hàng"
+          }
+        }
+      },
+      "topBanner": {
+        "list": {
+          "1": {
+            "text": "Trắc nghiệm chế độ ăn dành riêng cho bạn",
+            "action": {
+              "label": "Thử miễn phí"
+            }
+          },
+          "2": {
+            "text": "Giải mã gen Trả góp<br/>lãi suất 0%",
+            "action": {
+              "label": "Xem ngay"
+            }
+          },
+          "3": {
+            "text": "Giảm ngay 45% mừng ngày Phụ nữ Việt Nam",
+            "action": {
+              "label": "Xem ngay"
+            }
+          }
+        }
+      }
+    },
+    "modalContactFailed": {
+      "modal": {
+        "content": {
+          "text": "Có lỗi xảy ra!"
+        },
+        "actions": {
+          "close": {
+            "label": "Đóng"
+          },
+          "tryAgain": {
+            "label": "Thử lại"
+          }
+        }
+      }
+    },
+    "modalContactSuccess": {
+      "modal": {
+        "header": {
+          "title": "Cảm ơn!"
+        },
+        "content": {
+          "text": "Cảm ơn bạn đã quan tâm tới Genetica. Chúng tôi sẽ liên lạc với bạn trong thời gian sớm nhất."
+        },
+        "actions": {
+          "close": {
+            "label": "Đóng"
+          },
+          "confirmation": {
+            "label": "Ok"
+          }
+        }
+      }
+    },
+    "modalEditCart": {
+      "modal": {
+        "header": {
+          "title": "Sửa giỏ hàng"
+        },
+        "content": {
+          "removed": "đã được xóa",
+          "undo": "Hoàn tác"
+        }
+      }
+    },
+    "modalError": {
+      "header": {
+        "title": "Lỗi!"
+      },
+      "content": {
+        "message": "Token không hợp lệ"
+      },
+      "actions": {
+        "reLogin": {
+          "label": "Đăng nhập lại"
+        }
+      }
+    },
+    "modalOtp": {
+      "header": "Nhập mã số",
+      "description": "Chúng tôi đã nhắn tin mã số gồm 6 kí tự đến số điện thoại <b>({{phoneNumber}})</b>",
+      "content": {
+        "formOtp": {
+          "actions": {
+            "resendOTP": {
+              "label": "Gửi lại mã số",
+              "label2": "sau"
+            }
+          }
+        }
+      }
+    },
+    "modalSignOutConfirm": {
+      "content": {
+        "text": "Bạn có chắc chắn muốn đăng xuất?"
+      },
+      "actions": {
+        "cancel": {
+          "label": "Hủy"
+        },
+        "signOut": {
+          "label": "Đăng xuất"
+        }
+      }
+    },
+    "modalVerifyError": {
+      "content": {
+        "text": "Lỗi!"
+      }
+    },
+    "modalVerifySuccess": {
+      "content": {
+        "text": "Xác nhận thông tin thành công"
+      },
+      "actions": {
+        "close": {
+          "label": "Quay về trang chủ"
+        }
+      }
+    },
+    "modalConfirmLeaving": {
+      "modal": {
+        "content": {
+          "text": "Bằng việc quay lại giỏ hàng, thông tin bạn vừa nhập có thể bị mất."
+        },
+        "actions": {
+          "confirm": {
+            "label": "Đồng ý"
+          },
+          "cancel": {
+            "label": "Ở lại"
+          }
+        }
+      }
+    },
+    "packageCategories": {
+      "list": {
+        "item": {
+          "actions": {
+            "learnMore": {
+              "label": "Tìm hiểu thêm"
+            }
+          }
+        }
+      }
+    },
+    "sectionGBaseDietQuizAnchor": {
+      "header": {
+        "actions": {
+          "show": {
+            "label": "Hiện"
+          },
+          "hide": {
+            "label": "Ẩn"
+          }
+        }
+      },
+      "body": {
+        "content": {
+          "title": "Trắc nghiệm",
+          "description": "Chế độ dinh dưỡng theo gen di truyền",
+          "actions": {
+            "letsDoThis": {
+              "label": "Làm trắc nghiệm"
+            }
+          }
+        }
+      }
+    },
+    "sectionGeneticReports": {
+      "header": {
+        "title": "Báo cáo di truyền"
+      },
+      "body": {
+        "content": {
+          "buttonBuyNow": {
+            "label": "Mua Ngay"
+          }
+        }
+      }
+    },
+    "sectionRelatedPosts": {
+      "header": {
+        "title": "Bài viết liên quan"
+      }
+    },
+    "sectionShare": {
+      "body": {
+        "list": {
+          "itemFacebook": {
+            "title": "Chia sẻ lên Facebook"
+          },
+          "itemTwitter": {
+            "title": "Chia sẻ lên Twitter"
+          },
+          "itemLinkedin": {
+            "title": "Chia sẻ lên Linkedin"
+          }
+        }
+      }
+    },
+    "sectionSignIn": {
+      "header": {
+        "title": "Đặt lịch tư vấn",
+        "description": "Đăng nhập bằng số điện thoại",
+        "label": "Đăng nhập"
+      },
+      "body": {
+        "formSignIn": {
+          "fields": {
+            "phoneNumber": {
+              "placeholder": "Số điện thoại"
+            }
+          },
+          "buttons": {
+            "signIn": {
+              "label": "Đăng nhập"
+            }
+          }
+        }
+      }
+    },
+    "sectionUserBar": {
+      "welcome": "Xin chào, {{userName}}!",
+      "signOut": {
+        "label": "Đăng xuất"
+      }
+    },
+    "serviceList": {
+      "list": {
+        "item": {
+          "price": {
+            "label": "Bắt đầu từ"
+          },
+          "actions": {
+            "buyNow": {
+              "label": "Đăng ký ngay"
+            },
+            "learnMore": {
+              "label": "Tìm hiểu thêm"
+            }
+          }
+        }
+      }
+    },
+    "staticPages": {
+      "sidebar": {
+        "menu": {
+          "about": {
+            "label": "Về Genetica®"
+          },
+          "frequentlyAskedQuestions": {
+            "label": "Câu hỏi thường gặp"
+          },
+          "contact": {
+            "label": "Liên hệ"
+          },
+          "careers": {
+            "label": "Thông tin tuyển dụng"
+          },
+          "reportReadingGuide": {
+            "label": "Cách đọc kết quả báo cáo"
+          }
+        }
+      }
+    },
+    "subheader": {
+      "contactUs": {
+        "label": "Liên hệ chúng tôi:"
+      },
+      "redeem": {
+        "label": "Mã quà tặng"
+      },
+      "doctors": {
+        "label": "Đội ngũ chuyên gia"
+      },
+      "myCart": {
+        "label": "Giỏ hàng"
+      },
+      "myAccount": {
+        "label": "Tài khoản",
+        "children": {
+          "signIn": {
+            "label": "Đăng nhập"
+          },
+          "signOut": {
+            "label": "Đăng xuất"
+          }
+        }
+      },
+      "account": {
+        "label": "Tài khoản"
+      }
+    },
+    "widgetQuickDial": {
+      "links": {
+        "0": {
+          "label": "Đặt lịch tư vấn dịch vụ"
+        }
+      }
+    }
+  },
+  "prepositions": {
+    "from": "từ",
+    "to": "đến",
+    "above": "trên",
+    "under": "dưới"
+  }
+}

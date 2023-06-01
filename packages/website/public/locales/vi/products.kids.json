@@ -1,0 +1,257 @@
+{
+  "title": "Giúp trẻ phát triển toàn diện",
+  "subtitle": "Trẻ em",
+  "description": "Mở khóa tiềm năng của con bạn, cũng như tối ưu hóa giáo dục, dinh dưỡng, tập luyện, và chăm sóc sức khỏe của trẻ.",
+  "sections": {
+    "intelligence": {
+      "subtitle": "Trí tuệ",
+      "title": "Khám phá tiềm năng và tài năng của con bạn",
+      "description": "Nhiều người lớn lên mà không tìm ra tài năng thực sự của mình, do tài năng không hề dễ dàng nắm bắt. Hiểu rõ về cấu trúc gen của con sẽ giúp bạn xác định chính xác tiềm năng và năng lực của trẻ, cho con bạn một khởi đầu thuận lợi giúp phát triển hoàn thiện tài năng bẩm sinh.",
+      "traits": {
+        "1": "IQ (Chỉ số thông minh)",
+        "2": "EQ (Trí tuệ cảm xúc)",
+        "3": "Năng lực nhận thức"
+      }
+    },
+    "nutrition": {
+      "subtitle": "Dinh dưỡng",
+      "title": "Tối ưu hóa chế độ dinh dưỡng của con bạn",
+      "description": "Nền tảng di truyền đóng vai trò quan trọng trong định hình sự phát triển tổng thể của con bạn, đặc biệt là trong suốt thời thơ ấu. Hiểu về bộ gen của con sẽ giúp bạn thiết kế một chế độ dinh dưỡng phù hợp dành riêng cho trẻ.",
+      "traits": {
+        "1": "Chuyển hóa chất bột đường",
+        "2": "Chuyển hóa chất béo",
+        "3": "Chuyển hóa chất đạm"
+      }
+    },
+    "behavior": {
+      "subtitle": "Hành vi",
+      "title": "Thấu hiểu khuynh hướng hành vi của con bạn",
+      "description": "Tính cách của con bạn là sự kết hợp giữa yếu tố di truyền và môi trường. Hãy giúp trẻ phát triển nhờ sự hài hòa giữa cách giáo dục con cái của bạn với con người bên trong của trẻ.<br/>* Hướng nội - hướng ngoại",
+      "traits": {
+        "1": "Hướng nội - hướng ngoại",
+        "2": "Tính kỷ luật",
+        "3": "Bất ổn cảm xúc"
+      }
+    },
+    "health": {
+      "subtitle": "Sức khỏe",
+      "title": "Đánh giá nguy cơ sức khỏe của con bạn",
+      "description": "Hiểu về những nguy cơ một số rối loạn chuyển hóa của con bạn để đưa ra những cách phòng tránh phù hợp.",
+      "traits": {
+        "1": "Nguy cơ béo phì"
+      }
+    }
+  },
+  "packages": {
+    "1": {
+      "title": "G-Kid Care",
+      "subtitle": ""
+    },
+    "2": {
+      "title": "G-Kid Pro",
+      "subtitle": ""
+    }
+  },
+  "reportCategories": {
+    "1": {
+      "name": "Báo cáo về khuynh hướng hành vi",
+      "reports": {
+        "1": {
+          "name": "Hướng nội - hướng ngoại"
+        },
+        "2": {
+          "name": "Tính kỷ luật"
+        },
+        "3": {
+          "name": "Bất ổn cảm xúc"
+        },
+        "4": {
+          "name": "Nóng tính"
+        },
+        "5": {
+          "name": "Xu hướng mạo hiểm"
+        },
+        "6": {
+          "name": "Khả năng giải tỏa căng thẳng"
+        }
+      }
+    },
+    "2": {
+      "3": {
+        "name": "Báo cáo về tổng quan chuyển hóa dinh dưỡng",
+        "reports": {
+          "17": {
+            "name": "Chuyển hóa chất bột đường"
+          },
+          "18": {
+            "name": "Chuyển hóa chất béo"
+          },
+          "19": {
+            "name": "Chuyển hóa chất đạm"
+          }
+        }
+      },
+      "4": {
+        "name": "Báo cáo về nhu cầu dinh dưỡng",
+        "reports": {
+          "20": {
+            "name": "Nhu cầu vitamin A"
+          },
+          "21": {
+            "name": "Nhu cầu vitamin B2"
+          },
+          "22": {
+            "name": "Nhu cầu vitamin B6"
+          },
+          "23": {
+            "name": "Nhu cầu vitamin B12"
+          },
+          "24": {
+            "name": "Nhu cầu vitamin C"
+          },
+          "25": {
+            "name": "Nhu cầu vitamin D"
+          },
+          "26": {
+            "name": "Nhu cầu folate"
+          },
+          "27": {
+            "name": "Nhu cầu khoáng chất thiết yếu"
+          }
+        }
+      },
+      "5": {
+        "name": "Báo cáo về hành vi ăn uống",
+        "reports": {
+          "28": {
+            "name": "Ăn uống theo cảm xúc"
+          },
+          "29": {
+            "name": "Cảm nhận vị đắng"
+          },
+          "30": {
+            "name": "Cảm nhận vị ngọt"
+          }
+        }
+      },
+      "6": {
+        "name": "Báo cáo về nguy cơ sức khỏe",
+        "reports": {
+          "31": {
+            "name": "Nguy cơ béo phì"
+          },
+          "32": {
+            "name": "Nguy cơ tiểu đường"
+          },
+          "33": {
+            "name": "Nguy cơ tim mạch chuyển hóa"
+          }
+        }
+      },
+      "name": "Báo cáo về tiềm năng học thuật",
+      "reports": {
+        "7": {
+          "name": "Chỉ số thông minh (IQ)"
+        },
+        "8": {
+          "name": "Trí tuệ cảm xúc (EQ)"
+        },
+        "9": {
+          "name": "Năng lực nhận thức"
+        },
+        "10": {
+          "name": "Năng lực học thuật"
+        },
+        "11": {
+          "name": "Tiềm năng toán học"
+        },
+        "12": {
+          "name": "Tiềm năng ngôn ngữ"
+        },
+        "13": {
+          "name": "Tiềm năng âm nhạc"
+        },
+        "14": {
+          "name": "Sức bền"
+        },
+        "15": {
+          "name": "Sức mạnh"
+        },
+        "16": {
+          "name": "Sức khỏe tim phổi"
+        }
+      }
+    },
+    "3": {
+      "name": "Báo cáo về tổng quan chuyển hóa dinh dưỡng",
+      "reports": {
+        "17": {
+          "name": "Chuyển hóa chất bột đường"
+        },
+        "18": {
+          "name": "Chuyển hóa chất béo"
+        },
+        "19": {
+          "name": "Chuyển hóa chất đạm"
+        }
+      }
+    },
+    "4": {
+      "name": "Báo cáo về nhu cầu dinh dưỡng",
+      "reports": {
+        "20": {
+          "name": "Nhu cầu vitamin A"
+        },
+        "21": {
+          "name": "Nhu cầu vitamin B2"
+        },
+        "22": {
+          "name": "Nhu cầu vitamin B6"
+        },
+        "23": {
+          "name": "Nhu cầu vitamin B12"
+        },
+        "24": {
+          "name": "Nhu cầu vitamin C"
+        },
+        "25": {
+          "name": "Nhu cầu vitamin D"
+        },
+        "26": {
+          "name": "Nhu cầu folate"
+        },
+        "27": {
+          "name": "Nhu cầu khoáng chất thiết yếu"
+        }
+      }
+    },
+    "5": {
+      "name": "Báo cáo về hành vi ăn uống",
+      "reports": {
+        "28": {
+          "name": "Ăn uống theo cảm xúc"
+        },
+        "29": {
+          "name": "Cảm nhận vị đắng"
+        },
+        "30": {
+          "name": "Cảm nhận vị ngọt"
+        }
+      }
+    },
+    "6": {
+      "name": "Báo cáo về nguy cơ sức khỏe",
+      "reports": {
+        "31": {
+          "name": "Nguy cơ béo phì"
+        },
+        "32": {
+          "name": "Nguy cơ tiểu đường"
+        },
+        "33": {
+          "name": "Nguy cơ tim mạch chuyển hóa"
+        }
+      }
+    }
+  }
+}

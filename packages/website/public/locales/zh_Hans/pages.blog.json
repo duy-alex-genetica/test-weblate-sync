@@ -1,0 +1,65 @@
+{
+  "common": {
+    "labels": {
+      "relatedPosts": "相关新闻",
+      "referencePosts": "阅读更多",
+      "mostReadPosts": "大多数阅读",
+      "recentPosts": "最近的帖子",
+      "highlightPosts": "突出显示帖子"
+    },
+    "actions": {
+      "seeMore": "查看更多",
+      "seeDetails": "查看具体信息"
+    }
+  },
+  "header": {
+    "title": "网志"
+  },
+  "body": {
+    "sectionFilters": {
+      "title": "按类别过滤",
+      "content": {
+        "list": {
+          "itemShowAll": "显示所有"
+        }
+      }
+    },
+    "sectionHeader": {
+      "title": "新闻和事件",
+      "description": {
+        "segments": {
+          "0": "在此处获取有关 Genetica 的所有信息和更新。",
+          "1": ""
+        }
+      }
+    },
+    "sectionNavbar": {
+      "menuItems": {
+        "news": "消息",
+        "blog": "网志",
+        "press": "媒体对 Genetica 的评价"
+      }
+    },
+    "sectionFollowUs": {
+      "title": "跟着我们"
+    },
+    "sectionSharingSocials": {
+      "title": "分享"
+    },
+    "sectionBreadcrumb": {
+      "menuItems": {
+        "home": "主页",
+        "blog": "网志",
+        "news": "消息",
+        "experts": "顾问团队"
+      }
+    },
+    "sectionPostContent": {
+      "meta": {
+        "author": "作者：",
+        "doctor": "咨询医生：",
+        "doctor_plural": "咨询医生："
+      }
+    }
+  }
+}

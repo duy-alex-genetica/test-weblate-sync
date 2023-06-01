@@ -1,0 +1,22 @@
+{
+  "body": {
+    "formCartDetails": {
+      "header": {
+        "title": "服务"
+      },
+      "labels": {
+        "unlock": "开锁",
+        "removed": "已删除",
+        "for": "给"
+      },
+      "actions": {
+        "saveCartItemForLater": {
+          "text": "删除"
+        },
+        "undoSaveCartItemForLater": {
+          "text": "撤销"
+        }
+      }
+    }
+  }
+}

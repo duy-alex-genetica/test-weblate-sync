@@ -1,0 +1,70 @@
+{
+  "header": {
+    "title": {
+      "prefix": "Dành cho "
+    }
+  },
+  "sectionFilters": {
+    "field": {
+      "ages": "Độ tuổi",
+      "demands": "Tính trạng",
+      "filterBy": "Lọc theo"
+    },
+    "actions": {
+      "select": "Chọn",
+      "seeMore": "Xem thêm"
+    }
+  },
+  "sectionTestimonials": {
+    "title": "Trên <br>100.000 khách hàng <br>sử dụng dịch vụ Genetica",
+    "description": "Hãy lắng nghe câu chuyện của khách hàng Genetica <br />và chia sẻ câu chuyện của bạn với chúng tôi.",
+    "actions": {
+      "seeOtherStories": "Lắng nghe những câu chuyện khác"
+    }
+  },
+  "sectionDownload": {
+    "title": "Xem báo cáo mẫu <br/>Tải ứng dụng Genetica ngay",
+    "description": "Hơn 1000+ kết quả về bạn trên ứng dụng di động, truy cập dễ dàng, <br/>xem mọi lúc mọi nơi."
+  },
+  "sectionComparePackages": {
+    "comparisonTable": {
+      "columnLabel": {
+        "installment": "Hỗ trợ trả góp 0%"
+      }
+    }
+  },
+  "sectionCompareCombos": {
+    "comparisonTable": {
+      "columnLabel": {
+        "1": "Các gói dịch vụ bao gồm",
+        "2": "Số lượng dịch vụ"
+      },
+      "packageRows": {
+        "1": {
+          "title": "G-Pro",
+          "description": "Chăm sóc toàn diện cho người lớn"
+        },
+        "2": {
+          "title": "G-Kid Pro",
+          "description": "Chăm sóc toàn diện cho trẻ em"
+        },
+        "3": {
+          "title": "Mở khóa G-Immunity *",
+          "description": "Hiểu hệ miễn dịch"
+        },
+        "4": {
+          "title": "Mở khóa G-Allergy *",
+          "description": "Đánh giá nguy cơ dị ứng di truyền"
+        },
+        "5": {
+          "title": "Mở khóa G-Stroke *",
+          "description": "Đánh giá nguy cơ đột quỵ di truyền"
+        }
+      },
+      "tooltip": {
+        "seeDetails": "Xem chi tiết"
+      },
+      "notice": "(*) Gói mở khóa áp dụng cho Khách hàng sử dụng gói G-Pro hoặc G-Kid Pro trong Combo, không áp dụng cho người dùng mới.<br />Liên hệ Hotline Genetica để được hỗ trợ điều chỉnh số lượng và loại dịch vụ trong từng gói theo nhu cầu của gia đình bạn."
+    }
+  }
+}

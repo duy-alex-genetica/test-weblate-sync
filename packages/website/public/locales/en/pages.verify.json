@@ -1,0 +1,64 @@
+{
+  "header": {
+    "title": "Important information",
+    "description": "Confirming the information below helps protect the confidentiality of your genetic report."
+  },
+  "body": {
+    "form": {
+      "field": {
+        "name": {
+          "label": "Full name",
+          "value": {
+            "empty": "Unavailable"
+          },
+          "error": {
+            "empty": "Please do not leave this field blank"
+          }
+        },
+        "phone": {
+          "label": "Phone number to receive report",
+          "notification": "Please use this phone number when signing in Genetica app to view the detail report"
+        },
+        "email": {
+          "label": "Email to receive report",
+          "value": {
+            "empty": "Unavailable"
+          },
+          "error": {
+            "format": "Invalid Email",
+            "empty": "Please do not leave this field blank"
+          }
+        },
+        "dob": {
+          "label": "Date of birth",
+          "value": {
+            "empty": "Unavailable"
+          },
+          "error": {
+            "format": "Invalid Date of birth",
+            "empty": "Please do not leave this field blank",
+            "limitAge": "Your registered service is not applicable to the age you entered. Contact Genetica via 1900 599 927 for any support"
+          }
+        },
+        "gender": {
+          "label": "Gender",
+          "values": {
+            "empty": "Unavailable",
+            "male": "Male",
+            "female": "Female",
+            "unspecified": "Unspecified"
+          },
+          "error": {
+            "empty": "Please do not leave this field blank"
+          }
+        },
+        "policy": {
+          "label": "I hereby agree to provide my information in order to perform the service(s) of Genetica(r). I assure the accuracy of the information and shall be solely responsible for the information provided above."
+        },
+        "submit": {
+          "label": "Confirm"
+        }
+      }
+    }
+  }
+}

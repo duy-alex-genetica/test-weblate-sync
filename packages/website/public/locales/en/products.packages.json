@@ -1,0 +1,80 @@
+{
+  "g-care": {
+    "title": "G-Care",
+    "subtitle": "Foundation Health Solution",
+    "ageLimit": "For individuals over 18",
+    "description": "<ul><li>NutriCare</li><li>Personality</li><li>PhysiCare</li><li>HealthCare</li><li>Facts-to-Know</li></ul>"
+  },
+  "g-pro": {
+    "title": "G-Pro",
+    "subtitle": "Access Your Body's Secret",
+    "ageLimit": "For individuals over 18",
+    "description": "<ul><li>Intelligence</li><li>Nutrition</li><li>Fitness</li><li>Resting</li><li>Health (20 common cancers)</li></ul>"
+  },
+  "g-smart": {
+    "title": "G-Smart",
+    "subtitle": "Explore Your Intellectual Ability",
+    "ageLimit": "For children and adults",
+    "description": "<ul><li>IQ</li><li>EQ</li><li>Language ability</li><li>Math ability</li><li>Music ability</li></ul>"
+  },
+  "g-awareness": {
+    "title": "G-Awareness",
+    "subtitle": "Self-awareness",
+    "ageLimit": "For children and adults",
+    "description": "<ul><li>Extraversion</li><li>Conscientiousness</li><li>Aggression</li><li>Stress handling ability</li></ul>"
+  },
+  "g-kid-care": {
+    "title": "G-Kid Care",
+    "subtitle": "Foundation For Child's Development",
+    "ageLimit": "For children age under 18",
+    "description": "10 genetic traits that provide answer for<ul><li>Macronutrient metabolism</li><li>Intelligence</li><li>Behavioural tendencies</li><li>Health risk</li></ul>"
+  },
+  "g-kid-pro": {
+    "title": "G-Kid Pro",
+    "subtitle": "Door To The Bright Future",
+    "ageLimit": "For children age under 18",
+    "description": "33 genetic traits that provide answer for<ul><li>Physical development</li><li>Intelligence & Personality</li><li>Fitness potential</li></ul>"
+  },
+  "g-health": {
+    "title": "G-Health",
+    "subtitle": "",
+    "ageLimit": "For individuals over 18",
+    "description": "<ul><li>Hereditary cancer screening</li><li>97 genes analyzed</li><li>20 common cancers</li></ul>"
+  },
+  "g-autism": {
+    "title": "G-Autism",
+    "subtitle": "",
+    "ageLimit": "For children and adults",
+    "description": "<ul><li>Hereditary Autism Risk Screening</li><li>48 genes analyzed</li><li>Personalized recommendations</li></ul>"
+  },
+  "g-immunity": {
+    "title": "G-Immunity",
+    "subtitle": "",
+    "ageLimit": "For children and adults",
+    "description": "<ul><li>Understand Your Immunity System</li><li>32 genes analyzed</li></ul>"
+  },
+  "combo-an": {
+    "title": "An Combo",
+    "subtitle": "",
+    "ageLimit": "For children and adults",
+    "description": "An Combo includes:<ul><li>G-Smart</li><li>G-Immunity</li></ul>"
+  },
+  "combo-dong-hanh": {
+    "title": "Dong Hanh Combo",
+    "subtitle": "",
+    "ageLimit": "For children and adults",
+    "description": "Dong Hanh Combo includes:<ul><li>G-Awareness</li><li>G-Smart</li><li>G-Immunity</li></ul>"
+  },
+  "g-stroke": {
+    "title": "G-Stroke",
+    "subtitle": "",
+    "ageLimit": "For children and adults",
+    "description": "<ul><li>Hereditary Stroke Screening</li><li>73 genes analyzed</li></ul>"
+  },
+  "g-allergy": {
+    "title": "G-Allergy",
+    "subtitle": "",
+    "ageLimit": "For children and adults",
+    "description": "<ul><li>Allergy Screening</li><li>120 genes analyzed</li></ul>"
+  }
+}

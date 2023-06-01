@@ -1,0 +1,28 @@
+{
+  "title": "G-Autism",
+  "subtitle": "G-Autism",
+  "description": "Gain access to in-depth knowledge about gene-related causes of autism to make informed medical and lifestyle decision for your child.",
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "Simple, Safe, and Non-Invasive",
+      "description": "Only your saliva is required. Our advanced technology allows us to extract DNA from saliva. This makes it simpler, safer, and more convenient to run genetic analyses as compared to conventional procedures that rely on blood samples."
+    },
+    "2": {
+      "subtitle": "",
+      "title": "Know your child’s risk of autism",
+      "description": "To date, hundreds of genes have been linked to Autism Spectrum Disorder (ASD) via genetic studies on over 10,000 ASD patients and their families. Based on these studies, G-Autism decodes over 1200 genetic variants associated with ASD to calculate your child's risk score."
+    },
+    "3": {
+      "subtitle": "",
+      "title": "Provide the right care for your child",
+      "description": "The G-Autism report provides recommendations for your child based on the analyzed result and the current guidelines from prominent organizations like NIH and American Academy of Pediatrics."
+    }
+  },
+  "packages": {
+    "1": {
+      "title": "G-Autism",
+      "subtitle": ""
+    }
+  }
+}

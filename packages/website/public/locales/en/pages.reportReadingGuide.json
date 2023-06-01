@@ -1,0 +1,16 @@
+{
+  "title": "How to read genetic reports",
+  "sidebar": {
+    "menu": {
+      "title": "Choose topics"
+    }
+  },
+  "sectionMenu": {
+    "actions": {
+      "seeMore": "See more"
+    }
+  },
+  "sectionReportReadingGuide": {
+    "title": "Guide to read {{reportName}} report"
+  }
+}

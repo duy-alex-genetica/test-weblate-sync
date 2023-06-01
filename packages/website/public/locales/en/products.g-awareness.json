@@ -1,0 +1,42 @@
+{
+  "title": "G-Awareness",
+  "subtitle": "Self Awareness",
+  "description": "We analyzed 200 genes associated with your inborn personality:",
+  "testedTraits": {
+    "1": {
+      "name": "Extraversion v.s Introversion"
+    },
+    "2": {
+      "name": "Conscientiousness (Self-discipline)"
+    },
+    "3": {
+      "name": "Aggression"
+    },
+    "4": {
+      "name": "Stress-handling ability"
+    }
+  },
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "In-depth knowledge about your inborn personality",
+      "description": "With gene testing result, you can unveil your hidden information that you have never known, focus on strength to bring out great achievements."
+    },
+    "2": {
+      "subtitle": "",
+      "title": "In-depth knowledge about your mental health's problems associated with your genetic makeup",
+      "description": "You can indentify different health risks (if any) by gene analysis, allow you to alter your lifestyle, habits to protect yourself."
+    },
+    "3": {
+      "subtitle": "",
+      "title": "Personalized recommendations to leverage your inborn strength and develop yourself",
+      "description": "With genetic testing result and recommendations of genetic experts, you can design a bespoke plan to to enhance your physical and mental growth."
+    }
+  },
+  "packages": {
+    "1": {
+      "title": "G-Awareness",
+      "subtitle": ""
+    }
+  }
+}

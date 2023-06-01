@@ -1,0 +1,28 @@
+{
+  "title": "G-Immunity",
+  "subtitle": "G-Immunity",
+  "description": "Tìm hiểu về nguy cơ nhiễm virus, đặc biệt với các loại virus liên quan đến đường hô hấp.",
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "Đơn giản, an toàn, và không xâm lấn",
+      "description": "Chỉ cần mẫu nước bọt của bạn là đủ. Công nghệ tiên tiến của chúng tôi cho phép tách chiết DNA chỉ từ mẫu nước bọt, điều này khiến quy trình lấy mẫu đơn giản, an toàn, và thuận tiện hơn so với mẫu máu ở những phương pháp xét nghiệm thông thường."
+    },
+    "2": {
+      "subtitle": "",
+      "title": "Hiểu rõ nguy cơ nhiễm virus",
+      "description": "Sử dụng những tiến bộ mới nhất về trí thông minh nhân tạo và công nghệ độc quyền tiên tiến, chúng tôi sẽ tính toán chỉ số đa gen về nguy cơ nhiễm virus của bạn bằng cách thu thập những nguy cơ được tính theo trọng số từ hơn 85 biến thể di truyền."
+    },
+    "3": {
+      "subtitle": "",
+      "title": "Bảo vệ bản thân với kiến thức",
+      "description": "Báo cáo G-Immunity sẽ cung cấp những kiến thức mới nhất về nguy cơ nhiễm virus, cũng như cách để bảo vệ bản thân, gia đình và cả thú cưng của bạn."
+    }
+  },
+  "packages": {
+    "1": {
+      "title": "G-Immunity",
+      "subtitle": ""
+    }
+  }
+}

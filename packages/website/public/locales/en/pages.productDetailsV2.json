@@ -1,0 +1,86 @@
+{
+  "common": {
+    "labels": {
+      "originalPrice": "Original price",
+      "specialOffer": "Special offer",
+      "benefits": "Benefits you'll get",
+      "serviceFeatures": "Service features",
+      "downloadAppAt": "Download app",
+      "relatedServices": "Relevant services",
+      "priceNotInclude": "Price does not include",
+      "details": "Details",
+      "result": "Result"
+    },
+    "buttons": {
+      "installment": "0% Installment",
+      "addToCart": "Add to your cart",
+      "videoHelp": "Follow guideline in this video",
+      "seeDetails": "See details",
+      "buyNow": "Buy now",
+      "viewSampleReport": "View sample report",
+      "seeMore": "See more",
+      "seeAll": "See all",
+      "seeMoreComparison": "See comparison",
+      "viewSampleReportPDF": "View sample report (PDF)",
+      "installmentTerms": "Installment terms & conditions"
+    }
+  },
+  "sectionServiceNotInclude": {
+    "title": "Price does not include costs",
+    "items": {
+      "1": {
+        "title": "In-depth consultation with expert"
+      },
+      "2": {
+        "title": "Sample collection kit",
+        "description": "Applied to 3rd time saliva collection"
+      },
+      "3": {
+        "title": "Report in hard copy (upon request)"
+      }
+    }
+  },
+  "sectionServiceInclusion": {
+    "title": "Service includes",
+    "items": {
+      "1": "DNA collection kit (Sample collection tube, Registration form, Guideline)",
+      "2": "Genetic reports on Genetica app",
+      "3": "Consultation with Genetica's expert"
+    }
+  },
+  "sectionSubmenu": {
+    "items": {
+      "details": "Details",
+      "howToUse": "How to use",
+      "compareServices": "Compare services",
+      "relevantServices": "Relevant services",
+      "contactUs": "Contact us"
+    }
+  },
+  "sectionProcess": {
+    "title": "Simple process",
+    "steps": {
+      "1": {
+        "title": "Step 1: Receive DNA collection kit",
+        "description": "Genetica will send the DNA collection kit to your address."
+      },
+      "2": {
+        "title": "Step 2: Collect and send your saliva sample",
+        "description": "The saliva extraction is simple and painless. You can easily follow the steps in the attached guide.\nAfter that, please notify us via Genetica mobile app or hotline for sample collection."
+      },
+      "3": {
+        "title": "Step 3: Receive genetic report",
+        "description": "Your genetic reports will be issued after 30 working days, counting from the day we receive your qualified saliva. Read your report on Genetica mobile app or your registered E-mail box."
+      }
+    },
+    "links": {
+      "salivaCollectingGuide": "https://youtu.be/8nMElgmkOaM?list=PLHSgVYL21dUWMzEtcKq6WslmHDlZescHa"
+    }
+  },
+  "sectionServiceComparison": {
+    "title": "Compare <br />Services"
+  },
+  "sectionDownloadSampleReport": {
+    "title": "Receive the report on Genetica mobile app."
+  }
+}

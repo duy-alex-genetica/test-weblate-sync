@@ -1,0 +1,19 @@
+{
+  "header": {
+    "title": "Đối tác của chúng tôi",
+    "breadcrumb": {
+      "home": "Trang chủ",
+      "partners": "Đối tác"
+    }
+  },
+  "sectionPartnersVN": {
+    "header": {
+      "title": "Đối tác tại Việt Nam"
+    }
+  },
+  "sectionPartnersUS": {
+    "header": {
+      "title": "Đối tác tại Mỹ"
+    }
+  }
+}

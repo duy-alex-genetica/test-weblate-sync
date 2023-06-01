@@ -1,0 +1,17 @@
+{
+  "title": "G-Allergy",
+  "subtitle": "",
+  "description": "Allergy Screening",
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "Allergy Screening",
+      "description": "Identify allergens (from food such as cow milk, eggs, fish/shellfish, nuts, gluten, soy, wheat; or other allergens like insects, pets, pollen, dust, mold), contribute to effective treatments and eliminate the causes."
+    },
+    "2": {
+      "subtitle": "",
+      "title": "Simple, Safe, and Non-Invasive",
+      "description": "Only your saliva is required. Our advanced technology allows us to extract DNA from saliva. This makes it simpler, safer, and more convenient to run genetic analyses as compared to conventional procedures that rely on blood samples."
+    }
+  }
+}

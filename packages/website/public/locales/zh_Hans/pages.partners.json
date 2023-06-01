@@ -1,0 +1,19 @@
+{
+  "header": {
+    "title": "我们的伙伴",
+    "breadcrumb": {
+      "home": "首页",
+      "partners": "合作者"
+    }
+  },
+  "sectionPartnersVN": {
+    "header": {
+      "title": "越南合作伙伴"
+    }
+  },
+  "sectionPartnersUS": {
+    "header": {
+      "title": "美国合作伙伴"
+    }
+  }
+}

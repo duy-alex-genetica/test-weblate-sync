@@ -1,0 +1,142 @@
+{
+  "header": {
+    "content": {
+      "seeTestedTraits": {
+        "label": "Xem thêm"
+      }
+    },
+    "packages": {
+      "statistics": {
+        "numberOfGenesAnalyzed": {
+          "label": "gen được<br/>phân tích"
+        },
+        "numberOfResultsAndPersonalizedRecommendations": {
+          "label": "kết quả & khuyến nghị<br/>cụ thể"
+        },
+        "salivaOnly": {
+          "label": "chỉ sử dụng nước bọt"
+        },
+        "numberOfCommonCancers": {
+          "label": "loại ung thư phổ biến"
+        },
+        "personalizedRecommendations": {
+          "label": "Các khuyến nghị cụ thể"
+        },
+        "everyoneWillBenefit": {
+          "label": "Cho mọi lứa tuổi"
+        }
+      }
+    },
+    "disclaimer": "Giải mã gen là công cụ hữu ích để đánh giá các nguy cơ sức khoẻ tiềm ẩn. Trước khi quyết định sử dụng, hãy đảm bảo Bạn đã nắm được <1>các Giới hạn & Trường hợp Loại trừ của Giải mã gen</1>.",
+    "actions": {
+      "addToCart": {
+        "label": "Thêm vào giỏ hàng"
+      },
+      "download": {
+        "label": "Xem báo cáo mẫu (PDF)"
+      }
+    }
+  },
+  "body": {
+    "sectionSection": {
+      "content": {
+        "traits": {
+          "seeDetails": {
+            "label": "Xem chi tiết"
+          }
+        }
+      }
+    },
+    "sectionBanners1": {
+      "header": {
+        "title": "Nhận kết quả<br/>Mọi lúc mọi nơi."
+      }
+    },
+    "sectionPackageFeatures": {
+      "header": {
+        "title": "Chọn sản phẩm phù hợp",
+        "healthTitle": "Danh sách các bệnh ung thư được kiểm tra"
+      },
+      "body": {
+        "table": {
+          "header": {
+            "userObject": "Đối tượng sử dụng",
+            "geneAnalyzed": "Số gen phân tích",
+            "genes": "gen",
+            "upTo": "Lên tới",
+            "Results": "Kết quả",
+            "results": "kết quả",
+            "resultsValue": "Lên tới {{value}} kết quả",
+            "personalisedRecommendations": "Khuyến nghị cụ thể",
+            "viewReportOnMobileApp": "Nhận kết quả từ ứng dụng trên điện thoại",
+            "paperReport": "Báo cáo giấy",
+            "availableAtRequest": "Theo yêu cầu của khách hàng",
+            "actions": {
+              "addToCart": {
+                "label": "Thêm vào giỏ hàng"
+              }
+            },
+            "genders": {
+              "male": "Nam giới",
+              "female": "Nữ giới"
+            }
+          },
+          "footer": {
+            "seeAllReports": "Xem tất cả báo cáo"
+          }
+        }
+      }
+    },
+    "sectionOtherServices": {
+      "header": {
+        "title": "Các dịch vụ khác"
+      }
+    },
+    "sectionBanners2": {
+      "list": {
+        "1": {
+          "title": "Chuyên gia từ Mỹ",
+          "description": "Phòng thí nghiệm San Francisco sở hữu đội ngũ các nhà khoa học sáng giá nhất."
+        },
+        "2": {
+          "title": "Công nghệ AI",
+          "description": "Chúng tôi ứng dụng trí tuệ nhân tạo tiến bộ nhất để giải mã bí mật bên trong bộ gen của bạn."
+        },
+        "3": {
+          "title": "Bảo mật",
+          "description": "Thông tin của bạn là an toàn, bảo mật và chỉ có thể được truy cập bởi chính bạn."
+        },
+        "4": {
+          "title": "Kết quả sau 30 ngày.",
+          "description": "Báo cáo giải mã gen của bạn được gửi đến địa chỉ bạn đã đăng ký và luôn có thể truy cập mọi lúc mọi nơi trên ứng dụng Genetica."
+        }
+      }
+    },
+    "sectionTestedTraits": {
+      "header": {
+        "title": "Tính trạng Gen phân tích"
+      },
+      "body": {
+        "labels": {
+          "genes": "gen"
+        }
+      }
+    },
+    "sectionGetInTouch": {
+      "header": {
+        "title": "Bạn vẫn còn câu hỏi?"
+      },
+      "body": {
+        "description": {
+          "textBefore": "Đừng ngần ngại chia sẻ những thắc mắc về ",
+          "textAfter": " của bạn. Chúng tôi sẽ phản hồi trong thời gian sớm nhất. Những chia sẻ của bạn luôn là điều chúng tôi muốn lắng nghe!"
+        }
+      },
+      "footer": {
+        "actions": {
+          "text": "Liên hệ"
+        }
+      }
+    }
+  }
+}

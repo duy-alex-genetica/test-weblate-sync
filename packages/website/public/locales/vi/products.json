@@ -1,0 +1,2664 @@
+{
+  "adults": {
+    "subtitle": "Người lớn",
+    "title": "Hiện thực hóa bản thân",
+    "description": "Hiểu rõ mọi thứ về cơ thể của bạn để thay đổi thói quen, điều chỉnh chế độ ăn uống, chế độ tập thể dục và chăm sóc sức khỏe hiệu quả nhất cho bản thân.",
+    "sections": {
+      "nutrition": {
+        "subtitle": "Dinh dưỡng",
+        "title": "Tối ưu hóa chế độ dinh dưỡng của bản thân",
+        "description": "Dinh dưỡng đầy đủ là nền tảng của một cuộc sống khỏe mạnh. Hiểu rõ về cách cơ thể đáp ứng với một chất dinh dưỡng cụ thể sẽ giúp bạn điều chỉnh thói quen ăn uống và cải thiện sức khỏe.",
+        "traits": {
+          "1": "Chuyển hóa chất đường bột",
+          "2": "Chuyển hóa chất béo",
+          "3": "Chuyển hóa chất đạm"
+        }
+      },
+      "fitness": {
+        "subtitle": "Thể thao",
+        "title": "Tối ưu hóa chế độ tập luyện của bản thân",
+        "description": "Hãy tập luyện khôn ngoan hơn, thay vì chăm chỉ hơn. Hiểu rõ bộ gen của mình sẽ giúp bạn thiết kế một chế độ tập luyện có hiệu quả tối ưu với cơ thể bạn.",
+        "traits": {
+          "1": "Sức mạnh",
+          "2": "Sức bền",
+          "3": "Sức khỏe tim phổi"
+        }
+      },
+      "health": {
+        "subtitle": "Sức khỏe",
+        "title": "Đánh giá nguy cơ bệnh di truyền",
+        "description": "Đột biến gen vô cùng phức tạp. Chúng có thể gây ra những tình trạng bệnh lý không mong muốn dẫn tới những căn bệnh nguy hiểm. Hiểu rõ những tác động của bộ gen đối với cơ thể sẽ giúp bạn có thể chủ động lên những kế hoạch chăm sóc sức khỏe.",
+        "traits": {
+          "1": "Ung thư vú/Ung thư tuyến tiền liệt",
+          "2": "Ung thư dạ dày",
+          "3": "Chứng đỏ mặt khi uống rượu, bia"
+        }
+      },
+      "behavior": {
+        "subtitle": "Hành vi",
+        "title": "Khám phá tiềm năng bản thân",
+        "description": "Hãy hiểu rõ bản thân hơn, về những điểm mạnh và điểm cần cải thiện, về những điều nên và không nên làm, thay vì lãng phí nhiều năm để thử mà không có kết quả.",
+        "traits": {
+          "1": "Hướng nội - hướng ngoại",
+          "2": "Khả năng kiểm soát căng thẳng",
+          "3": "Bất ổn cảm xúc"
+        }
+      },
+      "others": {
+        "subtitle": "Thông tin khác",
+        "title": "Nâng cao chất lượng cuộc sống từ những thay đổi nhỏ",
+        "description": "Những thông tin khác về cơ thể bạn cũng không kém phần quan trọng. <br/>Nhờ hiểu thêm về chúng, bạn có thể áp dụng những điều chỉnh nhỏ nhưng có tác động lớn tới chất lượng cuộc sống của bản thân.",
+        "traits": {
+          "1": "Mỡ bụng",
+          "2": "Độ nhạy cảm với caffeine",
+          "3": "Xu hướng mất ngủ"
+        }
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Care",
+        "subtitle": "Hiểu rõ bản thân"
+      },
+      "2": {
+        "title": "G-Pro",
+        "subtitle": "Hiểu cơ thể bạn"
+      }
+    },
+    "reportCategories": {
+      "1": {
+        "name": "Báo cáo về khuynh hướng hành vi",
+        "reports": {
+          "1": {
+            "name": "Hướng nội - hướng ngoại"
+          },
+          "2": {
+            "name": "Khả năng giải tỏa căng thẳng"
+          },
+          "3": {
+            "name": "Bất ổn cảm xúc"
+          },
+          "4": {
+            "name": "Nóng tính"
+          },
+          "5": {
+            "name": "Xu hướng mạo hiểm"
+          },
+          "6": {
+            "name": "Tính kỷ luật"
+          }
+        }
+      },
+      "2": {
+        "name": "Báo cáo về tiềm năng học thuật",
+        "reports": {
+          "7": {
+            "name": "Chỉ số thông minh (IQ)"
+          },
+          "8": {
+            "name": "Trí tuệ cảm xúc (EQ)"
+          },
+          "9": {
+            "name": "Năng lực học thuật"
+          },
+          "10": {
+            "name": "Khả năng nhận thức"
+          },
+          "11": {
+            "name": "Tiềm năng toán học"
+          },
+          "12": {
+            "name": "Tiềm năng ngôn ngữ"
+          },
+          "13": {
+            "name": "Tiềm năng âm nhạc"
+          }
+        }
+      },
+      "3": {
+        "name": "Báo cáo về tiềm năng thể chất",
+        "reports": {
+          "14": {
+            "name": "Sức bền"
+          },
+          "15": {
+            "name": "Sức mạnh"
+          },
+          "16": {
+            "name": "Sức khỏe tim phổi"
+          },
+          "17": {
+            "name": "Khả năng hồi phục"
+          },
+          "18": {
+            "name": "Nguy cơ chấn thương"
+          },
+          "19": {
+            "name": "Sức mạnh gân / cơ"
+          },
+          "20": {
+            "name": "Sức mạnh cơ bắp"
+          },
+          "21": {
+            "name": "Lợi ích của việc tập luyện"
+          },
+          "22": {
+            "name": "Khó khăn kiểm soát cân nặng"
+          }
+        }
+      },
+      "4": {
+        "name": "Báo cáo về tổng quan chuyển hóa dinh dưỡng",
+        "reports": {
+          "23": {
+            "name": "Chuyển hóa chất bột đường"
+          },
+          "24": {
+            "name": "Chuyển hóa chất béo"
+          },
+          "25": {
+            "name": "Chuyển hóa chất đạm"
+          }
+        }
+      },
+      "5": {
+        "name": "Báo cáo về nhu cầu dinh dưỡng",
+        "reports": {
+          "26": {
+            "name": "Nhu cầu vitamin A"
+          },
+          "27": {
+            "name": "Nhu cầu vitamin B2"
+          },
+          "28": {
+            "name": "Nhu cầu vitamin B6"
+          },
+          "29": {
+            "name": "Nhu cầu vitamin B12"
+          },
+          "30": {
+            "name": "Nhu cầu vitamin C"
+          },
+          "31": {
+            "name": "Nhu cầu vitamin D"
+          },
+          "32": {
+            "name": "Nhu cầu vitamin E"
+          },
+          "33": {
+            "name": "Nhu cầu folate"
+          },
+          "34": {
+            "name": "Nhu cầu khoáng chất thiết yếu"
+          }
+        }
+      },
+      "6": {
+        "name": "Báo cáo về dinh dưỡng",
+        "reports": {
+          "35": {
+            "id": 35,
+            "name": "Nhạy cảm với đồ ăn và thức uống"
+          },
+          "36": {
+            "id": 36,
+            "name": "Ăn uống theo cảm xúc"
+          },
+          "37": {
+            "id": 37,
+            "name": "Khả năng giải độc"
+          },
+          "38": {
+            "id": 38,
+            "name": "Sức khỏe tim mạch chuyển hóa"
+          },
+          "39": {
+            "id": 39,
+            "name": "Thích ứng với chế độ ăn giảm cân"
+          }
+        }
+      },
+      "7": {
+        "name": "Báo cáo về những đặc điểm khác",
+        "reports": {
+          "40": {
+            "name": "Độ nhạy cảm với caffeine"
+          },
+          "41": {
+            "name": "Xu hướng mất ngủ"
+          },
+          "42": {
+            "name": "Béo bụng"
+          }
+        }
+      },
+      "8": {
+        "name": "Báo cáo về nguy cơ sức khỏe",
+        "reports": {
+          "43": {
+            "name": "Hội chứng đỏ mặt khi uống rượu bia"
+          },
+          "44": {
+            "name": "Nguy cơ tiểu đường"
+          },
+          "45": {
+            "name": "Nguy cơ tim mạch chuyển hóa"
+          },
+          "46": {
+            "name": "Nguy cơ béo phì"
+          }
+        }
+      },
+      "9": {
+        "name": "Báo cáo về nguy cơ ung thư",
+        "reports": {
+          "47": {
+            "name": "Ung thư vú"
+          },
+          "48": {
+            "name": "Ung thư tuyến tiền liệt"
+          },
+          "49": {
+            "name": "Ung thư dạ dày"
+          },
+          "50": {
+            "name": "Ung thư buồng trứng"
+          },
+          "51": {
+            "name": "Ung thư bàng quang"
+          },
+          "52": {
+            "name": "Ung thư não"
+          },
+          "53": {
+            "name": "Ung thư cổ tử cung"
+          },
+          "54": {
+            "name": "Ung thư ruột"
+          },
+          "55": {
+            "name": "Ung thư nội mạc tử cung"
+          },
+          "56": {
+            "name": "Ung thư thực quản"
+          },
+          "57": {
+            "name": "Ung thư thận"
+          },
+          "58": {
+            "name": "Ung thư máu"
+          },
+          "59": {
+            "name": "Ung thư gan"
+          },
+          "60": {
+            "name": "Ung thư phổi"
+          },
+          "61": {
+            "name": "Ung thư tụy"
+          },
+          "62": {
+            "name": "U tủy thượng thận & tế bào cận hạch thần kinh"
+          },
+          "63": {
+            "name": "Ung thư đại trực tràng"
+          },
+          "64": {
+            "name": "Ung thư da"
+          }
+        }
+      }
+    }
+  },
+  "kids": {
+    "title": "Giúp trẻ phát triển toàn diện",
+    "subtitle": "Trẻ em",
+    "description": "Mở khóa tiềm năng của con bạn, cũng như tối ưu hóa giáo dục, dinh dưỡng, tập luyện, và chăm sóc sức khỏe của trẻ.",
+    "sections": {
+      "intelligence": {
+        "subtitle": "Trí tuệ",
+        "title": "Khám phá tiềm năng và tài năng của con bạn",
+        "description": "Nhiều người lớn lên mà không tìm ra tài năng thực sự của mình, do tài năng không hề dễ dàng nắm bắt. Hiểu rõ về cấu trúc gen của con sẽ giúp bạn xác định chính xác tiềm năng và năng lực của trẻ, cho con bạn một khởi đầu thuận lợi giúp phát triển hoàn thiện tài năng bẩm sinh.",
+        "traits": {
+          "1": "IQ (Chỉ số thông minh)",
+          "2": "EQ (Trí tuệ cảm xúc)",
+          "3": "Năng lực nhận thức"
+        }
+      },
+      "nutrition": {
+        "subtitle": "Dinh dưỡng",
+        "title": "Tối ưu hóa chế độ dinh dưỡng của con bạn",
+        "description": "Nền tảng di truyền đóng vai trò quan trọng trong định hình sự phát triển tổng thể của con bạn, đặc biệt là trong suốt thời thơ ấu. Hiểu về bộ gen của con sẽ giúp bạn thiết kế một chế độ dinh dưỡng phù hợp dành riêng cho trẻ.",
+        "traits": {
+          "1": "Chuyển hóa chất bột đường",
+          "2": "Chuyển hóa chất béo",
+          "3": "Chuyển hóa chất đạm"
+        }
+      },
+      "behavior": {
+        "subtitle": "Hành vi",
+        "title": "Thấu hiểu khuynh hướng hành vi của con bạn",
+        "description": "Tính cách của con bạn là sự kết hợp giữa yếu tố di truyền và môi trường. Hãy giúp trẻ phát triển nhờ sự hài hòa giữa cách giáo dục con cái của bạn với con người bên trong của trẻ.<br/>* Hướng nội - hướng ngoại",
+        "traits": {
+          "1": "Hướng nội - hướng ngoại",
+          "2": "Tính kỷ luật",
+          "3": "Bất ổn cảm xúc"
+        }
+      },
+      "health": {
+        "subtitle": "Sức khỏe",
+        "title": "Đánh giá nguy cơ sức khỏe của con bạn",
+        "description": "Hiểu về những nguy cơ một số rối loạn chuyển hóa của con bạn để đưa ra những cách phòng tránh phù hợp.",
+        "traits": {
+          "1": "Nguy cơ béo phì"
+        }
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Kid Care",
+        "subtitle": ""
+      },
+      "2": {
+        "title": "G-Kid Pro",
+        "subtitle": ""
+      }
+    },
+    "reportCategories": {
+      "1": {
+        "name": "Báo cáo về khuynh hướng hành vi",
+        "reports": {
+          "1": {
+            "name": "Hướng nội - hướng ngoại"
+          },
+          "2": {
+            "name": "Tính kỷ luật"
+          },
+          "3": {
+            "name": "Bất ổn cảm xúc"
+          },
+          "4": {
+            "name": "Nóng tính"
+          },
+          "5": {
+            "name": "Xu hướng mạo hiểm"
+          },
+          "6": {
+            "name": "Khả năng giải tỏa căng thẳng"
+          }
+        }
+      },
+      "2": {
+        "name": "Báo cáo về tiềm năng học thuật",
+        "reports": {
+          "7": {
+            "name": "Chỉ số thông minh (IQ)"
+          },
+          "8": {
+            "name": "Trí tuệ cảm xúc (EQ)"
+          },
+          "9": {
+            "name": "Năng lực nhận thức"
+          },
+          "10": {
+            "name": "Năng lực học thuật"
+          },
+          "11": {
+            "name": "Tiềm năng toán học"
+          },
+          "12": {
+            "name": "Tiềm năng ngôn ngữ"
+          },
+          "13": {
+            "name": "Tiềm năng âm nhạc"
+          },
+          "14": {
+            "name": "Sức bền"
+          },
+          "15": {
+            "name": "Sức mạnh"
+          },
+          "16": {
+            "name": "Sức khỏe tim phổi"
+          }
+        },
+        "3": {
+          "name": "Báo cáo về tổng quan chuyển hóa dinh dưỡng",
+          "reports": {
+            "17": {
+              "name": "Chuyển hóa chất bột đường"
+            },
+            "18": {
+              "name": "Chuyển hóa chất béo"
+            },
+            "19": {
+              "name": "Chuyển hóa chất đạm"
+            }
+          }
+        },
+        "4": {
+          "name": "Báo cáo về nhu cầu dinh dưỡng",
+          "reports": {
+            "20": {
+              "name": "Nhu cầu vitamin A"
+            },
+            "21": {
+              "name": "Nhu cầu vitamin B2"
+            },
+            "22": {
+              "name": "Nhu cầu vitamin B6"
+            },
+            "23": {
+              "name": "Nhu cầu vitamin B12"
+            },
+            "24": {
+              "name": "Nhu cầu vitamin C"
+            },
+            "25": {
+              "name": "Nhu cầu vitamin D"
+            },
+            "26": {
+              "name": "Nhu cầu folate"
+            },
+            "27": {
+              "name": "Nhu cầu khoáng chất thiết yếu"
+            }
+          }
+        },
+        "5": {
+          "name": "Báo cáo về hành vi ăn uống",
+          "reports": {
+            "28": {
+              "name": "Ăn uống theo cảm xúc"
+            },
+            "29": {
+              "name": "Cảm nhận vị đắng"
+            },
+            "30": {
+              "name": "Cảm nhận vị ngọt"
+            }
+          }
+        },
+        "6": {
+          "name": "Báo cáo về nguy cơ sức khỏe",
+          "reports": {
+            "31": {
+              "name": "Nguy cơ béo phì"
+            },
+            "32": {
+              "name": "Nguy cơ tiểu đường"
+            },
+            "33": {
+              "name": "Nguy cơ tim mạch chuyển hóa"
+            }
+          }
+        }
+      },
+      "3": {
+        "name": "Báo cáo về tổng quan chuyển hóa dinh dưỡng",
+        "reports": {
+          "17": {
+            "name": "Chuyển hóa chất bột đường"
+          },
+          "18": {
+            "name": "Chuyển hóa chất béo"
+          },
+          "19": {
+            "name": "Chuyển hóa chất đạm"
+          }
+        }
+      },
+      "4": {
+        "name": "Báo cáo về nhu cầu dinh dưỡng",
+        "reports": {
+          "20": {
+            "name": "Nhu cầu vitamin A"
+          },
+          "21": {
+            "name": "Nhu cầu vitamin B2"
+          },
+          "22": {
+            "name": "Nhu cầu vitamin B6"
+          },
+          "23": {
+            "name": "Nhu cầu vitamin B12"
+          },
+          "24": {
+            "name": "Nhu cầu vitamin C"
+          },
+          "25": {
+            "name": "Nhu cầu vitamin D"
+          },
+          "26": {
+            "name": "Nhu cầu folate"
+          },
+          "27": {
+            "name": "Nhu cầu khoáng chất thiết yếu"
+          }
+        }
+      },
+      "5": {
+        "name": "Báo cáo về hành vi ăn uống",
+        "reports": {
+          "28": {
+            "name": "Ăn uống theo cảm xúc"
+          },
+          "29": {
+            "name": "Cảm nhận vị đắng"
+          },
+          "30": {
+            "name": "Cảm nhận vị ngọt"
+          }
+        }
+      },
+      "6": {
+        "name": "Báo cáo về nguy cơ sức khỏe",
+        "reports": {
+          "31": {
+            "name": "Nguy cơ béo phì"
+          },
+          "32": {
+            "name": "Nguy cơ tiểu đường"
+          },
+          "33": {
+            "name": "Nguy cơ tim mạch chuyển hóa"
+          }
+        }
+      }
+    }
+  },
+  "health": {
+    "title": "Sức khỏe",
+    "subtitle": "Sức khỏe",
+    "description": "Đánh giá nguy cơ các bệnh di truyền tiềm ẩn, trong đó có 20 loại ung thư phổ biến.",
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Đơn giản, an toàn, và không xâm lấn",
+        "description": "Chỉ cần mẫu nước bọt của bạn là đủ.<br/>Công nghệ tiên tiến của chúng tôi cho phép tách chiết DNA chỉ từ mẫu nước bọt, điều này khiến quy trình lấy mẫu đơn giản, an toàn, và thuận tiện hơn so với mẫu máu ở những phương pháp xét nghiệm thông thường."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Hiểu rõ rủi ro",
+        "description": "Một số loại ung thư có nguy cơ di truyền trong gia đình, nghĩa là bạn có nguy cơ mắc ung thư nếu người thân của bạn mắc ung thư. Hiểu rõ bộ gen giúp bạn đánh giá chính xác nguy cơ của bản thân và đưa ra những kế hoạch chăm sóc sức khỏe phù hợp."
+      },
+      "3": {
+        "subtitle": "",
+        "title": "Tối ưu hóa kế hoạch tầm soát ung thư",
+        "description": "Việc lạm dụng không cần thiết các xét nghiệm tầm soát ung thư mang những rủi ro nhất định, bao gồm đau đớn về thể chất, chảy máu, và cả ung thư. Trong một số trường hợp, khi chưa có triệu chứng của ung thư, tầm soát ung thư tổng quát có thể không phát hiện được ung thư. Thông qua hiểu bộ gen của mình, bạn có thể xây dựng một kế hoạch tầm soát chọn lọc giúp phát hiện ung thư chính xác, giảm tác dụng phụ, và tiết kiệm chi phí."
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Health"
+      }
+    },
+    "reportCategories": {
+      "1": {
+        "reports": {
+          "1": {
+            "name": "Ung thư bàng quang"
+          },
+          "2": {
+            "name": "Ung thư não"
+          },
+          "3": {
+            "name": "Ung thư vú"
+          },
+          "4": {
+            "name": "Ung thư cổ tử cung"
+          },
+          "5": {
+            "name": "Ung thư ruột"
+          },
+          "6": {
+            "name": "Ung thư nội mạc tử cung"
+          },
+          "7": {
+            "name": "Ung thư thực quản"
+          },
+          "8": {
+            "name": "Ung thư ruột"
+          },
+          "9": {
+            "name": "Ung thư máu"
+          },
+          "10": {
+            "name": "Ung thư gan"
+          },
+          "11": {
+            "name": "Ung thư phổi"
+          },
+          "12": {
+            "name": "Ung thư buồng trứng"
+          },
+          "13": {
+            "name": "Ung thư tụy"
+          },
+          "14": {
+            "name": "U tủy thượng thận &  tế bào cận hạch thần kinh"
+          },
+          "15": {
+            "name": "Ung thư tuyến tiền liệt"
+          },
+          "16": {
+            "name": "Ung thư đại trực tràng"
+          },
+          "17": {
+            "name": "Ung thư da"
+          },
+          "18": {
+            "name": "Ung thư dạ dày"
+          },
+          "19": {
+            "name": "Ung thư tinh hoàn"
+          }
+        }
+      }
+    }
+  },
+  "autism": {
+    "title": "G-Autism",
+    "subtitle": "G-Autism",
+    "description": "Tiếp cận các kiến thức chuyên sâu về nguyên nhân liên quan đến gen của chứng tự kỷ nhằm đưa ra những quyết định đúng đắn về mặt y tế và lối sống cho con bạn.",
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Đơn giản, an toàn, và không xâm lấn",
+        "description": "Chỉ cần mẫu nước bọt của bạn là đủ. Công nghệ tiên tiến của chúng tôi cho phép tách chiết DNA chỉ từ mẫu nước bọt, điều này khiến quy trình lấy mẫu đơn giản, an toàn, và thuận tiện hơn so với mẫu máu ở những phương pháp xét nghiệm thông thường."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Hiểu rõ về nguy cơ tự kỷ của con bạn",
+        "description": "Cho đến nay, hàng trăm gen liên quan với Rối loạn phổ Tự kỷ (ASD) đã được phát hiện thông qua các nghiên cứu di truyền trên hơn 10.000 bệnh nhân ASD và gia đình của họ. Dựa trên các nghiên cứu này, báo cáo G-Autism phân tích hơn 1200 biến thể để đánh giá nguy cơ tự kỷ của con bạn."
+      },
+      "3": {
+        "subtitle": "",
+        "title": "Chăm sóc con bạn đúng đắn",
+        "description": "Báo cáo G-Autism cung cấp những khuyến nghị dành riêng cho con bạn dựa trên những kết quả phân tích và hướng dẫn đang hiện hành từ những tổ chức đáng tin cậy như NIH và Học viện Nhi khoa Hoa Kỳ."
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Autism",
+        "subtitle": ""
+      }
+    }
+  },
+  "immunity": {
+    "title": "G-Immunity",
+    "subtitle": "G-Immunity",
+    "description": "Tìm hiểu về nguy cơ nhiễm virus, đặc biệt với các loại virus liên quan đến đường hô hấp.",
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Đơn giản, an toàn, và không xâm lấn",
+        "description": "Chỉ cần mẫu nước bọt của bạn là đủ. Công nghệ tiên tiến của chúng tôi cho phép tách chiết DNA chỉ từ mẫu nước bọt, điều này khiến quy trình lấy mẫu đơn giản, an toàn, và thuận tiện hơn so với mẫu máu ở những phương pháp xét nghiệm thông thường."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Hiểu rõ nguy cơ nhiễm virus",
+        "description": "Sử dụng những tiến bộ mới nhất về trí thông minh nhân tạo và công nghệ độc quyền tiên tiến, chúng tôi sẽ tính toán chỉ số đa gen về nguy cơ nhiễm virus của bạn bằng cách thu thập những nguy cơ được tính theo trọng số từ hơn 85 biến thể di truyền."
+      },
+      "3": {
+        "subtitle": "",
+        "title": "Bảo vệ bản thân với kiến thức",
+        "description": "Báo cáo G-Immunity sẽ cung cấp những kiến thức mới nhất về nguy cơ nhiễm virus, cũng như cách để bảo vệ bản thân, gia đình và cả thú cưng của bạn."
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Immunity",
+        "subtitle": ""
+      }
+    }
+  },
+  "awareness": {
+    "title": "G-Awareness",
+    "subtitle": "G-Awareness",
+    "description": "Chúng tôi phân tích 200 gen liên quan đến đặc điểm tính cách bẩm sinh.",
+    "testedTraits": {
+      "1": {
+        "name": "Tính hướng ngoại"
+      },
+      "2": {
+        "name": "Tính kỷ luật"
+      },
+      "3": {
+        "name": "Nóng tính"
+      },
+      "4": {
+        "name": "Khả năng kiểm soát căng thẳng"
+      }
+    },
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Hiểu rõ nền tảng tính cách bẩm sinh",
+        "description": "Với kết quả giải mã gen, bạn có thể khám phá những thông tin tiềm ẩn trong cơ thể mà bạn chưa từng biết đến, từ đó tập trung phát huy thế mạnh tính cách của chính mình để có thể đạt được những thành tựu lớn."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Hiểu rõ các rủi ro sức khỏe tinh thần liên quan đến đặc điểm tính cách do gen chi phối",
+        "description": "Giải mã gen giúp bạn nhận biết từ rất sớm các nguy cơ sức khỏe (nếu có), từ đó có kế hoạch thay đổi thói quen, lối sống và phòng ngừa phù hợp."
+      },
+      "3": {
+        "subtitle": "",
+        "title": "Các lời khuyên hữu ích cá nhân hóa để phát triển bản thân, phát huy thế mạnh tính cách",
+        "description": "Từ kết quả giải mã gen và các khuyến nghị của chuyên gia di truyền, bạn có thể chủ động thiết kế kế hoạch dinh dưỡng, luyện tập, giáo dục riêng cho bản thân để phát huy được hết những khả năng riêng biệt và cá tính nổi bật của mình."
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Awareness",
+        "subtitle": ""
+      }
+    }
+  },
+  "smart": {
+    "title": "G-Smart",
+    "subtitle": "Khám phá tiềm năng",
+    "description": "Chúng tôi phân tích 201 gen liên quan đến tiềm năng trí tuệ bẩm sinh của mỗi người.",
+    "testedTraits": {
+      "1": {
+        "name": "Chỉ số thông minh (IQ)"
+      },
+      "2": {
+        "name": "Trí tuệ cảm xúc (EQ)"
+      },
+      "3": {
+        "name": "Khả năng ngôn ngữ"
+      },
+      "4": {
+        "name": "Khả năng toán học"
+      },
+      "5": {
+        "name": "Khả năng âm nhạc"
+      }
+    },
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Hiểu rõ khả năng học thuật bẩm sinh",
+        "description": "Mỗi người là một cá thể hoàn toàn khác biệt luôn ẩn chứa những tiềm năng khác nhau. Nếu được phát hiện, nuôi dưỡng và luyện tập đúng cách, bạn có thể vận dụng và phát huy tối ưu năng lực thiên bẩm của mình vào cuộc sống."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Hiểu rõ các thế mạnh về năng lực tư duy",
+        "description": "Một trong những ưu thế có được khi bạn hiểu về tố chất của mình là bạn có thể sẽ dễ dàng đưa ra những quyết định quan trọng cho tương lai."
+      },
+      "3": {
+        "subtitle": "",
+        "title": "Hiểu rõ các hạn chế về năng lực tư duy (nếu có)",
+        "description": "Giải mã gen sớm sẽ giúp bạn có được những thông tin khoa học và chính xác về bản thân, bạn có thể tập trung cải thiện những hạn chế để phát triển con người hoàn thiện."
+      },
+      "4": {
+        "subtitle": "",
+        "title": "Các lời khuyên hữu ích cá nhân hóa để phát triển bản thân, phát huy thế mạnh học thuật và cải thiện các hạn chế (nếu có)",
+        "description": "Từ kết quả giải mã gen và các khuyến nghị của chuyên gia di truyền, bạn có thể chủ động thiết kế kế hoạch dinh dưỡng, luyện tập, quan sát các dấu hiệu và điều chỉnh (nếu cần) để phát triển con người toàn diện."
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Smart",
+        "subtitle": ""
+      }
+    }
+  },
+  "g-intel": {
+    "subtitle": "Người lớn",
+    "title": "G-Intel",
+    "bestSellingDescriptionList": {
+      "1": "Khám phá tiềm năng, điểm mạnh, điểm yếu",
+      "2": "Lập kế hoạch phát triển, thăng tiến trong sự nghiệp"
+    },
+    "reportCategories": {
+      "1": {
+        "name": "Báo cáo về khuynh hướng hành vi",
+        "reports": {
+          "1": {
+            "name": "Hướng nội - hướng ngoại"
+          },
+          "2": {
+            "name": "Khả năng kiểm soát căng thẳng"
+          },
+          "3": {
+            "name": "Bất ổn cảm xúc"
+          },
+          "4": {
+            "name": "Nóng tính"
+          },
+          "5": {
+            "name": "Xu hướng mạo hiểm"
+          },
+          "6": {
+            "name": "Tính kỷ luật"
+          }
+        }
+      },
+      "2": {
+        "name": "Báo cáo về tiềm năng học thuật",
+        "reports": {
+          "7": {
+            "name": "Chỉ số thông minh (IQ)"
+          },
+          "8": {
+            "name": "Trí tuệ cảm xúc (EQ)"
+          },
+          "9": {
+            "name": "Năng lực học thuật"
+          },
+          "10": {
+            "name": "Khả năng nhận thức"
+          },
+          "11": {
+            "name": "Tiềm năng toán học"
+          },
+          "12": {
+            "name": "Tiềm năng ngôn ngữ"
+          },
+          "13": {
+            "name": "Tiềm năng âm nhạc"
+          }
+        }
+      },
+      "3": {
+        "name": "Báo cáo về tiềm năng thể chất",
+        "reports": {
+          "14": {
+            "name": "Sức bền"
+          },
+          "15": {
+            "name": "Sức mạnh"
+          },
+          "16": {
+            "name": "Sức khỏe tim phổi"
+          },
+          "17": {
+            "name": "Khả năng hồi phục"
+          },
+          "18": {
+            "name": "Nguy cơ chấn thương"
+          },
+          "20": {
+            "name": "Sức mạnh cơ bắp"
+          },
+          "21": {
+            "name": "Lợi ích của việc tập luyện"
+          },
+          "22": {
+            "name": "Khó khăn kiểm soát cân nặng"
+          }
+        }
+      },
+      "4": {
+        "name": "Báo cáo về tổng quan chuyển hóa dinh dưỡng",
+        "reports": {
+          "23": {
+            "name": "Chuyển hóa chất bột đường"
+          },
+          "24": {
+            "name": "Chuyển hóa chất béo"
+          },
+          "25": {
+            "name": "Chuyển hóa chất đạm"
+          }
+        }
+      },
+      "5": {
+        "name": "Báo cáo về nhu cầu dinh dưỡng",
+        "reports": {
+          "26": {
+            "name": "Nhu cầu vitamin A"
+          },
+          "27": {
+            "name": "Nhu cầu vitamin B2"
+          },
+          "28": {
+            "name": "Nhu cầu vitamin B6"
+          },
+          "29": {
+            "name": "Nhu cầu vitamin B12"
+          },
+          "30": {
+            "name": "Nhu cầu vitamin C"
+          },
+          "31": {
+            "name": "Nhu cầu vitamin D"
+          },
+          "32": {
+            "name": "Nhu cầu vitamin E"
+          },
+          "33": {
+            "name": "Nhu cầu folate"
+          },
+          "34": {
+            "name": "Nhu cầu khoáng chất thiết yếu"
+          }
+        }
+      },
+      "6": {
+        "name": "Báo cáo về dinh dưỡng",
+        "reports": {
+          "35": {
+            "id": 35,
+            "name": "Nhạy cảm với đồ ăn và thức uống"
+          },
+          "36": {
+            "id": 36,
+            "name": "Ăn uống theo cảm xúc"
+          },
+          "37": {
+            "id": 37,
+            "name": "Khả năng giải độc"
+          },
+          "38": {
+            "id": 38,
+            "name": "Sức khỏe tim mạch chuyển hóa"
+          },
+          "39": {
+            "id": 39,
+            "name": "Thích ứng với chế độ ăn giảm cân"
+          }
+        }
+      },
+      "7": {
+        "name": "Báo cáo về những đặc điểm khác",
+        "reports": {
+          "40": {
+            "name": "Độ nhạy cảm với caffeine"
+          },
+          "41": {
+            "name": "Xu hướng mất ngủ"
+          },
+          "42": {
+            "name": "Béo bụng"
+          }
+        }
+      },
+      "8": {
+        "name": "Báo cáo về nguy cơ sức khỏe",
+        "reports": {
+          "43": {
+            "name": "Hội chứng đỏ mặt khi uống rượu bia"
+          },
+          "44": {
+            "name": "Nguy cơ tiểu đường"
+          },
+          "45": {
+            "name": "Nguy cơ tim mạch chuyển hóa"
+          }
+        }
+      },
+      "9": {
+        "name": "Báo cáo về nguy cơ ung thư",
+        "reports": {
+          "47": {
+            "name": "Ung thư vú"
+          },
+          "48": {
+            "name": "Ung thư tuyến tiền liệt"
+          },
+          "49": {
+            "name": "Ung thư dạ dày"
+          },
+          "50": {
+            "name": "Ung thư buồng trứng"
+          },
+          "51": {
+            "name": "Ung thư bàng quang"
+          },
+          "52": {
+            "name": "Ung thư não"
+          },
+          "53": {
+            "name": "Ung thư cổ tử cung"
+          },
+          "54": {
+            "name": "Ung thư ruột"
+          },
+          "55": {
+            "name": "Ung thư nội mạc tử cung"
+          },
+          "56": {
+            "name": "Ung thư thực quản"
+          },
+          "57": {
+            "name": "Ung thư thận"
+          },
+          "58": {
+            "name": "Ung thư máu"
+          },
+          "59": {
+            "name": "Ung thư gan"
+          },
+          "60": {
+            "name": "Ung thư phổi"
+          },
+          "61": {
+            "name": "Ung thư tụy"
+          },
+          "62": {
+            "name": "U tủy thượng thận & tế bào cận hạch thần kinh"
+          },
+          "63": {
+            "name": "Ung thư đại trực tràng"
+          },
+          "64": {
+            "name": "Ung thư da"
+          }
+        }
+      }
+    }
+  },
+  "g-care": {
+    "title": "G-Care",
+    "subtitle": "Người lớn",
+    "description": "Hiểu rõ mọi thứ về cơ thể của bạn để thay đổi thói quen, điều chỉnh chế độ ăn uống, chế độ tập thể dục và chăm sóc sức khỏe hiệu quả nhất cho bản thân.",
+    "bestSellingDescriptionList": {
+      "1": "Hiểu hành vi, phát huy tiềm năng",
+      "2": "Tối ưu chế độ dinh dưỡng",
+      "3": "Phòng tránh một số bệnh di truyền"
+    },
+    "sections": {
+      "nutrition": {
+        "subtitle": "Dinh dưỡng",
+        "title": "Tối ưu hóa chế độ dinh dưỡng của bản thân",
+        "description": "Dinh dưỡng đầy đủ là nền tảng của một cuộc sống khỏe mạnh. Hiểu rõ về cách cơ thể đáp ứng với một chất dinh dưỡng cụ thể sẽ giúp bạn điều chỉnh thói quen ăn uống và cải thiện sức khỏe.",
+        "traits": {
+          "1": "Chuyển hóa chất đường bột",
+          "2": "Chuyển hóa chất béo",
+          "3": "Chuyển hóa chất đạm"
+        }
+      },
+      "fitness": {
+        "subtitle": "Thể thao",
+        "title": "Tối ưu hóa chế độ tập luyện của bản thân",
+        "description": "Hãy tập luyện khôn ngoan hơn, thay vì chăm chỉ hơn. Hiểu rõ bộ gen của mình sẽ giúp bạn thiết kế một chế độ tập luyện có hiệu quả tối ưu với cơ thể bạn.",
+        "traits": {
+          "1": "Sức mạnh",
+          "2": "Sức bền",
+          "3": "Sức khỏe tim phổi"
+        }
+      },
+      "health": {
+        "subtitle": "Sức khỏe",
+        "title": "Đánh giá nguy cơ bệnh di truyền",
+        "description": "Đột biến gen vô cùng phức tạp. Chúng có thể gây ra những tình trạng bệnh lý không mong muốn dẫn tới những căn bệnh nguy hiểm. Hiểu rõ những tác động của bộ gen đối với cơ thể sẽ giúp bạn có thể chủ động lên những kế hoạch chăm sóc sức khỏe.",
+        "traits": {
+          "1": "Ung thư vú/Ung thư tuyến tiền liệt",
+          "2": "Ung thư dạ dày",
+          "3": "Chứng đỏ mặt khi uống rượu, bia"
+        }
+      },
+      "behavior": {
+        "subtitle": "Hành vi",
+        "title": "Khám phá tiềm năng bản thân",
+        "description": "Hãy hiểu rõ bản thân hơn, về những điểm mạnh và điểm cần cải thiện, về những điều nên và không nên làm, thay vì lãng phí nhiều năm để thử mà không có kết quả.",
+        "traits": {
+          "1": "Hướng nội - hướng ngoại",
+          "2": "Khả năng kiểm soát căng thẳng",
+          "3": "Bất ổn cảm xúc"
+        }
+      },
+      "others": {
+        "subtitle": "Thông tin khác",
+        "title": "Nâng cao chất lượng cuộc sống từ những thay đổi nhỏ",
+        "description": "Những thông tin khác về cơ thể bạn cũng không kém phần quan trọng. <br/>Nhờ hiểu thêm về chúng, bạn có thể áp dụng những điều chỉnh nhỏ nhưng có tác động lớn tới chất lượng cuộc sống của bản thân.",
+        "traits": {
+          "1": "Mỡ bụng",
+          "2": "Độ nhạy cảm với caffeine",
+          "3": "Xu hướng mất ngủ"
+        }
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Care",
+        "subtitle": "Hiểu rõ bản thân"
+      },
+      "2": {
+        "title": "G-Pro",
+        "subtitle": "Hiểu cơ thể bạn"
+      }
+    },
+    "reportCategories": {
+      "1": {
+        "name": "Báo cáo về khuynh hướng hành vi",
+        "reports": {
+          "1": {
+            "name": "Hướng nội - hướng ngoại"
+          },
+          "2": {
+            "name": "Khả năng kiểm soát căng thẳng"
+          },
+          "3": {
+            "name": "Bất ổn cảm xúc"
+          },
+          "4": {
+            "name": "Nóng tính"
+          },
+          "5": {
+            "name": "Xu hướng mạo hiểm"
+          },
+          "6": {
+            "name": "Tính kỷ luật"
+          }
+        }
+      },
+      "2": {
+        "name": "Báo cáo về tiềm năng học thuật",
+        "reports": {
+          "7": {
+            "name": "Chỉ số thông minh (IQ)"
+          },
+          "8": {
+            "name": "Trí tuệ cảm xúc (EQ)"
+          },
+          "9": {
+            "name": "Năng lực học thuật"
+          },
+          "10": {
+            "name": "Khả năng nhận thức"
+          },
+          "11": {
+            "name": "Tiềm năng toán học"
+          },
+          "12": {
+            "name": "Tiềm năng ngôn ngữ"
+          },
+          "13": {
+            "name": "Tiềm năng âm nhạc"
+          }
+        }
+      },
+      "3": {
+        "name": "Báo cáo về tiềm năng thể chất",
+        "reports": {
+          "14": {
+            "name": "Sức bền"
+          },
+          "15": {
+            "name": "Sức mạnh"
+          },
+          "16": {
+            "name": "Sức khỏe tim phổi"
+          },
+          "17": {
+            "name": "Khả năng hồi phục"
+          },
+          "18": {
+            "name": "Nguy cơ chấn thương"
+          },
+          "20": {
+            "name": "Sức mạnh cơ bắp"
+          },
+          "21": {
+            "name": "Lợi ích của việc tập luyện"
+          },
+          "22": {
+            "name": "Khó khăn kiểm soát cân nặng"
+          }
+        }
+      },
+      "4": {
+        "name": "Báo cáo về tổng quan chuyển hóa dinh dưỡng",
+        "reports": {
+          "23": {
+            "name": "Chuyển hóa chất bột đường"
+          },
+          "24": {
+            "name": "Chuyển hóa chất béo"
+          },
+          "25": {
+            "name": "Chuyển hóa chất đạm"
+          }
+        }
+      },
+      "5": {
+        "name": "Báo cáo về nhu cầu dinh dưỡng",
+        "reports": {
+          "26": {
+            "name": "Nhu cầu vitamin A"
+          },
+          "27": {
+            "name": "Nhu cầu vitamin B2"
+          },
+          "28": {
+            "name": "Nhu cầu vitamin B6"
+          },
+          "29": {
+            "name": "Nhu cầu vitamin B12"
+          },
+          "30": {
+            "name": "Nhu cầu vitamin C"
+          },
+          "31": {
+            "name": "Nhu cầu vitamin D"
+          },
+          "32": {
+            "name": "Nhu cầu vitamin E"
+          },
+          "33": {
+            "name": "Nhu cầu folate"
+          },
+          "34": {
+            "name": "Nhu cầu khoáng chất thiết yếu"
+          }
+        }
+      },
+      "6": {
+        "name": "Báo cáo về dinh dưỡng",
+        "reports": {
+          "35": {
+            "id": 35,
+            "name": "Nhạy cảm với đồ ăn và thức uống"
+          },
+          "36": {
+            "id": 36,
+            "name": "Ăn uống theo cảm xúc"
+          },
+          "37": {
+            "id": 37,
+            "name": "Khả năng giải độc"
+          },
+          "38": {
+            "id": 38,
+            "name": "Sức khỏe tim mạch chuyển hóa"
+          },
+          "39": {
+            "id": 39,
+            "name": "Thích ứng với chế độ ăn giảm cân"
+          }
+        }
+      },
+      "7": {
+        "name": "Báo cáo về những đặc điểm khác",
+        "reports": {
+          "40": {
+            "name": "Độ nhạy cảm với caffeine"
+          },
+          "41": {
+            "name": "Xu hướng mất ngủ"
+          },
+          "42": {
+            "name": "Béo bụng"
+          }
+        }
+      },
+      "8": {
+        "name": "Báo cáo về nguy cơ sức khỏe",
+        "reports": {
+          "43": {
+            "name": "Hội chứng đỏ mặt khi uống rượu bia"
+          },
+          "44": {
+            "name": "Nguy cơ tiểu đường"
+          },
+          "45": {
+            "name": "Nguy cơ tim mạch chuyển hóa"
+          }
+        }
+      },
+      "9": {
+        "name": "Báo cáo về nguy cơ ung thư",
+        "reports": {
+          "47": {
+            "name": "Ung thư vú"
+          },
+          "48": {
+            "name": "Ung thư tuyến tiền liệt"
+          },
+          "49": {
+            "name": "Ung thư dạ dày"
+          },
+          "50": {
+            "name": "Ung thư buồng trứng"
+          },
+          "51": {
+            "name": "Ung thư bàng quang"
+          },
+          "52": {
+            "name": "Ung thư não"
+          },
+          "53": {
+            "name": "Ung thư cổ tử cung"
+          },
+          "54": {
+            "name": "Ung thư ruột"
+          },
+          "55": {
+            "name": "Ung thư nội mạc tử cung"
+          },
+          "56": {
+            "name": "Ung thư thực quản"
+          },
+          "57": {
+            "name": "Ung thư thận"
+          },
+          "58": {
+            "name": "Ung thư máu"
+          },
+          "59": {
+            "name": "Ung thư gan"
+          },
+          "60": {
+            "name": "Ung thư phổi"
+          },
+          "61": {
+            "name": "Ung thư tụy"
+          },
+          "62": {
+            "name": "U tủy thượng thận & tế bào cận hạch thần kinh"
+          },
+          "63": {
+            "name": "Ung thư đại trực tràng"
+          },
+          "64": {
+            "name": "Ung thư da"
+          }
+        }
+      }
+    }
+  },
+  "g-pro": {
+    "subtitle": "Người lớn",
+    "title": "G-Pro",
+    "description": "Hiểu rõ mọi thứ về cơ thể của bạn để thay đổi thói quen, điều chỉnh chế độ ăn uống, chế độ tập thể dục và chăm sóc sức khỏe hiệu quả nhất cho bản thân.",
+    "bestSellingDescriptionList": {
+      "1": "Hiểu hành vi, phát huy tiềm năng và sở trường",
+      "2": "Tối ưu lối sống, chế độ dinh dưỡng, luyện tập",
+      "3": "Phòng tránh các bệnh di truyền"
+    },
+    "sections": {
+      "nutrition": {
+        "subtitle": "Dinh dưỡng",
+        "title": "Tối ưu hóa chế độ dinh dưỡng của bản thân",
+        "description": "Dinh dưỡng đầy đủ là nền tảng của một cuộc sống khỏe mạnh. Hiểu rõ về cách cơ thể đáp ứng với một chất dinh dưỡng cụ thể sẽ giúp bạn điều chỉnh thói quen ăn uống và cải thiện sức khỏe.",
+        "traits": {
+          "1": "Chuyển hóa chất đường bột",
+          "2": "Chuyển hóa chất béo",
+          "3": "Chuyển hóa chất đạm"
+        }
+      },
+      "fitness": {
+        "subtitle": "Thể thao",
+        "title": "Tối ưu hóa chế độ tập luyện của bản thân",
+        "description": "Hãy tập luyện khôn ngoan hơn, thay vì chăm chỉ hơn. Hiểu rõ bộ gen của mình sẽ giúp bạn thiết kế một chế độ tập luyện có hiệu quả tối ưu với cơ thể bạn.",
+        "traits": {
+          "1": "Sức mạnh",
+          "2": "Sức bền",
+          "3": "Sức khỏe tim phổi"
+        }
+      },
+      "health": {
+        "subtitle": "Sức khỏe",
+        "title": "Đánh giá nguy cơ bệnh di truyền",
+        "description": "Đột biến gen vô cùng phức tạp. Chúng có thể gây ra những tình trạng bệnh lý không mong muốn dẫn tới những căn bệnh nguy hiểm. Hiểu rõ những tác động của bộ gen đối với cơ thể sẽ giúp bạn có thể chủ động lên những kế hoạch chăm sóc sức khỏe.",
+        "traits": {
+          "1": "Ung thư vú/Ung thư tuyến tiền liệt",
+          "2": "Ung thư dạ dày",
+          "3": "Chứng đỏ mặt khi uống rượu, bia"
+        }
+      },
+      "behavior": {
+        "subtitle": "Hành vi",
+        "title": "Khám phá tiềm năng bản thân",
+        "description": "Hãy hiểu rõ bản thân hơn, về những điểm mạnh và điểm cần cải thiện, về những điều nên và không nên làm, thay vì lãng phí nhiều năm để thử mà không có kết quả.",
+        "traits": {
+          "1": "Hướng nội - hướng ngoại",
+          "2": "Khả năng kiểm soát căng thẳng",
+          "3": "Bất ổn cảm xúc"
+        }
+      },
+      "others": {
+        "subtitle": "Thông tin khác",
+        "title": "Nâng cao chất lượng cuộc sống từ những thay đổi nhỏ",
+        "description": "Những thông tin khác về cơ thể bạn cũng không kém phần quan trọng. <br/>Nhờ hiểu thêm về chúng, bạn có thể áp dụng những điều chỉnh nhỏ nhưng có tác động lớn tới chất lượng cuộc sống của bản thân.",
+        "traits": {
+          "1": "Mỡ bụng",
+          "2": "Độ nhạy cảm với caffeine",
+          "3": "Xu hướng mất ngủ"
+        }
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Care",
+        "subtitle": "Hiểu rõ bản thân"
+      },
+      "2": {
+        "title": "G-Pro",
+        "subtitle": "Hiểu cơ thể bạn"
+      }
+    },
+    "reportCategories": {
+      "1": {
+        "name": "Báo cáo về khuynh hướng hành vi",
+        "reports": {
+          "1": {
+            "name": "Hướng nội - hướng ngoại"
+          },
+          "2": {
+            "name": "Khả năng kiểm soát căng thẳng"
+          },
+          "3": {
+            "name": "Bất ổn cảm xúc"
+          },
+          "4": {
+            "name": "Nóng tính"
+          },
+          "5": {
+            "name": "Xu hướng mạo hiểm"
+          },
+          "6": {
+            "name": "Tính kỷ luật"
+          }
+        }
+      },
+      "2": {
+        "name": "Báo cáo về tiềm năng học thuật",
+        "reports": {
+          "7": {
+            "name": "Chỉ số thông minh (IQ)"
+          },
+          "8": {
+            "name": "Trí tuệ cảm xúc (EQ)"
+          },
+          "9": {
+            "name": "Năng lực học thuật"
+          },
+          "10": {
+            "name": "Khả năng nhận thức"
+          },
+          "11": {
+            "name": "Tiềm năng toán học"
+          },
+          "12": {
+            "name": "Tiềm năng ngôn ngữ"
+          },
+          "13": {
+            "name": "Tiềm năng âm nhạc"
+          }
+        }
+      },
+      "3": {
+        "name": "Báo cáo về tiềm năng thể chất",
+        "reports": {
+          "14": {
+            "name": "Sức bền"
+          },
+          "15": {
+            "name": "Sức mạnh"
+          },
+          "16": {
+            "name": "Sức khỏe tim phổi"
+          },
+          "17": {
+            "name": "Khả năng hồi phục"
+          },
+          "18": {
+            "name": "Nguy cơ chấn thương"
+          },
+          "20": {
+            "name": "Sức mạnh cơ bắp"
+          },
+          "21": {
+            "name": "Lợi ích của việc tập luyện"
+          },
+          "22": {
+            "name": "Khó khăn kiểm soát cân nặng"
+          }
+        }
+      },
+      "4": {
+        "name": "Báo cáo về tổng quan chuyển hóa dinh dưỡng",
+        "reports": {
+          "23": {
+            "name": "Chuyển hóa chất bột đường"
+          },
+          "24": {
+            "name": "Chuyển hóa chất béo"
+          },
+          "25": {
+            "name": "Chuyển hóa chất đạm"
+          }
+        }
+      },
+      "5": {
+        "name": "Báo cáo về nhu cầu dinh dưỡng",
+        "reports": {
+          "26": {
+            "name": "Nhu cầu vitamin A"
+          },
+          "27": {
+            "name": "Nhu cầu vitamin B2"
+          },
+          "28": {
+            "name": "Nhu cầu vitamin B6"
+          },
+          "29": {
+            "name": "Nhu cầu vitamin B12"
+          },
+          "30": {
+            "name": "Nhu cầu vitamin C"
+          },
+          "31": {
+            "name": "Nhu cầu vitamin D"
+          },
+          "32": {
+            "name": "Nhu cầu vitamin E"
+          },
+          "33": {
+            "name": "Nhu cầu folate"
+          },
+          "34": {
+            "name": "Nhu cầu khoáng chất thiết yếu"
+          }
+        }
+      },
+      "6": {
+        "name": "Báo cáo về dinh dưỡng",
+        "reports": {
+          "35": {
+            "id": 35,
+            "name": "Nhạy cảm với đồ ăn và thức uống"
+          },
+          "36": {
+            "id": 36,
+            "name": "Ăn uống theo cảm xúc"
+          },
+          "37": {
+            "id": 37,
+            "name": "Khả năng giải độc"
+          },
+          "38": {
+            "id": 38,
+            "name": "Sức khỏe tim mạch chuyển hóa"
+          },
+          "39": {
+            "id": 39,
+            "name": "Thích ứng với chế độ ăn giảm cân"
+          }
+        }
+      },
+      "7": {
+        "name": "Báo cáo về những đặc điểm khác",
+        "reports": {
+          "40": {
+            "name": "Độ nhạy cảm với caffeine"
+          },
+          "41": {
+            "name": "Xu hướng mất ngủ"
+          },
+          "42": {
+            "name": "Béo bụng"
+          }
+        }
+      },
+      "8": {
+        "name": "Báo cáo về nguy cơ sức khỏe",
+        "reports": {
+          "43": {
+            "name": "Hội chứng đỏ mặt khi uống rượu bia"
+          },
+          "44": {
+            "name": "Nguy cơ tiểu đường"
+          },
+          "45": {
+            "name": "Nguy cơ tim mạch chuyển hóa"
+          }
+        }
+      },
+      "9": {
+        "name": "Báo cáo về nguy cơ ung thư",
+        "reports": {
+          "47": {
+            "name": "Ung thư vú"
+          },
+          "48": {
+            "name": "Ung thư tuyến tiền liệt"
+          },
+          "49": {
+            "name": "Ung thư dạ dày"
+          },
+          "50": {
+            "name": "Ung thư buồng trứng"
+          },
+          "51": {
+            "name": "Ung thư bàng quang"
+          },
+          "52": {
+            "name": "Ung thư não"
+          },
+          "53": {
+            "name": "Ung thư cổ tử cung"
+          },
+          "54": {
+            "name": "Ung thư ruột"
+          },
+          "55": {
+            "name": "Ung thư nội mạc tử cung"
+          },
+          "56": {
+            "name": "Ung thư thực quản"
+          },
+          "57": {
+            "name": "Ung thư thận"
+          },
+          "58": {
+            "name": "Ung thư máu"
+          },
+          "59": {
+            "name": "Ung thư gan"
+          },
+          "60": {
+            "name": "Ung thư phổi"
+          },
+          "61": {
+            "name": "Ung thư tụy"
+          },
+          "62": {
+            "name": "U tủy thượng thận & tế bào cận hạch thần kinh"
+          },
+          "63": {
+            "name": "Ung thư đại trực tràng"
+          },
+          "64": {
+            "name": "Ung thư da"
+          }
+        }
+      }
+    }
+  },
+  "g-autism": {
+    "title": "G-Autism",
+    "subtitle": "G-Autism",
+    "description": "Tiếp cận các kiến thức chuyên sâu về nguyên nhân liên quan đến gen của chứng tự kỷ nhằm đưa ra những quyết định đúng đắn về mặt y tế và lối sống cho con bạn.",
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Đơn giản, an toàn, và không xâm lấn",
+        "description": "Chỉ cần mẫu nước bọt của bạn là đủ. Công nghệ tiên tiến của chúng tôi cho phép tách chiết DNA chỉ từ mẫu nước bọt, điều này khiến quy trình lấy mẫu đơn giản, an toàn, và thuận tiện hơn so với mẫu máu ở những phương pháp xét nghiệm thông thường."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Hiểu rõ về nguy cơ tự kỷ của con bạn",
+        "description": "Cho đến nay, hàng trăm gen liên quan với Rối loạn phổ Tự kỷ (ASD) đã được phát hiện thông qua các nghiên cứu di truyền trên hơn 10.000 bệnh nhân ASD và gia đình của họ. Dựa trên các nghiên cứu này, báo cáo G-Autism phân tích hơn 1200 biến thể để đánh giá nguy cơ tự kỷ của con bạn."
+      },
+      "3": {
+        "subtitle": "",
+        "title": "Chăm sóc con bạn đúng đắn",
+        "description": "Báo cáo G-Autism cung cấp những khuyến nghị dành riêng cho con bạn dựa trên những kết quả phân tích và hướng dẫn đang hiện hành từ những tổ chức đáng tin cậy như NIH và Học viện Nhi khoa Hoa Kỳ."
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Autism",
+        "subtitle": ""
+      }
+    }
+  },
+  "g-immunity": {
+    "title": "G-Immunity",
+    "subtitle": "G-Immunity",
+    "description": "Tìm hiểu về nguy cơ nhiễm virus, đặc biệt với các loại virus liên quan đến đường hô hấp.",
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Đơn giản, an toàn, và không xâm lấn",
+        "description": "Chỉ cần mẫu nước bọt của bạn là đủ. Công nghệ tiên tiến của chúng tôi cho phép tách chiết DNA chỉ từ mẫu nước bọt, điều này khiến quy trình lấy mẫu đơn giản, an toàn, và thuận tiện hơn so với mẫu máu ở những phương pháp xét nghiệm thông thường."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Hiểu rõ nguy cơ nhiễm virus",
+        "description": "Sử dụng những tiến bộ mới nhất về trí thông minh nhân tạo và công nghệ độc quyền tiên tiến, chúng tôi sẽ tính toán chỉ số đa gen về nguy cơ nhiễm virus của bạn bằng cách thu thập những nguy cơ được tính theo trọng số từ hơn 85 biến thể di truyền."
+      },
+      "3": {
+        "subtitle": "",
+        "title": "Bảo vệ bản thân với kiến thức",
+        "description": "Báo cáo G-Immunity sẽ cung cấp những kiến thức mới nhất về nguy cơ nhiễm virus, cũng như cách để bảo vệ bản thân, gia đình và cả thú cưng của bạn."
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Immunity",
+        "subtitle": ""
+      }
+    }
+  },
+  "g-awareness": {
+    "title": "G-Awareness",
+    "subtitle": "G-Awareness",
+    "description": "Chúng tôi phân tích 200 gen liên quan đến đặc điểm tính cách bẩm sinh.",
+    "testedTraits": {
+      "1": {
+        "name": "Tính hướng ngoại"
+      },
+      "2": {
+        "name": "Tính kỷ luật"
+      },
+      "3": {
+        "name": "Nóng tính"
+      },
+      "4": {
+        "name": "Khả năng kiểm soát căng thẳng"
+      }
+    },
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Hiểu rõ nền tảng tính cách bẩm sinh",
+        "description": "Với kết quả giải mã gen, bạn có thể khám phá những thông tin tiềm ẩn trong cơ thể mà bạn chưa từng biết đến, từ đó tập trung phát huy thế mạnh tính cách của chính mình để có thể đạt được những thành tựu lớn."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Hiểu rõ các rủi ro sức khỏe tinh thần liên quan đến đặc điểm tính cách do gen chi phối",
+        "description": "Giải mã gen giúp bạn nhận biết từ rất sớm các nguy cơ sức khỏe (nếu có), từ đó có kế hoạch thay đổi thói quen, lối sống và phòng ngừa phù hợp."
+      },
+      "3": {
+        "subtitle": "",
+        "title": "Các lời khuyên hữu ích cá nhân hóa để phát triển bản thân, phát huy thế mạnh tính cách",
+        "description": "Từ kết quả giải mã gen và các khuyến nghị của chuyên gia di truyền, bạn có thể chủ động thiết kế kế hoạch dinh dưỡng, luyện tập, giáo dục riêng cho bản thân để phát huy được hết những khả năng riêng biệt và cá tính nổi bật của mình."
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Awareness",
+        "subtitle": ""
+      }
+    }
+  },
+  "g-smart": {
+    "title": "G-Smart",
+    "subtitle": "Khám phá tiềm năng",
+    "description": "Chúng tôi phân tích 201 gen liên quan đến tiềm năng trí tuệ bẩm sinh của mỗi người.",
+    "testedTraits": {
+      "1": {
+        "name": "Chỉ số thông minh (IQ)"
+      },
+      "2": {
+        "name": "Trí tuệ cảm xúc (EQ)"
+      },
+      "3": {
+        "name": "Khả năng ngôn ngữ"
+      },
+      "4": {
+        "name": "Khả năng toán học"
+      },
+      "5": {
+        "name": "Khả năng âm nhạc"
+      }
+    },
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Hiểu rõ khả năng học thuật bẩm sinh",
+        "description": "Mỗi người là một cá thể hoàn toàn khác biệt luôn ẩn chứa những tiềm năng khác nhau. Nếu được phát hiện, nuôi dưỡng và luyện tập đúng cách, bạn có thể vận dụng và phát huy tối ưu năng lực thiên bẩm của mình vào cuộc sống."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Hiểu rõ các thế mạnh về năng lực tư duy",
+        "description": "Một trong những ưu thế có được khi bạn hiểu về tố chất của mình là bạn có thể sẽ dễ dàng đưa ra những quyết định quan trọng cho tương lai."
+      },
+      "3": {
+        "subtitle": "",
+        "title": "Hiểu rõ các hạn chế về năng lực tư duy (nếu có)",
+        "description": "Giải mã gen sớm sẽ giúp bạn có được những thông tin khoa học và chính xác về bản thân, bạn có thể tập trung cải thiện những hạn chế để phát triển con người hoàn thiện."
+      },
+      "4": {
+        "subtitle": "",
+        "title": "Các lời khuyên hữu ích cá nhân hóa để phát triển bản thân, phát huy thế mạnh học thuật và cải thiện các hạn chế (nếu có)",
+        "description": "Từ kết quả giải mã gen và các khuyến nghị của chuyên gia di truyền, bạn có thể chủ động thiết kế kế hoạch dinh dưỡng, luyện tập, quan sát các dấu hiệu và điều chỉnh (nếu cần) để phát triển con người toàn diện."
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Smart",
+        "subtitle": ""
+      }
+    }
+  },
+  "g-health": {
+    "title": "Sức khỏe",
+    "subtitle": "Sức khỏe",
+    "description": "Đánh giá nguy cơ các bệnh di truyền tiềm ẩn, trong đó có 20 loại ung thư phổ biến.",
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Đơn giản, an toàn, và không xâm lấn",
+        "description": "Chỉ cần mẫu nước bọt của bạn là đủ.<br/>Công nghệ tiên tiến của chúng tôi cho phép tách chiết DNA chỉ từ mẫu nước bọt, điều này khiến quy trình lấy mẫu đơn giản, an toàn, và thuận tiện hơn so với mẫu máu ở những phương pháp xét nghiệm thông thường."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Hiểu rõ rủi ro",
+        "description": "Một số loại ung thư có nguy cơ di truyền trong gia đình, nghĩa là bạn có nguy cơ mắc ung thư nếu người thân của bạn mắc ung thư. Hiểu rõ bộ gen giúp bạn đánh giá chính xác nguy cơ của bản thân và đưa ra những kế hoạch chăm sóc sức khỏe phù hợp."
+      },
+      "3": {
+        "subtitle": "",
+        "title": "Tối ưu hóa kế hoạch tầm soát ung thư",
+        "description": "Việc lạm dụng không cần thiết các xét nghiệm tầm soát ung thư mang những rủi ro nhất định, bao gồm đau đớn về thể chất, chảy máu, và cả ung thư. Trong một số trường hợp, khi chưa có triệu chứng của ung thư, tầm soát ung thư tổng quát có thể không phát hiện được ung thư. Thông qua hiểu bộ gen của mình, bạn có thể xây dựng một kế hoạch tầm soát chọn lọc giúp phát hiện ung thư chính xác, giảm tác dụng phụ, và tiết kiệm chi phí."
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Health"
+      }
+    },
+    "reportCategories": {
+      "1": {
+        "reports": {
+          "1": {
+            "name": "Ung thư bàng quang"
+          },
+          "2": {
+            "name": "Ung thư não"
+          },
+          "3": {
+            "name": "Ung thư vú"
+          },
+          "4": {
+            "name": "Ung thư cổ tử cung"
+          },
+          "5": {
+            "name": "Ung thư ruột"
+          },
+          "6": {
+            "name": "Ung thư nội mạc tử cung"
+          },
+          "7": {
+            "name": "Ung thư thực quản"
+          },
+          "8": {
+            "name": "Ung thư thận"
+          },
+          "9": {
+            "name": "Ung thư máu"
+          },
+          "10": {
+            "name": "Ung thư gan"
+          },
+          "11": {
+            "name": "Ung thư phổi"
+          },
+          "12": {
+            "name": "Ung thư buồng trứng"
+          },
+          "13": {
+            "name": "Ung thư tụy"
+          },
+          "14": {
+            "name": "U tủy thượng thận &  tế bào cận hạch thần kinh"
+          },
+          "15": {
+            "name": "Ung thư tuyến tiền liệt"
+          },
+          "16": {
+            "name": "Ung thư đại trực tràng"
+          },
+          "17": {
+            "name": "Ung thư da"
+          },
+          "18": {
+            "name": "Ung thư dạ dày"
+          },
+          "19": {
+            "name": "Ung thư tinh hoàn"
+          }
+        }
+      }
+    }
+  },
+  "g-intel-kid": {
+    "title": "G-Intel Kid",
+    "subtitle": "Trẻ em",
+    "bestSellingDescriptionList": {
+      "1": "Hiểu hành vi, lựa chọn phương pháp giáo dục",
+      "2": "Khám phá tiềm năng, định hướng nghề nghiệp đúng sở trường"
+    },
+    "reportCategories": {
+      "1": {
+        "name": "Báo cáo về khuynh hướng hành vi",
+        "reports": {
+          "1": {
+            "name": "Hướng nội - hướng ngoại"
+          },
+          "2": {
+            "name": "Khả năng kiểm soát căng thẳng"
+          },
+          "3": {
+            "name": "Bất ổn cảm xúc"
+          },
+          "4": {
+            "name": "Nóng tính"
+          },
+          "5": {
+            "name": "Xu hướng mạo hiểm"
+          },
+          "6": {
+            "name": "Tính kỷ luật"
+          }
+        }
+      },
+      "2": {
+        "name": "Báo cáo về tiềm năng học thuật",
+        "reports": {
+          "7": {
+            "name": "Chỉ số thông minh (IQ)"
+          },
+          "8": {
+            "name": "Trí tuệ cảm xúc (EQ)"
+          },
+          "9": {
+            "name": "Năng lực học thuật"
+          },
+          "10": {
+            "name": "Khả năng nhận thức"
+          },
+          "11": {
+            "name": "Tiềm năng toán học"
+          },
+          "12": {
+            "name": "Tiềm năng ngôn ngữ"
+          },
+          "13": {
+            "name": "Tiềm năng âm nhạc"
+          }
+        }
+      },
+      "3": {
+        "name": "Báo cáo về tiềm năng thể chất",
+        "reports": {
+          "14": {
+            "name": "Sức bền"
+          },
+          "15": {
+            "name": "Sức mạnh"
+          },
+          "16": {
+            "name": "Sức khỏe tim phổi"
+          }
+        }
+      },
+      "4": {
+        "name": "Báo cáo về tổng quan chuyển hóa dinh dưỡng",
+        "reports": {
+          "23": {
+            "name": "Chuyển hóa chất bột đường"
+          },
+          "24": {
+            "name": "Chuyển hóa chất béo"
+          },
+          "25": {
+            "name": "Chuyển hóa chất đạm"
+          }
+        }
+      },
+      "5": {
+        "name": "Báo cáo về nhu cầu dinh dưỡng",
+        "reports": {
+          "26": {
+            "name": "Nhu cầu vitamin A"
+          },
+          "27": {
+            "name": "Nhu cầu vitamin B2"
+          },
+          "28": {
+            "name": "Nhu cầu vitamin B6"
+          },
+          "29": {
+            "name": "Nhu cầu vitamin B12"
+          },
+          "30": {
+            "name": "Nhu cầu vitamin C"
+          },
+          "31": {
+            "name": "Nhu cầu vitamin D"
+          },
+          "33": {
+            "name": "Nhu cầu folate"
+          },
+          "34": {
+            "name": "Nhu cầu khoáng chất thiết yếu"
+          }
+        }
+      },
+      "6": {
+        "name": "Báo cáo về dinh dưỡng",
+        "reports": {
+          "36": {
+            "id": 36,
+            "name": "Ăn uống theo cảm xúc"
+          }
+        }
+      },
+      "7": {
+        "name": "Báo cáo về hành vi ăn uống",
+        "reports": {
+          "1": {
+            "name": "Cảm nhận vị đắng"
+          },
+          "2": {
+            "name": "Cảm nhận vị ngọt"
+          }
+        }
+      },
+      "8": {
+        "name": "Báo cáo về nguy cơ sức khỏe",
+        "reports": {
+          "43": {
+            "name": "Nguy cơ béo phì"
+          },
+          "44": {
+            "name": "Nguy cơ tiểu đường"
+          },
+          "45": {
+            "name": "Nguy cơ tim mạch chuyển hóa"
+          }
+        }
+      }
+    }
+  },
+  "g-kid-care": {
+    "title": "G-Kid Care",
+    "subtitle": "Trẻ em",
+    "description": "Mở khóa tiềm năng của con bạn, cũng như tối ưu hóa giáo dục, dinh dưỡng, tập luyện, và chăm sóc sức khỏe của trẻ.",
+    "bestSellingDescriptionList": {
+      "1": "Thấu hiểu hành vi, tiềm năng - định hướng tương lai cho con",
+      "2": "Hiểu nhu cầu dinh dưỡng -  chăm sóc tối ưu",
+      "3": "Hiểu nguy cơ béo phì - chủ động phòng tránh"
+    },
+    "sections": {
+      "intelligence": {
+        "subtitle": "Trí tuệ",
+        "title": "Khám phá tiềm năng và tài năng của con bạn",
+        "description": "Nhiều người lớn lên mà không tìm ra tài năng thực sự của mình, do tài năng không hề dễ dàng nắm bắt. Hiểu rõ về cấu trúc gen của con sẽ giúp bạn xác định chính xác tiềm năng và năng lực của trẻ, cho con bạn một khởi đầu thuận lợi giúp phát triển hoàn thiện tài năng bẩm sinh.",
+        "traits": {
+          "1": "IQ (Chỉ số thông minh)",
+          "2": "EQ (Trí tuệ cảm xúc)",
+          "3": "Năng lực nhận thức"
+        }
+      },
+      "nutrition": {
+        "subtitle": "Dinh dưỡng",
+        "title": "Tối ưu hóa chế độ dinh dưỡng của con bạn",
+        "description": "Nền tảng di truyền đóng vai trò quan trọng trong định hình sự phát triển tổng thể của con bạn, đặc biệt là trong suốt thời thơ ấu. Hiểu về bộ gen của con sẽ giúp bạn thiết kế một chế độ dinh dưỡng phù hợp dành riêng cho trẻ.",
+        "traits": {
+          "1": "Chuyển hóa chất bột đường",
+          "2": "Chuyển hóa chất béo",
+          "3": "Chuyển hóa chất đạm"
+        }
+      },
+      "behavior": {
+        "subtitle": "Hành vi",
+        "title": "Thấu hiểu khuynh hướng hành vi của con bạn",
+        "description": "Tính cách của con bạn là sự kết hợp giữa yếu tố di truyền và môi trường. Hãy giúp trẻ phát triển nhờ sự hài hòa giữa cách giáo dục con cái của bạn với con người bên trong của trẻ.<br/>* Hướng nội - hướng ngoại",
+        "traits": {
+          "1": "Hướng nội - hướng ngoại",
+          "2": "Tính kỷ luật",
+          "3": "Bất ổn cảm xúc"
+        }
+      },
+      "health": {
+        "subtitle": "Sức khỏe",
+        "title": "Đánh giá nguy cơ sức khỏe của con bạn",
+        "description": "Hiểu về những nguy cơ một số rối loạn chuyển hóa của con bạn để đưa ra những cách phòng tránh phù hợp.",
+        "traits": {
+          "1": "Nguy cơ béo phì"
+        }
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Kid Care",
+        "subtitle": ""
+      },
+      "2": {
+        "title": "G-Kid Pro",
+        "subtitle": ""
+      }
+    },
+    "reportCategories": {
+      "1": {
+        "name": "Báo cáo về khuynh hướng hành vi",
+        "reports": {
+          "1": {
+            "name": "Hướng nội - hướng ngoại"
+          },
+          "2": {
+            "name": "Khả năng kiểm soát căng thẳng"
+          },
+          "3": {
+            "name": "Bất ổn cảm xúc"
+          },
+          "4": {
+            "name": "Nóng tính"
+          },
+          "5": {
+            "name": "Xu hướng mạo hiểm"
+          },
+          "6": {
+            "name": "Tính kỷ luật"
+          }
+        }
+      },
+      "2": {
+        "name": "Báo cáo về tiềm năng học thuật",
+        "reports": {
+          "7": {
+            "name": "Chỉ số thông minh (IQ)"
+          },
+          "8": {
+            "name": "Trí tuệ cảm xúc (EQ)"
+          },
+          "9": {
+            "name": "Năng lực học thuật"
+          },
+          "10": {
+            "name": "Khả năng nhận thức"
+          },
+          "11": {
+            "name": "Tiềm năng toán học"
+          },
+          "12": {
+            "name": "Tiềm năng ngôn ngữ"
+          },
+          "13": {
+            "name": "Tiềm năng âm nhạc"
+          }
+        }
+      },
+      "3": {
+        "name": "Báo cáo về tiềm năng thể chất",
+        "reports": {
+          "14": {
+            "name": "Sức bền"
+          },
+          "15": {
+            "name": "Sức mạnh"
+          },
+          "16": {
+            "name": "Sức khỏe tim phổi"
+          }
+        }
+      },
+      "4": {
+        "name": "Báo cáo về tổng quan chuyển hóa dinh dưỡng",
+        "reports": {
+          "23": {
+            "name": "Chuyển hóa chất bột đường"
+          },
+          "24": {
+            "name": "Chuyển hóa chất béo"
+          },
+          "25": {
+            "name": "Chuyển hóa chất đạm"
+          }
+        }
+      },
+      "5": {
+        "name": "Báo cáo về nhu cầu dinh dưỡng",
+        "reports": {
+          "26": {
+            "name": "Nhu cầu vitamin A"
+          },
+          "27": {
+            "name": "Nhu cầu vitamin B2"
+          },
+          "28": {
+            "name": "Nhu cầu vitamin B6"
+          },
+          "29": {
+            "name": "Nhu cầu vitamin B12"
+          },
+          "30": {
+            "name": "Nhu cầu vitamin C"
+          },
+          "31": {
+            "name": "Nhu cầu vitamin D"
+          },
+          "33": {
+            "name": "Nhu cầu folate"
+          },
+          "34": {
+            "name": "Nhu cầu khoáng chất thiết yếu"
+          }
+        }
+      },
+      "6": {
+        "name": "Báo cáo về dinh dưỡng",
+        "reports": {
+          "36": {
+            "id": 36,
+            "name": "Ăn uống theo cảm xúc"
+          }
+        }
+      },
+      "7": {
+        "name": "Báo cáo về hành vi ăn uống",
+        "reports": {
+          "1": {
+            "name": "Cảm nhận vị đắng"
+          },
+          "2": {
+            "name": "Cảm nhận vị ngọt"
+          }
+        }
+      },
+      "8": {
+        "name": "Báo cáo về nguy cơ sức khỏe",
+        "reports": {
+          "43": {
+            "name": "Nguy cơ béo phì"
+          },
+          "44": {
+            "name": "Nguy cơ tiểu đường"
+          },
+          "45": {
+            "name": "Nguy cơ tim mạch chuyển hóa"
+          }
+        }
+      }
+    }
+  },
+  "g-kid-pro": {
+    "title": "G-Kid Pro",
+    "subtitle": "Trẻ em",
+    "description": "Mở khóa tiềm năng của con bạn, cũng như tối ưu hóa giáo dục, dinh dưỡng, tập luyện, và chăm sóc sức khỏe của trẻ.",
+    "bestSellingDescriptionList": {
+      "1": "Thấu hiểu hành vi, tiềm năng - định hướng tương lai cho con",
+      "2": "Hiểu nhu cầu dinh dưỡng, thể chất - tối ưu chăm sóc",
+      "3": "Hiểu vấn đề sức khỏe - chủ động phòng tránh"
+    },
+    "sections": {
+      "intelligence": {
+        "subtitle": "Trí tuệ",
+        "title": "Khám phá tiềm năng và tài năng của con bạn",
+        "description": "Nhiều người lớn lên mà không tìm ra tài năng thực sự của mình, do tài năng không hề dễ dàng nắm bắt. Hiểu rõ về cấu trúc gen của con sẽ giúp bạn xác định chính xác tiềm năng và năng lực của trẻ, cho con bạn một khởi đầu thuận lợi giúp phát triển hoàn thiện tài năng bẩm sinh.",
+        "traits": {
+          "1": "IQ (Chỉ số thông minh)",
+          "2": "EQ (Trí tuệ cảm xúc)",
+          "3": "Năng lực nhận thức"
+        }
+      },
+      "nutrition": {
+        "subtitle": "Dinh dưỡng",
+        "title": "Tối ưu hóa chế độ dinh dưỡng của con bạn",
+        "description": "Nền tảng di truyền đóng vai trò quan trọng trong định hình sự phát triển tổng thể của con bạn, đặc biệt là trong suốt thời thơ ấu. Hiểu về bộ gen của con sẽ giúp bạn thiết kế một chế độ dinh dưỡng phù hợp dành riêng cho trẻ.",
+        "traits": {
+          "1": "Chuyển hóa chất bột đường",
+          "2": "Chuyển hóa chất béo",
+          "3": "Chuyển hóa chất đạm"
+        }
+      },
+      "behavior": {
+        "subtitle": "Hành vi",
+        "title": "Thấu hiểu khuynh hướng hành vi của con bạn",
+        "description": "Tính cách của con bạn là sự kết hợp giữa yếu tố di truyền và môi trường. Hãy giúp trẻ phát triển nhờ sự hài hòa giữa cách giáo dục con cái của bạn với con người bên trong của trẻ.<br/>* Hướng nội - hướng ngoại",
+        "traits": {
+          "1": "Hướng nội - hướng ngoại",
+          "2": "Tính kỷ luật",
+          "3": "Bất ổn cảm xúc"
+        }
+      },
+      "health": {
+        "subtitle": "Sức khỏe",
+        "title": "Đánh giá nguy cơ sức khỏe của con bạn",
+        "description": "Hiểu về những nguy cơ một số rối loạn chuyển hóa của con bạn để đưa ra những cách phòng tránh phù hợp.",
+        "traits": {
+          "1": "Nguy cơ béo phì"
+        }
+      }
+    },
+    "packages": {
+      "1": {
+        "title": "G-Kid Care",
+        "subtitle": ""
+      },
+      "2": {
+        "title": "G-Kid Pro",
+        "subtitle": ""
+      }
+    },
+    "reportCategories": {
+      "1": {
+        "name": "Báo cáo về khuynh hướng hành vi",
+        "reports": {
+          "1": {
+            "name": "Hướng nội - hướng ngoại"
+          },
+          "2": {
+            "name": "Khả năng kiểm soát căng thẳng"
+          },
+          "3": {
+            "name": "Bất ổn cảm xúc"
+          },
+          "4": {
+            "name": "Nóng tính"
+          },
+          "5": {
+            "name": "Xu hướng mạo hiểm"
+          },
+          "6": {
+            "name": "Tính kỷ luật"
+          }
+        }
+      },
+      "2": {
+        "name": "Báo cáo về tiềm năng học thuật",
+        "reports": {
+          "7": {
+            "name": "Chỉ số thông minh (IQ)"
+          },
+          "8": {
+            "name": "Trí tuệ cảm xúc (EQ)"
+          },
+          "9": {
+            "name": "Năng lực học thuật"
+          },
+          "10": {
+            "name": "Khả năng nhận thức"
+          },
+          "11": {
+            "name": "Tiềm năng toán học"
+          },
+          "12": {
+            "name": "Tiềm năng ngôn ngữ"
+          },
+          "13": {
+            "name": "Tiềm năng âm nhạc"
+          }
+        }
+      },
+      "3": {
+        "name": "Báo cáo về tiềm năng thể chất",
+        "reports": {
+          "14": {
+            "name": "Sức bền"
+          },
+          "15": {
+            "name": "Sức mạnh"
+          },
+          "16": {
+            "name": "Sức khỏe tim phổi"
+          }
+        }
+      },
+      "4": {
+        "name": "Báo cáo về tổng quan chuyển hóa dinh dưỡng",
+        "reports": {
+          "23": {
+            "name": "Chuyển hóa chất bột đường"
+          },
+          "24": {
+            "name": "Chuyển hóa chất béo"
+          },
+          "25": {
+            "name": "Chuyển hóa chất đạm"
+          }
+        }
+      },
+      "5": {
+        "name": "Báo cáo về nhu cầu dinh dưỡng",
+        "reports": {
+          "26": {
+            "name": "Nhu cầu vitamin A"
+          },
+          "27": {
+            "name": "Nhu cầu vitamin B2"
+          },
+          "28": {
+            "name": "Nhu cầu vitamin B6"
+          },
+          "29": {
+            "name": "Nhu cầu vitamin B12"
+          },
+          "30": {
+            "name": "Nhu cầu vitamin C"
+          },
+          "31": {
+            "name": "Nhu cầu vitamin D"
+          },
+          "33": {
+            "name": "Nhu cầu folate"
+          },
+          "34": {
+            "name": "Nhu cầu khoáng chất thiết yếu"
+          }
+        }
+      },
+      "6": {
+        "name": "Báo cáo về dinh dưỡng",
+        "reports": {
+          "36": {
+            "id": 36,
+            "name": "Ăn uống theo cảm xúc"
+          }
+        }
+      },
+      "7": {
+        "name": "Báo cáo về hành vi ăn uống",
+        "reports": {
+          "1": {
+            "name": "Cảm nhận vị đắng"
+          },
+          "2": {
+            "name": "Cảm nhận vị ngọt"
+          }
+        }
+      },
+      "8": {
+        "name": "Báo cáo về nguy cơ sức khỏe",
+        "reports": {
+          "43": {
+            "name": "Nguy cơ béo phì"
+          },
+          "44": {
+            "name": "Nguy cơ tiểu đường"
+          },
+          "45": {
+            "name": "Nguy cơ tim mạch chuyển hóa"
+          }
+        }
+      }
+    }
+  },
+  "combo-an": {
+    "title": "Combo An",
+    "subtitle": "",
+    "description": "<p>Combo An bao gồm:</p><ul><li>01 gói giải mã gen Khám Phá Tiềm Năng (<a href=\"/products/g-smart\">G-Smart</a>)</li><li>01 gói giải mã gen Hiểu Hệ Miễn Dịch (<a href=\"/products/g-immunity\">G-Immunity</a>)</li></ul>",
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Hiểu rõ khả năng học thuật bẩm sinh",
+        "description": "Mỗi người là một cá thể hoàn toàn khác biệt luôn ẩn chứa những tiềm năng khác nhau. Nếu được phát hiện, nuôi dưỡng và luyện tập đúng cách, bạn có thể vận dụng và phát huy tối ưu năng lực thiên bẩm của mình vào cuộc sống."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Hiểu rõ các thế mạnh về năng lực tư duy",
+        "description": "Một trong những ưu thế có được khi bạn hiểu về tố chất của mình là bạn có thể sẽ dễ dàng đưa ra những quyết định quan trọng cho tương lai."
+      },
+      "3": {
+        "subtitle": "",
+        "title": "Hiểu rõ các hạn chế về năng lực tư duy (nếu có)",
+        "description": "Giải mã gen sớm sẽ giúp bạn có được những thông tin khoa học và chính xác về bản thân, bạn có thể tập trung cải thiện những hạn chế để phát triển con người hoàn thiện."
+      },
+      "4": {
+        "subtitle": "",
+        "title": "Hiểu rõ nguy cơ nhiễm virus",
+        "description": "Sử dụng những tiến bộ mới nhất về trí thông minh nhân tạo và công nghệ độc quyền tiên tiến, chúng tôi sẽ tính toán chỉ số đa gen về nguy cơ nhiễm virus của bạn bằng cách thu thập những nguy cơ được tính theo trọng số từ hơn 85 biến thể di truyền."
+      },
+      "5": {
+        "subtitle": "",
+        "title": "Bảo vệ bản thân với kiến thức",
+        "description": "Báo cáo G-Immunity sẽ cung cấp những kiến thức mới nhất về nguy cơ nhiễm virus, cũng như cách để bảo vệ bản thân, gia đình và cả thú cưng của bạn."
+      },
+      "6": {
+        "subtitle": "",
+        "title": "Các lời khuyên hữu ích cá nhân hóa để phát triển bản thân, phát huy thế mạnh học thuật và cải thiện các hạn chế (nếu có)",
+        "description": "Từ kết quả giải mã gen và các khuyến nghị của chuyên gia di truyền, bạn có thể chủ động thiết kế kế hoạch dinh dưỡng, luyện tập, quan sát các dấu hiệu và điều chỉnh (nếu cần) để phát triển con người toàn diện."
+      }
+    }
+  },
+  "combo-dong-hanh": {
+    "title": "Combo Đồng Hành",
+    "subtitle": "",
+    "description": "<p>Combo Đồng Hành bao gồm:</p><ul><li>01 gói giải mã gen Khám Phá Tiềm Năng (<a href=\"/products/g-smart\">G-Smart</a>)</li><li>01 gói giải mã gen Nhận Thức Bản Thân (<a href=\"/products/g-awareness\">G-Awareness</a>)</li><li>01 gói giải mã gen Hiểu Hệ Miễn Dịch (<a href=\"/products/g-immunity\">G-Immunity</a>)</li></ul>",
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Hiểu rõ khả năng học thuật bẩm sinh",
+        "description": "Mỗi người là một cá thể hoàn toàn khác biệt luôn ẩn chứa những tiềm năng khác nhau. Nếu được phát hiện, nuôi dưỡng và luyện tập đúng cách, bạn có thể vận dụng và phát huy tối ưu năng lực thiên bẩm của mình vào cuộc sống."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Hiểu rõ các thế mạnh về năng lực tư duy",
+        "description": "Một trong những ưu thế có được khi bạn hiểu về tố chất của mình là bạn có thể sẽ dễ dàng đưa ra những quyết định quan trọng cho tương lai."
+      },
+      "3": {
+        "subtitle": "",
+        "title": "Hiểu rõ khả năng học thuật bẩm sinh",
+        "description": "Mỗi người là một cá thể hoàn toàn khác biệt luôn ẩn chứa những tiềm năng khác nhau. Nếu được phát hiện, nuôi dưỡng và luyện tập đúng cách, bạn có thể vận dụng và phát huy tối ưu năng lực thiên bẩm của mình vào cuộc sống."
+      },
+      "4": {
+        "subtitle": "",
+        "title": "Hiểu rõ các thế mạnh về năng lực tư duy",
+        "description": "Một trong những ưu thế có được khi bạn hiểu về tố chất của mình là bạn có thể sẽ dễ dàng đưa ra những quyết định quan trọng cho tương lai."
+      },
+      "5": {
+        "subtitle": "",
+        "title": "Hiểu rõ các hạn chế về năng lực tư duy (nếu có)",
+        "description": "Giải mã gen sớm sẽ giúp bạn có được những thông tin khoa học và chính xác về bản thân, bạn có thể tập trung cải thiện những hạn chế để phát triển con người hoàn thiện."
+      },
+      "6": {
+        "subtitle": "",
+        "title": "Hiểu rõ nguy cơ nhiễm virus",
+        "description": "Sử dụng những tiến bộ mới nhất về trí thông minh nhân tạo và công nghệ độc quyền tiên tiến, chúng tôi sẽ tính toán chỉ số đa gen về nguy cơ nhiễm virus của bạn bằng cách thu thập những nguy cơ được tính theo trọng số từ hơn 85 biến thể di truyền."
+      },
+      "7": {
+        "subtitle": "",
+        "title": "Bảo vệ bản thân với kiến thức",
+        "description": "Báo cáo G-Immunity sẽ cung cấp những kiến thức mới nhất về nguy cơ nhiễm virus, cũng như cách để bảo vệ bản thân, gia đình và cả thú cưng của bạn."
+      },
+      "8": {
+        "subtitle": "",
+        "title": "Các lời khuyên hữu ích cá nhân hóa để phát triển bản thân, phát huy thế mạnh học thuật và cải thiện các hạn chế (nếu có)",
+        "description": "Từ kết quả giải mã gen và các khuyến nghị của chuyên gia di truyền, bạn có thể chủ động thiết kế kế hoạch dinh dưỡng, luyện tập, quan sát các dấu hiệu và điều chỉnh (nếu cần) để phát triển con người toàn diện."
+      }
+    }
+  },
+  "g-stroke": {
+    "title": "G-Stroke",
+    "subtitle": "",
+    "description": "Tìm hiểu nguy cơ đột quỵ di truyền",
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Báo cáo di truyền về đột quỵ sẽ cung cấp các thông tin sau:",
+        "description": "<ul><li>Phát hiện bất kỳ đột biến gây bệnh hoặc có khả năng gây bệnh liên quan đến đột quỵ.</li><li>Đánh giá chỉ số nguy cơ mắc đột quỵ: điểm số đa gen sẽ chỉ ra mức tăng nguy cơ đột quỵ của một người.</li><li>Kiến thức chuyên sâu về nguyên nhân liên quan đến gen ảnh hưởng đến đột quỵ.</li><li>Thông tin giúp bạn đưa ra các quyết định y tế và điều chỉnh lối sống, cũng như các phương pháp ngăn ngừa đột quỵ.</li><li>Các khuyến nghị cá nhân hóa hữu ích.</li></ul>"
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Đơn giản, an toàn, và không xâm lấn",
+        "description": "Chỉ cần mẫu nước bọt của bạn là đủ. Công nghệ tiên tiến của chúng tôi cho phép tách chiết DNA chỉ từ mẫu nước bọt, điều này khiến quy trình lấy mẫu đơn giản, an toàn, và thuận tiện hơn so với mẫu máu ở những phương pháp xét nghiệm thông thường."
+      }
+    }
+  },
+  "g-allergy": {
+    "title": "G-Allergy",
+    "subtitle": "",
+    "description": "Sàng lọc nguy cơ dị ứng",
+    "sections": {
+      "1": {
+        "subtitle": "",
+        "title": "Sàng lọc nguy cơ dị ứng",
+        "description": "Xác định tác nhân gây dị ứng (bao gồm những thực phẩm như sữa bò, trứng, cá/động vật có vỏ, các loại hạt, gluten, đậu nành, bột mì; và các tác nhân khác như dị ứng với côn trùng, thú nuôi, phấn hoa, mạt bụi, nấm mốc), góp phần điều trị hiệu quả và loại bỏ nguyên nhân."
+      },
+      "2": {
+        "subtitle": "",
+        "title": "Đơn giản, an toàn, và không xâm lấn",
+        "description": "Chỉ cần mẫu nước bọt của bạn là đủ. Công nghệ tiên tiến của chúng tôi cho phép tách chiết DNA chỉ từ mẫu nước bọt, điều này khiến quy trình lấy mẫu đơn giản, an toàn, và thuận tiện hơn so với mẫu máu ở những phương pháp xét nghiệm thông thường."
+      }
+    }
+  },
+  "packages": {
+    "g-care": {
+      "title": "G-Care",
+      "subtitle": "Giải pháp sức khoẻ nền tảng",
+      "ageLimit": "Dành cho người trên 18 tuổi",
+      "description": "<ul><li>Dinh dưỡng</li><li>Tính cách</li><li>Thể thao</li><li>Sức khỏe</li><li>Thông tin cần biết</li></ul>"
+    },
+    "g-pro": {
+      "title": "G-Pro",
+      "subtitle": "Tiếp cận bí mật trong bạn",
+      "ageLimit": "Dành cho người trên 18 tuổi",
+      "description": "<ul><li>Trí tuệ</li><li>Dinh dưỡng</li><li>Thể thao</li><li>Nghỉ ngơi</li><li>Sức khoẻ (20 loại ung thư phổ biến)</li></ul>"
+    },
+    "g-smart": {
+      "title": "G-Smart",
+      "subtitle": "Khám phá tiềm năng trí tuệ",
+      "ageLimit": "Dành cho Trẻ em và Người lớn",
+      "description": "<ul><li>IQ</li><li>EQ (Trí tuệ cảm xúc)</li><li>Khả năng ngôn ngữ</li><li>Khả năng toán học</li><li>Khả năng âm nhạc</li></ul>"
+    },
+    "g-awareness": {
+      "title": "G-Awareness",
+      "subtitle": "Nhận thức bản thân",
+      "ageLimit": "Dành cho Trẻ em và Người lớn",
+      "description": "<ul><li>Tính hướng ngoại</li><li>Tính kỷ luật</li><li>Nóng tính</li><li>Khả năng kiểm soát căng thẳng</li></ul>"
+    },
+    "g-kid-care": {
+      "title": "G-Kid Care",
+      "subtitle": "Nền tảng phát triển cho trẻ",
+      "ageLimit": "Dành cho trẻ dưới 18 tuổi",
+      "description": "10 tính trạng di truyền đưa ra câu trả lời cho<ul><li>Chuyển hoá dinh dưỡng đa lượng</li><li>Trí thông minh</li><li>Hành vi</li><li>Nguy cơ sức khoẻ</li></ul>"
+    },
+    "g-kid-pro": {
+      "title": "G-Kid Pro",
+      "subtitle": "Cánh cửa đến tương lai rạng ngời",
+      "ageLimit": "Dành cho trẻ dưới 18 tuổi",
+      "description": "33 tính trạng di truyền đưa ra câu trả lời cho<ul><li>Phát triển thể chất</li><li>Trí tuệ và tinh thần</li><li>Tiềm năng thể thao</li></ul>"
+    },
+    "g-health": {
+      "title": "G-Health",
+      "subtitle": "",
+      "ageLimit": "Dành cho người trên 18 tuổi",
+      "description": "<ul><li>Kiểm tra Ung thư di truyền</li><li>97 gen được phân tích</li><li>20 loại ung thư phổ biến</li></ul>"
+    },
+    "g-autism": {
+      "title": "G-Autism",
+      "subtitle": "",
+      "ageLimit": "Dành cho Trẻ em và Người lớn",
+      "description": "<ul><li>Tìm hiểu Nguy cơ Tự kỷ di truyền</li><li>48 gen được phân tích</li><li>Các khuyến nghị cụ thể</li></ul>"
+    },
+    "g-immunity": {
+      "title": "G-Immunity",
+      "subtitle": "",
+      "ageLimit": "Dành cho Trẻ em và Người lớn",
+      "description": "<ul><li>Hiểu hệ miễn dịch</li><li>32 gen được phân tích</li></ul>"
+    },
+    "combo-an": {
+      "title": "Combo An",
+      "subtitle": "",
+      "ageLimit": "Dành cho Trẻ em và Người lớn",
+      "description": "Combo An bao gồm:<ul><li>G-Smart</li><li>G-Immunity</li></ul>"
+    },
+    "combo-dong-hanh": {
+      "title": "Combo Đồng Hành",
+      "subtitle": "",
+      "ageLimit": "Dành cho Trẻ em và Người lớn",
+      "description": "Combo Đồng Hành bao gồm:<ul><li>G-Awareness</li><li>G-Smart</li><li>G-Immunity</li></ul>"
+    },
+    "g-stroke": {
+      "title": "G-Stroke",
+      "subtitle": "",
+      "ageLimit": "Dành cho Trẻ em và Người lớn",
+      "description": "<ul><li>Tìm hiểu nguy cơ đột quỵ di truyền</li><li>73 gen được phân tích</li></ul>"
+    },
+    "g-allergy": {
+      "title": "G-Allergy",
+      "subtitle": "",
+      "ageLimit": "Dành cho Trẻ em và Người lớn",
+      "description": "<ul><li>Sàng lọc nguy cơ dị ứng</li><li>120 gen được phân tích</li></ul>"
+    }
+  }
+}

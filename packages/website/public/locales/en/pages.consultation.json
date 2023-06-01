@@ -1,0 +1,22 @@
+{
+  "body": {
+    "sectionProfiles": {
+      "header": {
+        "title": "Select a profile for booking"
+      },
+      "body": {
+        "list": {
+          "item": {
+            "description": "{{count}} report eligible for booking",
+            "description_plural": "{{count}} reports eligible for booking",
+            "actions": {
+              "book": {
+                "label": "Book"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

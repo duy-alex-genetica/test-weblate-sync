@@ -1,0 +1,14 @@
+{
+  "body": {
+    "sectionShare": {
+      "header": {
+        "title": "分享"
+      }
+    },
+    "sectionDiscussion": {
+      "header": {
+        "title": "关于这篇文章的讨论"
+      }
+    }
+  }
+}

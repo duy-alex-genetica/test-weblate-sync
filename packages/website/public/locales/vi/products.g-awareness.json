@@ -1,0 +1,42 @@
+{
+  "title": "G-Awareness",
+  "subtitle": "G-Awareness",
+  "description": "Chúng tôi phân tích 200 gen liên quan đến đặc điểm tính cách bẩm sinh.",
+  "testedTraits": {
+    "1": {
+      "name": "Tính hướng ngoại"
+    },
+    "2": {
+      "name": "Tính kỷ luật"
+    },
+    "3": {
+      "name": "Nóng tính"
+    },
+    "4": {
+      "name": "Khả năng kiểm soát căng thẳng"
+    }
+  },
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "Hiểu rõ nền tảng tính cách bẩm sinh",
+      "description": "Với kết quả giải mã gen, bạn có thể khám phá những thông tin tiềm ẩn trong cơ thể mà bạn chưa từng biết đến, từ đó tập trung phát huy thế mạnh tính cách của chính mình để có thể đạt được những thành tựu lớn."
+    },
+    "2": {
+      "subtitle": "",
+      "title": "Hiểu rõ các rủi ro sức khỏe tinh thần liên quan đến đặc điểm tính cách do gen chi phối",
+      "description": "Giải mã gen giúp bạn nhận biết từ rất sớm các nguy cơ sức khỏe (nếu có), từ đó có kế hoạch thay đổi thói quen, lối sống và phòng ngừa phù hợp."
+    },
+    "3": {
+      "subtitle": "",
+      "title": "Các lời khuyên hữu ích cá nhân hóa để phát triển bản thân, phát huy thế mạnh tính cách",
+      "description": "Từ kết quả giải mã gen và các khuyến nghị của chuyên gia di truyền, bạn có thể chủ động thiết kế kế hoạch dinh dưỡng, luyện tập, giáo dục riêng cho bản thân để phát huy được hết những khả năng riêng biệt và cá tính nổi bật của mình."
+    }
+  },
+  "packages": {
+    "1": {
+      "title": "G-Awareness",
+      "subtitle": ""
+    }
+  }
+}

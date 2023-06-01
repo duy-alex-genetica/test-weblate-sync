@@ -1,0 +1,80 @@
+{
+  "g-care": {
+    "title": "G-Care",
+    "subtitle": "基金会健康解决方案",
+    "ageLimit": "对于 18 岁以上的个人",
+    "description": "<ul><li>营养护理</li><li>个性</li></li>身体护理</li><li>医疗保健</li><li>需要了解的事实</li></ul>"
+  },
+  "g-pro": {
+    "title": "G-Pro",
+    "subtitle": "探索你的智力",
+    "ageLimit": "对于 18 岁以上的个人",
+    "description": "<ul><li>智力</li><li>营养</li></li>健身</li><li>休息</li><10>健康（20种常见癌症）</li></ul>"
+  },
+  "g-smart": {
+    "title": "G-意识",
+    "subtitle": "探索你的智力",
+    "ageLimit": "对于儿童和成人",
+    "description": "<ul><li>智商</li><li>情商</li></li>语言能力</li><li>数学能力</li><li>音乐能力</li>>"
+  },
+  "g-awareness": {
+    "title": "G-意识",
+    "subtitle": "儿童发展基金会",
+    "ageLimit": "对于儿童和成人",
+    "description": "<ul><li>外向</li><li>纪律性</li></li>易怒</li><li>压力处理能力</li></ul>"
+  },
+  "g-kid-care": {
+    "title": "G-Kid Care",
+    "subtitle": "儿童发展基金会",
+    "ageLimit": "对于 18 岁以下的儿童",
+    "description": "为<ul><li>常量营养素代谢</li><li>智力</li><li>行为倾向</li><li>健康风险</li></ul>提供答案的 10 种遗传特征"
+  },
+  "g-kid-pro": {
+    "title": "G-Kid Pro",
+    "subtitle": "光明未来之门",
+    "ageLimit": "对于 18 岁以下的儿童",
+    "description": "为<ul><li>身体发育</li><li>智力和个性</li><li>健康潜力</li></ul>提供答案的 33 种遗传特征"
+  },
+  "g-health": {
+    "title": "G-健康",
+    "subtitle": "",
+    "ageLimit": "对于 18 岁以上的个人",
+    "description": "<ul><li>遗传性癌症筛查</li><li>分析了 97 个基因</li><li>20 种常见癌症</li></ul>"
+  },
+  "g-autism": {
+    "title": "G-自闭症",
+    "subtitle": "",
+    "ageLimit": "对于儿童和成人",
+    "description": "<ul><li>遗传性自闭症风险筛查</li><li>48个基因分析</li><li>个性化推荐</li></ul>"
+  },
+  "g-immunity": {
+    "title": "G-免疫力",
+    "subtitle": "",
+    "ageLimit": "对于儿童和成人",
+    "description": "<ul><li>了解您的免疫系统</li><li>分析了 32 个基因</li></ul>"
+  },
+  "combo-an": {
+    "title": "An 套餐",
+    "subtitle": "",
+    "ageLimit": "对于儿童和成人",
+    "description": "一个组合包括：<ul><li>G-Smart</li><li>G-Immunity</li></ul>"
+  },
+  "combo-dong-hanh": {
+    "title": "东汉组合",
+    "subtitle": "",
+    "ageLimit": "对于儿童和成人",
+    "description": "Dong Hanh Combo 包括：<ul><li>G-Awareness</li><li>G-Smart</li><li>G-Immunity</li></ul>"
+  },
+  "g-stroke": {
+    "title": "G-脑卒中",
+    "subtitle": "",
+    "ageLimit": "对于儿童和成人",
+    "description": "<ul><li>遗传性中风筛查</li><li>分析了 73 个基因</li></ul>"
+  },
+  "g-allergy": {
+    "title": "G-过敏",
+    "subtitle": "",
+    "ageLimit": "对于儿童和成人",
+    "description": "<ul><li>过敏筛查</li><li>分析了 120 个基因</li></ul>"
+  }
+}

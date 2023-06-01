@@ -1,0 +1,142 @@
+{
+  "header": {
+    "content": {
+      "seeTestedTraits": {
+        "label": "Other Traits"
+      }
+    },
+    "packages": {
+      "statistics": {
+        "numberOfGenesAnalyzed": {
+          "label": "genes analyzed"
+        },
+        "numberOfResultsAndPersonalizedRecommendations": {
+          "label": "results & personalized<br/>recommendations"
+        },
+        "salivaOnly": {
+          "label": "saliva only"
+        },
+        "numberOfCommonCancers": {
+          "label": "common cancers"
+        },
+        "personalizedRecommendations": {
+          "label": "Personalized Recommendations"
+        },
+        "everyoneWillBenefit": {
+          "label": "Everyone will benefit"
+        }
+      }
+    },
+    "disclaimer": "Gene testing is an useful tool to access the risk of hereditary diseases. Before making a purchase, make sure You understand <1>\"the Limits and Exclusions of Gene Testing\"</1>.",
+    "actions": {
+      "addToCart": {
+        "label": "Add to cart"
+      },
+      "download": {
+        "label": "View sample report (PDF)"
+      }
+    }
+  },
+  "body": {
+    "sectionSection": {
+      "content": {
+        "traits": {
+          "seeDetails": {
+            "label": "See details"
+          }
+        }
+      }
+    },
+    "sectionBanners1": {
+      "header": {
+        "title": "Get Your Results<br/>Anywhere, Anytime."
+      }
+    },
+    "sectionPackageFeatures": {
+      "header": {
+        "title": "Select the right package for you",
+        "healthTitle": "List of tested cancers"
+      },
+      "body": {
+        "table": {
+          "header": {
+            "userObject": "User object",
+            "geneAnalyzed": "Gene analyzed",
+            "genes": "genes",
+            "upTo": "Up to",
+            "Results": "Results",
+            "results": "results",
+            "resultsValue": "Up to {{value}} results",
+            "personalisedRecommendations": "Recommendations",
+            "viewReportOnMobileApp": "Reports on mobile app",
+            "paperReport": "Reports in hard copies",
+            "availableAtRequest": "Upon request",
+            "actions": {
+              "addToCart": {
+                "label": "Add to cart"
+              }
+            },
+            "genders": {
+              "male": "Male",
+              "female": "Female"
+            }
+          },
+          "footer": {
+            "seeAllReports": "See all reports"
+          }
+        }
+      }
+    },
+    "sectionOtherServices": {
+      "header": {
+        "title": "Other services"
+      }
+    },
+    "sectionBanners2": {
+      "list": {
+        "1": {
+          "title": "Experts from the U.S",
+          "description": "Our lab in San Francisco hosts some of science's brightest minds."
+        },
+        "2": {
+          "title": "AI technology",
+          "description": "We use cutting-edge artificial intelligence to reveal the secrets of your genes."
+        },
+        "3": {
+          "title": "Security",
+          "description": "Your information is safe, secure, and accessible only to you."
+        },
+        "4": {
+          "title": "Results after 30 days",
+          "description": "Your reports will be available on your phone and sent to your door."
+        }
+      }
+    },
+    "sectionTestedTraits": {
+      "header": {
+        "title": "Traits Tested"
+      },
+      "body": {
+        "labels": {
+          "genes": "genes"
+        }
+      }
+    },
+    "sectionGetInTouch": {
+      "header": {
+        "title": "Still Got Questions?"
+      },
+      "body": {
+        "description": {
+          "textBefore": "Feel free to get in touch with your inquires about ",
+          "textAfter": ". Our staff will get back to you as soon as possible. Remember, we want to hear from you!"
+        }
+      },
+      "footer": {
+        "actions": {
+          "text": "Get in touch"
+        }
+      }
+    }
+  }
+}

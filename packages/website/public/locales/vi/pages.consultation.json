@@ -1,0 +1,22 @@
+{
+  "body": {
+    "sectionProfiles": {
+      "header": {
+        "title": "Chọn 1 hồ sơ để đặt lịch"
+      },
+      "body": {
+        "list": {
+          "item": {
+            "description": "{{count}} báo cáo có thể đặt lịch",
+            "description_plural": "{{count}} báo cáo có thể đặt lịch",
+            "actions": {
+              "book": {
+                "label": "Đặt lịch"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

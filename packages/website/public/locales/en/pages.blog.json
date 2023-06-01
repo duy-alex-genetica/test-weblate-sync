@@ -1,0 +1,65 @@
+{
+  "common": {
+    "labels": {
+      "relatedPosts": "Related news",
+      "referencePosts": "Read more",
+      "mostReadPosts": "Most read",
+      "recentPosts": "Recent posts",
+      "highlightPosts": "Highlight posts"
+    },
+    "actions": {
+      "seeMore": "See more",
+      "seeDetails": "See details"
+    }
+  },
+  "header": {
+    "title": "Blog"
+  },
+  "body": {
+    "sectionFilters": {
+      "title": "Filter by Category",
+      "content": {
+        "list": {
+          "itemShowAll": "Show all"
+        }
+      }
+    },
+    "sectionHeader": {
+      "title": "News and Events",
+      "description": {
+        "segments": {
+          "0": "Get the latest news about Genetica",
+          "1": "here."
+        }
+      }
+    },
+    "sectionNavbar": {
+      "menuItems": {
+        "news": "News",
+        "blog": "Blog",
+        "press": "Media say about Genetica"
+      }
+    },
+    "sectionFollowUs": {
+      "title": "Follow us on"
+    },
+    "sectionSharingSocials": {
+      "title": "Share on"
+    },
+    "sectionBreadcrumb": {
+      "menuItems": {
+        "home": "Homepage",
+        "blog": "Blog",
+        "news": "News",
+        "experts": "Consultant Team"
+      }
+    },
+    "sectionPostContent": {
+      "meta": {
+        "author": "Written by:",
+        "doctor": "Consulting doctor:",
+        "doctor_plural": "Consulting doctors:"
+      }
+    }
+  }
+}

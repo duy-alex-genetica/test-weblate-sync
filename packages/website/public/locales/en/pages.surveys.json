@@ -1,0 +1,77 @@
+{
+  "postConsultation": {
+    "header": {
+      "title": "What do you think?",
+      "for": "A consultation session for"
+    },
+    "body": {
+      "submit": "Send",
+      "loading": "Loading"
+    },
+    "success": {
+      "title": "Thank you for completing the survey",
+      "content": "Please open your Genetica® App to receive our gift for you - an unlock voucher applied for any Genetica® service <i>(except for G-Care, G-Pro, G-Kid Care & G-Kid Pro)</i>.",
+      "contactUs": "For support, please contact us via Hotline",
+      "backToHomePage": "Back to homepage"
+    },
+    "errors": {
+      "default": {
+        "title": "The questions for you could not be loaded at this time.",
+        "message": "Please try again later"
+      },
+      "dataRetrieveFailed": {
+        "title": "The questions for you could not be loaded at this time.",
+        "message": "Please try again later"
+      },
+      "feedbackFormExpired": {
+        "title": "",
+        "message": "The questions for you have expired!"
+      }
+    },
+    "modalError": {
+      "content": "Your feedback cannot be sent at this time, please try again. For support, please contact via hotline",
+      "action": "OK"
+    }
+  },
+  "preConsultation": {
+    "header": {
+      "progress": {
+        "label": "You have completed {{ value }}% of the questionnaire"
+      },
+      "for": "For"
+    },
+    "body": {
+      "loading": "Loading"
+    },
+    "actions": {
+      "skip": "Skip",
+      "back": "Back",
+      "next": "Next",
+      "submit": "Submit"
+    },
+    "success": {
+      "title": "Thanks for completing the survey.",
+      "content": "",
+      "contactUs": "For support, please contact us via Hotline",
+      "backToHomePage": "Back to homepage"
+    },
+    "errors": {
+      "default": {
+        "title": "The questions for you could not be loaded at this time.",
+        "message": "Please try again later"
+      },
+      "dataRetrieveFailed": {
+        "title": "The questions for you could not be loaded at this time.",
+        "message": "Please try again later"
+      },
+      "feedbackFormExpired": {
+        "title": "",
+        "message": "The questions for you have expired!"
+      }
+    },
+    "modalError": {
+      "content": "Your feedback cannot be sent at this time, please try again. For support, please contact via hotline",
+      "action": "OK"
+    }
+  }
+}

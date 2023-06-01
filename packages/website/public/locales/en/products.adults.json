@@ -1,0 +1,311 @@
+{
+  "title": "Self-actualization",
+  "subtitle": "For Adults",
+  "description": "Learn everything about your body in order to design the most effective lifestyle, diet, exercise, and health care plan for yourself.",
+  "sections": {
+    "nutrition": {
+      "subtitle": "Nutrition",
+      "title": "Customize Your Nutrition Plan",
+      "description": "Good nutrition lays the groundwork for a healthy life. Be informed about how your body reacts to specific nutrients in order to help fine-tune your eating habits and improve your health.",
+      "traits": {
+        "1": "Carbohydrate Metabolism",
+        "2": "Fat Metabolism",
+        "3": "Protein Metabolism"
+      }
+    },
+    "fitness": {
+      "subtitle": "Fitness",
+      "title": "Optimize Your Fitness Plan",
+      "description": "Exercise smarter, not harder. Knowing your genetic makeup helps design the ideal workout plan that works for you.",
+      "traits": {
+        "1": "Power",
+        "2": "Endurance Ability",
+        "3": "Cardiorespiratory Fitness"
+      }
+    },
+    "health": {
+      "subtitle": "Health",
+      "title": "Assess the Risk of Hereditary Disease",
+      "description": "Genetic mutations can be problematic. They can produce unwanted medical conditions that cause dangerous diseases. Knowing how your genes affect your health will help to tailor a proactive healthcare plan.",
+      "traits": {
+        "1": "Breast Cancer/Prostate Cancer",
+        "2": "Stomach Cancer",
+        "3": "Asian Flush"
+      }
+    },
+    "behavior": {
+      "subtitle": "Behavior",
+      "title": "Explore Your Potential",
+      "description": "Understand yourself better. Instead of wasting years of your life on fruitless efforts, discover your strengths and weaknesses and what works and what doesn't.",
+      "traits": {
+        "1": "Extraversion",
+        "2": "Stress Handling Ability",
+        "3": "Emotional Instability"
+      }
+    },
+    "others": {
+      "subtitle": "Others",
+      "title": "Improve Life via Minor Adjustments",
+      "description": "Additional factors about your body are no less important. An awareness of these factors can give you an advantage, allowing you to apply small but critical changes that can improve your quality of life.",
+      "traits": {
+        "1": "Belly Fat",
+        "2": "Caffeine Sensitivity",
+        "3": "Insomnia Tendency"
+      }
+    }
+  },
+  "packages": {
+    "1": {
+      "title": "G-Care",
+      "subtitle": "Get to know yourself"
+    },
+    "2": {
+      "title": "G-Pro",
+      "subtitle": "Everything about your body"
+    }
+  },
+  "reportCategories": {
+    "1": {
+      "name": "Behavioral Alignment reports",
+      "reports": {
+        "1": {
+          "name": "Extraversion"
+        },
+        "2": {
+          "name": "Stress-handling Ability"
+        },
+        "3": {
+          "name": "Emotional Instability"
+        },
+        "4": {
+          "name": "Aggression"
+        },
+        "5": {
+          "name": "Risk Taking Tendency"
+        },
+        "6": {
+          "name": "Conscientiousness"
+        }
+      }
+    },
+    "2": {
+      "name": "Scholastic Talent reports",
+      "reports": {
+        "7": {
+          "name": "IQ"
+        },
+        "8": {
+          "name": "EQ"
+        },
+        "9": {
+          "name": "Educational Attainment"
+        },
+        "10": {
+          "name": "Cognitive Ability"
+        },
+        "11": {
+          "name": "Math Ability"
+        },
+        "12": {
+          "name": "Language-learning Ability"
+        },
+        "13": {
+          "name": "Musical Ability"
+        }
+      }
+    },
+    "3": {
+      "name": "Athletic Ability reports",
+      "reports": {
+        "14": {
+          "name": "Endurance Ability"
+        },
+        "15": {
+          "name": "Power Strength"
+        },
+        "16": {
+          "name": "Cardiorespiratory Fitness"
+        },
+        "17": {
+          "name": "Recover Ability"
+        },
+        "18": {
+          "name": "Injury Tendency"
+        },
+        "19": {
+          "name": "Tendon / Ligament Strength"
+        },
+        "20": {
+          "name": "Muscle Strength"
+        },
+        "21": {
+          "name": "Exercise Benefits"
+        },
+        "22": {
+          "name": "Weight Management Difficulty"
+        }
+      }
+    },
+    "4": {
+      "name": "Macronutrient Metabolism Reports",
+      "reports": {
+        "23": {
+          "name": "Carbohydrate Metabolism"
+        },
+        "24": {
+          "name": "Fat Metabolism"
+        },
+        "25": {
+          "name": "Protein Metabolism"
+        }
+      }
+    },
+    "5": {
+      "name": "Nutritional Requirement reports",
+      "reports": {
+        "26": {
+          "name": "Vitamin A Requirement"
+        },
+        "27": {
+          "name": "Vitamin B2 Requirement"
+        },
+        "28": {
+          "name": "Vitamin B6 Requirement"
+        },
+        "29": {
+          "name": "Vitamin B12 Requirement"
+        },
+        "30": {
+          "name": "Vitamin C Requirement"
+        },
+        "31": {
+          "name": "Vitamin D Requirement"
+        },
+        "32": {
+          "name": "Vitamin E Requirement"
+        },
+        "33": {
+          "name": "Folate Requirement"
+        },
+        "34": {
+          "name": "Essential Minerals Requirement"
+        }
+      }
+    },
+    "6": {
+      "name": "Nutritional Wellness reports",
+      "reports": {
+        "35": {
+          "id": 35,
+          "name": "Food and Drink Sensitivity"
+        },
+        "36": {
+          "id": 36,
+          "name": "Emotional Eating"
+        },
+        "37": {
+          "id": 37,
+          "name": "Detoxification Ability"
+        },
+        "38": {
+          "id": 38,
+          "name": "Cardiometabolic Health"
+        },
+        "39": {
+          "id": 39,
+          "name": "Response to Weight-loss Diet"
+        }
+      }
+    },
+    "7": {
+      "name": "Body Fact reports",
+      "reports": {
+        "40": {
+          "name": "Caffeine Sensitivity"
+        },
+        "41": {
+          "name": "Insomnia Tendency"
+        },
+        "42": {
+          "name": "Belly Fat"
+        }
+      }
+    },
+    "8": {
+      "name": "Health risk",
+      "reports": {
+        "43": {
+          "name": "Asian Flush"
+        },
+        "44": {
+          "name": "Diabetes Risk Score"
+        },
+        "45": {
+          "name": "Cardiometabolic Risk Score"
+        },
+        "46": {
+          "name": "Obesity Risk Score"
+        }
+      }
+    },
+    "9": {
+      "name": "Cancer reports",
+      "reports": {
+        "47": {
+          "name": "Breast cancer"
+        },
+        "48": {
+          "name": "Prostate cancer"
+        },
+        "49": {
+          "name": "Stomach cancer"
+        },
+        "50": {
+          "name": "Ovarian cancer"
+        },
+        "51": {
+          "name": "Bladder cancer"
+        },
+        "52": {
+          "name": "Brain cancer"
+        },
+        "53": {
+          "name": "Cervical cancer"
+        },
+        "54": {
+          "name": "Colon cancer"
+        },
+        "55": {
+          "name": "Endometrial cancer"
+        },
+        "56": {
+          "name": "Esophageal cancer"
+        },
+        "57": {
+          "name": "Kidney cancer"
+        },
+        "58": {
+          "name": "Leukemia"
+        },
+        "59": {
+          "name": "Liver cancer"
+        },
+        "60": {
+          "name": "Lung cancer"
+        },
+        "61": {
+          "name": "Pancreatic cancer"
+        },
+        "62": {
+          "name": "Pheochromocytoma & Paraganglioma"
+        },
+        "63": {
+          "name": "Rectal cancer"
+        },
+        "64": {
+          "name": "Skin cancer"
+        }
+      }
+    }
+  }
+}

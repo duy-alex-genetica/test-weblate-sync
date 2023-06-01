@@ -1,0 +1,24 @@
+{
+  "legalName": "GENE FRIEND VIETNAM, INC",
+  "description": "Genetica® | American Technology Genetic Testing For Asians",
+  "address": {
+    "streetAddress": "2nd Floor, 40 Pham Ngoc Thach Street, Vo Thi Sau Ward, Dist.3",
+    "addressLocality": "Ho Chi Minh City",
+    "addressCountry": "Viet Nam",
+    "addressPostalCode": "700000",
+    "addressCountryCode": "VN"
+  },
+  "GeoCoordinates": {
+    "latitude": 10.7851302,
+    "longitude": 106.6935657
+  },
+  "dayOfWeek": {
+    "1": "Monday",
+    "2": "Friday",
+    "3": "Thursday",
+    "4": "Wednesday",
+    "5": "Tuesday"
+  },
+  "email": "cs@genetica.asia",
+  "telephone": "1900 599 927"
+}

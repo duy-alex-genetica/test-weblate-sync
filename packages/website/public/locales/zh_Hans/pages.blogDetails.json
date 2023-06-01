@@ -1,0 +1,27 @@
+{
+  "body": {
+    "sectionAuthor": {
+      "buttonSeeMore": {
+        "label": "查看更多"
+      }
+    },
+    "sectionReference": {
+      "header": {
+        "title": "参考"
+      },
+      "buttonSeeMore": {
+        "label": "查看更多"
+      }
+    },
+    "sectionShare": {
+      "header": {
+        "title": "分享"
+      }
+    },
+    "sectionDiscussion": {
+      "header": {
+        "title": "关于这篇文章的讨论"
+      }
+    }
+  }
+}

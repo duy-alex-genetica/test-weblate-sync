@@ -1,0 +1,226 @@
+{
+  "title": "Genetica® Xét Nghiệm Gen Công Nghệ Mỹ cho người Châu Á",
+  "sectionAdvisors": {
+    "body": {
+      "title": "Ban cố vấn <br />chuyên môn",
+      "description": "Thành viên Ban cố vấn của Genetica® là những nhà đầu tư nổi tiếng nhất từ thung lũng Silicon và các giáo sư thuộc Liên đoàn những trường Đại học xuất sắc nhất thế giới như Harvard, Stanford, Cornell và các trường khác.",
+      "actions": {
+        "1": {
+          "label": "Tìm hiểu thêm"
+        }
+      }
+    }
+  },
+  "sectionDownload": {
+    "body": {
+      "title": "Ứng dụng Genetica",
+      "description": "Hơn 1000 báo cáo chuyên sâu về bạn <br/> ngay trong lòng bàn tay",
+      "subtitle": "Tải ứng dụng ngay"
+    }
+  },
+  "sectionBenefits": {
+    "header": {
+      "title": "Lợi ích của <br/>giải mã gen"
+    },
+    "body": {
+      "list": {
+        "0": {
+          "actions": {
+            "learnMore": {
+              "label": "Tìm hiểu thêm"
+            }
+          }
+        },
+        "1": {
+          "title": "Tối ưu lối sống cho riêng bạn",
+          "description": "Giúp bạn cá nhân hoá kế hoạch phát triển bản thân bằng việc phân tích về tiềm năng, dinh dưỡng, thể chất, chế độ luyện tập cùng những khuyến nghị dành riêng cho bạn."
+        },
+        "2": {
+          "title": "Giúp con phát triển toàn diện",
+          "description": "Giúp ba mẹ hiểu rõ về tiềm năng của con, cũng như hỗ trợ ba mẹ trong việc tối ưu kế hoạch giáo dục, chăm sóc sức khỏe và định hướng phát triển tiềm năng cho trẻ."
+        },
+        "3": {
+          "title": "Hiểu rõ nguy cơ về sức khỏe",
+          "description": "Giúp bạn hiểu rõ nguy cơ mắc bệnh di truyền tiềm ẩn trong gen và các khuyến nghị cá nhân hóa trong việc phòng bệnh."
+        }
+      }
+    }
+  },
+  "sectionMedia": {
+    "header": {
+      "title": "Báo chí nói về chúng tôi"
+    }
+  },
+  "sectionPartners": {
+    "header": {
+      "title": "Đối tác của Genetica",
+      "description": "Bao gồm đối tác kinh doanh, phát triển dịch vụ và đối tác thông qua các dự án nghiên cứu dữ liệu lớn<br/><br/>Genetica<sup>®</sup> được chứng nhận bởi những đối tác hàng đầu thế giới trong lĩnh vực Xét nghiệm Di truyền."
+    },
+    "body": {
+      "menu": {
+        "partnersFromUSA": {
+          "label": "Quốc tế"
+        },
+        "partnersFromVietnam": {
+          "label": "Việt Nam"
+        }
+      }
+    }
+  },
+  "sectionCertificates": {
+    "header": {
+      "title": "Chứng chỉ quốc tế"
+    },
+    "body": {
+      "certificate": {
+        "1": "Chứng nhận CLIA",
+        "2": "Chứng nhận CAP"
+      },
+      "description": "Phòng lab tại San Francisco và Việt Nam của Genetica đạt chứng nhận tiêu chuẩn CLIA - tiêu chuẩn nghiêm ngặt nhất Hoa Kỳ cho tiêu chuẩn về độ chính xác của phòng thí nghiệm.<br /><br />Thông qua việc phân tích hàng trăm gen, các báo cáo của chúng tôi cung cấp thông tin khoa học và chính xác về thể chất, hành vi, trí tuệ, và nguy cơ sức khỏe; và khuyến nghị cá nhân hóa dành cho từng cá nhân."
+    }
+  },
+  "sectionProcess": {
+    "header": {
+      "title": "Quy trình xét nghiệm<br/>3 bước đơn giản"
+    },
+    "body": {
+      "list": {
+        "1": {
+          "title": "Đăng ký dịch vụ",
+          "description": "Sau khi mua và thanh toán dịch vụ, Genetica sẽ gửi bộ dụng cụ lấy mẫu DNA đến địa chỉ giao nhận mà bạn đã đăng ký."
+        },
+        "2": {
+          "title": "Cung cấp mẫu nước bọt",
+          "description": "Lấy nước bọt theo hướng dẫn trong bộ thu mẫu. Sau khi hoàn tất, thông báo với Genetica thông qua App hoặc Hotline để chúng tôi thu hồi mẫu.",
+          "actions": {
+            "1": {
+              "label": "Video hướng dẫn"
+            }
+          }
+        },
+        "3": {
+          "title": "Nhận kết quả sau 30 ngày làm việc",
+          "description": "Cài đặt ứng dụng Genetica trên điện thoại để xem kết quả giải mã gen và các khuyến nghị dành riêng cho bạn.",
+          "actions": {
+            "1": {
+              "label": "Google Play"
+            },
+            "2": {
+              "label": "App Store"
+            }
+          },
+          "thumbnail": {
+            "caption": "Tải ứng dụng tại:"
+          }
+        }
+      }
+    }
+  },
+  "sectionServices": {
+    "header": {
+      "title": "Dịch vụ"
+    },
+    "body": {
+      "list": {
+        "adults": {
+          "title": "Người lớn",
+          "subtitle": "Từ 18 tuổi trở lên"
+        },
+        "kids": {
+          "title": "Trẻ em",
+          "subtitle": "Dưới 18 tuổi"
+        },
+        "health": {
+          "title": "Sức khỏe",
+          "subtitle": "Mọi lứa tuổi"
+        }
+      }
+    }
+  },
+  "sectionSpecialists": {
+    "header": {
+      "title": "Gặp gỡ chuyên gia Genetica®",
+      "description": "Đội ngũ bác sĩ giàu kinh nghiệm đến từ các bệnh viện và viện nghiên cứu <br/> lớn trên cả nước",
+      "actions": {
+        "1": {
+          "label": "Tìm hiểu thêm"
+        }
+      }
+    }
+  },
+  "sectionTestimonials": {
+    "header": {
+      "title": "Câu chuyện <br/>khách hàng"
+    },
+    "body": {
+      "list": {
+        "0": {
+          "actions": {
+            "viewMore": {
+              "label": "Xem thêm"
+            }
+          }
+        },
+        "-1": {
+          "content": "<p>Genetica tự hào đã phục vụ hơn hàng nghìn khách hàng trong việc mang đến giải pháp tối ưu sức khoẻ. </p> <p> Hãy lắng nghe câu chuyện của khách hàng Genetica và chia sẻ câu chuyện của bạn với chúng tôi. </p>",
+          "actions": {
+            "listenToOtherStory": "Lắng nghe những câu chuyện khác"
+          }
+        }
+      }
+    }
+  },
+  "sectionUtilities": {
+    "body": {
+      "list": {
+        "1": {
+          "title": "Xem báo cáo mẫu"
+        },
+        "2": {
+          "title": "Đặt lịch tư vấn kết quả",
+          "description": "Không lo lắng chờ đợi"
+        },
+        "3": {
+          "title": "Dùng mã giảm giá",
+          "description": "Giảm giá lên đến 50%"
+        }
+      }
+    }
+  },
+  "sectionWhyChoosingGenetica": {
+    "header": {
+      "title": "Vì sao chọn Genetica<span>®</span>"
+    },
+    "body": {
+      "list": {
+        "0": {
+          "actions": {
+            "viewDetails": {
+              "label": "Xem chi tiết"
+            }
+          }
+        },
+        "1": {
+          "title": "Công nghệ tiêu chuẩn Hoa Kỳ <br/>chính xác đến 99.9%"
+        },
+        "2": {
+          "title": "Bảo mật dữ liệu khách hàng <br/>bằng công nghệ Blockchain"
+        },
+        "3": {
+          "title": "Lấy mẫu bằng nước bọt, An toàn,<br/> và Không xâm lấn"
+        },
+        "4": {
+          "title": "Tư vấn kết quả báo cáo chuyên <br/>sâu bởi chuyên gia di truyền"
+        }
+      }
+    }
+  },
+  "sectionBestSellingPackages": {
+    "header": {
+      "title": "Dịch vụ bán chạy"
+    },
+    "actions": {
+      "viewAllProducts": "Xem tất cả Dịch vụ tại Genetica"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "An Combo",
+  "subtitle": "",
+  "description": "<p>An Combo includes:</p><ul><li>01 genetic testing Explore Your Ability (<a href=\"/products/g-smart\">G-Smart</a>)</li><li>01 genetic testing Understand Your Immunity System (<a href=\"/products/g-immunity\">G-Immunity</a>)</li></ul>",
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "In-depth knowledge about your inborn intellectual abilities",
+      "description": "Your body’s genome is unique, differentiating your personality and ability from everyone else. If discovered, nurtured and practiced properly, you can maximize your inborn intellectual abilities."
+    },
+    "2": {
+      "subtitle": "",
+      "title": "In-depth knowledge about your strength of thinking capability",
+      "description": "Once you understand your strengths, you can easily make important decisions for the future."
+    },
+    "3": {
+      "subtitle": "",
+      "title": "In-depth knowledge about your improvement areas of thinking capability (if any)",
+      "description": "Genetic result can help you understand your abilities scientifically and accurately, thus, you can improve to develop perfectly."
+    },
+    "4": {
+      "subtitle": "",
+      "title": "Know your risk of viral infection",
+      "description": "Using the latest advances in artificial intelligence and our state of the art—proprietary—technology, we will calculate your polygenic risk score for viral infections by collecting the weighted risk from over 85 genetic variations."
+    },
+    "5": {
+      "subtitle": "",
+      "title": "Stay safe by staying up to date",
+      "description": "The G-Immunity report will provide you with the most up-to-date knowledge regarding viral infection risk and how to protect yourself, your family and even your pets against it."
+    },
+    "6": {
+      "subtitle": "",
+      "title": "Personalized recommendations to leverage your inborn strength and develop yourself",
+      "description": "Our genetic result and recommendations from our experts can help you to adjust plan (if any) or personalize the diet/ sport/training one that perfect with you."
+    }
+  }
+}

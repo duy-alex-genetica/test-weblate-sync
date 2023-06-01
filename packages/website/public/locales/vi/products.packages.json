@@ -1,0 +1,80 @@
+{
+  "g-care": {
+    "title": "G-Care",
+    "subtitle": "Giải pháp sức khoẻ nền tảng",
+    "ageLimit": "Dành cho người trên 18 tuổi",
+    "description": "<ul><li>Dinh dưỡng</li><li>Tính cách</li><li>Thể thao</li><li>Sức khỏe</li><li>Thông tin cần biết</li></ul>"
+  },
+  "g-pro": {
+    "title": "G-Pro",
+    "subtitle": "Tiếp cận bí mật trong bạn",
+    "ageLimit": "Dành cho người trên 18 tuổi",
+    "description": "<ul><li>Trí tuệ</li><li>Dinh dưỡng</li><li>Thể thao</li><li>Nghỉ ngơi</li><li>Sức khoẻ (20 loại ung thư phổ biến)</li></ul>"
+  },
+  "g-smart": {
+    "title": "G-Smart",
+    "subtitle": "Khám phá tiềm năng trí tuệ",
+    "ageLimit": "Dành cho Trẻ em và Người lớn",
+    "description": "<ul><li>IQ</li><li>EQ (Trí tuệ cảm xúc)</li><li>Khả năng ngôn ngữ</li><li>Khả năng toán học</li><li>Khả năng âm nhạc</li></ul>"
+  },
+  "g-awareness": {
+    "title": "G-Awareness",
+    "subtitle": "Nhận thức bản thân",
+    "ageLimit": "Dành cho Trẻ em và Người lớn",
+    "description": "<ul><li>Tính hướng ngoại</li><li>Tính kỷ luật</li><li>Nóng tính</li><li>Khả năng kiểm soát căng thẳng</li></ul>"
+  },
+  "g-kid-care": {
+    "title": "G-Kid Care",
+    "subtitle": "Nền tảng phát triển cho trẻ",
+    "ageLimit": "Dành cho trẻ dưới 18 tuổi",
+    "description": "10 tính trạng di truyền đưa ra câu trả lời cho<ul><li>Chuyển hoá dinh dưỡng đa lượng</li><li>Trí thông minh</li><li>Hành vi</li><li>Nguy cơ sức khoẻ</li></ul>"
+  },
+  "g-kid-pro": {
+    "title": "G-Kid Pro",
+    "subtitle": "Cánh cửa đến tương lai rạng ngời",
+    "ageLimit": "Dành cho trẻ dưới 18 tuổi",
+    "description": "33 tính trạng di truyền đưa ra câu trả lời cho<ul><li>Phát triển thể chất</li><li>Trí tuệ và tinh thần</li><li>Tiềm năng thể thao</li></ul>"
+  },
+  "g-health": {
+    "title": "G-Health",
+    "subtitle": "",
+    "ageLimit": "Dành cho người trên 18 tuổi",
+    "description": "<ul><li>Kiểm tra Ung thư di truyền</li><li>97 gen được phân tích</li><li>20 loại ung thư phổ biến</li></ul>"
+  },
+  "g-autism": {
+    "title": "G-Autism",
+    "subtitle": "",
+    "ageLimit": "Dành cho Trẻ em và Người lớn",
+    "description": "<ul><li>Tìm hiểu Nguy cơ Tự kỷ di truyền</li><li>48 gen được phân tích</li><li>Các khuyến nghị cụ thể</li></ul>"
+  },
+  "g-immunity": {
+    "title": "G-Immunity",
+    "subtitle": "",
+    "ageLimit": "Dành cho Trẻ em và Người lớn",
+    "description": "<ul><li>Hiểu hệ miễn dịch</li><li>32 gen được phân tích</li></ul>"
+  },
+  "combo-an": {
+    "title": "Combo An",
+    "subtitle": "",
+    "ageLimit": "Dành cho Trẻ em và Người lớn",
+    "description": "Combo An bao gồm:<ul><li>G-Smart</li><li>G-Immunity</li></ul>"
+  },
+  "combo-dong-hanh": {
+    "title": "Combo Đồng Hành",
+    "subtitle": "",
+    "ageLimit": "Dành cho Trẻ em và Người lớn",
+    "description": "Combo Đồng Hành bao gồm:<ul><li>G-Awareness</li><li>G-Smart</li><li>G-Immunity</li></ul>"
+  },
+  "g-stroke": {
+    "title": "G-Stroke",
+    "subtitle": "",
+    "ageLimit": "Dành cho Trẻ em và Người lớn",
+    "description": "<ul><li>Tìm hiểu nguy cơ đột quỵ di truyền</li><li>73 gen được phân tích</li></ul>"
+  },
+  "g-allergy": {
+    "title": "G-Allergy",
+    "subtitle": "",
+    "ageLimit": "Dành cho Trẻ em và Người lớn",
+    "description": "<ul><li>Sàng lọc nguy cơ dị ứng</li><li>120 gen được phân tích</li></ul>"
+  }
+}

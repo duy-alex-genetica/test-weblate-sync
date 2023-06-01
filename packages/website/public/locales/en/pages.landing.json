@@ -1,0 +1,74 @@
+{
+  "christmas-event": {
+    "contact": "Contact us",
+    "buyNow": "Buy now",
+    "partner": "International partners:",
+    "form": {
+      "title": {
+        "1": "explore",
+        "2": "YOUR CHILD’S SCHOLASTIC TALENTS",
+        "3": "TODAY!"
+      },
+      "phone": "Phone number*",
+      "description": "We will contact you upon receipt of your phone number.",
+      "submit": "contact us"
+    },
+    "modal": {
+      "success": {
+        "1": "Thanks for your information.",
+        "2": "Genetica",
+        "3": "will contact you <br/> upon receipt of <br/> your phone number."
+      },
+      "error": "Invalid phone number",
+      "action": "Close"
+    }
+  },
+  "tetEvent": {
+    "contact": "Contact us",
+    "buyNow": "Buy now",
+    "partner": "International partners:",
+    "form": {
+      "title": {
+        "1": "explore",
+        "2": "YOUR CHILD'S SCHOLASTIC TALENTS",
+        "3": "TODAY!"
+      },
+      "phone": "Phone number*",
+      "description": "We will contact you upon receipt of your phone number.",
+      "submit": "contact us"
+    },
+    "modal": {
+      "success": {
+        "1": "Thanks for your information.",
+        "2": "Genetica",
+        "3": "will contact you <br/> upon receipt of <br/> your phone number."
+      },
+      "error": "Invalid phone number",
+      "action": "Close"
+    }
+  },
+  "newYearResolution": {
+    "contact": "Contact us",
+    "buyNow": "Buy now",
+    "partner": "International partners:",
+    "form": {
+      "title": {
+        "1": "New year resolution",
+        "2": "decoding success",
+        "3": "today!"
+      },
+      "phone": "Phone number*",
+      "description": "We will contact you upon receipt of your phone number.",
+      "submit": "contact us"
+    },
+    "modal": {
+      "success": {
+        "1": "Thanks for your information.",
+        "2": "Genetica",
+        "3": "will contact you <br/> upon receipt of <br/> your phone number."
+      },
+      "error": "Invalid phone number",
+      "action": "Close"
+    }
+  }
+}

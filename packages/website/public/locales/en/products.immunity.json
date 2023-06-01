@@ -1,0 +1,28 @@
+{
+  "title": "G-Immunity",
+  "subtitle": "G-Immunity",
+  "description": "Learn about your susceptibility to viral infection, with focus on respiratory diseases.",
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "Simple, Safe, and Non-Invasive",
+      "description": "Only your saliva is required. Our advanced technology allows us to extract DNA from saliva. This makes it simpler, safer, and more convenient to run genetic analyses as compared to conventional procedures that rely on blood samples."
+    },
+    "2": {
+      "subtitle": "",
+      "title": "Know your risk of viral infection",
+      "description": "Using the latest advances in artificial intelligence and our state of the art—proprietary—technology, we will calculate your polygenic risk score for viral infections by collecting the weighted risk from over 85 genetic variations."
+    },
+    "3": {
+      "subtitle": "",
+      "title": "Stay safe by staying up to date",
+      "description": "The G-Immunity report will provide you with the most up-to-date knowledge regarding viral infection risk and how to protect yourself, your family and even your pets against it."
+    }
+  },
+  "packages": {
+    "1": {
+      "title": "G-Immunity",
+      "subtitle": ""
+    }
+  }
+}

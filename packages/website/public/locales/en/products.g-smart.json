@@ -1,0 +1,50 @@
+{
+  "title": "G-Smart",
+  "subtitle": "Explore Your Ability",
+  "description": "We analyzed 201 genes associated with your inborn intellectual abilities.",
+  "testedTraits": {
+    "1": {
+      "name": "IQ"
+    },
+    "2": {
+      "name": "EQ"
+    },
+    "3": {
+      "name": "Language ability"
+    },
+    "4": {
+      "name": "Math ability"
+    },
+    "5": {
+      "name": "Music ability"
+    }
+  },
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "In-depth knowledge about your inborn intellectual abilities",
+      "description": "Your body’s genome is unique, differentiating your personality and ability from everyone else. If discovered, nurtured and practiced properly, you can maximize your inborn intellectual abilities."
+    },
+    "2": {
+      "subtitle": "",
+      "title": "In-depth knowledge about your strength of thinking capability",
+      "description": "Once you understand your strengths, you can easily make important decisions for the future."
+    },
+    "3": {
+      "subtitle": "",
+      "title": "In-depth knowledge about your improvement areas of thinking capability (if any)",
+      "description": "Genetic result can help you understand your abilities scientifically and accurately, thus, you can improve to develop perfectly."
+    },
+    "4": {
+      "subtitle": "",
+      "title": "Personalized recommendations to leverage your inborn strength and develop yourself",
+      "description": "Our genetic result and recommendations from our experts can help you to adjust plan (if any) or personalize the diet/ sport/training one that perfect with you."
+    }
+  },
+  "packages": {
+    "1": {
+      "title": "G-Smart",
+      "subtitle": ""
+    }
+  }
+}

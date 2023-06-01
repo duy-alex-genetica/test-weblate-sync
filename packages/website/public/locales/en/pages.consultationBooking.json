@@ -1,0 +1,111 @@
+{
+  "header": {
+    "title": "Consultation Booking"
+  },
+  "body": {
+    "sectionSteps": {
+      "list": {
+        "0": {
+          "label": "Select reports"
+        },
+        "1": {
+          "label": "Choose a channel"
+        },
+        "2": {
+          "label": "Pick a timeslot"
+        }
+      }
+    },
+    "sectionSelectReports": {
+      "header": {
+        "title": "Select reports"
+      },
+      "body": {
+        "meta": {
+          "expectedSessionLength": {
+            "label": "Expected session length"
+          }
+        }
+      }
+    },
+    "sectionSelectConsultationMethods": {
+      "header": {
+        "title": "Choose a consultation channel"
+      },
+      "body": {
+        "description": "Please choose a phone number"
+      }
+    },
+    "sectionSelectTimeslot": {
+      "header": {
+        "title": "Pick a timeslot"
+      },
+      "body": {
+        "timeslots": {
+          "empty": {
+            "label": "No timeslots available!<br/>Please pick a different date or contact our Hotline <b>1900 599 927</b>"
+          }
+        }
+      }
+    },
+    "sectionActions": {
+      "next": {
+        "label": "Next"
+      },
+      "back": {
+        "label": "Back"
+      },
+      "book": {
+        "label": "Book"
+      }
+    },
+    "sectionSelectedProfile": {
+      "header": {
+        "title": "Profile"
+      }
+    },
+    "sectionSelectedReports": {
+      "header": {
+        "title": "Report",
+        "title_plural": "Reports"
+      }
+    },
+    "sectionSelectedConsultationMethod": {
+      "header": {
+        "title": "Channel"
+      }
+    },
+    "sectionCreatedAppointment": {
+      "header": {
+        "title": "Booking successful!"
+      },
+      "body": {
+        "description": "Your booking for a Genetic consultation has been processed successfully.",
+        "sectionInformation": {
+          "headers": {
+            "name": {
+              "label": "Name"
+            },
+            "reports": {
+              "label": "Reports"
+            },
+            "channel": {
+              "label": "Channel"
+            },
+            "timeslot": {
+              "label": "Timeslot"
+            }
+          }
+        },
+        "actions": {
+          "backToHomepage": {
+            "label": "Back to homepage"
+          }
+        }
+      },
+      "footer": {
+        "description": "Download the Genetica mobile app to receive notification about your booking schedule."
+      }
+    }
+  }
+}

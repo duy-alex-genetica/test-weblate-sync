@@ -1,0 +1,246 @@
+{
+  "title": "G-Intel",
+  "subtitle": "For Adults",
+  "bestSellingDescriptionList": {
+    "1": "Explore your potential, strengths and weaknesses",
+    "2": "Plan your future, accelerate your career"
+  },
+  "reportCategories": {
+    "1": {
+      "name": "Behavioral Alignment Reports",
+      "reports": {
+        "1": {
+          "name": "Introversion - Extraversion"
+        },
+        "2": {
+          "name": "Stress-handling Ability"
+        },
+        "3": {
+          "name": "Emotional Instability"
+        },
+        "4": {
+          "name": "Aggressiveness"
+        },
+        "5": {
+          "name": "Risk Taking Tendency"
+        },
+        "6": {
+          "name": "Self-discipline"
+        }
+      }
+    },
+    "2": {
+      "name": "Scholastic Talent Reports",
+      "reports": {
+        "7": {
+          "name": "Intelligence Quotient (IQ)"
+        },
+        "8": {
+          "name": "Emotional Quotient (EQ)"
+        },
+        "9": {
+          "name": "Educational Attainment"
+        },
+        "10": {
+          "name": "Cognitive Ability"
+        },
+        "11": {
+          "name": "Mathematical Ability"
+        },
+        "12": {
+          "name": "Language-learning Ability"
+        },
+        "13": {
+          "name": "Musical Ability"
+        }
+      }
+    },
+    "3": {
+      "name": "Athletic Ability Reports",
+      "reports": {
+        "14": {
+          "name": "Endurance Ability"
+        },
+        "15": {
+          "name": "Physical Strength"
+        },
+        "16": {
+          "name": "Cardiorespiratory Fitness"
+        },
+        "17": {
+          "name": "Recover Ability"
+        },
+        "18": {
+          "name": "Injury Tendency"
+        },
+        "20": {
+          "name": "Muscle Strength"
+        },
+        "21": {
+          "name": "Exercise Benefits"
+        },
+        "22": {
+          "name": "Weight Management Difficulty"
+        }
+      }
+    },
+    "4": {
+      "name": "Macronutrient Metabolism Reports",
+      "reports": {
+        "23": {
+          "name": "Carbohydrate Metabolism"
+        },
+        "24": {
+          "name": "Fat Metabolism"
+        },
+        "25": {
+          "name": "Protein Metabolism"
+        }
+      }
+    },
+    "5": {
+      "name": "Nutritional Requirement Reports",
+      "reports": {
+        "26": {
+          "name": "Vitamin A Requirement"
+        },
+        "27": {
+          "name": "Vitamin B2 Requirement"
+        },
+        "28": {
+          "name": "Vitamin B6 Requirement"
+        },
+        "29": {
+          "name": "Vitamin B12 Requirement"
+        },
+        "30": {
+          "name": "Vitamin C Requirement"
+        },
+        "31": {
+          "name": "Vitamin D Requirement"
+        },
+        "32": {
+          "name": "Vitamin E Requirement"
+        },
+        "33": {
+          "name": "Folate Requirement"
+        },
+        "34": {
+          "name": "Essential Minerals Requirement"
+        }
+      }
+    },
+    "6": {
+      "name": "Nutritional Wellness Reports",
+      "reports": {
+        "35": {
+          "id": 35,
+          "name": "Food & Drink Sensitivity"
+        },
+        "36": {
+          "id": 36,
+          "name": "Emotional Eating"
+        },
+        "37": {
+          "id": 37,
+          "name": "Detoxification Ability"
+        },
+        "38": {
+          "id": 38,
+          "name": "Cardiometabolic Health"
+        },
+        "39": {
+          "id": 39,
+          "name": "Response to Weight-loss Diet"
+        }
+      }
+    },
+    "7": {
+      "name": "Other Reports",
+      "reports": {
+        "40": {
+          "name": "Caffeine Sensitivity"
+        },
+        "41": {
+          "name": "Insomnia Risk"
+        },
+        "42": {
+          "name": "Belly Fat Risk"
+        }
+      }
+    },
+    "8": {
+      "name": "Health Risk Reports",
+      "reports": {
+        "43": {
+          "name": "Asian Flush"
+        },
+        "44": {
+          "name": "Diabetes Risk"
+        },
+        "45": {
+          "name": "Cardiometabolic Health"
+        }
+      }
+    },
+    "9": {
+      "name": "Cancer Risks Reports",
+      "reports": {
+        "47": {
+          "name": "Breast Cancer"
+        },
+        "48": {
+          "name": "Prostate Cancer"
+        },
+        "49": {
+          "name": "Stomach Cancer"
+        },
+        "50": {
+          "name": "Ovary Cancer"
+        },
+        "51": {
+          "name": "Bladder Cancer"
+        },
+        "52": {
+          "name": "Brain Cancer"
+        },
+        "53": {
+          "name": "Cervix Cancer"
+        },
+        "54": {
+          "name": "Intestine Cancer"
+        },
+        "55": {
+          "name": "Endometrial Cancer"
+        },
+        "56": {
+          "name": "Esophageal Cancer"
+        },
+        "57": {
+          "name": "Kidney Cancer"
+        },
+        "58": {
+          "name": "Leukemia"
+        },
+        "59": {
+          "name": "Liver Cancer"
+        },
+        "60": {
+          "name": "Lung Cancer"
+        },
+        "61": {
+          "name": "Pancreas Cancer"
+        },
+        "62": {
+          "name": "Pheochromocytoma & Paraganglioma"
+        },
+        "63": {
+          "name": "Colorectal Cancer"
+        },
+        "64": {
+          "name": "Skin Cancer"
+        }
+      }
+    }
+  }
+}

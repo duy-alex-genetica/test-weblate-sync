@@ -1,0 +1,142 @@
+{
+  "header": {
+    "content": {
+      "seeTestedTraits": {
+        "label": "其他特点"
+      }
+    },
+    "packages": {
+      "statistics": {
+        "numberOfGenesAnalyzed": {
+          "label": "基因分析"
+        },
+        "numberOfResultsAndPersonalizedRecommendations": {
+          "label": "结果和个性化<br/>建议"
+        },
+        "salivaOnly": {
+          "label": "只使用唾液"
+        },
+        "numberOfCommonCancers": {
+          "label": "常见癌症"
+        },
+        "personalizedRecommendations": {
+          "label": "个性化推荐"
+        },
+        "everyoneWillBenefit": {
+          "label": "每个人都会受益"
+        }
+      }
+    },
+    "disclaimer": "基因检测是了解遗传性疾病风险的有用工具。 购买前，请确保您了解<1>“基因检测的限制和排除”</1>。",
+    "actions": {
+      "addToCart": {
+        "label": "添加到购物车"
+      },
+      "download": {
+        "label": "查看样本报告 (PDF)"
+      }
+    }
+  },
+  "body": {
+    "sectionSection": {
+      "content": {
+        "traits": {
+          "seeDetails": {
+            "label": "查看具体信息"
+          }
+        }
+      }
+    },
+    "sectionBanners1": {
+      "header": {
+        "title": "随时随地获取结果<br/>。"
+      }
+    },
+    "sectionPackageFeatures": {
+      "header": {
+        "title": "选择适合您的套餐",
+        "healthTitle": "测试的癌症列表"
+      },
+      "body": {
+        "table": {
+          "header": {
+            "userObject": "用户对象",
+            "geneAnalyzed": "基因分析",
+            "genes": "基因",
+            "upTo": "达到",
+            "Results": "结果",
+            "results": "结果",
+            "resultsValue": "最多 {{value}} 个结果",
+            "personalisedRecommendations": "建议",
+            "viewReportOnMobileApp": "通过手机收到报告",
+            "paperReport": "打印件报告",
+            "availableAtRequest": "根据要求",
+            "actions": {
+              "addToCart": {
+                "label": "添加到购物车"
+              }
+            },
+            "genders": {
+              "male": "男性",
+              "female": "女性"
+            }
+          },
+          "footer": {
+            "seeAllReports": "查看所有报告"
+          }
+        }
+      }
+    },
+    "sectionOtherServices": {
+      "header": {
+        "title": "其他服务"
+      }
+    },
+    "sectionBanners2": {
+      "list": {
+        "1": {
+          "title": "美国专家",
+          "description": "我们在旧金山的实验室拥有一些科学界最聪明的头脑。"
+        },
+        "2": {
+          "title": "人工智能技术",
+          "description": "我们使用尖端人工智能来揭示您基因的秘密。"
+        },
+        "3": {
+          "title": "安全",
+          "description": "您的信息是安全的、可靠的并且只有您可以访问。"
+        },
+        "4": {
+          "title": "30 天后的结果",
+          "description": "您的报告将在您的手机上可用并发送到您家门口。"
+        }
+      }
+    },
+    "sectionTestedTraits": {
+      "header": {
+        "title": "特性测试"
+      },
+      "body": {
+        "labels": {
+          "genes": "基因"
+        }
+      }
+    },
+    "sectionGetInTouch": {
+      "header": {
+        "title": "还有问题吗？"
+      },
+      "body": {
+        "description": {
+          "textBefore": "随时联系您的查询",
+          "textAfter": ". 我们的工作人员会尽快回复您。 请记住，我们希望收到您的来信！"
+        }
+      },
+      "footer": {
+        "actions": {
+          "text": "保持联系"
+        }
+      }
+    }
+  }
+}

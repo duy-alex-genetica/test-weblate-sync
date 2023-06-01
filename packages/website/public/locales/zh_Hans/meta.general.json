@@ -1,0 +1,24 @@
+{
+  "legalName": "GENE FRIEND VIETNAM, INC",
+  "description": "基因® | 美国技术亚洲人基因检测",
+  "address": {
+    "streetAddress": "第三郡， Vo Thi Sau 区， Pham Ngoc Thach 路，2楼",
+    "addressLocality": "胡志明市",
+    "addressCountry": "越南",
+    "addressPostalCode": "越南",
+    "addressCountryCode": "VN"
+  },
+  "GeoCoordinates": {
+    "latitude": "10.7851303",
+    "longitude": "106.6935658"
+  },
+  "dayOfWeek": {
+    "1": "周一",
+    "2": "周五",
+    "3": "周四",
+    "4": "周三",
+    "5": "周二"
+  },
+  "email": "cs@genetica.asia",
+  "telephone": "1901 599 927"
+}

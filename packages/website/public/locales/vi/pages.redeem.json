@@ -1,0 +1,138 @@
+{
+  "sectionInputCode": {
+    "header": {
+      "title": "Mã quà tặng",
+      "description": "Nhập mã quà tặng hoặc mã giới thiệu bạn nhận được"
+    },
+    "body": {
+      "formInsertCode": {
+        "fields": {
+          "code": {
+            "placeholder": "Mã quà tặng / Mã giới thiệu"
+          }
+        },
+        "buttons": {
+          "submit": {
+            "label": "Đổi quà"
+          }
+        }
+      }
+    }
+  },
+  "sectionCustomerInformation": {
+    "header": {
+      "title": "Thông tin khách hàng",
+      "description": "Vui lòng nhập thông tin để Genetica có thể liên hệ gửi bộ thu mẫu tới cho bạn"
+    },
+    "body": {
+      "formCustomerInformation": {
+        "fields": {
+          "name": {
+            "label": "Họ và tên",
+            "placeholder": "Họ và tên",
+            "error": {
+              "message": {
+                "error": "Lỗi",
+                "required": "Bắt buộc"
+              }
+            }
+          },
+          "phone": {
+            "label": "Số điện thoại",
+            "placeholder": "Số điện thoại",
+            "error": {
+              "message": {
+                "error": "SĐT không hợp lệ",
+                "required": "Bắt buộc"
+              }
+            }
+          },
+          "address": {
+            "label": "Địa chỉ nhận mẫu",
+            "fields": {
+              "country": {
+                "placeholder": "Quốc gia",
+                "error": {
+                  "message": {
+                    "outsideVietNam": "Hiện tại chúng tôi không giao hàng ra ngoài lãnh thổ Việt Nam. Vui lòng gửi email cho chúng tôi theo địa chỉ <1>contact@genetica.asia</1> để được hỗ trợ.",
+                    "required": "Bắt buộc"
+                  }
+                }
+              },
+              "provinceCity": {
+                "placeholder": "Tỉnh/Thành phố",
+                "error": {
+                  "message": {
+                    "error": "Lỗi",
+                    "required": "Bắt buộc"
+                  }
+                }
+              },
+              "district": {
+                "placeholder": "Quận/Huyện",
+                "error": {
+                  "message": {
+                    "error": "Lỗi",
+                    "required": "Bắt buộc"
+                  }
+                }
+              },
+              "ward": {
+                "placeholder": "Xã/Phường",
+                "error": {
+                  "message": {
+                    "error": "Lỗi",
+                    "required": "Bắt buộc"
+                  }
+                }
+              },
+              "locationDetail": {
+                "placeholder": "Thông tin địa chỉ (điểm mốc, số nhà, ...)",
+                "error": {
+                  "message": {
+                    "error": "Lỗi",
+                    "required": "Bắt buộc"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "buttons": {
+          "submit": {
+            "label": "Hoàn tất"
+          }
+        }
+      }
+    }
+  },
+  "modalSuccess": {
+    "header": {
+      "title": "Cảm ơn bạn đã lựa chọn Genetica®"
+    },
+    "body": {
+      "message": {
+        "notify": "Từ 1 tới 3 ngày làm việc, bộ thu mẫu sẽ được gửi tới địa chỉ mà bạn đã cung cấp: ",
+        "address": "Tầng 9, Trung tâm Đổi Mới Sáng Tạo Quốc Gia - Tòa nhà NIC, Ngõ 7 Tôn Thất Thuyết, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội, Việt Nam",
+        "contact": "Mọi thắc mắc vui lòng liên hệ email <1>cs@genetica.asia</1> hoặc hotline <3>1900 599 927</3>. Đội ngũ Chăm sóc Khách hàng Genetica® sẵn sàng hỗ trợ bất kỳ lúc nào."
+      },
+      "button": {
+        "label": "Quay lại trang chủ"
+      }
+    }
+  },
+  "modalError": {
+    "header": {
+      "title": "Có lỗi xảy ra"
+    },
+    "body": {
+      "message": {
+        "notify": "Thay đổi của bạn chưa được lưu lại.",
+        "contact": "Mọi thắc mắc vui lòng liên hệ email <1>cs@genetica.asia</1> hoặc hotline <3>1900 599 927</3>. Đội ngũ Chăm sóc Khách hàng Genetica® sẵn sàng hỗ trợ bất kỳ lúc nào."
+      },
+      "button": {
+        "label": "Thử lại"
+      }
+    }
+  }
+}

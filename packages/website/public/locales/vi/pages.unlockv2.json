@@ -1,0 +1,22 @@
+{
+  "body": {
+    "formCartDetails": {
+      "header": {
+        "title": "Dịch vụ"
+      },
+      "labels": {
+        "unlock": "Mở khóa",
+        "removed": "đã được xóa",
+        "for": "Cho"
+      },
+      "actions": {
+        "saveCartItemForLater": {
+          "text": "Xóa"
+        },
+        "undoSaveCartItemForLater": {
+          "text": "Hoàn tác"
+        }
+      }
+    }
+  }
+}

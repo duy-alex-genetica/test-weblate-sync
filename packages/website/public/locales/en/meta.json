@@ -1,0 +1,161 @@
+{
+  "404": {
+    "title": "404: page not found"
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions (FAQ)",
+    "description": "FREQUENTLY ASKED QUESTIONS: What is genetic testing? What are the benefits of genetic tests? What are the differences of genetic test done by Genetica® from others? How genetic testing service can be done at Genetica?"
+  },
+  "about": {
+    "title": "About Genetic Testing Company",
+    "description": "Genetica® is an Artificial Intelligence Genetic Testing company ✅ based in San Francisco (USA) advised by scientific team from Ivy League such as UCSF, Harvard, Stanford, Cornell."
+  },
+  "advisors": {
+    "title": "Board Of Advisors",
+    "description": "With a reputable advisory board in the field of genetic testing using artificial intelligence technology ✅ Genetica® believes that can bring greater value and meaning into the lives of each customer."
+  },
+  "advisorsBusiness": {
+    "title": "Board Of Advisors Business",
+    "description": "With a seasoned business advisory board ✅ Genetica® believes that it will bring greater value and meaning to each client's life."
+  },
+  "advisorsScientific": {
+    "title": "Board Of Advisors Scientific",
+    "description": "With deep knowledge and expertise from prestigious and reputable scientists in the genetics field and artifical intelligence technology ✅ Genetica® sincerely believes that we can bring about greater values and meanings into each of our customers' lives."
+  },
+  "blog": {
+    "title": "Update your knowledge of genes & Useful Health Information",
+    "description": "Providing up to date knowledge about genes and health care information for your family and yourself"
+  },
+  "careers": {
+    "title": "Recruitment",
+    "description": "Job search and recruitment information at Genetica® Join us in exploring your career opportunities to fulfill your mission of bringing gene decoding closer to the community!"
+  },
+  "cart": {
+    "title": "Cart"
+  },
+  "checkout": {
+    "title": "Checkout"
+  },
+  "checkoutCallback": {
+    "title": "Payment information"
+  },
+  "consultation": {
+    "title": "Book an Appointment",
+    "description": "Leave your information, Genetica® will contact you as soon as possible"
+  },
+  "consultationContact": {
+    "title": "Book an appointment",
+    "description": "Leave your information, Genetica® will contact you as soon as possible and free of charge, hotline: 1900599927"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Contact us for more information about your interests. Genetica® is pleased to to support you!"
+  },
+  "disclaimer": {
+    "title": "Disclaimer",
+    "description": "Disclaimer"
+  },
+  "general": {
+    "legalName": "GENE FRIEND VIETNAM, INC",
+    "description": "Genetica® | American Technology Genetic Testing For Asians",
+    "address": {
+      "streetAddress": "2nd Floor, 40 Pham Ngoc Thach Street, Vo Thi Sau Ward, Dist.3",
+      "addressLocality": "Ho Chi Minh City",
+      "addressCountry": "Viet Nam",
+      "addressPostalCode": "700000",
+      "addressCountryCode": "VN"
+    },
+    "GeoCoordinates": {
+      "latitude": 10.7851302,
+      "longitude": 106.6935657
+    },
+    "dayOfWeek": {
+      "1": "Monday",
+      "2": "Friday",
+      "3": "Thursday",
+      "4": "Wednesday",
+      "5": "Tuesday"
+    },
+    "email": "cs@genetica.asia",
+    "telephone": "1900 599 927"
+  },
+  "generalTransactionConditions": {
+    "title": "General Transaction Conditions",
+    "description": "Terms of transaction on the website Genetica.asia. Agree to Genetica® terms and conditions of use of the Services and Applications®"
+  },
+  "getYourOwnGeneNft": {
+    "title": "Own your GeneNFT now!",
+    "description": "Decode your gene at Genetica® and own a digital asset representing your genetic data! See more at genetica.asia"
+  },
+  "home": {
+    "title": "Genetica® | American Technology Genetic Testing For Asians",
+    "description": "Genetica® The Application of Artificial Intelligence in U.S. Technology Gene Decoding ✅ Partners of ILLUMINA and Thermo Fisher, two organizations producing digital gene decoding chips 🥇 world.",
+    "breadcrumb": {
+      "title": "Home"
+    }
+  },
+  "legal": {
+    "breadcrumb": {
+      "title": "Terms & Policies"
+    }
+  },
+  "news": {
+    "title": "News - Facts",
+    "description": ""
+  },
+  "partners": {
+    "title": "Partner - Customer",
+    "description": ""
+  },
+  "partnersUs": {
+    "title": "Partners - Genetica Customers® USA",
+    "description": ""
+  },
+  "partnersVn": {
+    "title": "Partners - Genetica Customers® Vietnam",
+    "description": ""
+  },
+  "paymentMethods": {
+    "title": "Payment Methods",
+    "description": "Payment method at Genetica® Provide payment instructions to customers for a convenient purchase at our website genetica.asia"
+  },
+  "pressRelease": {
+    "title": "Press Release",
+    "description": ""
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "description": "This Privacy Statement applies to the website Genetica.asia and any other website, application, pages, features and/or contents owned and operated by Genetica® and your use of our Services."
+  },
+  "reportSamplesDetails": {
+    "title": "Report Sample",
+    "description": "Report Sample"
+  },
+  "returnAndComplaintHandlingPolicy": {
+    "title": "Complaint Handling Policy",
+    "description": "Genetica® is always responsible for receiving and processing customer complaints related to any transactions at genetica.asia ✅ For more information, see here."
+  },
+  "screeningQuestionnaire": {
+    "title": "Screening Questionnaire"
+  },
+  "securitySetting": {
+    "title": "Security settings"
+  },
+  "serviceDeliveryProcess": {
+    "title": "Service Delivery Process",
+    "description": "Services delivery process at Genetica as: services registration, saliva collection guidance, genetic analyzing, genetic decoding, report issuance and report consultation."
+  },
+  "serviceExchangeCancellationAndRefundPolicy": {
+    "title": "Service exchange cancellation and refund policy",
+    "description": "Service exchange cancellation and refund policy in Genetica®. The Client please update the latest policy at genetica.asia or the Company's Genetica Application to update related information."
+  },
+  "termsOfService": {
+    "title": "Terms OF Service",
+    "description": "Your use of the Genetica Services® is subject to the terms of the legal agreement between you and Genetica® as set out in these ATVs and in any and all materials entered into this ATO by reference."
+  },
+  "whatIsGeneDecoding": {
+    "breadcrumb": {
+      "title": "Did you know"
+    }
+  }
+}

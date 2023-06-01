@@ -1,0 +1,226 @@
+{
+  "title": "Genetica® American Technology Genotype Test for Asians",
+  "sectionAdvisors": {
+    "body": {
+      "title": "Professional Advisory Department",
+      "description": "Our Board of Advisors are Silicon Valey's most successful investors and top professors from Ivy League universities such as Harvard, Stanford, Cornell and more.",
+      "actions": {
+        "1": {
+          "label": "Learn more"
+        }
+      }
+    }
+  },
+  "sectionDownload": {
+    "body": {
+      "title": "Genetica Mobile App",
+      "description": "More than 1000+ in-depth reports about yourself right <br/> at your fingertips",
+      "subtitle": "Download App now"
+    }
+  },
+  "sectionBenefits": {
+    "header": {
+      "title": "Benefits of <br/>genetic testing"
+    },
+    "body": {
+      "list": {
+        "0": {
+          "actions": {
+            "learnMore": {
+              "label": "Learn more"
+            }
+          }
+        },
+        "1": {
+          "title": "Personalize Your Own <br/>Lifestyle",
+          "description": "Design your development plan based on genetic analysis about potential, nutrition needs, fitness scheme and recommendations from experts."
+        },
+        "2": {
+          "title": "Help your children <br/>reach their full potential",
+          "description": "Recognize your children's inborn abilities to create the best fitted development path in healthcare, education and future orientation."
+        },
+        "3": {
+          "title": "Understand Your Health <br/>Risks Early",
+          "description": "Prevent inherent diseases with personalized recommendations from our experts."
+        }
+      }
+    }
+  },
+  "sectionMedia": {
+    "header": {
+      "title": "Media say about Genetica"
+    }
+  },
+  "sectionPartners": {
+    "header": {
+      "title": "Our Partners",
+      "description": "Genetica® is recognized as the leading player in the personal genomics industry by our partners across the globe."
+    },
+    "body": {
+      "menu": {
+        "partnersFromUSA": {
+          "label": "In the US"
+        },
+        "partnersFromVietnam": {
+          "label": "In Vietnam"
+        }
+      }
+    }
+  },
+  "sectionCertificates": {
+    "header": {
+      "title": "International Certificate"
+    },
+    "body": {
+      "certificate": {
+        "1": "CLIA Certificate",
+        "2": "CAP Certificate"
+      },
+      "description": "Genetica's laboratories in San Francisco and Vietnam meet CLIA standards - the strictest U.S. standards for the accuracy of laboratories.<br /><br />By analyzing hundreds of genes, our genetic reports provide precise scientific information about physical, behavioral, intellectual traits & health risks, with personalized recommendations for each user."
+    }
+  },
+  "sectionProcess": {
+    "header": {
+      "title": "3-step testing process"
+    },
+    "body": {
+      "list": {
+        "1": {
+          "title": "Register Service",
+          "description": "After purchase, Genetica will send the DNA collection kit to your registered address."
+        },
+        "2": {
+          "title": "Collect your saliva sample",
+          "description": "Simply follow the instruction found inside the DNA tesing kit to collect your saliva. Once ready, send your saliva back to us for DNA analysis.",
+          "actions": {
+            "1": {
+              "label": "Instructional video"
+            }
+          }
+        },
+        "3": {
+          "title": "Results ready in 30 working days",
+          "description": "Download Genetica mobile app to view your comprehensive results with personalized recommendations.",
+          "actions": {
+            "1": {
+              "label": "Google Play"
+            },
+            "2": {
+              "label": "App Store"
+            }
+          },
+          "thumbnail": {
+            "caption": "Download App via:"
+          }
+        }
+      }
+    }
+  },
+  "sectionServices": {
+    "header": {
+      "title": "Services"
+    },
+    "body": {
+      "list": {
+        "adults": {
+          "title": "Adults",
+          "subtitle": "For individuals over 18"
+        },
+        "kids": {
+          "title": "Kids",
+          "subtitle": "For kids under 18"
+        },
+        "health": {
+          "title": "Health",
+          "subtitle": "All ages"
+        }
+      }
+    }
+  },
+  "sectionSpecialists": {
+    "header": {
+      "title": "Meet Genetica® Experts",
+      "description": "Our Experts are highly experienced doctors from major hospitals and research institutes <br/>across the country.",
+      "actions": {
+        "1": {
+          "label": "Learn more"
+        }
+      }
+    }
+  },
+  "sectionTestimonials": {
+    "header": {
+      "title": "Testimonials"
+    },
+    "body": {
+      "list": {
+        "0": {
+          "actions": {
+            "viewMore": {
+              "label": "View more"
+            }
+          }
+        },
+        "-1": {
+          "content": "<p>Genetica has served thousands of customers and helped them optimize their lifestyles. </p> <p> Let’s hear their inspiring stories and tell us yours.</p>",
+          "actions": {
+            "listenToOtherStory": "Listen to others' stories"
+          }
+        }
+      }
+    }
+  },
+  "sectionUtilities": {
+    "body": {
+      "list": {
+        "1": {
+          "title": "Sample reports"
+        },
+        "2": {
+          "title": "Book a consultation session",
+          "description": "Book a consultation session"
+        },
+        "3": {
+          "title": "Gift Code",
+          "description": "Gift Code"
+        }
+      }
+    }
+  },
+  "sectionWhyChoosingGenetica": {
+    "header": {
+      "title": "Why Choosing Genetica<span>®</span>"
+    },
+    "body": {
+      "list": {
+        "0": {
+          "actions": {
+            "viewDetails": {
+              "label": "View details"
+            }
+          }
+        },
+        "1": {
+          "title": "U.S. Standard Technology <br/>With99.9% Of Accuracy"
+        },
+        "2": {
+          "title": "Keep Customer Data Secure <br/>With Blockchain Technology"
+        },
+        "3": {
+          "title": "Collecting Saliva Sample - Safe <br/>and Non-invasive"
+        },
+        "4": {
+          "title": "In-depth Result Consultation <br/>With Genetic Experts"
+        }
+      }
+    }
+  },
+  "sectionBestSellingPackages": {
+    "header": {
+      "title": "Best Selling Services"
+    },
+    "actions": {
+      "viewAllProducts": "See All Services at Genetica"
+    }
+  }
+}

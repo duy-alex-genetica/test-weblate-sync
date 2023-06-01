@@ -1,0 +1,77 @@
+{
+  "header": {
+    "title": "Đặt lịch tư vấn dịch vụ"
+  },
+  "body": {
+    "title": "Chọn kênh tư vấn",
+    "content": {
+      "menu": {
+        "phone": "Tư vấn qua điện thoại",
+        "office": "Tư vấn tại văn phòng"
+      },
+      "form": {
+        "label": {
+          "1": "Thông tin liên hệ",
+          "2": "Thời gian nhận tư vấn",
+          "3": "Chọn khung giờ",
+          "4": "Đối tượng thực hiện dịch vụ",
+          "5": "Các nội dung tư vấn",
+          "6": "Mức giá dịch vụ (không bắt buộc)",
+          "7": "Chọn mức giá",
+          "8": "Địa điểm"
+        },
+        "name": "Họ và tên (không bắt buộc)",
+        "dropdown": {
+          "labelDefault": "Chọn",
+          "price": {
+            "labelDefault": "Chọn mức giá"
+          },
+          "timeBooking": {
+            "labelDefault": "Chọn khung giờ"
+          }
+        },
+        "locations": {
+          "1": {
+            "label": "Văn phòng Hà Nội",
+            "description": "Tầng 9, Trung tâm Đổi Mới Sáng Tạo Quốc Gia - Tòa nhà NIC, Ngõ 7 Tôn Thất Thuyết, Phường Dịch Vọng Hậu, Quận Cầu Giấy"
+          },
+          "2": {
+            "label": "Văn phòng Hồ Chí Minh",
+            "description": "Tầng 2, Số 40 Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3"
+          }
+        },
+        "serviceUsers": {
+          "1": "Trẻ em",
+          "2": "Người lớn"
+        },
+        "topics": {
+          "1": "Dinh dưỡng, thể chất",
+          "2": "Trí tuệ, hành vi",
+          "3": "Nguy cơ sức khỏe",
+          "4": "Phát triển toàn diện"
+        },
+        "priceOptions": {
+          "1": "Dưới 3,000,000đ",
+          "2": "Từ 3,000,000đ đến 5,000,000đ",
+          "3": "Từ 5,000,000đ đến 10,000,000đ",
+          "4": "Trên 10,000,000đ"
+        },
+        "button": {
+          "label": "Đặt lịch"
+        }
+      }
+    }
+  },
+  "modal": {
+    "success": {
+      "online": {
+        "content": "Cảm ơn bạn đã liên hệ với Genetica®! Nhân viên tư vấn của Genetica® sẽ liên hệ lại sớm và hỗ trợ mình. Hãy đảm bảo điện thoại của bạn luôn sẵn sàng nhé.",
+        "action": "Trở lại trang chủ"
+      },
+      "meetUp": {
+        "content": "Cảm ơn bạn đã liên hệ với Genetica®! Nhân viên tư vấn của Genetica® sẽ liên hệ lại sớm và hỗ trợ mình.",
+        "action": "Trở lại trang chủ"
+      }
+    }
+  }
+}

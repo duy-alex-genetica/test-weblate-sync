@@ -1,0 +1,74 @@
+{
+  "christmas-event": {
+    "contact": "Liên hệ tư vấn",
+    "buyNow": "Mua ngay",
+    "partner": "Đối tác quốc tế:",
+    "form": {
+      "title": {
+        "1": "khai phá",
+        "2": "tiềm năng trí tuệ của con",
+        "3": "ngay hôm nay!"
+      },
+      "phone": "Số điện thoại*",
+      "description": "Chúng tôi sẽ liên hệ với bạn ngay khi nhận được số điện thoại!",
+      "submit": "liên hệ tư vấn"
+    },
+    "modal": {
+      "success": {
+        "1": "Cám ơn thông tin của bạn.",
+        "2": "Genetica",
+        "3": "sẽ liên hệ với bạn <br/> ngay sau khi nhận được <br/> số điện thoại."
+      },
+      "error": "Số điện thoại không hợp lệ",
+      "action": "Đóng"
+    }
+  },
+  "tetEvent": {
+    "contact": "Liên hệ tư vấn",
+    "buyNow": "Mua ngay",
+    "partner": "Đối tác quốc tế:",
+    "form": {
+      "title": {
+        "1": "khai phá",
+        "2": "tiềm năng trí tuệ của con",
+        "3": "ngay hôm nay!"
+      },
+      "phone": "Số điện thoại*",
+      "description": "Chúng tôi sẽ liên hệ với bạn ngay khi nhận được số điện thoại!",
+      "submit": "liên hệ tư vấn"
+    },
+    "modal": {
+      "success": {
+        "1": "Cám ơn thông tin của bạn.",
+        "2": "Genetica",
+        "3": "sẽ liên hệ với bạn <br/> ngay sau khi nhận được <br/> số điện thoại."
+      },
+      "error": "Số điện thoại không hợp lệ",
+      "action": "Đóng"
+    }
+  },
+  "newYearResolution": {
+    "contact": "Liên hệ tư vấn",
+    "buyNow": "Mua ngay",
+    "partner": "Đối tác quốc tế:",
+    "form": {
+      "title": {
+        "1": "Khởi động năm mới",
+        "2": "giải mã thành công",
+        "3": "ngay hôm nay!"
+      },
+      "phone": "Số điện thoại*",
+      "description": "Chúng tôi sẽ liên hệ với bạn ngay khi nhận được số điện thoại!",
+      "submit": "liên hệ tư vấn"
+    },
+    "modal": {
+      "success": {
+        "1": "Cám ơn thông tin của bạn.",
+        "2": "Genetica",
+        "3": "sẽ liên hệ với bạn <br/> ngay sau khi nhận được <br/> số điện thoại."
+      },
+      "error": "Số điện thoại không hợp lệ",
+      "action": "Đóng"
+    }
+  }
+}

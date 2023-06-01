@@ -1,0 +1,22 @@
+{
+  "header": {
+    "title": "认识我们的专家"
+  },
+  "body": {
+    "filters": {
+      "title": {
+        "label": "筛选",
+        "option": {
+          "all": "全部"
+        }
+      }
+    },
+    "list": {
+      "item": {
+        "buttonDetails": {
+          "label": "医生信息"
+        }
+      }
+    }
+  }
+}

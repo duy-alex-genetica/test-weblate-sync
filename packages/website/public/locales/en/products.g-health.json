@@ -1,0 +1,90 @@
+{
+  "title": "G-Health",
+  "subtitle": "For Healthcare",
+  "description": "Assess the risk of hereditary diseases hidden in your genetic code, including 20 common types of cancer.",
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "Simple, Safe, and Non-Invasive",
+      "description": "Only your saliva is required. Our advanced technology allows us to extract DNA from saliva. This makes it simpler, safer, and more convenient to run genetic analyses as compared to conventional procedures that rely on blood samples."
+    },
+    "2": {
+      "subtitle": "",
+      "title": "Know Your Risks",
+      "description": "Some cancers run in families and you may be at risk of cancer if your relatives have one form of it or another. Knowledge of your own genetic makeup helps you accurately assess your risk of cancer and create a better healthcare plan."
+    },
+    "3": {
+      "subtitle": "",
+      "title": "Customize Your Cancer Screening Plan",
+      "description": "Unnecessary cancer screening carries its own risks, including physical distress, bleeding, and even cancer itself. In some cases, especially when symptoms are absent, general cancer screening might not dig deep enough to detect the presence of cancer. By understanding your genetic makeup, you can build a targeted screening plan to accurately detect cancer, reduce side effects, and save on costs."
+    }
+  },
+  "packages": {
+    "1": {
+      "title": "G-Health"
+    }
+  },
+  "reportCategories": {
+    "1": {
+      "reports": {
+        "1": {
+          "name": "Bladder cancer"
+        },
+        "2": {
+          "name": "Brain cancer"
+        },
+        "3": {
+          "name": "Breast cancer"
+        },
+        "4": {
+          "name": "Cervical cancer"
+        },
+        "5": {
+          "name": "Colon cancer"
+        },
+        "6": {
+          "name": "Endometrial cancer"
+        },
+        "7": {
+          "name": "Esophageal cancer"
+        },
+        "8": {
+          "name": "Kidney cancer"
+        },
+        "9": {
+          "name": "Leukemia"
+        },
+        "10": {
+          "name": "Liver cancer"
+        },
+        "11": {
+          "name": "Lung cancer"
+        },
+        "12": {
+          "name": "Ovarian cancer"
+        },
+        "13": {
+          "name": "Pancreatic cancer"
+        },
+        "14": {
+          "name": "Pheochromocytoma & Paraganglioma"
+        },
+        "15": {
+          "name": "Prostate cancer"
+        },
+        "16": {
+          "name": "Rectal cancer"
+        },
+        "17": {
+          "name": "Skin cancer"
+        },
+        "18": {
+          "name": "Stomach cancer"
+        },
+        "19": {
+          "name": "Testicular cancer"
+        }
+      }
+    }
+  }
+}

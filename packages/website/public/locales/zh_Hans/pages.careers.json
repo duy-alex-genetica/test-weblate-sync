@@ -1,0 +1,12 @@
+{
+  "header": {
+    "title": "招聘"
+  },
+  "body": {
+    "sectionJobs": {
+      "contentEmpty": {
+        "description": "抱歉，我们目前没有任何<br/>职位空缺！"
+      }
+    }
+  }
+}

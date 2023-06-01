@@ -1,0 +1,57 @@
+{
+  "header": {
+    "title": "What is gene decoding?"
+  },
+  "body": {
+    "sectionHero": {
+      "title": "What is genetic testing, <br/>gene decoding?",
+      "description": "Gene decoding uses laboratory methods to deciper deoxyribonucleic acid (DNA) inside your genes. Genes exist inside your cells, the are materials you are inherented from your parents. Gene decoding through genetic tests help determine matters relating to genetics such as intellectual and physical potential, behavioral tendencies, and health risks."
+    },
+    "sectionBenefits": {
+      "title": "Benefits of Genetic Testing",
+      "description": "There are various types of genetic tests. Genetic testing helps:",
+      "benefits": {
+        "1": {
+          "title": "Explore yourself based on <br/>your genes",
+          "items": {
+            "0": "Optimize your workout plan.",
+            "1": "Optimize your nutritional plan."
+          }
+        },
+        "2": {
+          "title": "Personalized recommendations",
+          "items": {
+            "0": "Explore scholastic potential.",
+            "1": "Sharpen your strengths.",
+            "2": "Improve your shortcomings."
+          }
+        },
+        "3": {
+          "title": "Preventive care to diseases",
+          "items": {
+            "0": "Diagnose diseases.",
+            "1": "Determine mutations causing diseases.",
+            "2": "Determine disease severity.",
+            "3": "Determine mutations showing possibilities of passing to your children.",
+            "4": "Guide suitable medications and treatment for each individual.",
+            "5": "Determine mutations increasing risks of having diseases."
+          }
+        }
+      }
+    },
+    "sectionWhy": {
+      "title": "Why having genetic testing?",
+      "description": "Have gene analyzed and grasp your “biological map” handy, unlock potential and help <br>people achieve their best versions.",
+      "reasons": {
+        "1": {
+          "title": "Understand how genes impact your body.",
+          "description": "In recent years, genetic testing contributes significant information to global medicine and science. Hereditary genes allow us to access how variations in DNA interacting with one another and influence our development, behaviors, and health foundation."
+        },
+        "2": {
+          "title": "Genes are like universal key helping us understand ourselves.",
+          "description": "Genes open a pandora of hidden information inside our body, making each individual unique in their own way."
+        }
+      }
+    }
+  }
+}

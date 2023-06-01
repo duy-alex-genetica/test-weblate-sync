@@ -1,0 +1,14 @@
+{
+  "title": "Contact Us",
+  "content": {
+    "timeOfWeek": {
+      "label": "Monday - Friday"
+    },
+    "office": "Offices",
+    "contacts": "Contacts",
+    "hotline": "Hotline",
+    "workingHours": "Working hours",
+    "email": "Email",
+    "mondayToFriday": "Monday - Friday"
+  }
+}

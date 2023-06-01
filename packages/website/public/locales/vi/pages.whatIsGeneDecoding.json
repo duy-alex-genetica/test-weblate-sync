@@ -1,0 +1,57 @@
+{
+  "header": {
+    "title": "Giải mã gen là gì"
+  },
+  "body": {
+    "sectionHero": {
+      "title": "Xét nghiệm, giải mã <br/>gen là gì?",
+      "description": "Phân tích gen là dùng các phương pháp trong phòng thí nghiệm để giải mã các hướng dẫn ADN (axit deoxyribonucleic) có trong gen được di truyền từ cha và mẹ có trong các tế bào của cơ thể con người. Phân tích gen giúp xác định những gì liên quan đến di truyền như tiềm năng trí tuệ, tiềm năng thể chất, dinh dưỡng, xu hướng hành vi, & các nguy cơ sức khỏe trong mỗi người."
+    },
+    "sectionBenefits": {
+      "title": "Lợi ích của giải mã gen?",
+      "description": "Có nhiều loại xét nghiệm gen khác nhau. Xét nghiệm gen có thể giúp:",
+      "benefits": {
+        "1": {
+          "title": "Khám phá bản thân <br/>qua bộ gen",
+          "items": {
+            "0": "Tối ưu hóa kế hoạch tập luyện thể dục.",
+            "1": "Tối ưu hóa kế hoạch dinh dưỡng."
+          }
+        },
+        "2": {
+          "title": "Các khuyến nghị được cá nhân hóa",
+          "items": {
+            "0": "Khai phá tiềm năng thiên tài.",
+            "1": "Phát huy thế mạnh.",
+            "2": "Cải thiện điểm yếu."
+          }
+        },
+        "3": {
+          "title": "Chăm sóc phòng và ngừa bệnh tật",
+          "items": {
+            "0": "Chẩn đoán bệnh.",
+            "1": "Xác định các đột biến gen gây bệnh.",
+            "2": "Xác định mức độ nghiêm trọng của bệnh.",
+            "3": "Xác định các đột biến gen có thể di truyền sang cho con.",
+            "4": "Hướng dẫn bác sĩ quyết định loại thuốc hay phương pháp điều trị tốt nhất để sử dụng cho một số người.",
+            "5": "Xác định các đột biến gen có thể làm tăng nguy cơ gây ra bệnh."
+          }
+        }
+      }
+    },
+    "sectionWhy": {
+      "title": "Vì sao cần giải mã gen?",
+      "description": "Xét nghiệm gen để có được “tấm bản đồ sinh học” trong tay, khai mở tiềm năng và giúp mỗi <br/>người trở thành phiên bản tốt nhất.",
+      "reasons": {
+        "1": {
+          "title": "Biết được tác động của gen với cơ thể của chúng ta.",
+          "description": "Trong những năm gần đây, giải mã gen đã đóng góp những thông tin quan trọng cho y tế và khoa học thế giới. Gen di truyền cho phép chúng ta biết được các biến thể trong DNA tương tác với nhau như thế nào và tác động của chúng đối với sự phát triển, hành vi và sức khỏe nền tảng của chúng ta."
+        },
+        "2": {
+          "title": "Gen là chiếc chìa khóa vạn năng giúp ta hiểu được chính mình.",
+          "description": "Gen mở ra kho thông tin ẩn sâu bên trong cơ thể của chúng ta, khiến mỗi người là một cá thể duy nhất theo cách riêng của mình."
+        }
+      }
+    }
+  }
+}

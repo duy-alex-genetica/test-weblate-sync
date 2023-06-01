@@ -1,0 +1,28 @@
+{
+  "title": "G-Autism",
+  "subtitle": "G-Autism",
+  "description": "Tiếp cận các kiến thức chuyên sâu về nguyên nhân liên quan đến gen của chứng tự kỷ nhằm đưa ra những quyết định đúng đắn về mặt y tế và lối sống cho con bạn.",
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "Đơn giản, an toàn, và không xâm lấn",
+      "description": "Chỉ cần mẫu nước bọt của bạn là đủ. Công nghệ tiên tiến của chúng tôi cho phép tách chiết DNA chỉ từ mẫu nước bọt, điều này khiến quy trình lấy mẫu đơn giản, an toàn, và thuận tiện hơn so với mẫu máu ở những phương pháp xét nghiệm thông thường."
+    },
+    "2": {
+      "subtitle": "",
+      "title": "Hiểu rõ về nguy cơ tự kỷ của con bạn",
+      "description": "Cho đến nay, hàng trăm gen liên quan với Rối loạn phổ Tự kỷ (ASD) đã được phát hiện thông qua các nghiên cứu di truyền trên hơn 10.000 bệnh nhân ASD và gia đình của họ. Dựa trên các nghiên cứu này, báo cáo G-Autism phân tích hơn 1200 biến thể để đánh giá nguy cơ tự kỷ của con bạn."
+    },
+    "3": {
+      "subtitle": "",
+      "title": "Chăm sóc con bạn đúng đắn",
+      "description": "Báo cáo G-Autism cung cấp những khuyến nghị dành riêng cho con bạn dựa trên những kết quả phân tích và hướng dẫn đang hiện hành từ những tổ chức đáng tin cậy như NIH và Học viện Nhi khoa Hoa Kỳ."
+    }
+  },
+  "packages": {
+    "1": {
+      "title": "G-Autism",
+      "subtitle": ""
+    }
+  }
+}

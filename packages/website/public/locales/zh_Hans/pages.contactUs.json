@@ -1,0 +1,14 @@
+{
+  "title": "联系我们",
+  "content": {
+    "timeOfWeek": {
+      "label": "周一至周五"
+    },
+    "office": "办事处",
+    "contacts": "联系人",
+    "hotline": "热线",
+    "email": "电子邮件",
+    "workingHours": "工作时间",
+    "mondayToFriday": "周一至周五"
+  }
+}

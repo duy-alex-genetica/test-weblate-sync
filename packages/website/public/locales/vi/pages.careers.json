@@ -1,0 +1,12 @@
+{
+  "header": {
+    "title": "Thông tin tuyển dụng"
+  },
+  "body": {
+    "sectionJobs": {
+      "contentEmpty": {
+        "description": "Công ty chưa có yêu cầu <br/>tuyển dụng hiện tại"
+      }
+    }
+  }
+}

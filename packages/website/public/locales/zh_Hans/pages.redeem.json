@@ -1,0 +1,138 @@
+{
+  "sectionInputCode": {
+    "header": {
+      "title": "礼品代码",
+      "description": "输入您收到的推荐码"
+    },
+    "body": {
+      "formInsertCode": {
+        "fields": {
+          "code": {
+            "placeholder": "礼品代码/推荐代码"
+          }
+        },
+        "buttons": {
+          "submit": {
+            "label": "提交"
+          }
+        }
+      }
+    }
+  },
+  "sectionCustomerInformation": {
+    "header": {
+      "title": "客户信息",
+      "description": "请提供您的信息，以便 Genetica 可以将唾液收集套件交付给您"
+    },
+    "body": {
+      "formCustomerInformation": {
+        "fields": {
+          "name": {
+            "label": "姓名",
+            "placeholder": "姓名",
+            "error": {
+              "message": {
+                "error": "错误",
+                "required": "必需的"
+              }
+            }
+          },
+          "phone": {
+            "label": "电话号码",
+            "placeholder": "电话号码",
+            "error": {
+              "message": {
+                "error": "无效的电话号码",
+                "required": "必需的"
+              }
+            }
+          },
+          "address": {
+            "label": "地址",
+            "fields": {
+              "country": {
+                "placeholder": "国家",
+                "error": {
+                  "message": {
+                    "outsideVietNam": "我们目前不运送到越南以外的地方。 请发送电子邮件至 <1>contact@genetica.asia</1> 寻求支持。",
+                    "required": "必需的"
+                  }
+                }
+              },
+              "provinceCity": {
+                "placeholder": "省/市",
+                "error": {
+                  "message": {
+                    "error": "错误",
+                    "required": "必需的"
+                  }
+                }
+              },
+              "district": {
+                "placeholder": "郡",
+                "error": {
+                  "message": {
+                    "error": "错误",
+                    "required": "必需的"
+                  }
+                }
+              },
+              "ward": {
+                "placeholder": "区",
+                "error": {
+                  "message": {
+                    "error": "错误",
+                    "required": "必需的"
+                  }
+                }
+              },
+              "locationDetail": {
+                "placeholder": "位置详细信息（地标、号码等）",
+                "error": {
+                  "message": {
+                    "error": "错误",
+                    "required": "必需的"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "buttons": {
+          "submit": {
+            "label": "结束"
+          }
+        }
+      }
+    }
+  },
+  "modalSuccess": {
+    "header": {
+      "title": "感谢您选择 Genetica®"
+    },
+    "body": {
+      "message": {
+        "notify": "Genetica 将在 1 - 3 个工作日内将唾液收集套件发送到您的地址：",
+        "address": "Cau Giay郡，Dich Vong Hau区，Ton That Thuyet街，07巷国家创新中心NIC大楼, 9楼",
+        "contact": "如果您需要任何进一步的支持，请通过电子邮件 <1>cs@genetica.asia</1> 或热线 <3>1900 599 927</3> 与我们联系。"
+      },
+      "button": {
+        "label": "返回首页"
+      }
+    }
+  },
+  "modalError": {
+    "header": {
+      "title": "出了些问题"
+    },
+    "body": {
+      "message": {
+        "notify": "您的更改尚未保存。",
+        "contact": "如果您需要任何进一步的支持，请通过电子邮件 <1>cs@genetica.asia</1> 或热线 <3>1900 599 927</3> 与我们联系。"
+      },
+      "button": {
+        "label": "再试一次"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "header": {
+    "title": "重要信息",
+    "description": "确认以下信息有助于保护您的基因报告的机密性。"
+  },
+  "body": {
+    "form": {
+      "field": {
+        "name": {
+          "label": "姓名",
+          "value": {
+            "empty": "不可用"
+          },
+          "error": {
+            "empty": "请不要将此字段留空"
+          }
+        },
+        "phone": {
+          "label": "接报电话",
+          "notification": "请在登录 Genetica 应用程序时使用此电话号码查看详细报告"
+        },
+        "email": {
+          "label": "接收报告的电子邮件",
+          "value": {
+            "empty": "不可用"
+          },
+          "error": {
+            "format": "不合规电邮",
+            "empty": "请不要将此字段留空"
+          }
+        },
+        "dob": {
+          "label": "出生日期",
+          "value": {
+            "empty": "不可用"
+          },
+          "error": {
+            "format": "出生日期无效",
+            "empty": "请不要将此字段留空",
+            "limitAge": "您注册的服务不适用于您输入的年龄。 通过 1900 599 927 联系 Genetica 以获得任何支持"
+          }
+        },
+        "gender": {
+          "label": "性别",
+          "values": {
+            "empty": "不可用",
+            "male": "男性",
+            "female": "女性",
+            "unspecified": "未指定"
+          },
+          "error": {
+            "empty": "请不要将此字段留空"
+          }
+        },
+        "policy": {
+          "label": "我特此同意提供我的信息以执行 Genetica(r) 的服务。 我保证信息的准确性，并对以上提供的信息承担全部责任。"
+        },
+        "submit": {
+          "label": "确认"
+        }
+      }
+    }
+  }
+}

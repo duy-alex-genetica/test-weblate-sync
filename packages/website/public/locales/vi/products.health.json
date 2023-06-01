@@ -1,0 +1,90 @@
+{
+  "title": "Sức khỏe",
+  "subtitle": "Sức khỏe",
+  "description": "Đánh giá nguy cơ các bệnh di truyền tiềm ẩn, trong đó có 20 loại ung thư phổ biến.",
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "Đơn giản, an toàn, và không xâm lấn",
+      "description": "Chỉ cần mẫu nước bọt của bạn là đủ.<br/>Công nghệ tiên tiến của chúng tôi cho phép tách chiết DNA chỉ từ mẫu nước bọt, điều này khiến quy trình lấy mẫu đơn giản, an toàn, và thuận tiện hơn so với mẫu máu ở những phương pháp xét nghiệm thông thường."
+    },
+    "2": {
+      "subtitle": "",
+      "title": "Hiểu rõ rủi ro",
+      "description": "Một số loại ung thư có nguy cơ di truyền trong gia đình, nghĩa là bạn có nguy cơ mắc ung thư nếu người thân của bạn mắc ung thư. Hiểu rõ bộ gen giúp bạn đánh giá chính xác nguy cơ của bản thân và đưa ra những kế hoạch chăm sóc sức khỏe phù hợp."
+    },
+    "3": {
+      "subtitle": "",
+      "title": "Tối ưu hóa kế hoạch tầm soát ung thư",
+      "description": "Việc lạm dụng không cần thiết các xét nghiệm tầm soát ung thư mang những rủi ro nhất định, bao gồm đau đớn về thể chất, chảy máu, và cả ung thư. Trong một số trường hợp, khi chưa có triệu chứng của ung thư, tầm soát ung thư tổng quát có thể không phát hiện được ung thư. Thông qua hiểu bộ gen của mình, bạn có thể xây dựng một kế hoạch tầm soát chọn lọc giúp phát hiện ung thư chính xác, giảm tác dụng phụ, và tiết kiệm chi phí."
+    }
+  },
+  "packages": {
+    "1": {
+      "title": "G-Health"
+    }
+  },
+  "reportCategories": {
+    "1": {
+      "reports": {
+        "1": {
+          "name": "Ung thư bàng quang"
+        },
+        "2": {
+          "name": "Ung thư não"
+        },
+        "3": {
+          "name": "Ung thư vú"
+        },
+        "4": {
+          "name": "Ung thư cổ tử cung"
+        },
+        "5": {
+          "name": "Ung thư ruột"
+        },
+        "6": {
+          "name": "Ung thư nội mạc tử cung"
+        },
+        "7": {
+          "name": "Ung thư thực quản"
+        },
+        "8": {
+          "name": "Ung thư ruột"
+        },
+        "9": {
+          "name": "Ung thư máu"
+        },
+        "10": {
+          "name": "Ung thư gan"
+        },
+        "11": {
+          "name": "Ung thư phổi"
+        },
+        "12": {
+          "name": "Ung thư buồng trứng"
+        },
+        "13": {
+          "name": "Ung thư tụy"
+        },
+        "14": {
+          "name": "U tủy thượng thận &  tế bào cận hạch thần kinh"
+        },
+        "15": {
+          "name": "Ung thư tuyến tiền liệt"
+        },
+        "16": {
+          "name": "Ung thư đại trực tràng"
+        },
+        "17": {
+          "name": "Ung thư da"
+        },
+        "18": {
+          "name": "Ung thư dạ dày"
+        },
+        "19": {
+          "name": "Ung thư tinh hoàn"
+        }
+      }
+    }
+  }
+}

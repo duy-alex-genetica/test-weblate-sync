@@ -1,0 +1,77 @@
+{
+  "postConsultation": {
+    "header": {
+      "title": "你怎么认为？",
+      "for": "咨询会议"
+    },
+    "body": {
+      "submit": "发送",
+      "loading": "加载中"
+    },
+    "success": {
+      "title": "感谢您完成调查",
+      "content": "请打开您的 Genetica® 应用程序以接收我们为您准备的礼物 - 适用于任何 Genetica® 服务的解锁凭证 <i>（G-Care、G-Pro、G-Kid Care 和 G-Kid Pro 除外）</i> .",
+      "contactUs": "如需支持，请通过热线联系我们",
+      "backToHomePage": "返回首页"
+    },
+    "errors": {
+      "default": {
+        "title": "目前无法加载您的问题。",
+        "message": "请稍后再试"
+      },
+      "dataRetrieveFailed": {
+        "title": "目前无法加载您的问题。",
+        "message": "请稍后再试"
+      },
+      "feedbackFormExpired": {
+        "title": "",
+        "message": "您的问题已过期！"
+      }
+    },
+    "modalError": {
+      "content": "目前无法发送您的反馈，请重试。 如需支持，请通过热线联系",
+      "action": "OK"
+    }
+  },
+  "preConsultation": {
+    "header": {
+      "progress": {
+        "label": "您已完成调查问卷的 {{ value }}%"
+      },
+      "for": "给"
+    },
+    "body": {
+      "loading": "加载中"
+    },
+    "actions": {
+      "skip": "跳过",
+      "back": "返回",
+      "next": "下一个",
+      "submit": "提交"
+    },
+    "success": {
+      "title": "感谢您完成调查。",
+      "content": "",
+      "contactUs": "如需支持，请通过热线联系我们",
+      "backToHomePage": "返回首页"
+    },
+    "errors": {
+      "default": {
+        "title": "目前无法下载您的问题。",
+        "message": "请稍后再试"
+      },
+      "dataRetrieveFailed": {
+        "title": "目前无法下载您的问题。",
+        "message": "请稍后再试"
+      },
+      "feedbackFormExpired": {
+        "title": "",
+        "message": "您的问题已过期！"
+      }
+    },
+    "modalError": {
+      "content": "目前无法发送您的反馈，请重试。 如需支持，请通过热线联系",
+      "action": "OK"
+    }
+  }
+}

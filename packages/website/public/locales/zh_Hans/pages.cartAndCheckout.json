@@ -1,0 +1,268 @@
+{
+  "header": {
+    "steps": {
+      "1": "您的购物车",
+      "2": "支付",
+      "3": "订单完成"
+    }
+  },
+  "body": {
+    "cartDetails": {
+      "field": {
+        "service": {
+          "label": "服务"
+        },
+        "quantity": {
+          "label": "数量"
+        },
+        "price": {
+          "label": "价格"
+        },
+        "discount": {
+          "label": "折扣"
+        },
+        "subtotal": {
+          "label": "小计"
+        }
+      },
+      "upSell": {
+        "content": {
+          "title": "从 G-Intel Kid 升级时的特别优惠",
+          "subtitle": "升级至 G-Kid Pro",
+          "package": "套",
+          "save": "节省",
+          "description1": "超过 <b>400 个结果</b> 在报告中添加了大约 <b>25 个特征<b/>",
+          "description2": "全面了解您的孩子",
+          "numberGIntelKidInCart": "G-Intel Kid 套餐已在您的购物车中",
+          "numberOfPackageUpgraded": "升级数量",
+          "upgradeToGKidPro": "升级至 G-Kid Pro",
+          "upgradeFromGIntelKid": "从 G-Intel Kid 升级"
+        },
+        "actions": {
+          "addToCart": "添加到购物车"
+        },
+        "modalUpSellItemDeleteConfirmation": {
+          "message": "您购物车中的 G-Kid Pro 套餐将随此服务一起移除。",
+          "confirm": "你想删除吗？"
+        }
+      }
+    },
+    "formRedeem": {
+      "field": {
+        "promotionCode": {
+          "label": "有优惠代码吗？",
+          "placeholder": {
+            "1": "输入优惠代码",
+            "2": "选择或输入优惠代码"
+          }
+        }
+      },
+      "errors": {
+        "1": "优惠代码无效。 请再检查一次。",
+        "2": "优惠不适用于此服务。",
+        "3": "此代码已被使用。",
+        "4": "之前已输入优惠代码，请联系热线寻求支持。",
+        "5": "无效代码。您可能需要登录才能使用代码。"
+      },
+      "actions": {
+        "applyPromotion": "申请",
+        "login": "登录"
+      }
+    },
+    "orderSummary": {
+      "title": "总金额",
+      "meta": {
+        "subtotal": {
+          "label": "小计",
+          "tooltip": "优惠代码不能与其他优惠活动同时使用"
+        },
+        "discount": {
+          "label": "折扣"
+        },
+        "total": {
+          "label": "总额"
+        }
+      },
+      "actions": {
+        "checkout": "支付"
+      }
+    },
+    "formOrderInformation": {
+      "header": {
+        "title": "订单信息"
+      },
+      "field": {
+        "name": {
+          "placeholder": "姓名"
+        },
+        "phone": {
+          "placeholder": "电话号码"
+        },
+        "email": {
+          "placeholder": "电子邮件",
+          "error": {
+            "invalid": "不合规电邮。"
+          }
+        }
+      }
+    },
+    "formAddress": {
+      "header": {
+        "title": "您的送货地址"
+      },
+      "field": {
+        "fullLocation": {
+          "placeholder": "省/市、郡、区"
+        },
+        "city": {
+          "placeholder": "省/市"
+        },
+        "district": {
+          "placeholder": "郡"
+        },
+        "ward": {
+          "placeholder": "区"
+        },
+        "address": {
+          "placeholder": "详细地址"
+        },
+        "search": {
+          "placeholder": "搜索"
+        },
+        "postalCode": {
+          "placeholder": "邮政编码"
+        }
+      },
+      "errors": {
+        "1": "请提供您的送货地址以处理付款",
+        "2": "我们目前不送货到{{country}}。 请发送电子邮件至 <a href='mailto:contact@genetica.asia'>contact@genetica.asia</a> 寻求支持。"
+      },
+      "actions": {
+        "back": {
+          "text": "返回"
+        },
+        "complete": {
+          "text": "完成"
+        },
+        "adjust": {
+          "text": "编辑"
+        }
+      }
+    },
+    "formCartDetails": {
+      "header": {
+        "title": "服务"
+      },
+      "field": {
+        "quantity": {
+          "label": "数量"
+        }
+      },
+      "actions": {
+        "updateAddress": {
+          "text": "编辑"
+        }
+      }
+    },
+    "formPaymentMethod": {
+      "header": {
+        "title": "支付方式"
+      },
+      "field": {
+        "paymentMethods": {
+          "1": {
+            "title": "银行转账",
+            "description": "（电子银行/二维码）"
+          },
+          "2": {
+            "title": "银行卡",
+            "description": "（ATM/信用卡/借记卡）"
+          },
+          "3": {
+            "description": "",
+            "title": "手机钱包（Momo、ZaloPay）"
+          },
+          "4": {
+            "title": "使用信用卡付款时分期付款为 0%",
+            "description": "（适用于订单总额 3,000,000 越南盾及以上）"
+          },
+          "5": {
+            "description": "",
+            "title": "西贡商业银行（网上银行）"
+          },
+          "6": {
+            "title": "直接银行转账",
+            "description": "直接转账到我们的银行账户"
+          },
+          "7": {
+            "title": "二维码转账",
+            "description": "使用 VNPay 支付"
+          },
+          "8": {
+            "title": "信用卡/借记卡",
+            "description": "使用信用卡/借记卡付款"
+          },
+          "9": {
+            "title": "提款卡",
+            "description": "使用 OnePay 支付"
+          },
+          "10": {
+            "title": "用 Momo支付",
+            "description": " MomoAPP支付"
+          },
+          "11": {
+            "title": "使用 ZaloPay 支付",
+            "description": "在 ZaloPay 应用中付款"
+          }
+        }
+      }
+    },
+    "sectionBankTransfer": {
+      "header": {
+        "title": "银行转账说明"
+      },
+      "body": {
+        "title": "要处理付款，您可以使用任何银行账户转账到以下账户：",
+        "meta": {
+          "beneficiaryBank": "收款银行",
+          "branch": "分支",
+          "beneficiaryName": "受益人姓名",
+          "amount": "金额 (越南盾)",
+          "accountNumber": "账号",
+          "transactionDescription": "交易说明"
+        },
+        "message": {
+          "notice": "<span>注意</span>：需要交易说明，以便 Genetica 可以识别和验证您的付款。",
+          "help": "付款完成后，您将收到短信通知。 您将在 2-3 个工作日内收到样品采集套件。"
+        },
+        "actions": {
+          "openBankApp": "打开应用/银行网站",
+          "copy": "复制",
+          "copied": "已复制！"
+        }
+      }
+    },
+    "sectionEmptyCart": {
+      "body": {
+        "title": "您的购物车是空的",
+        "description": "看起来你还没有添加任何东西。",
+        "widgetSeeMore": {
+          "title": "了解有关服务的更多信息"
+        }
+      }
+    }
+  },
+  "modal": {
+    "content": {
+      "messagePrefix": "消除",
+      "messageSuffix": "从你的购物车？"
+    },
+    "action": {
+      "remove": "消除",
+      "cancel": "取消"
+    }
+  },
+  "emptyContent": {
+    "message": "您的购物车中没有任何商品。 浏览我们的商店："
+  }
+}

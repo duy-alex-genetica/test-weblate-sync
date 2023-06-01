@@ -1,0 +1,139 @@
+{
+  "title": "Genetica® American Technology Genotype Test for Asians",
+  "section1": {
+    "title": "Explore Your Genes<br>Define Your Future",
+    "description": "Data-driven & scientifically proven reports that help you design the optimal lifestyle for you and your family.",
+    "button": {
+      "label": "Learn more"
+    }
+  },
+  "sectionTutorials": {
+    "body": {
+      "list": {
+        "0": {
+          "subtitle": "Received your collection kit?",
+          "title": "Watch our saliva collecting tutorial"
+        },
+        "1": {
+          "subtitle": "Received your report?",
+          "title": "Book an appointment",
+          "actions": {
+            "book": {
+              "label": "Book now"
+            }
+          }
+        }
+      }
+    }
+  },
+  "section2": {
+    "header": {
+      "title": "1000+ reports, 1 click away"
+    },
+    "footer": {
+      "text": "* Paying the starting fee will give you access to our <b>Care</b> package. Unlock the <b>Pro</b> package to enjoy the full benefits."
+    }
+  },
+  "sectionProcess": {
+    "header": {
+      "title": "Our simple DNA test process"
+    },
+    "body": {
+      "list": {
+        "1": {
+          "title": "Purchase your testing kit",
+          "description": "Your Genetica DNA testing kit will be delivered directly to your door after purchase."
+        },
+        "2": {
+          "title": "Collect your saliva sample",
+          "description": "Simply follow the instruction found inside the DNA tesing kit to collect your saliva. Once ready, send your saliva back to us for DNA analysis."
+        },
+        "3": {
+          "title": "Results ready in 30 working days",
+          "description": "Install the Genetica mobile app to view your comprehensive results and personalized recommendations."
+        }
+      }
+    }
+  },
+  "sectionLearnMoreAboutUs": {
+    "header": {
+      "title": "Learn more about us"
+    },
+    "body": {
+      "actions": {
+        "viewMore": {
+          "label": "View more"
+        }
+      }
+    }
+  },
+  "sectionPrivacyAndSecurityStatement": {
+    "title": "Privacy And Security",
+    "description": "Your information is completely safe with Genetica®. We take utmost care to ensure that your data is protected, secured and available only to you."
+  },
+  "sectionAdvisors": {
+    "header": {
+      "title": "Advised by leading experts",
+      "description": "Our Board of Advisors comprises of Silicon Valey's most successful investors and top professors from Ivy League universities like Harvard, Stanford, Cornell, etc.",
+      "actions": {
+        "button": {
+          "label": "Learn more"
+        }
+      }
+    }
+  },
+  "sectionTestimonials": {
+    "header": {
+      "title": "Testimonials"
+    },
+    "body": {
+      "content": {
+        "slide": {
+          "cta": {
+            "content": "<p>Genetica has served thousands of customers and helped them optimize their lifestyles. </p> <p> Let’s hear their inspiring stories and tell us yours.</p>",
+            "actions": {
+              "listenToOtherStory": "Listen to others' stories"
+            }
+          }
+        }
+      },
+      "actions": {
+        "viewMore": {
+          "label": "View more"
+        }
+      }
+    },
+    "list": {
+      "0": {
+        "giver": {
+          "name": "Vy Le",
+          "description": "Triathlete"
+        },
+        "comment": {
+          "title": "Amazing services",
+          "content": "I am satisfied with the Gene report of Genetica® Service. To know this Gene analysis is meaningful to me for rearranging my exercises more effectively."
+        }
+      },
+      "1": {
+        "giver": {
+          "name": "Anh Nguyen",
+          "description": "Proud husband & father"
+        },
+        "comment": {
+          "title": "Amazing services",
+          "content": "The Gene report of Genetica® Service of GENETICA® help me to understand my strengths and weaknesses. This allows me to personalize my fitness plan to perform well."
+        }
+      },
+      "2": {
+        "giver": {
+          "name": "Lam Nguyen",
+          "description": "Endurance runner"
+        },
+        "comment": {
+          "title": "Amazing services",
+          "content": "I could define the practicing method which is tailored-made for my health and the exercise progress."
+        }
+      }
+    }
+  }
+}

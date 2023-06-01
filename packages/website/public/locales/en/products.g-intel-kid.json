@@ -1,0 +1,150 @@
+{
+  "title": "G-Intel Kid",
+  "subtitle": "For Children",
+  "bestSellingDescriptionList": {
+    "1": "Understand behaviors, define a suitable educational method",
+    "2": "Explore potential, choose the right career"
+  },
+  "reportCategories": {
+    "1": {
+      "name": "Behavioral Alignment Reports",
+      "reports": {
+        "1": {
+          "name": "Introversion - Extraversion"
+        },
+        "2": {
+          "name": "Stress-handling Ability"
+        },
+        "3": {
+          "name": "Emotional Instability"
+        },
+        "4": {
+          "name": "Aggressiveness"
+        },
+        "5": {
+          "name": "Risk Taking Tendency"
+        },
+        "6": {
+          "name": "Self-discipline"
+        }
+      }
+    },
+    "2": {
+      "name": "Scholastic Talent Reports",
+      "reports": {
+        "7": {
+          "name": "Intelligence Quotient (IQ)"
+        },
+        "8": {
+          "name": "Emotional Quotient (EQ)"
+        },
+        "9": {
+          "name": "Educational Attainment"
+        },
+        "10": {
+          "name": "Cognitive Ability"
+        },
+        "11": {
+          "name": "Mathematical Ability"
+        },
+        "12": {
+          "name": "Language-learning Ability"
+        },
+        "13": {
+          "name": "Musical Ability"
+        }
+      }
+    },
+    "3": {
+      "name": "Athletic Ability Reports",
+      "reports": {
+        "14": {
+          "name": "Endurance Ability"
+        },
+        "15": {
+          "name": "Physical Strength"
+        },
+        "16": {
+          "name": "Cardiorespiratory Fitness"
+        }
+      }
+    },
+    "4": {
+      "name": "Macronutrient Metabolism Reports",
+      "reports": {
+        "23": {
+          "name": "Carbohydrate Metabolism"
+        },
+        "24": {
+          "name": "Fat Metabolism"
+        },
+        "25": {
+          "name": "Protein Metabolism"
+        }
+      }
+    },
+    "5": {
+      "name": "Nutritional Requirement Reports",
+      "reports": {
+        "26": {
+          "name": "Vitamin A Requirement"
+        },
+        "27": {
+          "name": "Vitamin B2 Requirement"
+        },
+        "28": {
+          "name": "Vitamin B6 Requirement"
+        },
+        "29": {
+          "name": "Vitamin B12 Requirement"
+        },
+        "30": {
+          "name": "Vitamin C Requirement"
+        },
+        "31": {
+          "name": "Vitamin D Requirement"
+        },
+        "33": {
+          "name": "Folate Requirement"
+        },
+        "34": {
+          "name": "Essential Minerals Requirement"
+        }
+      }
+    },
+    "6": {
+      "name": "Nutritional Wellness Reports",
+      "reports": {
+        "36": {
+          "id": 36,
+          "name": "Emotional Eating"
+        }
+      }
+    },
+    "7": {
+      "name": "Eating Behavior Reports",
+      "reports": {
+        "1": {
+          "name": "Bitterness Taste"
+        },
+        "2": {
+          "name": "Sweetness Taste"
+        }
+      }
+    },
+    "8": {
+      "name": "Health Risk Reports",
+      "reports": {
+        "43": {
+          "name": "Obesity Risk"
+        },
+        "44": {
+          "name": "Diabetes Risk"
+        },
+        "45": {
+          "name": "Cardiometabolic Health"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "body": {
+    "sectionAuthor": {
+      "buttonSeeMore": {
+        "label": "See more"
+      }
+    },
+    "sectionReference": {
+      "header": {
+        "title": "Reference"
+      },
+      "buttonSeeMore": {
+        "label": "See more"
+      }
+    },
+    "sectionShare": {
+      "header": {
+        "title": "Share"
+      }
+    },
+    "sectionDiscussion": {
+      "header": {
+        "title": "Discussion about this post"
+      }
+    }
+  }
+}

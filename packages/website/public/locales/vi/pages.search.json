@@ -1,0 +1,20 @@
+{
+  "title": "Kết quả tìm kiếm cho:",
+  "content": {
+    "sectionProductPackages": {
+      "title": "Sản phẩm"
+    },
+    "sectionBlog": {
+      "title": "Blog"
+    },
+    "sectionNews": {
+      "title": "Tin tức"
+    },
+    "press": {
+      "title": "Báo chí nói về chúng tôi"
+    },
+    "sectionEmpty": {
+      "description": "Rất tiếc, không tìm thấy sản phẩm <br/>phù hợp với lựa chọn của bạn"
+    }
+  }
+}

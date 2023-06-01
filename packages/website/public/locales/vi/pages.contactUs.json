@@ -1,0 +1,14 @@
+{
+  "title": "Liên hệ với chúng tôi",
+  "content": {
+    "timeOfWeek": {
+      "label": "Thứ 2 - Thứ 6"
+    },
+    "office": "Văn phòng",
+    "contacts": "Liên hệ",
+    "hotline": "Hotline",
+    "email": "Email",
+    "workingHours": "Thời gian làm việc",
+    "mondayToFriday": "Thứ 2 - Thứ 6"
+  }
+}

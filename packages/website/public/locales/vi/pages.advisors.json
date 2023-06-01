@@ -1,0 +1,12 @@
+{
+  "header": {
+    "title": "Hội đồng Cố vấn"
+  },
+  "body": {
+    "sectionAdvisors": {
+      "actions": {
+        "seeMore": "Xem thêm"
+      }
+    }
+  }
+}

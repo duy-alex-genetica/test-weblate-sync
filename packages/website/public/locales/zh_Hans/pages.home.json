@@ -1,0 +1,139 @@
+{
+  "title": "Genetica® 美国技术亚洲人基因型测试",
+  "section1": {
+    "title": "探索基因组<br>掌握未来",
+    "description": "数据驱动且经过科学验证的报告可帮助您为您和您的家人设计最佳生活方式。",
+    "button": {
+      "label": "了解更多"
+    }
+  },
+  "sectionTutorials": {
+    "body": {
+      "list": {
+        "0": {
+          "subtitle": "收到你的收藏包了吗？",
+          "title": "观看我们的唾液收集教程"
+        },
+        "1": {
+          "subtitle": "收到你的报告了吗？",
+          "title": "预约",
+          "actions": {
+            "book": {
+              "label": "现在预订"
+            }
+          }
+        }
+      }
+    }
+  },
+  "section2": {
+    "header": {
+      "title": "1000 多份报告，一键点击"
+    },
+    "footer": {
+      "text": "* 支付起始费用后，您就可以使用我们的<b>Care</b> 套餐。 解锁 <b>Pro</b> 包以享受全部好处。"
+    }
+  },
+  "sectionProcess": {
+    "header": {
+      "title": "我们简单的 DNA 测试过程"
+    },
+    "body": {
+      "list": {
+        "1": {
+          "title": "购买您的唾液收集套件",
+          "description": "购买后，您的 Genetica DNA 检测套件将直接送货上门。"
+        },
+        "2": {
+          "title": "收集您的唾液样本",
+          "description": "只需按照 DNA 检测试剂盒内的说明收集唾液即可。 准备就绪后，将您的唾液寄回给我们进行 DNA 分析。"
+        },
+        "3": {
+          "title": "30 个工作日内出结果",
+          "description": "安装 Genetica 移动应用程序以查看您的综合结果和个性化建议。"
+        }
+      }
+    }
+  },
+  "sectionLearnMoreAboutUs": {
+    "header": {
+      "title": "了解更多关于我们"
+    },
+    "body": {
+      "actions": {
+        "viewMore": {
+          "label": "查看更多"
+        }
+      }
+    }
+  },
+  "sectionPrivacyAndSecurityStatement": {
+    "title": "隐私和安全",
+    "description": "使用 Genetica®，您的信息是完全安全的。 我们会尽最大努力确保您的数据受到保护、安全且仅供您使用。"
+  },
+  "sectionAdvisors": {
+    "header": {
+      "title": "领先专家的建议",
+      "description": "我们的顾问委员会由硅谷最成功的投资者和来自哈佛、斯坦福、康奈尔等常春藤盟校的顶尖教授组成。",
+      "actions": {
+        "button": {
+          "label": "了解更多"
+        }
+      }
+    }
+  },
+  "sectionTestimonials": {
+    "header": {
+      "title": "客户体验"
+    },
+    "body": {
+      "content": {
+        "slide": {
+          "cta": {
+            "content": "<p>Genetica 已为数以千计的客户提供服务，帮助他们优化生活方式。 </p> <p> 让我们听听他们鼓舞人心的故事，并告诉我们您的故事。</p>",
+            "actions": {
+              "listenToOtherStory": "听别人的故事"
+            }
+          }
+        }
+      },
+      "actions": {
+        "viewMore": {
+          "label": "查看更多"
+        }
+      }
+    },
+    "list": {
+      "0": {
+        "giver": {
+          "name": "Vy Le",
+          "description": "参加三项全能比赛的运动员"
+        },
+        "comment": {
+          "title": "优美服务",
+          "content": "我对 Genetica® 服务的基因报告感到满意。 了解这个基因分析对我更有效地重新安排我的练习很有意义。"
+        }
+      },
+      "1": {
+        "giver": {
+          "name": "Anh Nguyen",
+          "description": "丈夫和父亲"
+        },
+        "comment": {
+          "title": "优美服务",
+          "content": "GENETICA® Genetica® 服务的基因报告帮助我了解自己的优势和劣势。 这使我能够个性化我的健身计划以取得良好表现。"
+        }
+      },
+      "2": {
+        "giver": {
+          "name": "Lam Nguyen",
+          "description": "耐力赛跑者"
+        },
+        "comment": {
+          "title": "优美服务",
+          "content": "我可以定义适合我的健康和运动进度的练习方法。"
+        }
+      }
+    }
+  }
+}

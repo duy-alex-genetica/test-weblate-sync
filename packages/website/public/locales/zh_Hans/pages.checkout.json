@@ -1,0 +1,12 @@
+{
+  "alert": {
+    "promotion": {
+      "invalid": {
+        "message": "促销代码无效"
+      },
+      "required": {
+        "message": "促销代码字段是必需的。"
+      }
+    }
+  }
+}

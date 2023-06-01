@@ -1,0 +1,17 @@
+{
+  "title": "G-Stroke",
+  "subtitle": "",
+  "description": "Tìm hiểu nguy cơ đột quỵ di truyền",
+  "sections": {
+    "1": {
+      "subtitle": "",
+      "title": "Báo cáo di truyền về đột quỵ sẽ cung cấp các thông tin sau:",
+      "description": "<ul><li>Phát hiện bất kỳ đột biến gây bệnh hoặc có khả năng gây bệnh liên quan đến đột quỵ.</li><li>Đánh giá chỉ số nguy cơ mắc đột quỵ: điểm số đa gen sẽ chỉ ra mức tăng nguy cơ đột quỵ của một người.</li><li>Kiến thức chuyên sâu về nguyên nhân liên quan đến gen ảnh hưởng đến đột quỵ.</li><li>Thông tin giúp bạn đưa ra các quyết định y tế và điều chỉnh lối sống, cũng như các phương pháp ngăn ngừa đột quỵ.</li><li>Các khuyến nghị cá nhân hóa hữu ích.</li></ul>"
+    },
+    "2": {
+      "subtitle": "",
+      "title": "Đơn giản, an toàn, và không xâm lấn",
+      "description": "Chỉ cần mẫu nước bọt của bạn là đủ. Công nghệ tiên tiến của chúng tôi cho phép tách chiết DNA chỉ từ mẫu nước bọt, điều này khiến quy trình lấy mẫu đơn giản, an toàn, và thuận tiện hơn so với mẫu máu ở những phương pháp xét nghiệm thông thường."
+    }
+  }
+}

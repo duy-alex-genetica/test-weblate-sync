@@ -1,0 +1,268 @@
+{
+  "header": {
+    "steps": {
+      "1": "Your Cart",
+      "2": "Payment",
+      "3": "Order Completed"
+    }
+  },
+  "body": {
+    "cartDetails": {
+      "field": {
+        "service": {
+          "label": "Service"
+        },
+        "quantity": {
+          "label": "Quantity"
+        },
+        "price": {
+          "label": "Price"
+        },
+        "discount": {
+          "label": "Discount"
+        },
+        "subtotal": {
+          "label": "Subtotal"
+        }
+      },
+      "upSell": {
+        "content": {
+          "title": "Special offer when upgrading from G-Intel Kid",
+          "subtitle": "Upgrade to G-Kid Pro",
+          "package": "Package",
+          "save": "Save",
+          "description1": "More than <b>400 results</b> added about <b>25 traits<b/> in the report",
+          "description2": "Have a complete understanding of your child",
+          "numberGIntelKidInCart": "G-Intel Kid package(s) already in your cart",
+          "numberOfPackageUpgraded": "Upgrading qty.",
+          "upgradeToGKidPro": "Upgrade to G-Kid Pro",
+          "upgradeFromGIntelKid": "Upgrading from G-Intel Kid"
+        },
+        "actions": {
+          "addToCart": "Add to cart"
+        },
+        "modalUpSellItemDeleteConfirmation": {
+          "message": "G-Kid Pro package in your cart will be removed with this service.",
+          "confirm": "Do you want to remove?"
+        }
+      }
+    },
+    "formRedeem": {
+      "field": {
+        "promotionCode": {
+          "label": "Have a promo code?",
+          "placeholder": {
+            "1": "Enter promo code",
+            "2": "Select or enter a promo code"
+          }
+        }
+      },
+      "errors": {
+        "1": "Promo code is not valid. Please check again.",
+        "2": "The promotion is not applied for this service.",
+        "3": "This code had been used.",
+        "4": "Promo code has been entered before, contact hotline for support.",
+        "5": "Invalid code. You may need to login to use the code."
+      },
+      "actions": {
+        "applyPromotion": "Apply",
+        "login": "Login"
+      }
+    },
+    "orderSummary": {
+      "title": "Summary",
+      "meta": {
+        "subtotal": {
+          "label": "Subtotal",
+          "tooltip": "The Promotional code cannot be used in conjunction with other promotional offers"
+        },
+        "discount": {
+          "label": "Discount"
+        },
+        "total": {
+          "label": "Total"
+        }
+      },
+      "actions": {
+        "checkout": "Check out"
+      }
+    },
+    "formOrderInformation": {
+      "header": {
+        "title": "Order information"
+      },
+      "field": {
+        "name": {
+          "placeholder": "Full name"
+        },
+        "phone": {
+          "placeholder": "Phone number"
+        },
+        "email": {
+          "placeholder": "Email",
+          "error": {
+            "invalid": "Invalid email."
+          }
+        }
+      }
+    },
+    "formAddress": {
+      "header": {
+        "title": "Your delivery address"
+      },
+      "field": {
+        "fullLocation": {
+          "placeholder": "Province/City, District, Ward"
+        },
+        "city": {
+          "placeholder": "Province/City"
+        },
+        "district": {
+          "placeholder": "District"
+        },
+        "ward": {
+          "placeholder": "Ward"
+        },
+        "address": {
+          "placeholder": "Detailed address"
+        },
+        "search": {
+          "placeholder": "Search"
+        },
+        "postalCode": {
+          "placeholder": "Postal Code"
+        }
+      },
+      "errors": {
+        "1": "Please provide your delivery address to process payment",
+        "2": "We do not deliver to {{country}} at the moment. Please email us at <a href='mailto:contact@genetica.asia'>contact@genetica.asia</a> for support."
+      },
+      "actions": {
+        "back": {
+          "text": "Back"
+        },
+        "complete": {
+          "text": "Complete"
+        },
+        "adjust": {
+          "text": "Adjust"
+        }
+      }
+    },
+    "formCartDetails": {
+      "header": {
+        "title": "Service"
+      },
+      "field": {
+        "quantity": {
+          "label": "Quantity"
+        }
+      },
+      "actions": {
+        "updateAddress": {
+          "text": "Adjust"
+        }
+      }
+    },
+    "formPaymentMethod": {
+      "header": {
+        "title": "Payment methods"
+      },
+      "field": {
+        "paymentMethods": {
+          "1": {
+            "title": "Bank transfer",
+            "description": "(Digital bank/QR code)"
+          },
+          "2": {
+            "title": "Card",
+            "description": "(ATM/credit/debit card)"
+          },
+          "3": {
+            "title": "Mobile wallet (Momo, ZaloPay)",
+            "description": ""
+          },
+          "4": {
+            "title": "0% interest installment when paying via credit card",
+            "description": "(Applied to order’s total from 3,000,000 dong and above)"
+          },
+          "5": {
+            "title": "Saigon Commercial Bank (Internet Banking)",
+            "description": ""
+          },
+          "6": {
+            "title": "Direct bank transfer",
+            "description": "Transfer directly to our bank account "
+          },
+          "7": {
+            "title": "Transfer with QR-Code",
+            "description": "Pay with VNPay"
+          },
+          "8": {
+            "title": "Credit/Debit Card",
+            "description": "Pay with a credit/debit card"
+          },
+          "9": {
+            "title": "ATM Card",
+            "description": "Pay with OnePay"
+          },
+          "10": {
+            "title": "Pay with Momo",
+            "description": "Pay in Momo App"
+          },
+          "11": {
+            "title": "Pay with ZaloPay",
+            "description": "Pay in ZaloPay App"
+          }
+        }
+      }
+    },
+    "sectionBankTransfer": {
+      "header": {
+        "title": "Bank Transfer Instructions"
+      },
+      "body": {
+        "title": "To process payment, you can use any bank account to transfer to the account below:",
+        "meta": {
+          "beneficiaryBank": "Beneficiary bank",
+          "branch": "Branch",
+          "beneficiaryName": "Beneficiary name",
+          "amount": "Amount (VNĐ)",
+          "accountNumber": "Account number",
+          "transactionDescription": "Transaction description"
+        },
+        "message": {
+          "notice": "<span>Note</span>: Transaction description is required so that Genetica can identify and verify your payment.",
+          "help": "You will be notified by SMS when your payment is completed. You will receive the Sample Collection Kit in 2-3 working days."
+        },
+        "actions": {
+          "openBankApp": "Open app/bank website",
+          "copy": "Copy",
+          "copied": "Copied!"
+        }
+      }
+    },
+    "sectionEmptyCart": {
+      "body": {
+        "title": "Your Cart Is Empty",
+        "description": "Looks like you haven't added anything yet.",
+        "widgetSeeMore": {
+          "title": "Learn more about services"
+        }
+      }
+    }
+  },
+  "modal": {
+    "content": {
+      "messagePrefix": "Remove",
+      "messageSuffix": "from your cart?"
+    },
+    "action": {
+      "remove": "Remove",
+      "cancel": "Cancel"
+    }
+  },
+  "emptyContent": {
+    "message": "You don’t have any items in your cart. Browse our shop:"
+  }
+}

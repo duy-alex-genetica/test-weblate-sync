@@ -1,0 +1,27 @@
+{
+  "body": {
+    "sectionAuthor": {
+      "buttonSeeMore": {
+        "label": "Xem thêm"
+      }
+    },
+    "sectionReference": {
+      "header": {
+        "title": "Tham vấn"
+      },
+      "buttonSeeMore": {
+        "label": "Xem thêm"
+      }
+    },
+    "sectionShare": {
+      "header": {
+        "title": "Chia sẻ"
+      }
+    },
+    "sectionDiscussion": {
+      "header": {
+        "title": "Bình luận về bài viết này"
+      }
+    }
+  }
+}

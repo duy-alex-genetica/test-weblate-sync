@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "取消预约"
+  },
+  "body": {
+    "information": {
+      "labels": {
+        "appointmentInformation": "预约信息",
+        "consultationTime": "日期和时间",
+        "consultationFor": "给",
+        "method": "方法"
+      },
+      "reason": "输入您取消约会的原因"
+    },
+    "question": "让我们知道您取消会议的原因",
+    "actions": {
+      "backToHome": "不，我想保留此约会",
+      "cancel": "取消"
+    }
+  },
+  "success": {
+    "body": {
+      "title": "取消成功",
+      "description": "您的咨询预约已被取消，原因是：<b>“{{reason}}”</b>。 如需助理请联系1900599927。",
+      "actions": {
+        "backToHome": "返回首页"
+      }
+    }
+  },
+  "appointmentCanceled": {
+    "description": "您的咨询预约已被取消。 如需助理请联系1900599927。",
+    "actions": {
+      "backToHome": "返回首页"
+    },
+    "loading": "加载中"
+  },
+  "appointmentCompleted": {
+    "description": "您的咨询会议已经完成。 如需任何支持，请联系1900599927。"
+  },
+  "appointmentOverScheduleTime": {
+    "description": "您无法取消此约会，因为它已经开始。 如需助理请联系1900599927。"
+  }
+}

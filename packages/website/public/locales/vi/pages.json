@@ -1,0 +1,2163 @@
+{
+  "404": {
+    "title": "Không tìm thấy trang",
+    "content": {
+      "notification": {
+        "link": "Quay lại trang chủ",
+        "text": "hoặc tìm kiếm thêm thông tin"
+      },
+      "search": {
+        "placeholder": "Tìm kiếm trong Genetica"
+      },
+      "suggest": {
+        "title": "Có thể bạn quan tâm:",
+        "adults": {
+          "label": "Hiện thực hóa bản thân"
+        },
+        "kids": {
+          "label": "Phát triển toàn diện"
+        },
+        "health": {
+          "label": "Sức khỏe"
+        },
+        "about": {
+          "label": "Giới thiệu"
+        },
+        "contact": {
+          "label": "Liên hệ"
+        },
+        "salivaCollectingGuide": {
+          "label": "Hướng dẫn lấy mẫu"
+        }
+      }
+    }
+  },
+  "404v2": {
+    "content": {
+      "text": "Không tìm thấy đường dẫn này"
+    }
+  },
+  "about": {
+    "header": {
+      "title": "Về Genetica®"
+    },
+    "body": {
+      "sectionAboutUs": {
+        "header": {
+          "title": "Genetica® là công ty Xét nghiệm gen ứng dụng Trí tuệ nhân tạo",
+          "description": "<p>Genetica® là công ty Xét nghiệm gen ứng dụng Trí tuệ nhân tạo, có trụ sở đặt tại San Francisco (Mỹ) và được cố vấn bởi đội ngũ nhà khoa học thuộc các trường đại học hàng đầu như UCSF, Harvard, Stanford, Cornell.</p><p>Hợp tác với Illumina® và Thermo Fisher - 2 tổ chức giải mã gen hàng đầu thế giới, Genetica® đã tạo ra chip giải mã gen dành riêng cho người châu Á. Thông qua việc phân tích hàng trăm gen, các báo cáo của chúng tôi cung cấp thông tin khoa học và chính xác về thể chất, hành vi, trí tuệ, và nguy cơ sức khỏe. Sứ mệnh của Genetica® là tối ưu hóa kế hoạch phát triển cá nhân, cũng như bảo vệ sức khỏe cho chính bản thân bạn và gia đình.</p>"
+        }
+      }
+    }
+  },
+  "accountManagement": {
+    "sidebar": {
+      "myAccount": "Tài khoản của tôi",
+      "profiles": "Hồ sơ",
+      "consultation": "Tư vấn",
+      "redeem": "Redeem",
+      "paymentHistory": "Payment history",
+      "securitySettings": "Cài đặt bảo mật",
+      "reports": "Báo cáo"
+    },
+    "securitySettings": {
+      "title": "Thiết bị bạn đã đăng nhập",
+      "subtitle": "Gần đây bạn đã đăng nhập trên các thiết bị này",
+      "content": {
+        "labels": {
+          "activeNow": "Đang hoạt động",
+          "logoutTime": "{{ date }} lúc {{ time }}"
+        },
+        "actions": {
+          "logOutOfAllDevices": "Đăng xuất khỏi tất cả"
+        }
+      },
+      "modal": {
+        "content": {
+          "message": "Thao tác này sẽ đăng xuất tài khoản Genetica của bạn từ tất cả các thiết bị mà bạn đang đăng nhập. Bạn có chắc chắn muốn thực hiện không?"
+        },
+        "actions": {
+          "agree": "Đồng ý",
+          "cancel": "Hủy"
+        }
+      }
+    },
+    "account": {
+      "title": "Tài khoản của tôi",
+      "edit": {
+        "title": "Sửa thông tin tài khoản"
+      },
+      "content": {
+        "label": {
+          "accountPhoneNumber": "Số điện thoại đăng nhập",
+          "fullName": "Họ tên",
+          "contactNumber": "Số điện thoại liên hệ",
+          "email": "Email",
+          "optional": "không bắt buộc",
+          "gender": "Giới tính",
+          "dateOfBirth": "Ngày sinh",
+          "signInPhoneNumber": "Số điện thoại đăng nhập",
+          "otherContactNumbers": "Số Điện Thoại Liên Hệ Khác",
+          "updateContactNumber": "Cập nhật thông tin liên hệ"
+        },
+        "placeholder": {
+          "email": "Nhập địa chỉ email của bạn"
+        },
+        "value": {
+          "male": "Nam",
+          "female": "Nữ",
+          "unspecified": "Chưa xác định",
+          "notAvailable": "(Không có)"
+        },
+        "updatePhoneNumber": {
+          "actions": {
+            "submit": {
+              "label": "Cập nhật"
+            }
+          },
+          "successMessage": {
+            "title": "Xác nhận cập nhật số điện thoại liên hệ thành công",
+            "description": "<b>{{ name }}:</b> {{ currentPhoneNumber }} <br /> <span> đã được cập nhật thành </span> <br/> <b>{{ name }}:</b> {{ phoneNumberUpdated }}",
+            "description2": "Thông tin sẽ được lưu lại ở mục Số điện thoại liên hệ khác trong Tài Khoản."
+          },
+          "errorMessage": {
+            "description": "Vui lòng thêm số điện thoại để Genetica có thể gọi cho khách hàng này."
+          }
+        }
+      },
+      "errorMessage": {
+        "fullName": "Bạn cần điền họ tên",
+        "contactPhoneNumber": "Bạn cần điền số điện thoại",
+        "required": "Bắt buộc",
+        "error": "Lỗi"
+      },
+      "modalMessage": {
+        "errorMessage": "Có lỗi xảy ra. Thay đổi của bạn chưa được lưu lại.",
+        "successMessage": "Cập nhật thông tin thành công!"
+      },
+      "action": {
+        "editAccountInfo": "Sửa thông tin tài khoản",
+        "save": "Lưu",
+        "cancel": "Hủy",
+        "tryAgain": "Thử lại"
+      }
+    },
+    "reports": {
+      "title": "Báo cáo",
+      "content": {
+        "labels": {
+          "": "Bước",
+          "sampleStatusTracking": "Theo dõi trạng thái mẫu",
+          "awaitingSample": "Đang chờ mẫu",
+          "daysUntilPublication": "Còn {{count}} ngày cho tới khi xuất bản",
+          "daysUntilPublication_plural": "Còn {{count}} ngày cho tới khi xuất bản",
+          "daysLeftToBeUnlocked": "Còn {{count}} ngày để mở khóa",
+          "daysLeftToBeUnlocked_plural": "Còn {{count}} ngày để mở khóa",
+          "unlocking": "Đang chờ mở khóa"
+        },
+        "actions": {
+          "viewDetails": {
+            "label": "Xem chi tiết"
+          },
+          "viewReport": {
+            "label": "Xem Báo Cáo"
+          },
+          "download": {
+            "label": "Tải xuống"
+          }
+        },
+        "footer": {
+          "labels": {
+            "seeAllReports": "Xem tất cả {{count}} báo cáo",
+            "collapse": "Thu gọn"
+          }
+        }
+      },
+      "reportEmpty": {
+        "label": "Bạn chưa có báo cáo nào"
+      },
+      "loading": {
+        "label": "Đang tải"
+      },
+      "modal": {
+        "content": {
+          "downloadApp": {
+            "label": "Tải app Genetica tại đây để xem báo cáo của bạn"
+          }
+        },
+        "actions": {
+          "close": {
+            "label": "Đóng"
+          }
+        }
+      }
+    }
+  },
+  "advisors": {
+    "header": {
+      "title": "Hội đồng Cố vấn"
+    },
+    "body": {
+      "sectionAdvisors": {
+        "actions": {
+          "seeMore": "Xem thêm"
+        }
+      }
+    }
+  },
+  "blog": {
+    "common": {
+      "labels": {
+        "relatedPosts": "Tin liên quan",
+        "referencePosts": "Tham khảo thêm",
+        "mostReadPosts": "Xem nhiều nhất",
+        "recentPosts": "Bài viết mới nhất",
+        "highlightPosts": "Bài viết nổi bật"
+      },
+      "actions": {
+        "seeMore": "Xem thêm",
+        "seeDetails": "Xem chi tiết"
+      }
+    },
+    "header": {
+      "title": "Blog"
+    },
+    "body": {
+      "sectionFilters": {
+        "title": "Lọc",
+        "content": {
+          "list": {
+            "itemShowAll": "Tất cả"
+          }
+        }
+      },
+      "sectionHeader": {
+        "title": "Tin tức & Sự kiện",
+        "description": {
+          "segments": [
+            "Nắm trọn mọi thông tin và cập nhật Genetica",
+            "tại đây."
+          ]
+        }
+      },
+      "sectionNavbar": {
+        "menuItems": {
+          "news": "Tin tức",
+          "blog": "Blog",
+          "press": "Báo chí nói về chúng tôi"
+        }
+      },
+      "sectionFollowUs": {
+        "title": "Theo dõi"
+      },
+      "sectionSharingSocials": {
+        "title": "Chia sẻ bài viết"
+      },
+      "sectionBreadcrumb": {
+        "menuItems": {
+          "home": "Trang chủ",
+          "blog": "Blog",
+          "news": "Tin tức",
+          "experts": "Đội Ngũ Chuyên Gia"
+        }
+      },
+      "sectionPostContent": {
+        "meta": {
+          "author": "Tác giả bài viết:",
+          "doctor": "Bác sĩ tham vấn:",
+          "doctor_plural": "Bác sĩ tham vấn:"
+        }
+      }
+    }
+  },
+  "blogDetails": {
+    "body": {
+      "sectionAuthor": {
+        "buttonSeeMore": {
+          "label": "Xem thêm"
+        }
+      },
+      "sectionReference": {
+        "header": {
+          "title": "Tham vấn"
+        },
+        "buttonSeeMore": {
+          "label": "Xem thêm"
+        }
+      },
+      "sectionShare": {
+        "header": {
+          "title": "Chia sẻ"
+        }
+      },
+      "sectionDiscussion": {
+        "header": {
+          "title": "Bình luận về bài viết này"
+        }
+      }
+    }
+  },
+  "careerDetails": {
+    "header": {
+      "title": "Thông tin tuyển dụng"
+    },
+    "body": {
+      "sectionOtherJobs": {
+        "title": "Thông tin tuyển dụng khác"
+      }
+    }
+  },
+  "careers": {
+    "header": {
+      "title": "Thông tin tuyển dụng"
+    },
+    "body": {
+      "sectionJobs": {
+        "contentEmpty": {
+          "description": "Công ty chưa có yêu cầu <br/>tuyển dụng hiện tại"
+        }
+      }
+    }
+  },
+  "cartAndCheckout": {
+    "header": {
+      "steps": {
+        "1": "Giỏ hàng",
+        "2": "Thanh toán",
+        "3": "Hoàn thành"
+      }
+    },
+    "body": {
+      "cartDetails": {
+        "field": {
+          "service": {
+            "label": "Dịch vụ"
+          },
+          "quantity": {
+            "label": "Số lượng"
+          },
+          "price": {
+            "label": "Giá"
+          },
+          "discount": {
+            "label": "Khuyến mãi"
+          },
+          "subtotal": {
+            "label": "Tổng tạm tính"
+          }
+        }
+      },
+      "formRedeem": {
+        "field": {
+          "promotionCode": {
+            "label": "Bạn có mã giảm giá?",
+            "placeholder": {
+              "1": "Nhập mã",
+              "2": "Chọn hoặc nhập mã giảm giá"
+            }
+          }
+        },
+        "errors": {
+          "1": "Mã giảm giá không hợp lệ. Vui lòng kiểm tra.",
+          "2": "Mã giảm giá không áp dụng cho dịch vụ này.",
+          "3": "Mã đã được sử dụng.",
+          "4": "Mã ưu đãi đã được nhập trước đó, liên hệ hotline để được hỗ trợ."
+        },
+        "actions": {
+          "applyPromotion": "Áp dụng"
+        }
+      },
+      "orderSummary": {
+        "title": "Tổng thanh toán",
+        "meta": {
+          "subtotal": {
+            "label": "Tổng tạm tính"
+          },
+          "discount": {
+            "label": "Giảm giá"
+          },
+          "total": {
+            "label": "Tổng thanh toán"
+          }
+        },
+        "actions": {
+          "checkout": "Thanh toán"
+        }
+      },
+      "formOrderInformation": {
+        "header": {
+          "title": "Thông tin mua hàng"
+        },
+        "field": {
+          "name": {
+            "placeholder": "Họ và tên"
+          },
+          "phone": {
+            "placeholder": "Số điện thoại"
+          },
+          "email": {
+            "placeholder": "Email"
+          }
+        }
+      },
+      "formCartDetails": {
+        "header": {
+          "title": "Dịch vụ"
+        },
+        "field": {
+          "quantity": {
+            "label": "Số lượng"
+          }
+        },
+        "actions": {
+          "updateAddress": {
+            "text": "Thay đổi"
+          }
+        }
+      },
+      "formAddress": {
+        "header": {
+          "title": "Địa chỉ nhận bộ thu mẫu"
+        },
+        "field": {
+          "fullLocation": {
+            "placeholder": "Tỉnh/Thành phố, Quận/Huyện, Phường/Xã"
+          },
+          "city": {
+            "placeholder": "Tỉnh/Thành phố"
+          },
+          "district": {
+            "placeholder": "Quận/Huyện"
+          },
+          "ward": {
+            "placeholder": "Phường/Xã"
+          },
+          "address": {
+            "placeholder": "Địa chỉ cụ thể"
+          },
+          "search": {
+            "placeholder": "Tìm kiếm"
+          },
+          "postalCode": {
+            "placeholder": "Mã bưu điện"
+          }
+        },
+        "errors": {
+          "1": "Vui lòng nhập địa chỉ để tiếp tục thanh toán",
+          "2": "Hiện tại chúng tôi không giao hàng tới {{country}}. Vui lòng gửi email cho chúng tôi theo địa chỉ <a href='mailto:contact@genetica.asia'>contact@genetica.asia</a> để được hỗ trợ."
+        },
+        "actions": {
+          "back": {
+            "text": "Trở lại"
+          },
+          "complete": {
+            "text": "Hoàn thành"
+          },
+          "adjust": {
+            "text": "Thay đổi"
+          }
+        }
+      },
+      "formPaymentMethod": {
+        "header": {
+          "title": "Phương thức thanh toán"
+        },
+        "field": {
+          "paymentMethods": {
+            "1": {
+              "title": "Chuyển khoản ngân hàng",
+              "description": "(Ngân hàng điện tử/Mã QR)"
+            },
+            "2": {
+              "title": "Thẻ ngân hàng",
+              "description": "(Thẻ ATM/thẻ tin dụng/thẻ debit)"
+            },
+            "3": {
+              "title": "Ví điện tử (Momo, ZaloPay)",
+              "description": ""
+            },
+            "4": {
+              "title": "Trả góp 0% qua thẻ tín dụng",
+              "description": "(Áp dụng cho đơn hàng từ 3,000,000đ)"
+            },
+            "5": {
+              "title": "Ngân hàng TMCP Sài Gòn (SCB) (Internet Banking)",
+              "description": ""
+            },
+            "6": {
+              "title": "Chuyển khoản trực tiếp",
+              "description": "Chuyển đến số tài khoản ngân hàng"
+            },
+            "7": {
+              "title": "Chuyển khoản qua QR-Code",
+              "description": "Thanh toán qua VNPay"
+            },
+            "8": {
+              "title": "Thẻ tín dụng/thẻ ghi nợ",
+              "description": "Thanh toán bằng thẻ tín dụng/ghi nợ"
+            },
+            "9": {
+              "title": "Thẻ ATM",
+              "description": "Thanh toán qua OnePay"
+            },
+            "10": {
+              "title": "Thanh toán Momo",
+              "description": "Thanh toán qua ứng dụng Momo"
+            },
+            "11": {
+              "title": "Thanh toán ZaloPay",
+              "description": "Thanh toán qua ứng dụng ZaloPay"
+            }
+          }
+        }
+      },
+      "sectionBankTransfer": {
+        "header": {
+          "title": "Hướng dẫn chuyển khoản"
+        },
+        "body": {
+          "title": "Để thanh toán, bạn hãy dùng bất kỳ ngân hàng nào để chuyển khoản đến tài khoản sau:",
+          "meta": {
+            "beneficiaryBank": "Tên ngân hàng",
+            "branch": "Chi nhánh",
+            "beneficiaryName": "Người nhận",
+            "amount": "Số tiền (VNĐ)",
+            "accountNumber": "Số tài khoản",
+            "transactionDescription": "Nội dung chuyển khoản"
+          },
+          "message": {
+            "notice": "<span>Lưu ý</span>: Nội dung chuyển khoản là bắt buộc để Genetica có thể nhận biết và xác minh giao dịch của bạn.",
+            "help": "Chúng tôi sẽ gửi tin nhắn xác nhận thanh toán thành công sau khi xác thực chuyển khoản. Bạn sẽ nhận được Bộ thu mẫu trong 2-3 ngày làm việc."
+          },
+          "actions": {
+            "openBankApp": "Mở ứng dụng/website ngân hàng",
+            "copy": "Sao chép",
+            "copied": "Đã sao chép!"
+          }
+        }
+      },
+      "sectionEmptyCart": {
+        "body": {
+          "title": "Giỏ hàng trống",
+          "description": "Chưa có dịch vụ nào trong giỏ hàng của bạn.",
+          "widgetSeeMore": {
+            "title": "Tìm hiểu các dịch vụ khác"
+          }
+        }
+      }
+    },
+    "modal": {
+      "content": {
+        "messagePrefix": "Bạn muốn xóa",
+        "messageSuffix": "khỏi giỏ hàng?"
+      },
+      "action": {
+        "remove": "Xóa",
+        "cancel": "Hủy"
+      }
+    },
+    "emptyContent": {
+      "message": "Bạn không có bất kỳ mặt hàng nào trong giỏ hàng của mình. Xem cửa hàng của chúng tôi:"
+    }
+  },
+  "checkout": {
+    "alert": {
+      "promotion": {
+        "invalid": {
+          "message": "Mã khuyến mại không hợp lệ"
+        },
+        "required": {
+          "message": "Mã khuyến mại không được bỏ trống."
+        }
+      }
+    }
+  },
+  "consultation": {
+    "body": {
+      "sectionProfiles": {
+        "header": {
+          "title": "Chọn 1 hồ sơ để đặt lịch"
+        },
+        "body": {
+          "list": {
+            "item": {
+              "description": "{{count}} báo cáo có thể đặt lịch",
+              "description_plural": "{{count}} báo cáo có thể đặt lịch",
+              "actions": {
+                "book": {
+                  "label": "Đặt lịch"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "consultationBooking": {
+    "header": {
+      "title": "Đặt lịch tư vấn"
+    },
+    "body": {
+      "sectionSteps": {
+        "list": [
+          {
+            "label": "Chọn báo cáo"
+          },
+          {
+            "label": "Chọn phương thức"
+          },
+          {
+            "label": "Chọn thời gian"
+          }
+        ]
+      },
+      "sectionSelectReports": {
+        "header": {
+          "title": "Chọn báo cáo"
+        },
+        "body": {
+          "meta": {
+            "expectedSessionLength": {
+              "label": "Dự kiến thời gian"
+            }
+          }
+        }
+      },
+      "sectionSelectConsultationMethods": {
+        "header": {
+          "title": "Chọn kênh tư vấn"
+        },
+        "body": {
+          "description": "Vui lòng chọn số điện thoại"
+        }
+      },
+      "sectionSelectTimeslot": {
+        "header": {
+          "title": "Chọn thời gian"
+        },
+        "body": {
+          "timeslots": {
+            "empty": {
+              "label": "Không còn slot trống! <br/>Vui lòng chọn ngày khác hoặc liên hệ Hotline <b>1900 599 927</b>"
+            }
+          }
+        }
+      },
+      "sectionActions": {
+        "next": {
+          "label": "Tiếp"
+        },
+        "back": {
+          "label": "Quay lại"
+        },
+        "book": {
+          "label": "Đặt lịch"
+        }
+      },
+      "sectionSelectedProfile": {
+        "header": {
+          "title": "Hồ sơ gen"
+        }
+      },
+      "sectionSelectedReports": {
+        "header": {
+          "title": "Báo cáo",
+          "title_plural": "Báo cáo"
+        }
+      },
+      "sectionSelectedConsultationMethod": {
+        "header": {
+          "title": "Kênh tư vấn"
+        }
+      },
+      "sectionCreatedAppointment": {
+        "header": {
+          "title": "Đặt lịch thành công"
+        },
+        "body": {
+          "description": "Lịch tư vấn của bạn đã được xử lý thành công.",
+          "sectionInformation": {
+            "headers": {
+              "name": {
+                "label": "Tên"
+              },
+              "reports": {
+                "label": "Báo cáo"
+              },
+              "channel": {
+                "label": "Kênh tư vấn"
+              },
+              "timeslot": {
+                "label": "Thời gian"
+              }
+            }
+          },
+          "actions": {
+            "backToHomepage": {
+              "label": "Quay về trang chủ"
+            }
+          }
+        },
+        "footer": {
+          "description": "Tải ứng dụng Genetica để nhận những thông báo mới nhất về lịch tư vấn của bạn"
+        }
+      }
+    }
+  },
+  "consultationContact": {
+    "header": {
+      "title": "Đặt lịch tư vấn dịch vụ"
+    },
+    "body": {
+      "title": "Chọn kênh tư vấn",
+      "content": {
+        "menu": {
+          "phone": "Tư vấn qua điện thoại",
+          "office": "Tư vấn tại văn phòng"
+        },
+        "form": {
+          "label": {
+            "1": "Thông tin liên hệ",
+            "2": "Thời gian nhận tư vấn",
+            "3": "Chọn khung giờ",
+            "4": "Đối tượng thực hiện dịch vụ",
+            "5": "Các nội dung tư vấn",
+            "6": "Mức giá dịch vụ (không bắt buộc)",
+            "7": "Chọn mức giá",
+            "8": "Địa điểm"
+          },
+          "name": "Họ và tên (không bắt buộc)",
+          "dropdown": {
+            "labelDefault": "Chọn",
+            "price": {
+              "labelDefault": "Chọn mức giá"
+            },
+            "timeBooking": {
+              "labelDefault": "Chọn khung giờ"
+            }
+          },
+          "locations": {
+            "1": {
+              "label": "Văn phòng Hà Nội",
+              "description": "Tầng 9, Trung tâm Đổi Mới Sáng Tạo Quốc Gia - Tòa nhà NIC, Ngõ 7 Tôn Thất Thuyết, Phường Dịch Vọng Hậu, Quận Cầu Giấy"
+            },
+            "2": {
+              "label": "Văn phòng Hồ Chí Minh",
+              "description": "Tầng 2, Số 40 Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3"
+            }
+          },
+          "serviceUsers": {
+            "1": "Trẻ em",
+            "2": "Người lớn"
+          },
+          "topics": {
+            "1": "Dinh dưỡng, thể chất",
+            "2": "Trí tuệ, hành vi",
+            "3": "Nguy cơ sức khỏe",
+            "4": "Phát triển toàn diện"
+          },
+          "priceOptions": {
+            "1": "Dưới 3,000,000đ",
+            "2": "Từ 3,000,000đ đến 5,000,000đ",
+            "3": "Từ 5,000,000đ đến 10,000,000đ",
+            "4": "Trên 10,000,000đ"
+          },
+          "button": {
+            "label": "Đặt lịch"
+          }
+        }
+      }
+    },
+    "modal": {
+      "success": {
+        "online": {
+          "content": "Cảm ơn bạn đã liên hệ với Genetica®! Nhân viên tư vấn của Genetica® sẽ liên hệ lại sớm và hỗ trợ mình. Hãy đảm bảo điện thoại của bạn luôn sẵn sàng nhé.",
+          "action": "Trở lại trang chủ"
+        },
+        "meetUp": {
+          "content": "Cảm ơn bạn đã liên hệ với Genetica®! Nhân viên tư vấn của Genetica® sẽ liên hệ lại sớm và hỗ trợ mình.",
+          "action": "Trở lại trang chủ"
+        }
+      }
+    }
+  },
+  "contactUs": {
+    "title": "Liên hệ với chúng tôi",
+    "content": {
+      "timeOfWeek": {
+        "label": "Thứ 2 - Thứ 6"
+      },
+      "office": "Văn phòng",
+      "contacts": "Liên hệ",
+      "workingHours": "Thời gian làm việc",
+      "mondayToFriday": "Thứ 2 - Thứ 6"
+    }
+  },
+  "disclaimer": {
+    "header": {
+      "title": "Các Giới Hạn và Trường Hợp Loại Trừ của Giải Mã Gen"
+    }
+  },
+  "doctors": {
+    "header": {
+      "title": "Đội Ngũ Chuyên Gia"
+    },
+    "body": {
+      "filters": {
+        "title": {
+          "label": "Bộ lọc",
+          "option": {
+            "all": "Tất cả"
+          }
+        }
+      },
+      "list": {
+        "item": {
+          "buttonDetails": {
+            "label": "Thông tin bác sĩ"
+          }
+        }
+      }
+    }
+  },
+  "frequentlyAskedQuestions": {
+    "title": "Câu hỏi thường gặp"
+  },
+  "generalTransactionConditions": {
+    "header": {
+      "title": "Điều kiện giao dịch"
+    }
+  },
+  "getYourOwnGeneNft": {
+    "content": {
+      "FAQs": {
+        "1": {
+          "question": "1. <span>GeneNFT</span> là gì?",
+          "answer": "<span>GeneNFT</span> là một loại tài sản kỹ thuật số, đại diện cho dữ liệu gen của một cá nhân. Bộ gen của mỗi người là duy nhất, vì vậy <span>GeneNFT</span> của bạn cũng là duy nhất."
+        },
+        "2": {
+          "question": "2. Mục đích của <span>GeneNFT</span> là gì?",
+          "answer": "Bên cạnh là tài sản kỹ thuật số, <span>GeneNFT</span> có vai trò như một chứng chỉ đảm bảo việc người dùng thực sự sở hữu dữ liệu gene của họ."
+        },
+        "3": {
+          "question": "3. Cách thức hoạt động của <span>GeneNFT</span>? Làm sao để sở hữu?",
+          "answer": "Sau khi thực hiện Dịch vụ Giải mã gen tại Genetica, dữ liệu gen của bạn sẽ được mã hóa, lưu trữ, bảo mật và quản trị trên hệ thống của Gene Friend Network với định dạng là tài sản kỹ thuật số. Và Gene Friend Network ghi nhận quyền sở hữu tài sản này cho bạn."
+        },
+        "4": {
+          "question": "4. Tôi có thể kiểm tra <span>GeneNFT</span> của tôi bằng cách nào?",
+          "answer": {
+            "1": "1. Tải và mở ứng dụng Genetica.",
+            "2": "2. Truy cập app Genetica, vào <b>Genetica Wallet</b> (Ví Genetica), mở tab <span>GeneNFT</span>, người dùng có thể:<ul><li>- Nhìn thấy certificate <span>GeneNFT</span> của chính mình</li><li>- Kiểm tra NFT token trực tiếp trên mạng blockchain</li></ul>"
+          }
+        },
+        "5": {
+          "question": "5. Một số chính phủ chưa công nhận NFT là một tài sản kỹ thuật số, vậy có rủi ro nào khi sở hữu nó hay không?",
+          "answer": "Bạn không chịu bất kỳ rủi ro pháp lý nào liên quan đến <span>GeneNFT</span>. <span>GeneNFT</span> đơn giản quyền sở hữu dữ liệu của bạn. Chúng tôi số hoá quyền sở hữu này thông qua NFT và giao nó cho bạn quản lý."
+        },
+        "6": {
+          "question": "6. <span>GeneNFT</span> có giúp tôi kiếm được tiền không, và bằng cách nào?",
+          "answer": "<p>Không có một đảm bảo nào về khả năng tạo ra thu nhập tài chính từ dữ liệu gen của một người. Theo kiến thức của chúng tôi, chưa từng có một trường hợp nào được ghi nhận rằng đã trở nên giàu có thông qua bán hay cho thuê dữ liệu di truyền của bản thân.</p><p>Tuy nhiên, thông tin di truyền của một tập hợp các cá thể phù hợp với một phạm vi nghiên cứu cụ thể có thể giúp ích cho các nỗ lực nghiên cứu nhằm ứng dụng thông tin di truyền vào các lĩnh vực như y học các thể hoá, thuốc chuyên biệt theo cá thể…. Trong các trường hợp này, các tổ chức nghiên cứu thường sẵn lòng tài trợ một khoản chi phí nhỏ cho quyền truy cập phân tích dữ liệu di truyền.</p><p>Người sở hữu <span>GeneNFT</span> có quyền cho phép hoặc không cho phép ai truy cập vào dữ liệu gene của họ, để đổi lại một khoản phí tài trợ như trên, hoặc đơn giản là miễn phí vì mục tiêu tiến bộ của nhân loại.</p><p>Tất cả các truy cập dữ liệu được uỷ quyền từ chính người chủ sở hữu của bộ gen (là chính bạn) đều được ghi nhận đầy đủ và minh bạch với người chủ sở hữu.</p>"
+        }
+      },
+      "contactForm": {
+        "title": "Nhận tư vấn miễn phí về <span>GeneNFT</span>",
+        "description": "Để lại thông tin, Genetica® sẽ liên hệ để tư vấn cho bạn sớm nhất",
+        "form": {
+          "field": {
+            "name": "Họ và tên (không bắt buộc)",
+            "phone": "Số điện thoại"
+          },
+          "submit": "Gửi yêu cầu"
+        },
+        "more": "Hiểu thêm về Giải mã gen"
+      },
+      "modalSuccess": {
+        "header": {
+          "title": "Yêu cầu thành công",
+          "description": "Liên hệ <1>1900 599 927</1> để được hỗ trợ nhanh nhất."
+        },
+        "action": {
+          "close": {
+            "label": "Đóng"
+          }
+        }
+      },
+      "modalError": {
+        "header": {
+          "title": "Yêu cầu thất bại",
+          "description": "Liên hệ <1>1900 599 927</1> để được hỗ trợ nhanh nhất."
+        },
+        "action": {
+          "close": {
+            "label": "Thử lại"
+          }
+        }
+      }
+    }
+  },
+  "home": {
+    "title": "Genetica® Xét Nghiệm Gen Công Nghệ Mỹ cho người Châu Á",
+    "section1": {
+      "title": "Khám phá bộ gen<br>Làm chủ tương lai",
+      "description": "Tối ưu cuộc sống của bạn và gia đình yêu thương bằng dữ liệu di truyền.",
+      "button": {
+        "label": "Tìm hiểu thêm"
+      }
+    },
+    "sectionTutorials": {
+      "body": {
+        "list": [
+          {
+            "subtitle": "Bạn đã nhận được ống thu mẫu?",
+            "title": "Xem hướng dẫn lấy mẫu"
+          },
+          {
+            "subtitle": "Bạn đã nhận được báo cáo?",
+            "title": "Đặt lịch hẹn tư vấn",
+            "actions": {
+              "book": {
+                "label": "Đặt lịch ngay"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "section2": {
+      "header": {
+        "title": "Hơn 1000 báo cáo chỉ với 1 click chuột"
+      },
+      "footer": {
+        "text": "* Với mức giá khởi điểm, bạn sẽ nhận được gói dịch vụ nền tảng - <b>Care</b>. Nâng cấp lên gói dịch vụ tối ưu - <b>Pro</b> để tận hưởng những lợi ích độc đáo đi kèm."
+      }
+    },
+    "sectionProcess": {
+      "header": {
+        "title": "Quy trình xét nghiệm DNA<br/>đơn giản bao gồm 3 bước"
+      },
+      "body": {
+        "list": {
+          "1": {
+            "title": "Đặt mua bộ thu mẫu",
+            "description": "Bộ dụng cụ lấy mẫu DNA của Genetica sẽ được giao trực tiếp đến địa chỉ bạn đã đăng ký."
+          },
+          "2": {
+            "title": "Cung cấp mẫu nước bọt",
+            "description": "Bạn chỉ cần làm theo hướng dẫn có sẵn bên trong bộ dụng cụ lấy mẫu DNA để thu thập nước bọt của mình. Sau khi hoàn tất, hãy gửi lại mẫu nước bọt của bạn để chúng tôi phân tích DNA."
+          },
+          "3": {
+            "title": "Nhận kết quả sau 30 ngày làm việc",
+            "description": "Cài đặt ứng dụng Genetica trên điện thoại để xem kết quả giải mã gen và các khuyến nghị dành cho bạn."
+          }
+        }
+      }
+    },
+    "sectionLearnMoreAboutUs": {
+      "header": {
+        "title": "Tìm hiểu về chúng tôi"
+      },
+      "body": {
+        "actions": {
+          "viewMore": {
+            "label": "Xem thêm"
+          }
+        }
+      }
+    },
+    "sectionPrivacyAndSecurityStatement": {
+      "title": "Chính sách bảo mật và quyền riêng tư",
+      "description": "Tại Genetica®, thông tin của bạn hoàn toàn được bảo mật. Chúng tôi đặc biệt chú trọng đến tính riêng tư, an toàn và dữ liệu di truyền chỉ có thể được truy cập bởi chính người sở hữu."
+    },
+    "sectionAdvisors": {
+      "header": {
+        "title": "Ban cố vấn với bề dày chuyên môn",
+        "description": "Thành viên Ban Cố vấn của Genetica® là những nhà đầu tư nổi tiếng nhất từ thung lũng Silicon và các giáo sư thuộc Liên đoàn những trường Đại học xuất sắc nhất thế giới như Harvard, Stanford, Cornell,...",
+        "actions": {
+          "button": {
+            "label": "Tìm hiểu thêm"
+          }
+        }
+      }
+    },
+    "sectionTestimonials": {
+      "header": {
+        "title": "Trải nghiệm khách hàng"
+      },
+      "body": {
+        "content": {
+          "slide": {
+            "cta": {
+              "content": "<p>Genetica tự hào đã phục vụ hơn hàng nghìn khách hàng trong việc mang đến giải pháp tối ưu sức khoẻ. </p> <p> Hãy lắng nghe câu chuyện của khách hàng Genetica và chia sẻ câu chuyện của bạn với chúng tôi. </p>",
+              "actions": {
+                "listenToOtherStory": "Lắng nghe những câu chuyện khác"
+              }
+            }
+          }
+        },
+        "actions": {
+          "viewMore": {
+            "label": "Xem thêm"
+          }
+        }
+      },
+      "list": [
+        {
+          "giver": {
+            "name": "Vy Le",
+            "description": "Triathlete"
+          },
+          "comment": {
+            "title": "Tuyệt vời",
+            "content": "Tôi hài lòng với báo cáo giải mã gen của GENETICA®. Việc giải mã gen thực sự có ý nghĩa, nhờ đó tôi có thể điều chỉnh lại các bài tập hợp lý và hiệu quả hơn."
+          }
+        },
+        {
+          "giver": {
+            "name": "Anh Nguyen",
+            "description": "Chồng và cha"
+          },
+          "comment": {
+            "title": "Tuyệt vời",
+            "content": "Báo cáo giải mã gen của Genetica® giúp tôi hiểu được điểm mạnh và điểm yếu của mình, cho phép tôi cá nhân hoá chế độ luyện tập để có một cơ thể khoẻ đẹp hơn."
+          }
+        },
+        {
+          "giver": {
+            "name": "Lam Nguyen",
+            "description": "Vận động viên chạy bền"
+          },
+          "comment": {
+            "title": "Tuyệt vời",
+            "content": "Tôi có thể tối ưu hoá chế độ tập luyện được thiết lập riêng cho mình và phù hợp với sức khoẻ thể chất của mình."
+          }
+        }
+      ]
+    },
+    "sectionPartners": {
+      "header": {
+        "title": "Đối tác toàn cầu",
+        "description": "Genetica® được chứng nhận bởi những đối tác hàng đầu thế giới trong lĩnh vực Xét nghiệm Di truyền."
+      },
+      "body": {
+        "menu": {
+          "partnersFromUSA": {
+            "label": "Tại Mỹ"
+          },
+          "partnersFromVietnam": {
+            "label": "Tại Việt Nam"
+          }
+        }
+      }
+    }
+  },
+  "homeV2": {
+    "title": "Genetica® Xét Nghiệm Gen Công Nghệ Mỹ cho người Châu Á",
+    "sectionAdvisors": {
+      "body": {
+        "title": "Ban cố vấn <br />chuyên môn",
+        "description": "Thành viên Ban cố vấn của Genetica® là những nhà đầu tư nổi tiếng nhất từ thung lũng Silicon và các giáo sư thuộc Liên đoàn những trường Đại học xuất sắc nhất thế giới như Harvard, Stanford, Cornell và các trường khác.",
+        "actions": {
+          "1": {
+            "label": "Tìm hiểu thêm"
+          }
+        }
+      }
+    },
+    "sectionDownload": {
+      "body": {
+        "title": "Ứng dụng Genetica",
+        "description": "Hơn 1000 báo cáo chuyên sâu về bạn <br/> ngay trong lòng bàn tay",
+        "subtitle": "Tải ứng dụng ngay"
+      }
+    },
+    "sectionBenefits": {
+      "header": {
+        "title": "Lợi ích của <br/>giải mã gen"
+      },
+      "body": {
+        "list": {
+          "0": {
+            "actions": {
+              "learnMore": {
+                "label": "Tìm hiểu thêm"
+              }
+            }
+          },
+          "1": {
+            "title": "Tối ưu lối sống cho riêng bạn",
+            "description": "Giúp bạn cá nhân hoá kế hoạch phát triển bản thân bằng việc phân tích về tiềm năng, dinh dưỡng, thể chất, chế độ luyện tập cùng những khuyến nghị dành riêng cho bạn."
+          },
+          "2": {
+            "title": "Giúp con phát triển toàn diện",
+            "description": "Giúp ba mẹ hiểu rõ về tiềm năng của con, cũng như hỗ trợ ba mẹ trong việc tối ưu kế hoạch giáo dục, chăm sóc sức khỏe và định hướng phát triển tiềm năng cho trẻ."
+          },
+          "3": {
+            "title": "Hiểu rõ nguy cơ về sức khỏe",
+            "description": "Giúp bạn hiểu rõ nguy cơ mắc bệnh di truyền tiềm ẩn trong gen và các khuyến nghị cá nhân hóa trong việc phòng bệnh."
+          }
+        }
+      }
+    },
+    "sectionMedia": {
+      "header": {
+        "title": "Báo chí nói về chúng tôi"
+      }
+    },
+    "sectionPartners": {
+      "header": {
+        "title": "Đối tác của Genetica",
+        "description": "Bao gồm đối tác kinh doanh, phát triển dịch vụ và đối tác thông qua các dự án nghiên cứu dữ liệu lớn<br/><br/>Genetica<sup>®</sup> được chứng nhận bởi những đối tác hàng đầu thế giới trong lĩnh vực Xét nghiệm Di truyền."
+      },
+      "body": {
+        "menu": {
+          "partnersFromUSA": {
+            "label": "Quốc tế"
+          },
+          "partnersFromVietnam": {
+            "label": "Tại Việt Nam"
+          }
+        }
+      }
+    },
+    "sectionCertificates": {
+      "header": {
+        "title": "Chứng chỉ quốc tế"
+      },
+      "body": {
+        "certificate": {
+          "1": "Chứng nhận CLIA",
+          "2": "Chứng nhận CAP"
+        },
+        "description": "Phòng lab tại San Francisco và Việt Nam của Genetica đạt chứng nhận tiêu chuẩn CAP, CLIA - tiêu chuẩn nghiêm ngặt nhất Hoa Kỳ cho tiêu chuẩn về độ chính xác của phòng thí nghiệm.<br /><br />Thông qua việc phân tích hàng trăm gen, các báo cáo của chúng tôi cung cấp thông tin khoa học và chính xác về thể chất, hành vi, trí tuệ, và nguy cơ sức khỏe; và khuyến nghị cá nhân hóa dành cho từng cá nhân."
+      }
+    },
+    "sectionProcess": {
+      "header": {
+        "title": "Quy trình xét nghiệm<br/>3 bước đơn giản"
+      },
+      "body": {
+        "list": {
+          "1": {
+            "title": "Đăng ký dịch vụ",
+            "description": "Sau khi mua và thanh toán dịch vụ, Genetica sẽ gửi bộ dụng cụ lấy mẫu DNA đến địa chỉ giao nhận mà bạn đã đăng ký."
+          },
+          "2": {
+            "title": "Cung cấp mẫu nước bọt",
+            "description": "Lấy nước bọt theo hướng dẫn trong bộ thu mẫu. Sau khi hoàn tất, thông báo với Genetica thông qua App hoặc Hotline để chúng tôi thu hồi mẫu.",
+            "actions": {
+              "1": {
+                "label": "Video hướng dẫn"
+              }
+            }
+          },
+          "3": {
+            "title": "Nhận kết quả sau 30 ngày làm việc",
+            "description": "Cài đặt ứng dụng Genetica trên điện thoại để xem kết quả giải mã gen và các khuyến nghị dành riêng cho bạn.",
+            "actions": {
+              "1": {
+                "label": "Google Play"
+              },
+              "2": {
+                "label": "App Store"
+              }
+            },
+            "thumbnail": {
+              "caption": "Tải ứng dụng tại:"
+            }
+          }
+        }
+      }
+    },
+    "sectionServices": {
+      "header": {
+        "title": "Dịch vụ"
+      },
+      "body": {
+        "list": {
+          "adults": {
+            "title": "Người lớn",
+            "subtitle": "Từ 18 tuổi trở lên"
+          },
+          "kids": {
+            "title": "Trẻ em",
+            "subtitle": "Dưới 18 tuổi"
+          },
+          "health": {
+            "title": "Sức khỏe",
+            "subtitle": "Mọi lứa tuổi"
+          }
+        }
+      }
+    },
+    "sectionSpecialists": {
+      "header": {
+        "title": "Gặp gỡ chuyên gia Genetica®",
+        "description": "Đội ngũ bác sĩ giàu kinh nghiệm đến từ các bệnh viện và viện nghiên cứu <br/> lớn trên cả nước",
+        "actions": {
+          "1": {
+            "label": "Tìm hiểu thêm"
+          }
+        }
+      }
+    },
+    "sectionTestimonials": {
+      "header": {
+        "title": "Câu chuyện <br/>khách hàng"
+      },
+      "body": {
+        "list": {
+          "0": {
+            "actions": {
+              "viewMore": {
+                "label": "Xem thêm"
+              }
+            }
+          },
+          "-1": {
+            "content": "<p>Genetica tự hào đã phục vụ hơn hàng nghìn khách hàng trong việc mang đến giải pháp tối ưu sức khoẻ. </p> <p> Hãy lắng nghe câu chuyện của khách hàng Genetica và chia sẻ câu chuyện của bạn với chúng tôi. </p>",
+            "actions": {
+              "listenToOtherStory": "Lắng nghe những câu chuyện khác"
+            }
+          }
+        }
+      }
+    },
+    "sectionUtilities": {
+      "body": {
+        "list": {
+          "1": {
+            "title": "Xem báo cáo mẫu"
+          },
+          "2": {
+            "title": "Đặt lịch tư vấn kết quả",
+            "description": "Không lo lắng chờ đợi"
+          },
+          "3": {
+            "title": "Dùng mã giảm giá",
+            "description": "Giảm giá lên đến 50%"
+          }
+        }
+      }
+    },
+    "sectionWhyChoosingGenetica": {
+      "header": {
+        "title": "Vì sao chọn Genetica<span>®</span>"
+      },
+      "body": {
+        "list": {
+          "0": {
+            "actions": {
+              "viewDetails": {
+                "label": "Xem chi tiết"
+              }
+            }
+          },
+          "1": {
+            "title": "Công nghệ tiêu chuẩn Hoa Kỳ <br/>chính xác đến 99.9%"
+          },
+          "2": {
+            "title": "Bảo mật dữ liệu khách hàng <br/>bằng công nghệ Blockchain"
+          },
+          "3": {
+            "title": "Lấy mẫu bằng nước bọt, an toàn,<br/> và không xâm lấn"
+          },
+          "4": {
+            "title": "Tư vấn kết quả báo cáo chuyên <br/>sâu bởi chuyên gia di truyền"
+          }
+        }
+      }
+    },
+    "sectionBestSellingPackages": {
+      "header": {
+        "title": "Dịch vụ bán chạy"
+      },
+      "actions": {
+        "viewAllProducts": "Xem tất cả Dịch vụ tại Genetica"
+      }
+    }
+  },
+  "landing": {
+    "christmas-event": {
+      "contact": "Liên hệ tư vấn",
+      "buyNow": "Mua ngay",
+      "partner": "Đối tác quốc tế:",
+      "form": {
+        "title": {
+          "1": "khai phá",
+          "2": "tiềm năng trí tuệ của con",
+          "3": "ngay hôm nay!"
+        },
+        "phone": "Số điện thoại*",
+        "description": "Chúng tôi sẽ liên hệ với bạn ngay khi nhận được số điện thoại!",
+        "submit": "liên hệ tư vấn"
+      },
+      "modal": {
+        "success": {
+          "1": "Cám ơn thông tin của bạn.",
+          "2": "Genetica",
+          "3": "sẽ liên hệ với bạn <br/> ngay sau khi nhận được <br/> số điện thoại."
+        },
+        "error": "Số điện thoại không hợp lệ",
+        "action": "Đóng"
+      }
+    },
+    "tetEvent": {
+      "contact": "Liên hệ tư vấn",
+      "buyNow": "Mua ngay",
+      "partner": "Đối tác quốc tế:",
+      "form": {
+        "title": {
+          "1": "khai phá",
+          "2": "tiềm năng trí tuệ của con",
+          "3": "ngay hôm nay!"
+        },
+        "phone": "Số điện thoại*",
+        "description": "Chúng tôi sẽ liên hệ với bạn ngay khi nhận được số điện thoại!",
+        "submit": "liên hệ tư vấn"
+      },
+      "modal": {
+        "success": {
+          "1": "Cám ơn thông tin của bạn.",
+          "2": "Genetica",
+          "3": "sẽ liên hệ với bạn <br/> ngay sau khi nhận được <br/> số điện thoại."
+        },
+        "error": "Số điện thoại không hợp lệ",
+        "action": "Đóng"
+      }
+    },
+    "newYearResolution": {
+      "contact": "Liên hệ tư vấn",
+      "buyNow": "Mua ngay",
+      "partner": "Đối tác quốc tế:",
+      "form": {
+        "title": {
+          "1": "Khởi động năm mới",
+          "2": "giải mã thành công",
+          "3": "ngay hôm nay!"
+        },
+        "phone": "Số điện thoại*",
+        "description": "Chúng tôi sẽ liên hệ với bạn ngay khi nhận được số điện thoại!",
+        "submit": "liên hệ tư vấn"
+      },
+      "modal": {
+        "success": {
+          "1": "Cám ơn thông tin của bạn.",
+          "2": "Genetica",
+          "3": "sẽ liên hệ với bạn <br/> ngay sau khi nhận được <br/> số điện thoại."
+        },
+        "error": "Số điện thoại không hợp lệ",
+        "action": "Đóng"
+      }
+    }
+  },
+  "news": {
+    "header": {
+      "title": "Tin tức"
+    }
+  },
+  "newsDetails": {
+    "body": {
+      "sectionShare": {
+        "header": {
+          "title": "Chia sẻ"
+        }
+      },
+      "sectionDiscussion": {
+        "header": {
+          "title": "Bình luận về bài viết này"
+        }
+      }
+    }
+  },
+  "partners": {
+    "header": {
+      "title": "Đối tác của chúng tôi",
+      "breadcrumb": {
+        "home": "Trang chủ",
+        "partners": "Đối tác"
+      }
+    },
+    "sectionPartnersVN": {
+      "header": {
+        "title": "Đối tác tại Việt Nam"
+      }
+    },
+    "sectionPartnersUS": {
+      "header": {
+        "title": "Đối tác tại Mỹ"
+      }
+    }
+  },
+  "paymentMethods": {
+    "header": {
+      "title": "Phương thức thanh toán"
+    }
+  },
+  "pressRelease": {
+    "header": {
+      "title": "Thông cáo báo chí"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Chính Sách Bảo Mật & Quyền Riêng Tư",
+    "content": "<p>Chính Sách Bảo Mật & Quyền Riêng Tư này (\"<b>Chính Sách</b>\") áp dụng cho trang web có địa chỉ tại<a href=\"https://genetica.asia/\">https://genetica.asia/</a>và bất kỳ trang web, ứng dụng nào khác (bao gồm cả Phần Mềm và/hoặc bất kỳ ứng dụng di động nào khác), các trang, tính năng và/hoặc nội dung do Gene Friend sở hữu và vận hành (\"<b>Trang Web</b>\") và việc bạn sử dụng Dịch Vụ của chúng tôi. Trong Chính Sách này, thuật ngữ \"chúng tôi\" đề cập đến Gene Friend và Bên Được Cho Phép của Gene Friend; và các thuật ngữ \"bạn\" và \"của bạn\" đề cập đến Người Dùng. Trang Web cũng có thể chứa các liên kết đến các trang web và/hoặc các ứng dụng khác do các chủ thể khác sở hữu và vận hành, mà Chính Sách này sẽ không được áp dụng cho các trang web và/hoặc các ứng dụng khác đó.</p><p>Chính Sách này được thiết kế để cung cấp cho bạn sự hiểu biết rõ hơn về cách chúng tôi thu thập, sử dụng, lưu trữ, xử lý, chia sẻ và chuyển giao thông tin của bạn liên quan đến việc bạn sử dụng Dịch Vụ của chúng tôi. Vui lòng đảm bảo rằng bạn xem xét kỹ Chính Sách này và<b>Điều Khoản Dịch Vụ</b>(\"<b>ĐKDV</b>\") của chúng tôi vì bạn được yêu cầu phải chấp thuận với Chính Sách này và ĐKDV của chúng tôi trước khi tiếp tục sử dụng Dịch Vụ của chúng tôi.</p><h3>1. Định Nghĩa</h3><p>Trừ khi được quy định khác đi trong phần này hoặc trong Chính Sách này, các thuật ngữ có chữ cái đầu tiên viết hoa sẽ có nghĩa tương ứng như đã được định nghĩa trong ĐKDV, mà có thể được tìm thấy tại<a href=\"/terms-of-service/\">https://genetica.asia/terms-of-service/</a></p><p>(i) \"<b>Thông Tin Tổng Hợp</b>\": thông tin đã được kết hợp với thông tin của những người dùng khác và được phân tích hoặc đánh giá tổng thể, sao cho, theo một cách hợp lý, không có cá nhân cụ thể nào được nhận dạng.</p><p>(ii) \"<b>Thông Tin Về Gen Cấp Độ Cá Nhân</b>\": thông tin về trình tự gen, bệnh lý hoặc các đặc điểm/đặc trưng khác của một cá nhân, mà không nhất thiết được gắn với Thông Tin Đăng Ký.</p><p>(iii) \"<b>Báo Cáo</b>\": có nghĩa là Thông Tin Về Gen và các khuyến nghị chung do Gene Friend đưa ra dựa trên kết quả xét nghiệm gen của bạn.</p><h3>2. Thông Tin Chúng Tôi Thu Thập Của Bạn</h3><p>(i) Thông Tin Cá Nhân chúng tôi thu thập từ việc bạn đăng ký và/hoặc sử dụng Trang Web và/hoặc Dịch Vụ của chúng tôi.</p><p>(ii) Các thông tin khác bạn cung cấp cho chúng tôi:</p><p>a)<u>Nội Dung Người Dùng:</u>Một số Dịch Vụ của chúng tôi cho phép bạn tạo và đăng tải hoặc đưa lên nội dung, chẳng hạn như dữ liệu, văn bản, phần mềm, âm nhạc, âm thanh, hình ảnh, đồ họa, video, tin nhắn hoặc các tài liệu khác mà bạn tạo hoặc cung cấp cho chúng tôi thông qua phương thức truyền đưa công khai hoặc riêng tư, bao gồm nhưng không giới hạn ở bất kỳ cuộc thảo luận, bài đăng hoặc tin nhắn nào bạn gửi trên các diễn đàn của Gene Friend.</p><p>b)<u>Blog và Diễn Đàn:</u>Trang Web của chúng tôi cung cấp các blog có thể truy cập một cách công khai. Bên cạnh đó, các khách hàng của Gene Friend có thể tham gia vào các diễn đàn trực tuyến của chúng tôi. Bạn cần lưu ý rằng bất kỳ thông tin nào bạn cung cấp hoặc đăng trong các blog và diễn đàn này đều có thể được đọc, thu thập và sử dụng bởi những người khác mà có thể truy cập vào các nơi này. Để yêu cầu việc xóa hoặc bỏ định danh của bất kỳ thông tin nào có thể được sử dụng để nhận dạng bạn khỏi blog hoặc diễn đàn của chúng tôi, vui lòng liên hệ với chúng tôi tại contact@genetica.asia. Vui lòng lưu ý rằng bất cứ khi nào bạn đăng tải công khai một thông tin, trong một số trường hợp, thông tin được đăng tải đó không thể bị xóa bỏ hoàn toàn, ví dụ trong trường hợp ai đó đã chụp ảnh màn hình bài đăng của bạn. Vui lòng thận trọng trước khi chọn chia sẻ bất kỳ thông tin nào công khai trên blog, diễn đàn của chúng tôi hoặc trong bất kỳ bài đăng nào khác. Bạn có thể được yêu cầu đăng ký với ứng dụng của bên thứ ba để đăng bình luận. Để tìm hiểu cách ứng dụng của bên thứ ba sử dụng thông tin của bạn, vui lòng xem xét chính sách quyền riêng tư của bên thứ ba đó.</p><p>c)<u>Quà Tặng:</u>Nếu bạn cung cấp cho chúng tôi thông tin về người khác, hoặc nếu người khác cung cấp cho chúng tôi thông tin của bạn, với mục đích đặt hàng Dịch Vụ làm quà tặng, chúng tôi sẽ chỉ sử dụng thông tin đó cho lý do cụ thể đã được cung cấp cho chúng tôi. Khi người nhận quà tặng đăng ký Dịch Vụ của mình và đồng ý với Chính Sách này, ĐKDV của chúng tôi, và một số tài liệu chấp thuận nếu có áp dụng (ví dụ như Phiếu Yêu Cầu Dịch Vụ), thông tin đó sẽ được sử dụng phù hợp theo Chính Sách này, và sẽ không được chia sẻ với người mua, trừ khi người nhận quà tặng lựa chọn chia sẻ thông tin của mình một cách độc lập thông qua Dịch Vụ với người mua.</p><p>d)<u>Dịch vụ Khách Hàng:</u>Khi bạn liên hệ với bộ phận Chăm Sóc Khách Hàng của chúng tôi hoặc trao đổi với chúng tôi về Dịch Vụ của chúng tôi, chúng tôi thu thập thông tin để: theo dõi và phản hồi yêu cầu của bạn; điều tra bất kỳ vi phạm nào đối với ĐKDV của chúng tôi, đối với Chính Sách này hoặc pháp luật hoặc quy định hiện hành; và phân tích và cải thiện Dịch Vụ của chúng tôi.</p><p>(iii) Thông tin chúng tôi thu thập từ việc bạn sử dụng Dịch Vụ:</p><p><u>Mẫu nước bọt:</u>Để sử dụng dịch vụ xét nghiệm gen của chúng tôi, bạn phải mua, hoặc nhận được như quà tặng Dịch Vụ từ người khác, Bộ Thu Thập Mẫu; tạo Tài Khoản Genetica trực tuyến và đăng ký Bộ Thu Thập Mẫu của bạn, và gửi mẫu nước bọt của bạn cho Gene Friend. Gene Friend và/hoặc Bên Được Cho Phép của Gene Friend sẽ trích xuất ADN từ mẫu nước bọt của bạn để phân tích. Trong quá trình đăng ký Bộ Thu Thập Mẫu, bạn được yêu cầu xem xét Phiếu Yêu Cầu Dịch Vụ liên quan của chúng tôi, và cung cấp cho chúng tôi Phiếu Yêu Cầu Dịch Vụ mà bạn đã điền đủ thông tin và ký.</p><p>(iv) Các nguồn thông tin khác: Chúng tôi cũng thu thập thông tin có sẵn một cách công khai. Ví dụ, chúng tôi có thể thu thập thông tin mà bạn gửi đến blog, diễn đàn, phòng trò chuyện hoặc mạng xã hội như Facebook, Twitter hoặc Google+. Chúng tôi cũng có thể thu thập thông tin về bạn từ các công ty và tổ chức khác. Thông tin chúng tôi nhận được tùy thuộc vào các thiết lập quyền riêng tư của bạn với các nguồn thông tin đó, mà các tính năng đó được lưu trữ bởi bên thứ ba hoặc được lưu trữ trực tiếp trên Trang Web của chúng tôi. Sự tương tác của bạn với các tính năng này được điều chỉnh bởi các chính sách quyền riêng tư của các công ty bên thứ ba cung cấp các tính năng đó. Chúng tôi không kiểm soát hoạt động thông tin trên trang web của bên thứ ba. Bạn nên luôn luôn xem xét và, nếu cần thiết, điều chỉnh cài đặt quyền riêng tư của bạn trên các trang web và dịch vụ của bên thứ ba trước khi liên kết hoặc kết nối chúng với Trang Web hoặc Dịch Vụ của chúng tôi.</p><p>Bằng cách thu thập thông tin bổ sung về bạn, chúng tôi có thể hiệu chỉnh thông tin không chính xác, tăng cường bảo mật cho các giao dịch của bạn và cung cấp cho bạn các đề xuất sản phẩm và ưu đãi đặc biệt mà có thể bạn quan tâm.</p><h3>3. Cách Chúng Tôi Sử Dụng Thông Tin</h3><p>Gene Friend sẽ sử dụng và chia sẻ thông tin của bạn được mô tả tại Mục 2 trên đây với các bên thứ ba theo những cách được mô tả trong Chính Sách này, bao gồm:</p><p>(i) Cho việc vận hành, cung cấp, phân tích và cải thiện Dịch Vụ, bao gồm, trong số các việc khác:</p><p>a) Mở Tài Khoản Genetica của bạn, cho phép chức năng mua hàng và xử lý thanh toán, giao tiếp với bạn, và thực hiện yêu cầu của bạn (ví dụ, các giới thiệu);</p><p>b) Cho phép và nâng cao việc bạn sử dụng Trang Web, bao gồm cả việc xác thực các lượt truy cập của bạn, cung cấp nội dung và thông tin được cá nhân hóa, và theo dõi việc bạn sử dụng Dịch Vụ của chúng tôi;</p><p>c) Liên lạc với bạn về Tài Khoản Genetica, và bất kỳ thông tin liên quan nào về Dịch Vụ của chúng tôi (ví dụ, các thay đổi đối với Chính Sách, các cập nhật hoặc các vấn đề bảo mật, v.v…);</p><p>d) Thực thi ĐKDV của chúng tôi và các thỏa thuận khác với bạn;</p><p>e) Theo dõi, phát hiện, điều tra và ngăn chặn các hành vi bị cấm hoặc bất hợp pháp đối với Dịch Vụ của chúng tôi, để chống lại việc gửi thư rác và các rủi ro bảo mật khác;</p><p>f) Thực hiện các hoạt động nghiên cứu và phát triển, có thể bao gồm, ví dụ, tiến hành phân tích và nghiên cứu dữ liệu để phát triển các sản phẩm và dịch vụ mới hoặc cải tiến các sản phẩm và dịch vụ hiện có, và thực hiện các hoạt động kiểm soát chất lượng;</p><p>g) Cung cấp sự hỗ trợ khách hàng; và</p><p>h) Thu thập khảo sát, thăm dò ý kiến và các xác thực. Chúng tôi xem trọng phản hồi của bạn và có thể gửi cho bạn khảo sát, thăm dò ý kiến hoặc yêu cầu xác thực để cải thiện và tối ưu hóa Dịch Vụ của chúng tôi. Bạn có quyền kiểm soát thông tin bạn muốn chia sẻ với chúng tôi. Nếu bạn không muốn nhận những yêu cầu này, bạn có thể quản lý chúng trong phần cài đặt Tài Khoản Genetica của bạn.</p><p>(ii) Cho quy trình xét nghiệm gen:</p><p>Như mô tả tại Mục 2.(iii) trên đây, để sử dụng dịch vụ xét nghiệm gen của chúng tôi và nhận kết quả, bạn phải tạo một Tài Khoản Genetica, đăng ký Bộ Thu Thập Mẫu của bạn, và gửi mẫu nước bọt của bạn cho chúng tôi xử lý và phân tích để cung cấp cho bạn Thông Tin Về Gen, tùy thuộc vào Dịch Vụ đã mua. Gene Friend không ngừng cải thiện Dịch Vụ của chúng tôi dựa trên nghiên cứu và phát triển sản phẩm của chúng tôi, và sự liên kết gen được xác định trong tài liệu khoa học. Nếu bạn đủ điều kiện nhận báo cáo hoặc cập nhật bổ sung trong tương lai, bạn có thể được thông báo hoặc có thể truy cập trực tiếp vào các cập nhật này.</p><p>(iii) Chia sẻ thông tin của bạn với người khác:</p><p>Gene Friend cung cấp cho bạn khả năng chia sẻ thông tin, bao gồm cả Thông Tin Cá Nhân, thông qua Dịch Vụ. Bạn có tùy chọn để chia sẻ trực tiếp với các cá nhân, sử dụng Tài Khoản Genetica, thông qua (a) diễn đàn của chúng tôi, (b) tính năng tìm kiếm liên quan (ví dụ, \"Nhóm Quan Hệ ADN\"), (c) các tính năng và công cụ chia sẻ khác.</p><p>Để chia sẻ thông tin của bạn cho mục đích Nghiên Cứu Của Gene Friend và/hoặc Phát Triển Sản Phẩm mà có thể được tài trợ bởi, được thực hiện thay mặt cho, hoặc phối hợp với các bên thứ ba, chẳng hạn như các tổ chức phi lợi nhuận, tổ chức học thuật hoặc công ty dược phẩm. Nghiên Cứu Của Gene Friend có thể nghiên cứu một nhóm hoặc dân số cụ thể, xác định các khu vực hoặc mục tiêu tiềm năng để phát triển trị liệu, tiến hành hoặc hỗ trợ phát triển thuốc, chẩn đoán hoặc thiết bị để chẩn đoán, dự đoán hoặc điều trị y tế hoặc các tình trạng sức khỏe khác, làm việc với các chủ thể công, tư và/hoặc phi lợi nhuận về các sáng kiến nghiên cứu gen, hay bằng cách khác tạo ra, thương mại hóa và áp dụng kiến thức mới này để cải thiện việc chăm sóc sức khỏe. Nghiên Cứu Của Gene Friend sử dụng Thông Tin Tổng Hợp và/hoặc Thông Tin Về Gen Cấp Độ Cá Nhân và Thông Tin Tự Cung Cấp như được quy định trong Phiếu Yêu Cầu Dịch Vụ liên quan.</p><p>Nếu bạn chọn không hoàn thành Phiếu Yêu Cầu Dịch Vụ tương ứng hoặc bất kỳ thỏa thuận bổ sung nào với Gene Friend, thông tin của bạn như được mô tả trong phần này sẽ không được sử dụng cho Nghiên Cứu Của Gene Friend và Phát Triển Sản Phẩm. Tuy nhiên, Thông Tin Về Gen và Thông Tin Tự Cung Cấp của bạn vẫn có thể được chúng tôi sử dụng và chia sẻ với các nhà cung cấp dịch vụ bên thứ ba của chúng tôi như được nêu trong Chính Sách này.</p><p>(iv) Chiêu mộ bạn tham gia nghiên cứu bên ngoài:</p><p>Nghiên cứu là một phần quan trọng của Dịch Vụ và chúng tôi muốn đảm bảo rằng những người có hứng thú tham gia biết được các cơ hội khác để đóng góp cho nghiên cứu khoa học thú vị, mới lạ do các tổ chức học thuật, tổ chức y tế, công ty dược phẩm, và các tổ chức khác thực hiện. Nếu bạn chọn tham gia vào Nghiên Cứu Của Gene Friend và Phát Triển Sản Phẩm, tùy từng thời điểm, chúng tôi có thể thông báo cho bạn về các cơ hội nghiên cứu của bên thứ ba mà bạn đủ điều kiện tham gia. Tuy nhiên chúng tôi sẽ không chia sẻ Thông Tin Về Gen Cấp Độ Cá Nhân hoặc Thông Tin Tự Cung Cấp cho bất kỳ bên thứ ba nào mà không có sự chấp thuận của bạn. Nếu bạn không muốn nhận các thông báo này, bạn có thể quản lý chúng bằng cách chỉnh sửa các tùy chọn trong phần cài đặt Tài Khoản Genetica của bạn.</p><p>(v) Cho việc cung cấp thông tin tiếp thị:</p><p>Bằng cách tạo Tài Khoản Genetica, bạn đồng ý rằng chúng tôi có thể gửi cho bạn các email về sản phẩm và khuyến mại hoặc các thông báo về Dịch Vụ của chúng tôi, và các chào mời về sản phẩm, dịch vụ, chương trình quảng bá hoặc cuộc thi mới. Bạn có thể hủy đăng ký nhận các thông tin tiếp thị này bất cứ lúc nào. Để hủy đăng ký, hãy nhấp vào liên kết \"hủy đăng ký\" ở cuối email hoặc truy cập vào mục \"Tùy chọn\" trong phần cài đặt Tài Khoản Genetica để chỉnh sửa tùy chọn thông báo email của bạn. Bạn không thể từ chối nhận các tin nhắn không mang tính quảng bá liên quan đến Tài Khoản Genetica của bạn, chẳng hạn như thông báo kỹ thuật, xác nhận mua hàng, hoặc các email liên quan đến Dịch Vụ.</p><h3>4. Thông tin mà chúng tôi chia sẻ cho các bên thứ ba</h3><p>(i) Nhà cung cấp dịch vụ chung:</p><p>Chúng tôi chia sẻ thông tin được mô tả tại Mục 2 trên đây cho nhà cung cấp dịch vụ bên thứ bacủa chúng tôi, trong trường hợp cần thiết để họ cung cấp các dịch vụ của họ cho chúng tôi và giúp chúng tôi thực hiện hợp đồng với bạn. Nhà cung cấp dịch vụ là các bên thứ ba (các công ty hoặc cá nhân khác) mà giúp chúng tôi cung cấp, phân tích và cải thiện Dịch Vụ của chúng tôi. Mặc dù Gene Friend trực tiếp thực hiện phần lớn các hoạt động xử lý dữ liệu cần thiết để cung cấp Dịch Vụ của chúng tôi cho bạn, chúng tôi cũng thuê một số nhà cung cấp dịch vụ bên thứ ba để hỗ trợ Dịch Vụ của chúng tôi, bao gồm, nhưng không giới hạn ở các bên sau:</p><p>a) Bên hoàn thành đơn đặt hàng và giao hàng.</p><p>b) Phòng xét nghiệm gen có chứng nhận CLIA của chúng tôi.</p><p>c) Hỗ trợ bộ phận Chăm Sóc Khách Hàng.</p><p>d) Lưu trữ đám mây, công nghệ thông tin, và Bảo Mật.</p><p>(ii) Thông Tin Tổng Hợp:</p><p>Chúng tôi có thể chia sẻ Thông Tin Tổng Hợp, là loại thông tin mà đã được loại bỏ tên và thông tin liên hệ của bạn và được kết hợp với thông tin của người khác sao cho bạn không thể bị nhận dạng theo một cách hợp lý là một cá nhân, bởi các bên thứ ba. Loại thông tin này khác với Thông Tin Về Gen Cấp Độ Cá Nhân và cũng không phải là Thông Tin Cá Nhân bởi vì nó không xác định bất kỳ cá nhân cụ thể nào hoặc tiết lộ bất kỳ dữ liệu cụ thể nào của cá nhân. Gene Friend sẽ yêu cầu sự chấp thuận của bạn để chia sẻ Thông Tin Về Gen Cấp Độ Cá Nhân hoặc Thông Tin Tự Cung Cấp cho bất kỳ bên thứ ba nào, ngoài các nhà cung cấp dịch vụ của chúng tôi, trong trường hợp cần thiết để chúng tôi cung cấp Dịch Vụ cho bạn.</p><p>(iii) Thông tin mà chúng tôi chia sẻ với các chủ thể sở hữu chung:</p><p>Chúng tôi có thể chia sẻ một số hoặc tất cả thông tin của bạn cho các công ty khác thuộc sở hữu chung hoặc thuộc kiểm soát của Gene Friend, có thể bao gồm các công ty con, công ty mẹ của chúng tôi, hoặc bất kỳ công ty con nào khác do công ty mẹ của chúng tôi sở hữu nhằm mục đích cung cấp cho bạn dịch vụ tốt hơn và cải thiện trải nghiệm người dùng. Thông thường, việc chia sẻ các thông tin này là điều cần thiết để chúng tôi thực hiện hợp đồng của chúng tôi với bạn. Chúng tôi có thể cung cấp thông báo bổ sung và yêu cầu sự chấp thuận trước từ bạn nếu chúng tôi muốn chia sẻ thông tin của bạn như được mô tả tại Mục 2 trên đây với các thực thể thuộc sở hữu chung của chúng tôi theo một cách khác đi đáng kể với cách được đề cập tại Chính Sách này.</p><p>(iv) Giúp chúng tôi bảo vệ lợi ích hợp pháp và/hoặc theo yêu cầu của pháp luật hiện hành:</p><p>Bạn thừa nhận và đồng ý rằng Gene Friend có quyền tự do lưu giữ và tiết lộ bất kỳ và tất cả Thông Tin Cá Nhân cho các cơ quan thực thi pháp luật hoặc các cơ quan khác theo yêu cầu của pháp luật hoặc với một niềm tin chính đáng rằng việc lưu giữ hoặc tiết lộ đó là cần thiết hợp lý để: (a) tuân thủ quy trình pháp lý (chẳng hạn như thủ tục tố tụng tư pháp, lệnh của tòa án, hoặc yêu cầu của chính phủ) hoặc các nghĩa vụ mà Gene Friend phải tuân thủ dựa trên các quy định, pháp luật, và quy tắc khác về đạo đức và nghề nghiệp; (b) thực thi ĐKDV và/hoặc các thỏa thuận khác với bạn, và/hoặc các chính sách của chúng tôi và; (c) trả lời các khiếu nại đối với bất kỳ thông tin nào xâm phạm quyền của bên thứ ba; hoặc (d) bảo vệ quyền, tài sản, hoặc sự an toàn riêng của Gene Friend, nhân viên, Người Dùng, khách hàng của Gene Friend và của cộng đồng.</p><p>(v) Giao dịch kinh doanh:</p><p>Trong trường hợp Gene Friend phải tiến hành chuyển đổi kinh doanh, chẳng hạn như hợp nhất, được mua lại bởi một công ty khác, hoặc bán toàn bộ hoặc một phần tài sản của Gene Friend, bạn thừa nhận và đồng ý rằng tất cả thông tin được mô tả tại Mục 2 trên đây sẽ thuộc tài sản được chuyển nhượng, và vẫn là đối tượng của chính sách quyền riêng tư của bên nhận chuyển nhượng tài sản đó.</p><h3>5. Quyền kiểm soát của bạn</h3><p>(i) Truy cập Tài Khoản Genetica của bạn: Chúng tôi cung cấp cho bạn quyền truy cập vào dữ liệu Gene Friend trong Tài Khoản Genetica của bạn. Bạn có thể truy cập và tải về dữ liệu do Gene Friend xử lý trong phần cài đặt Tài Khoản Genetica của bạn và trong các báo cáo, công cụ, và tính năng liên quan. Nếu bạn không thể truy cập Tài Khoản Genetica của bạn hoặc địa chỉ email trong Tài Khoản Genetica, vui lòng liên hệ với bộ phận Chăm Sóc Khách Hàng để được hỗ trợ. Nếu bạn không thể truy cập Tài Khoản Genetica của mình, trong một số trường hợp nhất định, chúng tôi có thể yêu cầu bạn gửi thông tin bổ sung đủ để xác minh danh tính của bạn trước khi cung cấp quyền truy cập hoặc tiết lộ cho bạn thông tin theo cách khác. Nếu bạn lựa chọn không gửi tài liệu được yêu cầu, hoặc thông tin bạn cung cấp không đủ cho các mục đích như vậy, Gene Friend sẽ không thể xác minh đầy đủ danh tính của bạn để hoàn thành yêu cầu của bạn.</p><p>Bạn có thể tự truy cập, sửa đổi hoặc cập nhật hầu hết các Thông Tin Đăng Ký trong phần cài đặt Tài Khoản Genetica của bạn.</p><p>(ii) Thông tin tiếp thị:</p><p>Như đã được nêu tại Mục 3.(v), bạn có thể được yêu cầu lựa chọn nhận các email hoặc thông báo về sản phẩm và quảng cáo khi tạo Tài Khoản Genetica tùy thuộc vào nơi bạn đang cư trú. Mặt khác, bạn có thể xem hoặc cập nhật các tùy chọn thông báo email của bạn bằng cách truy cập phần cài đặt Tài Khoản Genetica của bạn hoặc liên hệ với Quản Trị Viên Quyền Riêng Tư tại contact@genetica.asia. Bạn cũng có thể nhấp vào nút \"hủy đăng ký\" ở phía cuối của email thông tin quảng bá.</p><p>(iii) Chia sẻ bên ngoài Dịch Vụ:</p><p>Bạn có thể quyết định chia sẻ thông tin của mình với bạn bè và/hoặc các thành viên trong gia đình, bác sĩ hoặc các chuyên gia chăm sóc sức khỏe, và/hoặc các cá nhân khác mà nằm ngoài Dịch Vụ của chúng tôi, bao gồm việc chia sẻ thông qua các dịch vụ của bên thứ ba như là các mạng xã hội và các ứng dụng của bên thứ ba mà có liên kết với Trang Web của chúng tôi thông qua giao diện lập trình ứng dụng (\"API\"). Các bên thứ ba này có thể sử dụng thông tin của bạn theo một cách khác so với cách mà chúng tôi nêu tại Chính Sách này. Vui lòng lựa chọn cẩn thận và xem xét chính sách của tất cả bên thứ ba khác có liên quan đến giao dịch. Gene Friend không chứng nhận hoặc tài trợ bất kỳ ứng dụng API nào, và không xác nhận tính chính xác và hợp lệ của bất kỳ giải thích nào do các ứng dụng API của bên thứ ba thực hiện. Gene Friend sẽ không có trách nhiệm hoặc nghĩa vụ pháp lý đối với bất kỳ hậu quả nào phát sinh từ việc bạn tiết lộ hoặc chia sẻ thông tin của bạn cho các bên này.</p><p>(iv) Yêu Cầu Lưu Giữ Cho Mục Đích Pháp Lý:</p><p>Gene Friend và phòng thí nghiệm gen của bên thứ ba của chúng tôi có thể lưu giữ Thông Tin Về Gen, ngày sinh, và giới tính của bạn theo yêu cầu để tuân thủ các nghĩa vụ pháp lý hiện hành.</p><h3>6. Biện pháp bảo mật</h3><p>(i) Gene Friend coi trọng niềm tin của bạn đối với chúng tôi. Gene Friend thực hiện các biện pháp vật lý, kỹ thuật, và quản trị nhằm ngăn chặn việc truy cập đến hoặc tiết lộ trái phép thông tin của bạn, duy trì tính chính xác của dữ liệu, để đảm bảo việc sử dụng thích hợp thông tin, và bảo vệ theo cách khác Thông Tin Cá Nhân của bạn khỏi bất kỳ truy cập và/hoặc sử dụng trái phép nào theo Chính Sách này và pháp luật hiện hành.</p><p>(ii) Bạn thừa nhận và đồng ý rằng bạn cũng có trách nhiệm trong việc bảo vệ thông tin của mình. Bạn được yêu cầu có trách nhiệm đối với việc bảo vệ mật khẩu của mình, và các thông tin xác thực khác mà bạn sử dụng để truy cập vào Dịch Vụ của chúng tôi. Bạn không được tiết lộ thông tin xác thực của mình cho bất kỳ bên thứ ba nào và phải ngay lập tức thông báo cho Gene Friend về bất kỳ việc sử dụng trái phép nào đối với mật khẩu của bạn. Gene Friend không thể bảo mật thông tin do bạn tự tiết lộ hoặc yêu cầu chúng tôi tiết lộ.</p><p>(iii) Thông tin của bạn được thu thập thông qua Dịch Vụ có thể được lưu trữ và xử lý tại Việt Nam hoặc bất kỳ quốc gia nào khác mà tại đó Gene Friend hoặc Bên Được Cho Phép của Gene Friend duy trì cơ sở và, do đó, thông tin của bạn có thể phải tuân thủ pháp luật của các khu vực tài phán khác, điều mà có thể khác với pháp luật nơi bạn cư trú.</p><h3>7. Quyền Riêng Tư của trẻ em</h3><p>Gene Friend cam kết bảo vệ quyền riêng tư của trẻ em cũng như người lớn. Cả Trang Web và/hoặc Ứng Dụng Gene Friend và bất kỳ Dịch Vụ nào của Gene Friend đều không được thiết kế dành cho, được dự liệu để thu hút, hoặc nhằm đến trẻ em dưới 18 tuổi. Tuy nhiên, cha mẹ hoặc người giám hộ hợp pháp có thể thu thập mẫu nước bọt từ, tạo tài khoản cho, và cung cấp thông tin liên quan đến con dưới 18 tuổi của họ hoặc trẻ em dưới 18 tuổi được họ giám hộ. Cha mẹ hoặc người giám hộ hợp pháp chịu toàn bộ trách nhiệm trong việc đảm bảo sự bảo mật và tính chính xác đối với thông tin mà họ cung cấp cho Gene Friend về con của họ hoặc trẻ em được họ giám hộ.</p><h3>8. Các trang web được liên kết</h3><p>Gene Friend cung cấp liên kết đến các trang web của bên thứ ba mà được vận hành bởi các tổ chức không có liên kết với Gene Friend. Gene Friend không tiết lộ thông tin của bạn cho các tổ chức vận hành các trang web của bên thứ ba được liên kết này. Gene Friend không xem xét hoặc xác nhận, và không chịu trách nhiệm cho các hoạt động về quyền riêng tư của các tổ chức này. Chúng tôi khuyến cáo bạn nên đọc chính sách quyền riêng tư của từng và mọi trang web mà bạn truy cập. Chính Sách này chỉ áp dụng đối với các thông tin do Gene Friend thu thập hoặc do các nhà cung cấp dịch vụ của chúng tôi thay mặt chúng tôi thu thập.</p><h3>9. Thay đổi đối với Chính sách này</h3><p>Khi có sự thay đổi quan trọng đối với Chính Sách này, thì thông báo sẽ được đăng tải như là một phần của Chính Sách này và trên Trang Web của chúng tôi trong vòng 30 ngày trước khi (các) thay đổi đó có hiệu lực. Gene Friend có thể cung cấp các tiết lộ bổ sung \"tại thời điểm\" hoặc các thông tin bổ sung về hoạt động thu thập, sử dụng và chia sẻ dữ liệu của Dịch Vụ cụ thể. Các thông báo này có thể bổ sung hoặc làm rõ hoạt động quyền riêng tư của Gene Friend hoặc có thể cung cấp cho bạn những lựa chọn bổ sung về cách mà Gene Friend thu thập, xử lý, lưu trữ, sử dụng, chia sẻ và chuyển giao Thông Tin Cá Nhân của bạn. Bạn phải xem xét Chính Sách này thường xuyên để cập nhật các thay đổi của chúng tôi.</p><p><h3>10. Thông tin liên hệ</h3></p><p>Nếu bạn có câu hỏi liên quan đến Chính Sách này, hoặc muốn gửi khiếu nại, vui lòng gửi email cho Quản Trị Viên Quyền Riêng Tư của Gene Friend tại:<a href=\"mailto:contact@genetica.asia\">contact@genetica.asia</a></p><p>Cập nhật lần cuối: 14 tháng 10 năm 2022</p><p>Nếu có bất kỳ cập nhật, sửa đổi, hoặc thay đổi nào đối với Chính Sách Bảo Mật & Quyền Riêng Tư của chúng tôi thì những cập nhật, sửa đổi hoặc thay đổi đó sẽ được đăng tải trên trang này.</p>",
+    "sidebar": {
+      "menu": {
+        "privacyPolicy": {
+          "label": "Chính sách quyền riêng tư"
+        },
+        "termsOfService": {
+          "label": "Điều khoản dịch vụ"
+        }
+      }
+    }
+  },
+  "productCategory": {
+    "header": {
+      "title": {
+        "prefix": "Dành cho "
+      }
+    },
+    "sectionFilters": {
+      "field": {
+        "ages": "Độ tuổi",
+        "demands": "Tính trạng",
+        "filterBy": "Lọc theo"
+      },
+      "actions": {
+        "select": "Chọn",
+        "seeMore": "Xem thêm"
+      }
+    },
+    "sectionTestimonials": {
+      "title": "Trên <br>100.000 khách hàng <br>sử dụng dịch vụ Genetica",
+      "description": "Hãy lắng nghe câu chuyện của khách hàng Genetica <br />và chia sẻ câu chuyện của bạn với chúng tôi.",
+      "actions": {
+        "seeOtherStories": "Lắng nghe những câu chuyện khác"
+      }
+    },
+    "sectionDownload": {
+      "title": "Xem báo cáo mẫu <br/>Tải ứng dụng Genetica ngay",
+      "description": "Hơn 1000+ kết quả về bạn trên ứng dụng di động, truy cập dễ dàng, <br/>xem mọi lúc mọi nơi."
+    },
+    "sectionComparePackages": {
+      "comparisonTable": {
+        "columnLabel": {
+          "installment": "Hỗ trợ trả góp 0%"
+        }
+      }
+    },
+    "sectionCompareCombos": {
+      "comparisonTable": {
+        "columnLabel": {
+          "1": "Các gói dịch vụ bao gồm",
+          "2": "Số lượng dịch vụ"
+        },
+        "packageRows": [
+          {
+            "title": "G-Pro",
+            "description": "Chăm sóc toàn diện cho người lớn"
+          },
+          {
+            "title": "G-Kid Pro",
+            "description": "Chăm sóc toàn diện cho trẻ em"
+          },
+          {
+            "title": "Mở khóa G-Immunity *",
+            "description": "Hiểu hệ miễn dịch"
+          },
+          {
+            "title": "Mở khóa G-Allergy *",
+            "description": "Đánh giá nguy cơ dị ứng di truyền"
+          },
+          {
+            "title": "Mở khóa G-Stroke *",
+            "description": "Đánh giá nguy cơ đột quỵ di truyền"
+          }
+        ],
+        "tooltip": {
+          "seeDetails": "Xem chi tiết"
+        },
+        "notice": "(*) Gói mở khóa áp dụng cho Khách hàng sử dụng gói G-Pro hoặc G-Kid Pro trong Combo, không áp dụng cho người dùng mới.<br />Liên hệ Hotline Genetica để được hỗ trợ điều chỉnh số lượng và loại dịch vụ trong từng gói theo nhu cầu của gia đình bạn."
+      }
+    }
+  },
+  "productDetails": {
+    "header": {
+      "content": {
+        "seeTestedTraits": {
+          "label": "Xem thêm"
+        }
+      },
+      "packages": {
+        "statistics": {
+          "numberOfGenesAnalyzed": {
+            "label": "gen được<br/>phân tích"
+          },
+          "numberOfResultsAndPersonalizedRecommendations": {
+            "label": "kết quả & khuyến nghị<br/>cụ thể"
+          },
+          "salivaOnly": {
+            "label": "chỉ sử dụng nước bọt"
+          },
+          "numberOfCommonCancers": {
+            "label": "loại ung thư phổ biến"
+          },
+          "personalizedRecommendations": {
+            "label": "Các khuyến nghị cụ thể"
+          },
+          "everyoneWillBenefit": {
+            "label": "Cho mọi lứa tuổi"
+          }
+        }
+      },
+      "actions": {
+        "addToCart": {
+          "label": "Thêm vào giỏ hàng"
+        },
+        "download": {
+          "label": "Xem báo cáo mẫu (PDF)"
+        }
+      }
+    },
+    "body": {
+      "sectionSection": {
+        "content": {
+          "traits": {
+            "seeDetails": {
+              "label": "Xem chi tiết"
+            }
+          }
+        }
+      },
+      "sectionBanners1": {
+        "header": {
+          "title": "Nhận kết quả<br/>Mọi lúc mọi nơi."
+        },
+        "body": {
+          "list": {
+          }
+        }
+      },
+      "sectionPackageFeatures": {
+        "header": {
+          "title": "Chọn sản phẩm phù hợp",
+          "healthTitle": "Danh sách các bệnh ung thư được kiểm tra"
+        },
+        "body": {
+          "table": {
+            "header": {
+              "userObject": "Đối tượng sử dụng",
+              "geneAnalyzed": "Số gen phân tích",
+              "genes": "gen",
+              "upTo": "Lên tới",
+              "Results": "Kết quả",
+              "results": "kết quả",
+              "resultsValue": "Lên tới {{value}} kết quả",
+              "personalisedRecommendations": "Khuyến nghị cụ thể",
+              "viewReportOnMobileApp": "Nhận kết quả từ ứng dụng trên điện thoại",
+              "paperReport": "Báo cáo giấy",
+              "availableAtRequest": "Theo yêu cầu của khách hàng",
+              "actions": {
+                "addToCart": {
+                  "label": "Thêm vào giỏ hàng"
+                }
+              },
+              "genders": {
+                "male": "Nam giới",
+                "female": "Nữ giới"
+              }
+            },
+            "footer": {
+              "seeAllReports": "Xem tất cả báo cáo"
+            }
+          }
+        }
+      },
+      "sectionOtherServices": {
+        "header": {
+          "title": "Các dịch vụ khác"
+        }
+      },
+      "sectionBanners2": {
+        "list": {
+          "1": {
+            "title": "Chuyên gia từ Mỹ",
+            "description": "Phòng thí nghiệm San Francisco sở hữu đội ngũ các nhà khoa học sáng giá nhất."
+          },
+          "2": {
+            "title": "Công nghệ AI",
+            "description": "Chúng tôi ứng dụng trí tuệ nhân tạo tiến bộ nhất để giải mã bí mật bên trong bộ gen của bạn."
+          },
+          "3": {
+            "title": "Bảo mật",
+            "description": "Thông tin của bạn là an toàn, bảo mật và chỉ có thể được truy cập bởi chính bạn."
+          },
+          "4": {
+            "title": "Kết quả sau 30 ngày.",
+            "description": "Báo cáo giải mã gen của bạn được gửi đến địa chỉ bạn đã đăng ký và luôn có thể truy cập mọi lúc mọi nơi trên ứng dụng Genetica."
+          }
+        }
+      },
+      "sectionTestedTraits": {
+        "header": {
+          "title": "Tính trạng Gen phân tích"
+        },
+        "body": {
+          "labels": {
+            "genes": "gen"
+          }
+        }
+      },
+      "sectionGetInTouch": {
+        "header": {
+          "title": "Bạn vẫn còn câu hỏi?"
+        },
+        "body": {
+          "description": {
+            "textBefore": "Đừng ngần ngại chia sẻ những thắc mắc về ",
+            "textAfter": " của bạn. Chúng tôi sẽ phản hồi trong thời gian sớm nhất. Những chia sẻ của bạn luôn là điều chúng tôi muốn lắng nghe!"
+          }
+        },
+        "footer": {
+          "actions": {
+            "text": "Liên hệ"
+          }
+        }
+      }
+    }
+  },
+  "productDetailsV2": {
+    "common": {
+      "labels": {
+        "originalPrice": "Giá gốc",
+        "specialOffer": "Siêu ưu đãi khi mua dịch vụ",
+        "benefits": "Lợi ích dịch vụ",
+        "serviceFeatures": "Đặc điểm dịch vụ",
+        "downloadAppAt": "Tải ứng dụng tại",
+        "relatedServices": "Dịch vụ liên quan",
+        "priceNotInclude": "Chi phí chưa bao gồm",
+        "details": "Thông tin chi tiết",
+        "result": "Kết quả"
+      },
+      "buttons": {
+        "installment": "Trả góp 0%",
+        "addToCart": "Thêm vào giỏ hàng",
+        "videoHelp": "Video hướng dẫn",
+        "seeDetails": "Xem chi tiết",
+        "buyNow": "Mua ngay",
+        "viewSampleReport": "Xem báo cáo gen mẫu",
+        "seeMore": "Xem thêm",
+        "seeAll": "Xem tất cả",
+        "seeMoreComparison": "Xem thêm so sánh",
+        "viewSampleReportPDF": "Xem báo cáo mẫu PDF",
+        "installmentTerms": "Quy định trả góp"
+      }
+    },
+    "sectionServiceNotInclude": {
+      "title": "Giá gói không bao gồm các chi phí",
+      "items": {
+        "1": {
+          "title": "Phí Tư vấn chuyên sâu cùng chuyên gia"
+        },
+        "2": {
+          "title": "Phí bộ thu mẫu",
+          "description": "Đối với trường hợp phải thu mẫu lần 3"
+        },
+        "3": {
+          "title": "Phí in báo cáo giấy theo yêu cầu"
+        }
+      }
+    },
+    "sectionServiceInclusion": {
+      "title": "Dịch vụ bao gồm",
+      "items": {
+        "1": "Bộ thu mẫu nước bọt (Kit lấy mẫu, Phiếu xác nhận, Phiếu hướng dẫn)",
+        "2": "Báo cáo giải mã gen qua Ứng dụng Genetica",
+        "3": "Buổi tư vấn giải thích báo cáo với chuyên gia của Genetica"
+      }
+    },
+    "sectionSubmenu": {
+      "items": {
+        "details": "Thông tin chi tiết",
+        "howToUse": "Hướng dẫn sử dụng",
+        "compareServices": "So sánh dịch vụ",
+        "relevantServices": "Dịch vụ liên quan",
+        "contactUs": "Liên hệ với chúng tôi"
+      }
+    },
+    "sectionProcess": {
+      "title": "Quy trình sử dụng đơn giản",
+      "steps": {
+        "1": {
+          "title": "Bước 1. Nhận bộ thu mẫu",
+          "description": "Genetica sẽ gửi bộ thu mẫu nước bọt đến địa chỉ của bạn."
+        },
+        "2": {
+          "title": "Bước 2. Lấy mẫu và gửi mẫu",
+          "description": "Lấy nước bọt đơn giản và không đau theo hướng dẫn trong bộ thu mẫu. Thông báo với chúng tôi qua ứng dụng Genetica hoặc hotline để thu hồi mẫu."
+        },
+        "3": {
+          "title": "Bước 3. Nhận kết quả báo cáo",
+          "description": "Nhận kết quả giải mã gen trên ứng dụng Genetica hoặc email trong 30 ngày làm việc kể từ lúc chúng tôi nhận được mẫu nước bọt đạt yêu cầu."
+        }
+      },
+      "links": {
+        "salivaCollectingGuide": "https://youtu.be/Vc9PQVddhVs?list=PLHSgVYL21dUW3ENntE8brlRmRFH18JMM2"
+      }
+    },
+    "sectionServiceComparison": {
+      "title": "So sánh <br />Dịch vụ"
+    },
+    "sectionDownloadSampleReport": {
+      "title": "Nhận kết quả qua ứng dụng Genetica."
+    }
+  },
+  "redeem": {
+    "sectionInputCode": {
+      "header": {
+        "title": "Mã quà tặng",
+        "description": "Nhập mã quà tặng hoặc mã giới thiệu bạn nhận được"
+      },
+      "body": {
+        "formInsertCode": {
+          "fields": {
+            "code": {
+              "placeholder": "Mã quà tặng / Mã giới thiệu"
+            }
+          },
+          "buttons": {
+            "submit": {
+              "label": "Đổi quà"
+            }
+          }
+        }
+      }
+    },
+    "sectionCustomerInformation": {
+      "header": {
+        "title": "Thông tin khách hàng",
+        "description": "Vui lòng nhập thông tin để Genetica có thể liên hệ gửi bộ thu mẫu tới cho bạn"
+      },
+      "body": {
+        "formCustomerInformation": {
+          "fields": {
+            "name": {
+              "label": "Họ và tên",
+              "placeholder": "Họ và tên",
+              "error": {
+                "message": {
+                  "error": "Lỗi",
+                  "required": "Bắt buộc"
+                }
+              }
+            },
+            "phone": {
+              "label": "Số điện thoại",
+              "placeholder": "Số điện thoại",
+              "error": {
+                "message": {
+                  "error": "SĐT không hợp lệ",
+                  "required": "Bắt buộc"
+                }
+              }
+            },
+            "address": {
+              "label": "Địa chỉ nhận mẫu",
+              "fields": {
+                "country": {
+                  "placeholder": "Quốc gia",
+                  "error": {
+                    "message": {
+                      "outsideVietNam": "Hiện tại chúng tôi không giao hàng ra ngoài lãnh thổ Việt Nam. Vui lòng gửi email cho chúng tôi theo địa chỉ <1>contact@genetica.asia</1> để được hỗ trợ.",
+                      "required": "Bắt buộc"
+                    }
+                  }
+                },
+                "provinceCity": {
+                  "placeholder": "Tỉnh/Thành phố",
+                  "error": {
+                    "message": {
+                      "error": "Lỗi",
+                      "required": "Bắt buộc"
+                    }
+                  }
+                },
+                "district": {
+                  "placeholder": "Quận/Huyện",
+                  "error": {
+                    "message": {
+                      "error": "Lỗi",
+                      "required": "Bắt buộc"
+                    }
+                  }
+                },
+                "ward": {
+                  "placeholder": "Xã/Phường",
+                  "error": {
+                    "message": {
+                      "error": "Lỗi",
+                      "required": "Bắt buộc"
+                    }
+                  }
+                },
+                "locationDetail": {
+                  "placeholder": "Thông tin địa chỉ (điểm mốc, số nhà, ...)",
+                  "error": {
+                    "message": {
+                      "error": "Lỗi",
+                      "required": "Bắt buộc"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "buttons": {
+            "submit": {
+              "label": "Hoàn tất"
+            }
+          }
+        }
+      }
+    },
+    "modalSuccess": {
+      "header": {
+        "title": "Cảm ơn bạn đã lựa chọn Genetica®"
+      },
+      "body": {
+        "message": {
+          "notify": "Từ 1 tới 3 ngày làm việc, bộ thu mẫu sẽ được gửi tới địa chỉ mà bạn đã cung cấp: ",
+          "address": "Tầng 9, Trung Tâm Đổi Mới Sáng Tạo Quốc Gia - NIC, Số 7 Tôn Thất Thuyết, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội, Việt Nam",
+          "contact": "Mọi thắc mắc vui lòng liên hệ email <1>cs@genetica.asia</1> hoặc hotline <3>1900 599 927</3>. Đội ngũ Chăm sóc Khách hàng Genetica® sẵn sàng hỗ trợ bất kỳ lúc nào."
+        },
+        "button": {
+          "label": "Quay lại trang chủ"
+        }
+      }
+    },
+    "modalError": {
+      "header": {
+        "title": "Có lỗi xảy ra"
+      },
+      "body": {
+        "message": {
+          "notify": "Thay đổi của bạn chưa được lưu lại.",
+          "contact": "Mọi thắc mắc vui lòng liên hệ email <1>cs@genetica.asia</1> hoặc hotline <3>1900 599 927</3>. Đội ngũ Chăm sóc Khách hàng Genetica® sẵn sàng hỗ trợ bất kỳ lúc nào."
+        },
+        "button": {
+          "label": "Thử lại"
+        }
+      }
+    }
+  },
+  "reportReadingGuide": {
+    "title": "Cách đọc báo cáo",
+    "sidebar": {
+      "menu": {
+        "title": "Chọn chủ đề"
+      }
+    },
+    "sectionMenu": {
+      "actions": {
+        "seeMore": "Xem thêm"
+      }
+    },
+    "sectionReportReadingGuide": {
+      "title": "Hướng dẫn đọc báo cáo {{reportName}}"
+    }
+  },
+  "returnAndComplaintHandlingPolicy": {
+    "header": {
+      "title": "Chính sách xử lý khiếu nại"
+    }
+  },
+  "screeningQuestionnaire": {
+    "title": "Báo cáo nguy cơ ung thư - Câu hỏi sàng lọc",
+    "subtitle": "- Coming soon -"
+  },
+  "search": {
+    "title": "Kết quả tìm kiếm cho:",
+    "content": {
+      "sectionProductPackages": {
+        "title": "Sản phẩm"
+      },
+      "sectionBlog": {
+        "title": "Blog"
+      },
+      "sectionNews": {
+        "title": "Tin tức"
+      },
+      "press": {
+        "title": "Báo chí nói về chúng tôi"
+      },
+      "sectionEmpty": {
+        "description": "Rất tiếc, không tìm thấy sản phẩm <br/>phù hợp với lựa chọn của bạn"
+      }
+    }
+  },
+  "serviceDeliveryProcess": {
+    "header": {
+      "title": "Phương thức cung cấp dịch vụ"
+    }
+  },
+  "serviceExchangeCancellationAndRefundPolicy": {
+    "header": {
+      "title": "Chính sách đổi, hủy & hoàn phí dịch vụ"
+    }
+  },
+  "surveys": {
+    "postConsultation": {
+      "header": {
+        "title": "Bạn nghĩ thế nào?",
+        "for": "Buổi tư vấn cho"
+      },
+      "body": {
+        "submit": "Gửi",
+        "loading": "Đang tải"
+      },
+      "success": {
+        "title": "Cám ơn Anh/Chị đã hoàn thành khảo sát",
+        "content": "Vui lòng mở ứng dụng Genetica® để nhận ngay Quà tặng Voucher \"mở khóa\" bất kỳ báo cáo giải mã gen nào của Genetica® <i>(ngoại trừ dịch vụ G-Care, G-Pro, G-Kid Care & G-Kid Pro)</i>.",
+        "contactUs": "Nếu cần hỗ trợ, Anh/Chị vui lòng liên hệ Genetica® qua Hotline",
+        "backToHomePage": "Quay về trang chủ"
+      },
+      "errors": {
+        "default": {
+          "title": "Câu hỏi dành cho bạn không thể tải được vào lúc này.",
+          "message": "Vui lòng thử lại sau"
+        },
+        "dataRetrieveFailed": {
+          "title": "Câu hỏi dành cho bạn không thể tải được vào lúc này.",
+          "message": "Vui lòng thử lại sau"
+        },
+        "feedbackFormExpired": {
+          "title": "",
+          "message": "Câu hỏi dành cho bạn đã quá hạn!"
+        }
+      },
+      "modalError": {
+        "content": "Phản hồi của bạn không thể gửi được vào lúc này, vui lòng thử lại. Nếu cần hỗ trợ, vui lòng liên hệ hotline",
+        "action": "Đóng"
+      }
+    },
+    "preConsultation": {
+      "header": {
+        "progress": {
+          "label": "Bạn đã trả lời được {{value}}% bộ câu hỏi"
+        },
+        "for": "Cho"
+      },
+      "body": {
+        "loading": "Đang tải"
+      },
+      "actions": {
+        "skip": "Bỏ qua",
+        "back": "Trở lại",
+        "next": "Tiếp theo",
+        "submit": "Gửi"
+      },
+      "success": {
+        "title": "Cảm ơn bạn đã hoàn thành cuộc khảo sát.",
+        "content": "",
+        "contactUs": "Để được hỗ trợ, vui lòng liên hệ với chúng tôi qua Hotline",
+        "backToHomePage": "Quay về trang chủ"
+      },
+      "errors": {
+        "default": {
+          "title": "Câu hỏi dành cho bạn không thể tải được vào lúc này.",
+          "message": "Vui lòng thử lại sau"
+        },
+        "dataRetrieveFailed": {
+          "title": "Câu hỏi dành cho bạn không thể tải được vào lúc này.",
+          "message": "Vui lòng thử lại sau"
+        },
+        "feedbackFormExpired": {
+          "title": "",
+          "message": "Câu hỏi dành cho bạn đã quá hạn!"
+        }
+      },
+      "modalError": {
+        "content": "Phản hồi của bạn không thể gửi được vào lúc này, vui lòng thử lại. Nếu cần hỗ trợ, vui lòng liên hệ hotline",
+        "action": "Đóng"
+      }
+    },
+    "onboarding": {
+      "content": {
+        "title": "Chào mừng bạn đã đến với Genetica",
+        "description": "Hãy dành một chút thời gian cho phần khảo sát nhỏ kế bên để Genetica hiểu bạn hơn nhé!"
+      },
+      "actions": {
+        "skip": "Bỏ qua",
+        "close": "Đóng",
+        "previous": "Trở lại",
+        "next": "Tiếp",
+        "finish": "Hoàn thành"
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "Điều khoản dịch vụ",
+    "content": "<p>XIN VUI LÒNG ĐỌC KỸ CÁC ĐIỀU KHOẢN DỊCH VỤ DƯỚI ĐÂY BỞI VÌ KHI SỬ DỤNG DỊCH VỤ, BẠN ĐỒNG Ý BỊ RÀNG BUỘC BỞI CÁC ĐIỀU KHOẢN DỊCH VỤ NÀY (\"<b>ĐKDV</b>\") VÀ TẤT CẢ CÁC ĐIỀU KHOẢN ĐƯỢC KẾT HỢP VÀO ĐKDV NÀY BẰNG CÁCH DẪN CHIẾU. NẾU BẠN KHÔNG ĐỒNG Ý VỚI CÁC ĐIỀU KHOẢN DỊCH VỤ NÀY, XIN VUI LÒNG KHÔNG SỬ DỤNG DỊCH VỤ.</p><p><h3>1. ĐỊNH NGHĨA</h3></p><p>(i) \"<b>Thông Tin Về Gen và Thông Tin Tự Cung Cấp Được Tổng Hợp</b>\" là Thông Tin Về Gen và Thông Tin Tự Cung Cấp mà đã được kết hợp với thông tin của Người Dùng khác và được phân tích hoặc đánh giá tổng thể, sao cho, theo một cách hợp lý, không có cá nhân cụ thể nào được nhận dạng.</p><p>(ii) \"<b>Chăm Sóc Khách Hàng</b>\" là các chức năng hỗ trợ được Gene Friend cung cấp cho Người Dùng trong suốt quá trình sử dụng Dịch Vụ.</p><p>(iii) \"<b>Gene Friend</b>\" có nghĩa là Công ty TNHH Gene Friend Việt Nam, được thành lập hợp pháp theo Giấy Chứng Nhận Đăng Ký Doanh Nghiệp số 0108276596 do Sở Kế Hoạch và Đầu Tư Tp. Hồ Chí Minh cấp ngày 16/5/2018, có trụ sở tại Tầng 2, Số 40 Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3, Tp. Hồ Chí Minh, Việt Nam (còn được gọi là \"chúng tôi\").</p><p>(iv) \"<b>Tài Khoản Genetica</b>\" là một tài khoản được tạo miễn phí bởi Người Dùng, và được Gene Friend cho phép, trên Trang Web và Ứng Dụng cho mục đích truy cập và/hoặc sử dụng Dịch Vụ bởi Người Dùng.</p><p>(v) \"<b>Nghiên Cứu Của Gene Friend</b>\" có nghĩa là nghiên cứu khoa học mà Gene Friend thực hiện với ý định công bố trong một tạp chí khoa học được bình duyệt. Việc sử dụng thông tin của bạn cho mục đích Nghiên Cứu Của Gene Friend tuân theo sự đồng ý trong Thư Chấp Thuận tương ứng, theo quy định của ĐKDV này và Chính Sách Bảo Mật & Quyền Riêng Tư.</p><p>(vi) \"<b>Bên Được Cho Phép</b>\" / \"Các Bên Được Cho Phép\" có nghĩa là Đối Tác của Gene Friend, tức là Gene Friend Way, Inc., được thành lập theo Giấy Phép số 4086894 do Tổng Trưởng Bang California cấp ngày 05/12/2017, và/hoặc bất kỳ bên thứ ba nào mà có các thỏa thuận có hiệu lực với Gene Friend trong việc cung cấp Dịch Vụ.</p><p>(vii) \"<b>Thông Tin Cá Nhân</b>\" là thông tin có thể được sử dụng để nhận dạng bạn, một cách độc lập hoặc kết hợp với các thông tin khác. Gene Friend thu thập, xử lý, lưu trữ, và sử dụng các loại Thông Tin Cá Nhân sau:</p><p>a. \"<b>Thông Tin Về Gen</b>\" là thông tin liên quan đến trình tự gen của bạn (ví dụ: As, Ts, Cs và Gs tại các vị trí cụ thể trong bộ gen của bạn), được tổng hợp thông qua việc xử lý mẫu nước bọt của bạn bởi Gene Friend hoặc bởi Các Bên Được Cho Phép, bên kế thừa và/hoặc bên được chuyển giao; hoặc được xử lý bởi Gene Friend và/hoặc được cung cấp cho Gene Friend theo cách khác;</p><p>b. \"<b>Thông Tin Đăng Ký</b>\" là thông tin bạn cung cấp về bản thân khi đăng ký và/hoặc mua Dịch Vụ của chúng tôi (bao gồm nhưng không giới hạn, tên, địa chỉ, email, Tên Đăng Nhập và mật khẩu Người Dùng, và thông tin thanh toán); và</p><p>c .\"<b>Thông Tin Tự Cung Cấp</b>\" là tất cả thông tin về bản thân bạn, bao gồm tình trạng bệnh tật của bạn, các thông tin liên quan đến sức khỏe khác, đặc điểm cá nhân, dân tộc, lịch sử gia đình và các thông tin khác mà bạn điền vào các khảo sát, các biểu mẫu hoặc các tính năng khi đăng nhập vào Tài Khoản Genetica của bạn.</p><p>(viii) \"<b>Chính Sách Bảo Mật & Quyền Riêng Tư</b>\" là Chính Sách Bảo Mật & Quyền Riêng Tư của Gene Friend được đặt tại https://genetica.asia/privacy-policy.</p><p>(ix) \"<b>Phát Triển Sản Phẩm</b>\" có nghĩa là nghiên cứu được thực hiện cho mục đich phát triển sản phẩm mới và các hoạt động phát triển sản phẩm mới được thực hiện bởi Gene Friend trên dữ liệu Người Dùng không nhận dạng. Những hoạt động này có thể bao gồm, trong số những hoạt động khác, cải thiện Dịch Vụ của chúng tôi và/hoặc cung cấp sản phẩm hoặc dịch vụ mới cho bạn; thực hiện các hoạt động kiểm soát chất lượng; tiến hành phân tích dữ liệu mà có thể dẫn đến và/hoặc bao gồm việc thương mại hóa với bên thứ ba.</p><p>(x) \"<b>Dịch Vụ</b>\" hoặc \"<b>Các Dịch Vụ</b>\" có nghĩa là các sản phẩm, phần mềm, dịch vụ, Ứng Dụng và Trang Web của Gene Friend (bao gồm nhưng không giới hạn văn bản, đồ họa, hình ảnh và các tài liệu và thông tin khác) mà Người Dùng được truy cập và sử dụng tùy từng thời điểm, bất kể việc sử dụng có liên quan đến Tài Khoản Genetica hay không.</p><p>(xi) \"<b>Người Dùng</b>\" có nghĩa là bất kỳ người nào truy cập hoặc sử dụng Dịch Vụ và/hoặc Trang Web và/hoặc Ứng Dụng.</p><p>(xii) \"<b>Nội Dung Người Dùng</b>\" là tất cả thông tin, dữ liệu, văn bản, phần mềm, âm nhạc, âm thanh, hình ảnh, đồ họa, video, tin nhắn hoặc các tài liệu khác - ngoài Thông Tin Về Gen và Thông Tin Tự Cung Cấp được khởi tạo bởi Người Dùng Dịch Vụ của Gene Friend và được truyền đưa, cho dù theo cách thức công khai hoặc riêng tư, đến hoặc thông qua Trang Web, và/hoặc Ứng Dụng.</p><p>(xiii) \"<b>Trang Web</b>\" có nghĩa là trang web của Gene Friend tại địa chỉ https://genetica.asia.</p><p>(xiv) \"<b>Ứng Dụng</b>\" có nghĩa là ứng dụng di động dùng cho Người Dùng đăng ký thông tin và Dịch Vụ của Gene Friend.</p><p><h3>2. CHẤP NHẬN ĐIỀU KHOẢN</h3></p><p>Việc bạn sử dụng Dịch Vụ của Gene Friend (không bao gồm bất kỳ dịch vụ nào do Gene Friend cung cấp theo một thỏa thuận riêng) phải tuân theo các điều khoản của thỏa thuận pháp lý giữa bạn và Gene Friend được quy định trong các ĐKDV này và trong bất kỳ và tất cả các tài liệu được kết hợp vào ĐKDV này bằng cách dẫn chiếu. Trừ khi được quy định rõ trong ĐKDV này, ĐKDV này được áp dụng cho bất kỳ hoạt động sử dụng Dịch Vụ nào, bao gồm nhưng không giới hạn ở việc (i) gửi mẫu nước bọt để trích xuất và xử lý ADN, (ii) tải lên phiên bản kỹ thuật số Thông Tin Về Gen của bạn và tương tác với Thông Tin Về Gen trên Trang Web và/hoặc Ứng Dụng, và/hoặc (iii) tạo và sử dụng Tài Khoản Genetica miễn phí mà không cung cấp mẫu nước bọt hoặc Thông Tin Về Gen của bạn. Để sử dụng Dịch Vụ, trước tiên bạn phải chấp thuận các ĐKDV này. Bạn không được sử dụng Dịch Vụ nếu bạn không chấp nhận các ĐKDV này. Bạn có thể chấp nhận các ĐKDV này bằng cách (i) nhấp chọn để chấp thuận hoặc đồng ý với các ĐKDV này trong trường hợp lựa chọn đó được Gene Friend cung cấp cho bạn đối với bất kỳ Dịch Vụ nào; hoặc bằng cách (ii) thực sự sử dụng Dịch Vụ. Trong trường hợp này, bạn thừa nhận và đồng ý rằng Gene Friend sẽ coi việc bạn sử dụng Dịch Vụ có nghĩa là bạn đã chấp nhận các ĐKDV này từ thời điểm đó trở đi. Ngoài ra, khi sử dụng Dịch Vụ cụ thể, bạn phải tuân theo bất kỳ hướng dẫn hoặc quy tắc nào áp dụng cho các dịch vụ đó mà có thể được đăng tải tùy từng thời điểm. Tất cả các hướng dẫn hoặc quy tắc như vậy được kết hợp vào các ĐKDV này bằng cách dẫn chiếu. Gene Friend cũng có thể cung cấp các dịch vụ khác tùy từng thời điểm mà các dịch vụ đó được điều chỉnh bởi các điều khoản dịch vụ khác nhau.</p><p><h3>3. ĐIỀU KIỆN TIÊN QUYẾT</h3></p><p>Bất kể bạn có thực hiện việc gửi mẫu nước bọt của riêng mình, hay mẫu nước bọt của bất kỳ ai mà bạn có thẩm quyền hợp pháp để đồng ý, hoặc cung cấp theo cách khác Thông Tin Về Gen của riêng bạn hay không, bạn chỉ được sử dụng Dịch Vụ và chấp thuận các ĐKDV này khi bạn đủ mười tám (18) tuổi trở lên và có đủ năng lực hành vi dân sự để tự mình, hoặc thay mặt người mà bạn có thẩm quyền pháp lý, đồng ý với các ĐKDV này.</p><p>Cả Trang Web và/hoặc Ứng Dụng của Gene Friend và bất kỳ Dịch Vụ nào của Gene Friend đều không được thiết kế cho, được dự liệu để thu hút hoặc nhằm đến người dưới mười tám (18) tuổi.</p><p><h3>4. MÔ TẢ DỊCH VỤ</h3></p><p>Dịch Vụ bao gồm quyền truy cập vào Trang Web và/hoặc Ứng Dụng và các dịch vụ phân tích trình tự gen cá nhân, bao gồm cả việc thu thập và phân tích mẫu nước bọt của bạn. Trừ khi được quy định khác đi một cách rõ ràng, mỗi tính năng mới mà tính năng đó cải thiện hoặc nâng cao Dịch Vụ hiện tại đều phải tuân theo các ĐKDV này. Bạn thừa nhận và đồng ý rằng Dịch Vụ được cung cấp \"NGUYÊN TRẠNG\" và dựa trên nghiên cứu và công nghệ di truyền tiên tiến nhất được sử dụng bởi Gene Friend tại thời điểm mua hoặc xem Dịch Vụ. Do sự phát triển trong nghiên cứu và kiến thức khoa học và công nghệ ngày càng tiến bộ, Gene Friend không ngừng đổi mới để cung cấp trải nghiệm tốt nhất có thể cho Người Dùng. Bạn thừa nhận và đồng ý rằng hình thức và bản chất của Dịch Vụ mà Gene Friend cung cấp có thể thay đổi tùy từng thời điểm mà không phải thông báo trước cho bạn. Là một phần của sự đổi mới không ngừng này, bạn thừa nhận và đồng ý rằng Gene Friend có thể dừng (vĩnh viễn hoặc tạm thời) cung cấp một số Dịch Vụ (hoặc bất kỳ tính năng nào trong Dịch Vụ) cho bạn hoặc cho Những Người Dùng nói chung theo quyết định của riêng Gene Friend, mà không phải thông báo trước cho bạn. Bạn có thể ngừng sử dụng Dịch Vụ bất cứ lúc nào. Bạn không cần thông báo một cách cụ thể cho Gene Friend khi bạn ngừng sử dụng Dịch Vụ. Gene Friend không chịu trách nhiệm cho việc sử dụng Dịch Vụ nằm ngoài phạm vi các điều khoản của ĐKDV này hoặc các điều khoản hiện hành khác.</p><p>Bạn chịu trách nhiệm cho bất kỳ khoản phí dịch vụ Internet cũng như bất kỳ phương tiện/ thiết bị nào cần thiết hoặc bắt buộc để bạn sử dụng Trang Web và/hoặc Ứng Dụng và/hoặc Dịch Vụ của chúng tôi.</p><p><h3>5. RỦI RO VÀ CÂN NHẮC VỀ DỊCH VỤ</h3></p><p>Ngay khi bạn nhận được Thông Tin Về Gen của bạn, thông tin đó là không thể thu hồi. Bạn không nên cho rằng bất kỳ thông tin nào mà chúng tôi có thể cung cấp cho bạn, tại thời điểm hiện tại hay khi các nghiên cứu di truyền phát triển, sẽ là các thông tin dễ dàng để tiếp nhận hoặc tích cực. Bạn cũng nên hiểu rằng vì nghiên cứu luôn phát triển, vì vậy, để bạn có thể đánh giá ý nghĩa ADN của bạn trong bối cảnh của sự phát triển như vậy, bạn có thể cần sử dụng thêm các dịch vụ khác từ Gene Friend, từ bác sĩ điều trị của bạn, từ nhà tư vấn về gen hoặc từ nhà cung cấp dịch vụ chăm sóc sức khỏe khác.</p><p>Chúng tôi khuyến khích bạn tham vấn với nhà tư vấn về di truyền học, chuyên gia về sức khỏe được đào tạo chuyên biệt về các điều kiện di truyền để tìm hiểu thêm trước khi thu thập mẫu của bạn để xét nghiệm, nhờ đó bạn có thể đưa ra quyết định chính xác hơn về việc xét nghiệm có phù hợp với bạn hay không. Nhà tư vấn về di truyền học cũng có thể giúp bạn hiểu kết quả xét nghiệm và các lựa chọn của bạn.</p><p>Phòng thí nghiệm có thể không thể xử lý mẫu của bạn và quy trình phòng thí nghiệm có thể xảy ra lỗi. Xác suất mà phòng thí nghiệm có thể không thể xử lý mẫu của bạn có thể tới 3.0% mẫu nếu (i) mẫu nước bọt của bạn không chứa đủ lượng ADN, (ii) bạn không cung cấp đủ mẫu nước bọt hoặc (iii) kết quả từ việc xử lý không đáp ứng các tiêu chuẩn của chúng tôi về độ chính xác. Nếu việc xử lý không thành công vì bất kỳ lý do nào trong số những lý do này, Người Dùng sẽ, theo yêu cầu của chúng tôi, cung cấp cho chúng tôi mẫu nước bọt khác (mẫu thứ hai), và Gene Friend sẽ xử lý lại mẫu với quy trình giống như trước mà không tính thêm phí cho Người Dùng. Tuy nhiên, trong trường hợp đó, thời gian chậm trễ sẽ không được tính vào giới hạn thời hạn để Gene Friend thực hiện và hoàn tất quy trình. Ngoài ra, Gene Friend sẽ không chịu trách nhiệm cho bất kỳ và tất cả các khoản phí hoặc chi phí mà bạn phải chịu do sự chậm trễ đó.</p><p>Nếu Người Dùng gửi một mẫu khác và các nỗ lực của Gene Friend để xử lý mẫu thứ hai cũng không thành công, Gene Friend sẽ không cung cấp thêm Bộ Thu Thập Mẫu, với điều kiện Người Dùng sẽ không gửi lại một mẫu khác thông qua việc mua dịch vụ trong tương lai, Gene Friend sẽ có quyền từ chối xử lý mẫu của bạn mà không chịu bất kỳ trách nhiệm pháp lý và hoàn trả nào cho bạn, trong bất kỳ trường hợp nào được quy định tại Mục 3, đoạn f của Thư Chấp Thuận. Ngoài ra, nếu Người Dùng vi phạm các quy định của ĐKDV này và gửi lại một mẫu khác thông qua việc mua dịch vụ trong tương lai và việc xử lý không thành công, Gene Friend không có trách nhiệm xử lý lại mẫu hoặc hoàn lại tiền cho Người Dùng. Bất kể quá trình xử lý đáp ứng tiêu chuẩn cao của chúng tôi, một phần nhỏ chưa được biết của dữ liệu được tạo ra trong quá trình xử lý phòng thí nghiệm có thể không thể giải thích hoặc không chính xác (gọi là \"Lỗi\"). Do khả năng này đã được biết trước, Người Dùng không có quyền được hoàn tiền khi xảy ra các Lỗi này.</p><p>Bạn không nên thay đổi các hành vi sức khỏe của mình chỉ dựa trên thông tin từ Gene Friend. Vui lòng đảm bảo rằng bạn thảo luận về Thông Tin Về Gen của bạn với bác sĩ điều trị hoặc nhà cung cấp dịch vụ chăm sóc sức khỏe khác trước khi bạn hành động dựa trên Thông Tin Về Gen được đưa ra từ Dịch Vụ của Gene Friend. Trong mọi trường hợp, nếu bạn có thắc mắc hoặc câu hỏi về những gì bạn biết được thông qua Gene Friend, bạn nên liên hệ với bác sĩ điều trị của bạn hoặc nhà cung cấp dịch vụ chăm sóc sức khỏe khác. Xin lưu ý rằng đánh giá rủi ro về di truyền không được áp dụng cho các kết quả của các xét nghiệm sàng lọc người mang mầm bệnh.</p><p>Nghiên cứu về gen là không toàn diện. Mặc dù chúng tôi đo được hàng trăm nghìn điểm dữ liệu từ ADN của bạn, nhưng chỉ một tỷ lệ nhỏ trong số chúng được biết là có liên quan đến đặc điểm hoặc tình trạng sức khỏe của con người.</p><p>Thông Tin Về Gen mà bạn chia sẻ với người khác có thể được sử dụng để chống lại lợi ích của bạn. Bạn nên cẩn thận trong việc chia sẻ Thông Tin Về Gen của bạn với người khác.</p><p>Hơn nữa, Thông Tin Về Gen mà bạn chọn để chia sẻ với bác sĩ điều trị của bạn hoặc nhà cung cấp dịch vụ chăm sóc sức khoẻ khác có thể trở thành một phần của hồ sơ y tế của bạn và thông qua con đường đó có thể được tiếp cận bởi các nhà cung cấp dịch vụ chăm sóc sức khỏe khác và/hoặc các công ty bảo hiểm trong tương lai.</p><p>Chúng tôi không cung cấp các tư vấn y tế. Thông Tin Về Gen được cung cấp bởi Gene Friend là cho mục đích thông tin và nghiên cứu của bạn. Dịch Vụ không nhằm mục đích để Người Dùng sử dụng cho bất kỳ mục đích chẩn đoán nào và không thay thế cho các tư vấn y tế chuyên môn. Bạn phải luôn luôn tham khảo lời khuyên từ bác sĩ điều trị của bạn hoặc nhà cung cấp dịch vụ chăm sóc sức khỏe khác với bất kỳ câu hỏi nào bạn có thể có về chẩn đoán, chữa bệnh, điều trị, giảm thiểu hoặc phòng ngừa bất kỳ bệnh hoặc tình trạng y tế nào khác hoặc suy yếu hoặc tình trạng sức khỏe của bạn.</p><p>Gene Friend không xác nhận, bảo hành hoặc đảm bảo tính hiệu quả của bất kỳ quá trình hành động cụ thể, nguồn cung cấp, xét nghiệm, bác sĩ điều trị hoặc nhà cung cấp dịch vụ chăm sóc sức khỏe khác, thuốc, sinh học, thiết bị y tế hoặc các sản phẩm khác, quy trình, ý kiến hoặc thông tin khác có thể được đề cập trên Trang Web và/hoặc Ứng Dụng của chúng tôi. Nếu chúng tôi cung cấp cho bạn trên Trang Web và/hoặc Ứng Dụng của chúng tôi bất kỳ khuyến nghị nào mà nhận dạng bạn, dựa trên Thông Tin Về Gen và Thông Tin Tự Cung Cấp của bạn và nghiên cứu hoặc tài liệu khoa học, thông tin có khả năng thực thi, thì các thông tin này chỉ nhằm mục đích cung cấp thông tin và để thảo luận với bác sĩ điều trị của bạn hoặc nhà cung cấp dịch vụ chăm sóc sức khỏe khác.</p><p><h3>6. TUYÊN BỐ CỦA NGƯỜI DÙNG</h3></p><p>Bằng cách truy cập Dịch Vụ, bạn đồng ý, thừa nhận và tuyên bố như sau:</p><p>Bạn hiểu rằng thông tin bạn có được từ Gene Friend không được đưa ra để sử dụng cho chẩn đoán, phòng ngừa hoặc điều trị độc lập bất kỳ tình trạng hoặc bệnh tật nào hoặc để xác định tình trạng sức khỏe của bạn mà không có thông tin y tế và thông tin lâm sàng. Bạn thừa nhận rằng Gene Friend đã khuyên bạn nên tham khảo lời khuyên từ bác sĩ điều trị của bạn hoặc nhà cung cấp dịch vụ chăm sóc sức khỏe khác nếu bạn có các thắc mắc hoặc lo ngại phát sinh từ Thông Tin Về Gen của bạn.</p><p>Bạn cho phép Gene Friend, Các Bên Được Cho Phép của Gene Friend, bên kế thừa và bên nhận chuyển giao thực hiện các dịch vụ phân tích trình tự gen trên ADN được trích xuất từ mẫu nước bọt của bạn và bạn đặc biệt yêu cầu Gene Friend tiết lộ kết quả phân tích được thực hiện trên ADN của bạn cho bạn và cho những người khác mà bạn ủy quyền một cách cụ thể.</p><p>Bạn tuyên bố rằng bạn đủ mười tám (18) tuổi trở lên và có đầy đủ năng lực hành vi dân sự nếu bạn cung cấp mẫu nước bọt hoặc tiếp cận Thông Tin Về Gen của bạn.</p><p>Bạn đảm bảo rằng bất kỳ mẫu nước bọt nào mà bạn cung cấp là mẫu nước bọt của chính bạn; nếu bạn chấp thuận ĐKDV này thay mặt một người mà bạn có thẩm quyền hợp pháp, bạn xác nhận rằng mẫu nước bọt mà bạn cung cấp sẽ là nước bọt của người đó.</p><p>Bạn đồng ý rằng bất kỳ mẫu nước bọt nào mà bạn cung cấp và tất cả các dữ liệu tạo ra có thể được chuyển giao và/hoặc xử lý bên ngoài quốc gia mà bạn cư trú.</p><p>Bạn chịu trách nhiệm cho tất cả các hậu quả có thể xảy ra do kết quả từ việc bạn chia sẻ với người khác để tiếp cận Thông Tin Về Gen và Thông Tin Tự Cung Cấp của bạn.</p><p>Khước Từ Quyền Sở Hữu: Bạn hiểu rằng bằng cách cung cấp bất kỳ mẫu nào, cho phép xử lý Thông Tin Về Gen của bạn, truy cập vào Thông Tin Về Gen của bạn, hoặc cung cấp Thông Tin Tự Cung Cấp của bạn, bạn không có bất kỳ quyền nào trong bất kỳ sản phẩm nghiên cứu hoặc thương mại nào mà có thể được phát triển bởi Gene Friend hoặc các đối tác hợp tác của Gene Friend. Bạn hiểu rõ ràng rằng bạn sẽ không nhận được thù lao đối với bất kỳ sản phẩm nghiên cứu hoặc thương mại mà bao gồm hoặc tạo nên từ Thông Tin Về Gen hoặc Thông Tin Tự Cung Cấp của bạn.</p><p><h3>7. TẠO TÀI KHOẢN, TÀI KHOẢN GENETICA, MẬT KHẨU, VÀ NGHĨA VỤ BẢO MẬT</h3></p><p>Xem xét việc bạn sử dụng Dịch Vụ, bạn đồng ý: (i) cung cấp Thông Tin Đăng Ký đúng, chính xác, hiện thời và đầy đủ về bản thân theo yêu cầu bởi Dịch Vụ; và (ii) duy trì và cập nhật kịp thời Thông Tin Đăng Ký để thông tin luôn đúng, chính xác, hiện thời và đầy đủ. Nếu bạn cung cấp bất kỳ Thông Tin Đăng Ký nào mà không đúng, không chính xác, không hiện thời và không đầy đủ, hoặc nếu Gene Friend có cơ sở hợp lý để nghi ngờ rằng thông tin đó là không đúng, không chính xác, không hiện thời hoặc không đầy đủ, thì Gene Friend có quyền đình chỉ hoặc chấm dứt Tài Khoản Genetica của bạn và từ chối bất kỳ và tất cả việc sử dụng Dịch Vụ (hoặc bất kỳ phần nào của Dịch Vụ) bởi bạn trong hiện tại hoặc tương lai. Dịch Vụ chỉ được sử dụng ở quốc gia mà Bộ Thu Thập Mẫu của bạn được giao từ Gene Friend.</p><p>Sau khi bạn đã mua (các) Dịch Vụ của chúng tôi, bạn phải tạo mật khẩu và chỉ định Tài Khoản Genetica. Bạn chịu trách nhiệm duy trì tính bảo mật của mật khẩu và Tài Khoản Genetica của bạn, và chịu trách nhiệm hoàn toàn cho tất cả hoạt động xảy ra dưới mật khẩu hoặc Tài Khoản Genetica của bạn. Nếu bạn cho phép các bên thứ ba truy cập vào Trang Web và/hoặc Ứng Dụng thông qua tên người dùng và mật khẩu của bạn, bạn phải bảo vệ và đảm bảo bồi thường cho Gene Friend, Bên Được Cho Phép của Gene Friend và bất kỳ bên liên kết nào khác của Gene Friend chống lại bất kỳ trách nhiệm, chi phí hoặc thiệt hại nào, bao gồm phí luật sư, phát sinh từ các khiếu nại hoặc khiếu kiện của các bên thứ ba đó dựa trên hoặc liên quan đến việc truy cập và/hoặc sử dụng như vậy. Bạn đồng ý: (i) thông báo ngay cho Gene Friend về bất kỳ việc sử dụng trái phép nào đối với mật khẩu của bạn, Tài Khoản Genetica của bạn và/hoặc bất kỳ vi phạm bảo mật nào khác, và (ii) đảm bảo rằng bạn thoát khỏi Tài Khoản Genetica của mình khi kết thúc mỗi phiên truy cập. Gene Friend không thể và sẽ không chịu trách nhiệm cho bất kỳ tổn thất hoặc thiệt hại nào phát sinh do bạn không tuân thủ quy định tại Mục này.</p><p><h3>8. CHÍNH SÁCH BẢO MẬT & QUYỀN RIÊNG TƯ VÀ TIẾT LỘ THÔNG TIN CỦA GENE FRIEND</h3></p><p>Vui lòng đọc kỹ Chính Sách Bảo Mật & Quyền Riêng Tư của Gene Friend được cung cấp tại https://genetica.asia/privacy-policy để hiểu cách Gene Friend thu thập, xử lý, lưu trữ, sử dụng và tiết lộ thông tin về Người Dùng và cách cập nhật hoặc thay đổi Thông Tin Cá Nhân của bạn và cách chúng tôi liên lạc với bạn.</p><p>Bạn thừa nhận và đồng ý rằng Gene Friend có quyền giám sát mọi hoạt động sử dụng hệ thống của mình bởi nhân viên của mình bất cứ lúc nào và duy trì các bản sao ghi lại việc giám sát đó. Gene Friend có thể, theo quyết định của riêng mình, hạn chế quyền truy cập của bạn vào Trang Web và/hoặc Ứng Dụng vì bất kỳ lý do gì. Chính Sách Bảo Mật & Quyền Riêng Tư của chúng tôi chỉ quy định các mong muốn về quyền riêng tư mà bất kỳ cá nhân nào cũng có trong quá trình sử dụng Dịch Vụ của Gene Friend, Trang Web và/hoặc Ứng Dụng, hoặc các hệ thống khác của Gene Friend. Gene Friend sẽ không bao giờ tiết lộ Thông Tin Về Gen và/hoặc Thông Tin Tự Cung Cấp ở cấp độ cá nhân của bạn cho bất kỳ bên thứ ba nào mà không xin phép và nhận được sự đồng ý rõ ràng của bạn để làm như vậy, trừ khi luật pháp có yêu cầu.</p><p><h3>9. HÀNH VI CỦA NGƯỜI DÙNG – VIỆC SỬ DỤNG BẤT HỢP PHÁP VÀ BỊ CẤM</h3></p><p>Là một điều kiện đối với việc bạn sử dụng Dịch Vụ và/hoặc Trang Web và/hoặc Ứng Dụng, bạn đảm bảo với Gene Friend rằng bạn sẽ không sử dụng Dịch Vụ cho bất kỳ mục đích bất hợp pháp hoặc bị cấm nào theo ĐKDV này và pháp luật áp dụng. Bạn không được sử dụng Dịch Vụ theo bất kỳ cách nào có thể gây thiệt hại, vô hiệu hóa, quá tải hoặc làm giảm sút Dịch Vụ hoặc can thiệp vào việc sử dụng và thụ hưởng Dịch Vụ của bất kỳ bên nào khác. Bạn không được lấy hoặc cố gắng lấy bất kỳ tài liệu hoặc thông tin nào thông qua bất kỳ phương tiện nào mà không được chủ ý tạo sẵn hoặc cung cấp thông qua Dịch Vụ.</p><p>Hơn nữa, bạn đồng ý không thực hiện bất kỳ hành vi bất hợp pháp hoặc bị cấm theo ĐKDV này và pháp luật áp dụng, và/hoặc xâm phạm quyền hoặc lợi ích hợp pháp của bất kỳ Người Dùng nào khác, và/hoặc gây thiệt hại hoặc tổn hại cho Trang Web và/hoặc Ứng Dụng và/hoặc Dịch Vụ của chúng tôi.</p><p>Bạn thừa nhận và đồng ý rằng bạn tự chịu trách nhiệm (và rằng Gene Friend không có trách nhiệm với bạn hoặc bất kỳ bên thứ ba nào) đối với bất kỳ vi phạm nghĩa vụ hoặc cam kết nào của bạn theo ĐKDV này và về hậu quả (bao gồm bất kỳ tổn thất hoặc thiệt hại nào mà Gene Friend có thể phải gánh chịu) của bất kỳ vi phạm nào như vậy. Trong trường hợp bạn có vi phạm bất kỳ quy định nào trong những thỏa thuận này, Gene Friend có quyền đình chỉ hoặc chấm dứt Tài Khoản Genetica của bạn và từ chối bất kỳ và tất cả việc sử dụng Dịch Vụ (hoặc bất kỳ phần nào của Dịch Vụ) bởi bạn trong hiện tại hoặc tương lai và bạn sẽ bảo vệ và đảm bảo bồi thường cho Gene Friend, Bên Được Cho Phép của Gene Friend, và bất kỳ bên liên kết nào khác của Gene Friend đối với bất kỳ trách nhiệm, chi phí hoặc thiệt hại nào phát sinh từ việc vi phạm tuyên bố.</p><p>Nếu bạn vi phạm các điều khoản của Mục này và/hoặc Gene Friend có căn cứ hợp lý để nghi ngờ rằng bạn đã vi phạm các điều khoản của Mục này, Gene Friend có quyền đình chỉ hoặc chấm dứt Tài Khoản Genetica của bạn và từ chối bất kỳ và tất cả việc sử dụng Dịch Vụ (hoặc bất kỳ phần nào của Dịch Vụ) bởi bạn trong hiện tại hoặc tương lai.</p><p><h3>10. TÀI LIỆU ĐĂNG TẢI QUA DỊCH VỤ</h3></p><p>Gene Friend không, tại mọi thời điểm, kiểm soát bất kỳ Nội Dung Người Dùng nào được đăng tải thông qua Dịch Vụ và, do vậy, không đảm bảo tính chính xác, tính toàn vẹn hoặc tính hợp pháp của nội dung không phải của Gene Friend. Bạn thừa nhận và đồng ý rằng bạn phải đánh giá và chịu mọi rủi ro liên quan đến việc sử dụng bất kỳ nội dung nào, bao gồm cả sự tin cậy vào tính chính xác, tính đầy đủ hoặc tính hữu ích của nội dung đó.</p><p>Trong mọi trường hợp, Gene Friend không chịu trách nhiệm theo bất kỳ cách thức nào đối với việc sàng lọc trước, xem xét, lọc, sửa đổi, từ chối hoặc gỡ bỏ bất kỳ nội dung nào được cung cấp thông qua Dịch Vụ, và/hoặc đối với nội dung không phải của Gene Friend, bao gồm, nhưng không giới hạn ở, bất kỳ lỗi hoặc thiếu sót nào trong bất kỳ nội dung nào như vậy, hoặc đối với bất kỳ tổn thất hoặc thiệt hại nào dưới bất kỳ hình thức nào phát sinh do việc sử dụng bất kỳ nội dung nào được đăng tải, gửi qua thư điện tử, hoặc truyền đưa theo cách khác qua Dịch Vụ. Tuy nhiên, Gene Friend sẽ có quyền gỡ bỏ bất kỳ nội dung nào vi phạm các ĐKDV này hoặc được Gene Friend coi là có tính chất phản cảm theo cách khác, theo quyết định của riêng Gene Friend.</p><p><h3>11. TÀI LIỆU ĐƯỢC CUNG CẤP CHO GENE FRIEND – QUYỀN SỞ HỮU CỦA BẠN</h3></p><p>(i)<b>Nội Dung Người Dùng</b>: bạn thừa nhận rằng tất cả Nội Dung Người Dùng, cho dù là được đăng tải công khai hoặc truyền đưa riêng, đều thuộc trách nhiệm của người mà Nội Dung Người Dùng đó bắt nguồn. Điều này có nghĩa là bạn, và không phải Gene Friend, chịu trách nhiệm hoàn toàn đối với tất cả Nội Dung Người Dùng mà bạn đăng tải, đưa lên, gửi thư điện tử, hoặc truyền đưa theo cách khác thông qua Dịch Vụ. Gene Friend không đòi hỏi quyền sở hữu đối với Nội Dung Người Dùng mà bạn cung cấp (bao gồm cả các phản hồi hoặc gợi ý) hoặc đăng tải, đưa lên, nhập vào, hoặc cung cấp cho Dịch Vụ. Trừ khi được quy định khác đi, bạn giữ quyền tác giả và bất kỳ quyền nào khác mà bạn có đối với Nội Dung Người Dùng mà bạn tạo ra và cung cấp, đăng tải, hoặc hiển thị trên hoặc thông qua Dịch Vụ. Tuy nhiên, bằng việc cung cấp, đăng tải, hoặc hiển thị Nội Dung Người Dùng như vậy, bạn trao cho Gene Friend, các công ty liên kết, các bên được cấp quyền thứ cấp, Bên Được Cho Phép, và các bên kế thừa, bên nhận chuyển giao của Gene Friend, sự cho phép vĩnh viễn, không thể hủy ngang, trên phạm vi toàn thế giới, không phải trả phí bản quyền và không độc quyền để nhân bản, làm cho phù hợp, điều chỉnh, dịch, công bố, trình bày công khai, hiển thị công khai, phân phối, sao chép, biên tập, định dạng lại, và làm các tác phẩm phái sinh từ bất kỳ Nội Dung Người Dùng nào mà bạn cung cấp, đăng tải, hoặc hiển thị trên hoặc thông qua Dịch Vụ. Bạn thừa nhận và đồng ý rằng sự cho phép này bao gồm cả quyền cho Gene Friend cung cấp Nội Dung Người Dùng này cho các công ty, tổ chức, cá nhân khác mà Gene Friend có mối quan hệ, và để dùng Nội Dung Người Dùng đó liên quan đến việc cung cấp Dịch Vụ.</p><p>Bạn hiểu rằng Gene Friend, trong quá trình thực hiện các bước kỹ thuật cần thiết để cung cấp Dịch Vụ cho Người Dùng của chúng tôi, có thể (a) truyền đưa hoặc phân phối Nội Dung Người Dùng của bạn qua các mạng công cộng và phương tiện truyền thông khác nhau; và (b) thực hiện các thay đổi đối với nội dung của bạn mà cần thiết để các nội dung đó tương thích và phù hợp với các yêu cầu kỹ thuật của các mạng, thiết bị, dịch vụ hoặc phương tiện truyền thông được kết nối. Bạn thừa nhận và đồng ý rằng sự cấp phép này cho phép Gene Friend thực hiện các hành động đó. Bạn tuyên bố và đảm bảo với Gene Friend rằng bạn có tất cả các quyền, thẩm quyền, và sự cho phép cần thiết để thực hiện sự cấp phép nói trên.</p><p>(ii)<b>Thông Tin Về Gen và/hoặc Thông Tin Tự Cung Cấp</b>: Việc tiết lộ Thông Tin Về Gen và/hoặc Thông Tin Tự Cung Cấp ở mức độ cá nhân cho các bên thứ ba sẽ không được thực hiện nếu không có sự cho phép rõ ràng, trừ khi được yêu cầu bởi pháp luật. Xin lưu ý rằng Gene Friend không thể kiểm soát việc phân phối khác đối với Thông Tin Về Gen và/hoặc Thông Tin Tự Cung Cấp mà bạn chia sẻ công khai trên Trang Web và/hoặc Ứng Dụng của Gene Friend. Bạn thừa nhận và đồng ý rằng bạn chịu trách nhiệm bảo vệ và thực thi các quyền đó và rằng Gene Friend không có nghĩa vụ thực hiện việc bảo vệ và thực thi đó thay mặt cho bạn.</p><p>Mẫu nước bọt của bạn, ngay khi được cung cấp cho và được phân tích bởi chúng tôi, được xử lý theo cách thức không thể thay đổi và không thể được trả lại cho bạn. Xin vui lòng xem Trang Web và/hoặc Ứng Dụng của chúng tôi để có thêm thông tin về việc xử lý mẫu. Bất kỳ Thông Tin Về Gen nào có được từ mẫu nước bọt của bạn là thông tin của bạn, tùy thuộc vào quyền mà chúng tôi bảo lưu như được quy định tại ĐKDV này. Bạn hiểu rằng bạn không nên mong chờ bất kỳ lợi ích tài chính nào từ Gene Friend như là kết quả của việc Thông Tin Về Gen của bạn được xử lý; được cung cấp cho bạn; hoặc, như được quy định trong Chính Sách Bảo Mật & Quyền Riêng Tư và ĐKDV của chúng tôi, được chia sẻ với hoặc bao gồm trong Thông Tin Về Gen và Thông Tin Tự Cung Cấp Được Tổng Hợp, được chia sẻ với các đối tác nghiên cứu, bao gồm cả các đối tác thương mại.</p><p>(iii)<b>Khước Từ Quyền Sở Hữu:</b>Như được nêu trên đây, bạn hiểu rằng bằng việc cung cấp bất kỳ mẫu nào, cho phép xử lý Thông Tin Về Gen của bạn, tiếp cận với Thông Tin Về Gen của bạn, hoặc cung cấp Thông Tin Tự Cung Cấp, bạn không có quyền trong bất kỳ sản phẩm nghiên cứu hoặc thương mại nào mà có thể được phát triển bởi Gene Friend hoặc đối tác hợp tác của Gene Friend. Bạn đặc biệt hiểu rõ rằng bạn sẽ không nhận được khoản thù lao đối với bất kỳ sản phẩm nghiên cứu hoặc thương mại nào bao gồm hoặc tạo ra từ Thông Tin Về Gen hoặc Thông Tin Tự Cung Cấp của bạn.</p><p><h3>12. ĐẢM BẢO BỒI THƯỜNG</h3></p><p>Bạn đồng ý bảo vệ và giữ cho Gene Friend, và các công ty con, các bên liên kết, người quản lý, đại lý, các Bên Được Cho Phép, các nhà thầu, đối tác, nhân viên, bên kế thừa, và bên nhận chuyển giao của Gene Friend vô hại đối với bất kỳ khiếu nại, hoặc yêu cầu nào, bao gồm cả các khoản phí luật sư hợp lý, do bất kỳ bên thứ ba nào tiến hành vì lý do hoặc phát sinh từ Nội Dung Người Dùng mà bạn cung cấp, đăng tải hoặc truyền đưa thông qua Dịch Vụ; việc bạn sử dụng Dịch Vụ; việc bạn kết nối với Dịch Vụ; vi phạm của bạn đối với ĐKDV này; hoặc xâm phạm của bạn đối với bất kỳ quyền nào của người khác.</p><p>Nếu bạn đã cung cấp mẫu nước bọt hoặc cung cấp theo cách khác Thông Tin Về Gen của chính bạn, thì bạn sẽ bảo vệ và giữ cho Gene Friend, nhân viên, Các Bên Được Cho Phép, nhà thầu, bên kế thừa, và bên nhận chuyển giao của Gene Friend vô hại đối với bất kỳ trách nhiệm pháp lý nào phát sinh từ việc sử dụng hoặc tiết lộ bất kỳ thông tin nào nhận được từ việc phân tích trình tự gen mẫu nước bọt của bạn và/hoặc phân tích Thông Tin Về Gen của bạn, mà được tiết lộ cho bạn phù hợp với Chính Sách Bảo Mật & Quyền Riêng Tư của chúng tôi hoặc tạo ra từ chức năng phụ trợ của bên thứ ba vào công cụ mà chúng tôi cung cấp. Ngoài ra, nếu bạn chọn cung cấp Thông Tin Về Gen và/hoặc Thông Tin Tự Cung Cấp của bạn cho các bên thứ ba – cho dù là các cá nhân mà bạn tạo điều kiện để truy cập, một cách cố ý hoặc vô tình, hoặc cho bên thứ ba nhằm mục đích chẩn đoán hoặc mục đích khác – bạn đồng ý bảo vệ và giữ cho Gene Friend, nhân viên, Các Bên Được Cho Phép, nhà thầu, bên kế thừa, bên nhận chuyển giao của Gene Friend vô hại đối với bất kỳ và toàn bộ trách nhiệm pháp lý phát sinh từ việc tiết lộ hoặc sử dụng Thông Tin Về Gen và/hoặc Thông Tin Tự Cung Cấp của bạn.</p><p><h3>13. KHÔNG BÁN LẠI DỊCH VỤ</h3></p><p>Trừ khi được đồng ý theo cách khác trong một thỏa thuận riêng giữa bạn và Gene Friend, bạn đồng ý không hiển thị, phân phối, cấp phép sử dụng, thực hiện, công bố, tái bản, nhân bản, sao chép, làm tác phẩm phái sinh từ, thay đổi, bán, bán lại, khai thác, chuyển giao, hoặc truyền đưa, vì bất kỳ mục đích thương mại nào, toàn bộ hoặc bất kỳ phần nào của Dịch Vụ, của việc sử dụng Dịch Vụ, hoặc quyền truy cập vào Dịch Vụ.</p><p><h3>14. THAY ĐỔI DỊCH VỤ</h3></p><p>Gene Friend bảo lưu quyền vào bất kỳ lúc nào và tùy từng thời điểm, thay đổi hoặc chấm dứt, tạm thời hoặc vĩnh viễn, Dịch Vụ (hoặc bất kỳ phần nào của Dịch Vụ) có hoặc không có thông báo. Bạn thừa nhận và đồng ý rằng: (i) những thay đổi có thể dẫn đến việc chậm trễ trong các tính toán đối với một số tính năng hoặc dịch vụ của Gene Friend, và (ii) Gene Friend không có nghĩa vụ đối với bạn hoặc bất kỳ bên thứ ba nào đối với bất kỳ việc thay đổi, đình chỉ, hoặc chấm dứt Dịch Vụ.</p><p>Phần Mềm (như được định nghĩa trong Mục 19 dưới đây) mà bạn sử dụng, tùy từng thời điểm, có thể tải xuống và cài đặt các cập nhật một cách tự động. Các cập nhật này được thiết kế để cải thiện, nâng cao, và phát triển hơn nữa Dịch Vụ và có thể ở dạng bản vá lỗi, chức năng cải tiến, mô-đun phần mềm mới, và các phiên bản mới hoàn toàn. Bạn đồng ý nhận các cập nhật đó (và cho phép Gene Friend cung cấp các cập nhật đó cho bạn) như là một phần của việc bạn sử dụng Dịch Vụ.</p><p>Bạn thừa nhận rằng Gene Friend có thể chào các công nghệ hoặc tính năng khác hoặc bổ sung để thu thập và/hoặc giải thích Thông Tin Về Gen trong tương lai và rằng việc mua Dịch Vụ ban đầu của bạn không có nghĩa là bạn được quyền hưởng các công nghệ hoặc tính năng khác hoặc bổ sung đó đối với việc thu thập hoặc giải thích Thông Tin Về Gen mà không phải trả phí, và rằng bạn sẽ phải trả phí bổ sung để Thông Tin Về Gen của bạn có thể được thu thập, xử lý, và/hoặc giải thích bằng cách sử dụng bất kỳ công nghệ hoặc tính năng trong tương lai hoặc bổ sung nào.</p><p><h3>15. CHẤM DỨT</h3></p><p>Gene Friend có thể, tại bất kỳ thời điểm nào, chấm dứt thỏa thuận pháp lý của Gene Friend với bạn (và liên quan đến điều này, mật khẩu và (các) Tài Khoản Genetica của bạn) nếu (i) bạn đã vi phạm bất kỳ quy định nào của ĐKDV này (hoặc hành động theo bất kỳ cách nào mà thể hiện rằng bạn không có ý định, hoặc không có khả năng tuân thủ các quy định của ĐKDV này); (ii) Gene Friend được yêu cầu thực hiện việc chấm dứt đó bởi pháp luật (ví dụ, khi việc cung cấp Dịch Vụ cho bạn là, hoặc trở nên, bất hợp pháp); (iii) Bên Được Cho Phép mà cùng Gene Friend cung cấp Dịch Vụ cho bạn đã chấm dứt quan hệ với Gene Friend hoặc chấm dứt cung cấp Dịch Vụ cho bạn; (iv) Gene Friend chuyển đổi sang loại hình không còn cung cấp Dịch Vụ cho Người Dùng ở quốc gia hoặc địa phương mà bạn cư trú hoặc từ nơi mà bạn sử dụng dịch vụ từ đó; hoặc (v) việc cung cấp Dịch Vụ cho bạn bởi Gene Friend là, theo ý kiến của Gene Friend, không còn khả thi về khía cạnh thương mại.</p><p>Bất kỳ hành vi lừa đảo, lạm dụng hoặc bất hợp pháp khả nghi nào mà có thể là cơ sở để chấm dứt việc bạn sử dụng Dịch Vụ có thể được đệ trình tới cơ quan thực thi pháp luật có thẩm quyền. Bạn thừa nhận và đồng ý rằng Gene Friend không chịu trách nhiệm đối với bạn hoặc bất kỳ bên thứ ba nào đối với bất kỳ việc chấm dứt nào đối với việc truy cập của bạn vào Dịch Vụ.</p><p><h3>16. ĐIỀU KHOẢN VẪN DUY TRÌ HIỆU LỰC</h3></p><p>Khi ĐKDV này kết thúc, thì tất cả các quyền, nghĩa vụ và trách nhiệm pháp lý mà bạn và Gene Friend được hưởng lợi từ đó, là đối tượng (hoặc đã phát sinh theo thời gian trong quá trình hiệu lực của ĐKDV này) hoặc được thể hiện sẽ tiếp tục vô thời hạn, sẽ không bị ảnh hưởng bởi việc kết thúc này, và các quy định tại các điều khoản 1.(Định Nghĩa); 2.(Chấp Nhận Điều Khoản); 3.(Điều Kiện Tiên Quyết); 4.(Mô Tả Dịch Vụ); 5.(Rủi Ro và Cân Nhắc Về Dịch Vụ); 6.(Tuyên Bố Của Người Dùng); 7.(Tạo Tài Khoản, Tài Khoản Genetica, Mật Khẩu và Nghĩa Vụ Bảo Mật); 8.(Chính Sách Bảo Mật & Quyền Riêng Tư và Tiết Lộ Thông Tin Của Gene Friend); 9.(Hành Vi Của Người Dùng – Việc Sử Dụng Bất Hợp Pháp và Bị Cấm); 10.(Tài Liệu Đăng Tải Qua Dịch Vụ); 11.(Tài Liệu Được Cung Cấp Cho Gene Friend – Quyền Sở Hữu Của Bạn); 12.(Đảm Bảo Bồi Thường); 13.(Không Bán Lại Dịch Vụ); 15.(Chấm Dứt); 16.(Điều Khoản Vẫn Duy Trì Hiệu Lực); 17.(Quan Hệ Với Nhà Cung Cấp Thông Tin và Các Nguồn Được Liệt Kê); 18.(Siêu Liên Kết và Trang Web của Bên Thứ Ba); 19.(Quyền Sở Hữu Của Gene Friend); 20.(KHƯỚC TỪ BẢO ĐẢM); 21.(GIỚI HẠN VỀ TRÁCH NHIỆM); 22.(Thông Báo); 24.(Vi Phạm hoặc Vi Phạm Bị Nghi Ngờ đối với ĐKDV); và 25.(Các Quy Định Khác) sẽ tiếp tục áp dụng cho các quyền, nghĩa vụ và trách nhiệm vô thời hạn đó.</p><p><h3>17. QUAN HỆ VỚI NHÀ CUNG CẤP THÔNG TIN VÀ CÁC NGUỒN ĐƯỢC LIỆT KÊ</h3></p><p>Trao đổi hoặc giao dịch của bạn với, hoặc việc bạn tham gia vào các chương trình khuyến mại của, các nhà cung cấp thông tin, các bên bán hàng, và/hoặc các nguồn được tìm thấy trên hoặc thông qua Dịch Vụ, bao gồm cả việc thanh toán và giao nhận hàng hóa hoặc dịch vụ liên quan, và bất kỳ điều khoản, điều kiện, bảo đảm, hoặc tuyên bố nào liên quan đến các quan hệ đó, chỉ là giữa bạn và bên cung cấp thông tin hoặc nguồn đó. Bạn thừa nhận và đồng ý rằng Gene Friend không chịu trách nhiệm hoặc có nghĩa vụ đối với bất kỳ tổn thất hoặc thiệt hại thuộc bất kỳ thể loại nào xảy ra như là kết quả của bất kỳ giao dịch nào như vậy hoặc như là kết quả của việc có mặt nhà cung cấp thông tin hoặc nguồn đó trên Dịch Vụ.</p><p><h3>18. SIÊU LIÊN KẾT VÀ TRANG WEB CỦA BÊN THỨ BA</h3></p><p>Dịch Vụ cung cấp, và bên thứ ba có thể cung cấp, các đường dẫn đến các trang web và nguồn khác trên Internet (\"<b>Trang Web và Nguồn Của Bên Thứ Ba</b>\"). Bởi vì Gene Friend không có quyền kiểm soát các Trang Web và Nguồn Của Bên Thứ Ba như thế, nên bạn thừa nhận và đồng ý rằng Gene Friend không chịu trách nhiệm đối với việc có sẵn các Trang Web và Nguồn Của Bên Thứ Ba như thế, và không chứng nhận và không chịu trách nhiệm hoặc có nghĩa vụ đối với bất kỳ nội dung, quảng cáo, sản phẩm hoặc các tài liệu khác có trên hoặc từ Trang Web và Nguồn Của Bên Thứ Ba đó. Bạn cũng thừa nhận và đồng ý rằng Gene Friend không có trách nhiệm hoặc nghĩa vụ gì, trực tiếp hoặc gián tiếp, đối với bất kỳ tổn thất hoặc thiệt hại nào gây ra hoặc bị cáo buộc là gây ra bởi hoặc có liên quan đến việc sử dụng hoặc dựa vào bất kỳ nội dung, hàng hóa hoặc dịch vụ nào có trên hoặc thông qua các Trang Web và Nguồn Của Bên Thứ Ba đó.</p><p><h3>19. QUYỀN SỞ HỮU CỦA GENE FRIEND</h3></p><p>Bạn thừa nhận và đồng ý rằng Gene Friend (hoặc các bên cấp phép sử dụng của Gene Friend, nếu có) sở hữu tất cả các quyền, tư cách, và quyền lợi hợp pháp trong và đối với Dịch Vụ, bao gồm bất kỳ quyền sở hữu trí tuệ nào (bao gồm nhưng không giới hạn ở các sáng chế) mà chúng tồn tại trong Dịch Vụ (bất kể các quyền đó đã được đăng ký hay chưa, và tồn tại ở bất kỳ nơi nào trên thế giới). Bạn cũng thừa nhận rằng Dịch Vụ có thể chứa các thông tin mà được chỉ định là bí mật bởi Gene Friend, và rằng bạn không được tiết lộ thông tin đó mà không có sự cho phép trước bằng văn bản của Gene Friend.</p><p>Bạn cũng thừa nhận và đồng ý rằng Dịch Vụ và bất kỳ phần mềm cần thiết nào được sử dụng liên quan đến Dịch Vụ (\"<b>Phần Mềm</b>\") đều có chứa thông tin độc quyền và bí mật được bảo vệ bởi luật sở hữu trí tuệ và các luật áp dụng khác. Bạn cũng thừa nhận và đồng ý rằng thông tin mà bạn có được thông qua Dịch Vụ hoặc các nhà tài trợ được bảo vệ bởi pháp luật về quyền tác giả, nhãn hiệu hàng hóa, nhãn dịch vụ, sáng chế hoặc các quyền và luật sở hữu khác. Trừ khi được cho phép rõ ràng bởi Gene Friend, bạn đồng ý không và không cho phép người khác sửa đổi, thuê, cho thuê, cho vay, bán, phân phối, hoặc tạo tác phẩm phái sinh của, hoặc phân tích ngược, dịch ngược, hoặc thực hiện các hành động cố ý theo các khác để trích xuất mã nguồn của Dịch Vụ hoặc Phần Mềm hoặc bất kỳ phần nào của các đối tượng đó, toàn bộ hoặc một phần. Phần Mềm, nếu có, mà được cung cấp để tải xuống từ Dịch Vụ, ngoài phần mềm mà có thể cung cấp bởi người dùng cuối cùng thông qua Dịch Vụ, là phần mềm được bảo hộ quyền tác giả của Gene Friend và/hoặc các nhà cung cấp của Gene Friend. Việc bạn sử dụng Phần Mềm được điều chỉnh bởi các điều khoản của thỏa thuận cấp phép sử dụng cho Người Dùng cuối, nếu có, mà đi kèm hoặc bao gồm trong Phần Mềm (\"<b>Thỏa Thuận Cấp Phép Sử Dụng</b>\"). Bạn không được cài đặt hoặc sử dụng bất kỳ Phần Mềm nào mà có đính kèm hoặc bao gồm Thỏa Thuận Cấp Phép Sử Dụng trừ khi trước hết bạn phải đồng ý với các điều khoản của Thỏa Thuận Cấp Phép Sử Dụng.</p><p>Gene Friend Way, Inc., Gene Friend, Genetica, và các biểu trưng và các tên sản phẩm và dịch vụ khác của Gene Friend là các nhãn hiệu của hoặc được cấp phép sử dụng cho Gene Friend và các nhãn hiệu này cùng với các tên thương mại, nhãn dịch vụ, biểu trưng, tên miền, và các đặc tính phân biệt khác của Gene Friend là \"<b>Nhãn Hiệu Của Gene Friend</b>\". Trừ khi bạn có thỏa thuận khác đi bằng văn bản với Gene Friend, không có quy định nào trong ĐKDV này trao cho bạn quyền sử dụng Nhãn Hiệu Của Gene Friend và bạn đồng ý không trình bày hoặc sử dụng theo bất kỳ cách thức nào, Nhãn Hiệu Của Gene Friend.</p><p>Bạn đồng ý rằng bạn không gỡ bỏ, làm tối nghĩa, hoặc thay thế bất kỳ thông báo về quyền sở hữu nào (bao gồm thông báo về quyền tác giả và thông báo về nhãn hiệu) mà được gắn vào hoặc có chứa trong Dịch Vụ.</p><p>Trừ khi bạn được cho phép một cách rõ ràng bằng văn bản bởi Gene Friend, bạn đồng ý rằng trong quá trình sử dụng Dịch Vụ, bạn sẽ không sử dụng bất kỳ nhãn hiệu hàng hóa, nhãn hiệu dịch vụ, tên thương mại, biểu trưng của bất kỳ công ty hoặc tổ chức nào theo cách mà có thể hoặc cho mục đích gây nhầm lẫn về chủ sở hữu hoặc Người Dùng được cho phép của nhãn hiệu, tên hoặc biểu trưng đó.</p><p>Đối với bất kỳ Phần Mềm nào không có Thỏa Thuận Cấp Phép Sử Dụng đi kèm, thì Gene Friend cấp cho bạn quyền và sự cho phép không độc quyền, không thể chuyển giao và chỉ cho cá nhân bạn để sử dụng mã máy của Phần Mềm đó trên một máy tính. Bạn không (và không cho phép bất kỳ bên thứ ba nào) sao chép, chỉnh sửa, tạo tác phẩm phái sinh của, phân tích ngược, biên tập ngược hoặc thực hiện hành động cố ý theo cách khác để khám phá mã nguồn, bán, chuyển giao, cấp phép thứ cấp, cấp tài sản bảo đảm trong, hoặc chuyển giao theo cách khác bất kỳ quyền nào trong Phần Mềm trừ khi điều đó được cho phép rõ ràng hoặc yêu cầu bởi luật pháp, hoặc trừ khi bạn đã được thông báo một cách rõ ràng bằng văn bản bởi Gene Friend rằng bạn có thể làm điều đó. Sự cấp phép này chỉ cho mục đích duy nhất là để bạn có thể sử dụng và hưởng lợi ích của Dịch Vụ do Gene Friend cung cấp, theo cách thức được cho phép bởi ĐKDV này. Trừ khi Gene Friend đã trao cho bạn sự cho phép rõ ràng bằng văn bản để làm điều đó, bạn không được chuyển nhượng (hoặc cấp phép thứ cấp) quyền của bạn để sử dụng Phần Mềm, cấp tài sản bảo đảm trong hoặc đối với quyền của bạn để sử dụng Phần Mềm, hoặc chuyển giao theo cách khác bất kỳ phần nào trong quyền của bạn đối với việc sử dụng Phần Mềm. Bạn đồng ý không thay đổi Phần Mềm theo bất kỳ cách nào hoặc sử dụng các phiên bản đã sửa đổi của Phần Mềm, bao gồm (nhưng không giới hạn) cho mục đích nhận được quyền truy cập bất hợp pháp vào Dịch Vụ. Bạn đồng ý không truy cập vào Dịch Vụ bằng bất kỳ phương tiện nào khác ngoài việc thông qua giao diện do Gene Friend cung cấp để sử dụng trong việc truy cập vào Dịch Vụ. Bất kỳ quyền nào không được cấp rõ ràng trong ĐKDV này đều được bảo lưu.</p><p><h3>20. KHƯỚC TỪ BẢO ĐẢM</h3></p><p>BẠN THỪA NHẬN VÀ ĐỒNG Ý MỘT CÁCH RÕ RÀNG RẰNG:</p><p>(i) VIỆC BẠN SỬ DỤNG DỊCH VỤ LÀ RỦI RO CỦA RIÊNG BẠN. DỊCH VỤ ĐƯỢC CUNG CẤP TRÊN CƠ SỞ \"NGUYÊN TRẠNG\" VÀ \"NHƯ SẴN CÓ\". GENE FRIEND KHƯỚC TỪ MỘT CÁCH RÕ RÀNG TẤT CẢ CÁC BẢO ĐẢM THUỘC BẤT KỲ THỂ LOẠI NÀO, CHO DÙ RÕ RÀNG HOẶC NGỤ Ý, BAO GỒM, NHƯNG KHÔNG GIỚI HẠN Ở CÁC BẢO ĐẢM NGỤ Ý VỀ TÍNH THƯƠNG MẠI, THÍCH HỢP CHO MỤC ĐÍCH CỤ THỂ, VÀ TÍNH KHÔNG XÂM PHẠM.</p><p>(ii) GENE FRIEND KHÔNG ĐẢM BẢO RẰNG (a) DỊCH VỤ SẼ ĐÁP ỨNG YÊU CẦU CỦA BẠN; (b) DỊCH VỤ SẼ KHÔNG BỊ GIÁN ĐOẠN, SẼ KỊP THỜI, LUÔN LUÔN AN TOÀN HOẶC KHÔNG BỊ LỖI; (c) KẾT QUẢ MÀ BẠN CÓ THỂ NHẬN ĐƯỢC TỪ VIỆC SỬ DỤNG DỊCH VỤ SẼ CHÍNH XÁC VÀ ĐÁNG TIN CẬY; (d) CHẤT LƯỢNG CỦA BẤT KỲ SẢN PHẨM, DỊCH VỤ, THÔNG TIN NÀO HOẶC CÁC TÀI LIỆU KHÁC MÀ BẠN MUA HOẶC CÓ ĐƯỢC THÔNG QUA DỊCH VỤ SẼ ĐÁP ỨNG MONG MUỐN CỦA BẠN, VÀ (e) BẤT KỲ LỖI NÀO CỦA PHẦN MỀM ĐỀU ĐƯỢC SỬA CHỮA.</p><p>(iii) BẤT KỲ TÀI LIỆU NÀO ĐƯỢC TẢI XUỐNG HOẶC CÓ ĐƯỢC THEO CÁCH KHÁC THÔNG QUA DỊCH VỤ LÀ HOÀN TOÀN THEO QUYẾT ĐỊNH VÀ RỦI RO CỦA RIÊNG BẠN, VÀ RẰNG CHỈ MÌNH BẠN CHỊU TRÁCH NHIỆM ĐỐI VỚI BẤT KỲ THIỆT HẠI NÀO ĐỐI VỚI HỆ THỐNG MÁY TÍNH CỦA BẠN HOẶC VIỆC MẤT DỮ LIỆU CỦA BẠN MÀ CÓ THỂ LÀ KẾT QUẢ CỦA VIỆC TẢI XUỐNG BẤT KỲ TÀI LIỆU NÀO NHƯ THẾ.</p><p>(iv) BẤT KỲ VÀ TẤT CẢ CÁC TƯ VẤN HOẶC THÔNG TIN (BAO GỒM NHƯNG KHÔNG GIỚI HẠN Ở THÔNG TIN VỀ GEN), CHO DÙ BẰNG MIỆNG HOẶC VĂN BẢN, MÀ BẠN NHẬN ĐƯỢC TỪ GENE FRIEND, VÀ/HOẶC THÔNG QUA HOẶC TỪ DỊCH VỤ, LÀ CHỈ CHO MỤC ĐÍCH THAM KHẢO CỦA BẠN, SẼ KHÔNG ĐƯỢC XEM LÀ TƯ VẤN VỀ Y TẾ THEO BẤT KỲ CÁCH THỨC NÀO, SẼ ĐƯỢC SỬ DỤNG VỚI RỦI RO CỦA CHÍNH BẠN VÀ CHỈ BẠN PHẢI CHỊU TRÁCH NHIỆM, VÀ KHÔNG TẠO NÊN BẤT KỲ BẢO ĐẢM NÀO KHÔNG ĐƯỢC NÊU RÕ RÀNG TRONG ĐKDV NÀY.</p><p>(v) BẠN PHẢI LUÔN CẨN TRỌNG KHI ĐƯA RA BẤT KỲ THÔNG TIN NHẬN DẠNG CÁ NHÂN NÀO VỀ BẠN HOẶC NGƯỜI MÀ BẠN CÓ THẨM QUYỀN HỢP PHÁP. GENE FRIEND KHÔNG KIỂM SOÁT HOẶC CHỨNG NHẬN BẤT KỲ HÀNH ĐỘNG NÀO XẢY RA DO VIỆC BẠN THAM GIA DỊCH VỤ VÀ, DO VẬY, GENE FRIEND KHƯỚC TỪ MỘT CÁCH RÕ RÀNG BẤT KỲ TRÁCH NHIỆM NÀO LIÊN QUAN ĐẾN BẤT KỲ HÀNH ĐỘNG NÀO XẢY RA TỪ VIỆC BẠN THAM GIA VÀO DỊCH VỤ.</p><p>(vi) CHỈ MÌNH BẠN CHỊU TRÁCH NHIỆM ĐỐI VỚI TÍNH HOÀN CHỈNH, CHÍNH XÁC VÀ HỢP PHÁP ĐỐI VỚI THÔNG TIN VÀ/HOẶC MẪU NƯỚC BỌT MÀ BẠN CUNG CẤP CHO GENE FRIEND CŨNG NHƯ VIỆC GENE FRIEND SỬ DỤNG CÁC THÔNG TIN CÁ NHÂN VÀ MẪU NƯỚC BỌT ĐÓ THEO QUY ĐỊNH CỦA ĐKDV NÀY.</p><p><h3>21. GIỚI HẠN VỀ TRÁCH NHIỆM</h3></p><p>TRONG PHẠM VI CHO PHÉP BỞI PHÁP LUẬT ÁP DỤNG, BẠN THỪA NHẬN VÀ ĐỒNG Ý RÕ RÀNG RẰNG GENE FRIEND KHÔNG CHỊU TRÁCH NHIỆM ĐỐI VỚI BẤT KỲ TỔN THẤT TRỰC TIẾP, GIÁN TIẾP, NGẪU NHIÊN, ĐẶC BIỆT, HẬU QUẢ, HOẶC TRỪNG PHẠT ĐỂ LÀM GƯƠNG NÀO, BAO GỒM NHƯNG KHÔNG GIỚI HẠN Ở, CÁC THIỆT HẠI ĐỐI VỚI VIỆC MẤT LỢI NHUẬN, LỢI THẾ THƯƠNG MẠI, SỬ DỤNG, DỮ LIỆU HOẶC CÁC TỔN THẤT VÔ HÌNH KHÁC (NGAY CẢ KHI GENE FRIEND ĐÃ ĐƯỢC TƯ VẤN VỀ KHẢ NĂNG XẢY RA CÁC TỔN THẤT ĐÓ), XẢY RA TỪ (i) VIỆC SỬ DỤNG HOẶC KHÔNG THỂ SỬ DỤNG DỊCH VỤ; (ii) BẤT KỲ HÀNH ĐỘNG NÀO MÀ BẠN THỰC HIỆN TRÊN CƠ SỞ THÔNG TIN BẠN NHẬN ĐƯỢC THÔNG QUA HOẶC TỪ DỊCH VỤ; (iii) BẠN KHÔNG BẢO MẬT THÔNG TIN MẬT KHẨU HOẶC TÀI KHOẢN GENETICA CỦA BẠN; (iv) CHI PHÍ ĐỂ MUA HÀNG HÓA VÀ DỊCH VỤ THAY THẾ XẢY RA TỪ BẤT KỲ HÀNG HÓA, DỮ LIỆU, THÔNG TIN, HOẶC DỊCH VỤ NÀO ĐƯỢC MUA HOẶC NHẬN ĐƯỢC, HOẶC THÔNG ĐIỆP NHẬN ĐƯỢC HOẶC CÁC GIAO DỊCH ĐƯỢC GIAO KẾT THÔNG QUA HOẶC TỪ DỊCH VỤ; (v) VIỆC TRUY CẬP VÀO HOẶC THAY THẾ TRÁI PHÉP VIỆC TRUYỀN ĐƯA HOẶC DỮ LIỆU CỦA BẠN; (vi) VIỆC CHO PHÉP KHÔNG HỢP LỆ ĐỐI VỚI DỊCH VỤ BỞI MỘT NGƯỜI YÊU CẦU SỰ CHO PHÉP ĐÓ; hoặc (vii) CÁC PHÁT BIỂU HOẶC HÀNH ĐỘNG CỦA BẤT KỲ BÊN THỨ BA NÀO TRÊN DỊCH VỤ.</p><p><h3>22. THÔNG BÁO</h3></p><p>Các thông báo cho bạn sẽ được thực hiện thông qua thư điện tử hoặc thư thông thường. Gene Friend có thể cung cấp các thông báo về việc thay đổi ĐKDV này hoặc các vấn đề khác bằng việc hiển thị chung các thông báo hoặc đường dẫn tới các thông báo đó cho bạn trên hoặc thông qua Dịch Vụ.</p><p>Các thông báo chính thức liên quan đến ĐKDV này phải được gửi đến cho chúng tôi theo địa chỉ:</p><p><b>Công ty TNHH Gene Friend Việt Nam</b></p><p><b>Tầng 2, Số 40 Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3, TP Hồ Chí Minh, Việt Nam</b></p><p>Bất kỳ thông báo nào bạn đưa ra mà không phù hợp với quy định tại mục Thông Báo này đều không có hiệu lực pháp lý.</p><p><h3>23. THAY ĐỔI ĐỐI VỚI ĐKDV</h3></p><p>Gene Friend bảo lưu quyền thay đổi, sửa đổi và/hoặc loại bỏ toàn bộ hoặc bất kỳ phần nào của ĐKDV này vào bất kỳ thời điểm nào và theo quyết định của riêng Gene Friend. Bất kỳ thay đổi hoặc sửa dổi nào cũng sẽ có hiệu lực ngay khi các thay đổi hoặc sửa đổi đó được đăng tải trên Trang Web và Ứng Dụng, và bạn khước từ bất kỳ quyền nào bạn có thể có để nhận thông báo cụ thể về các thay đổi hoặc sửa đổi đó. Bạn thừa nhận và đồng ý rằng nếu bạn sử dụng Dịch Vụ sau ngày mà ĐKDV này được sửa đổi, Gene Friend sẽ xử lý việc bạn sử dụng Dịch Vụ như vậy như là việc bạn chấp thuận ĐKDV được cập nhật. Vì vậy, bạn phải xem xét ĐKDV này thường xuyên để hiểu các điều khoản và điều kiện áp dụng cho Dịch Vụ. Nếu bạn không đồng ý với ĐKDV sửa đổi, bạn phải ngừng việc sử dụng Dịch Vụ.</p><p><h3>24. VI PHẠM HOẶC VI PHẠM BỊ NGHI NGỜ ĐỐI VỚI ĐKDV</h3></p><p>Nếu bạn vi phạm quy định của ĐKDV này và/hoặc Gene Friend có cơ sở hợp lý để nghi ngờ rằng bạn đã vi phạm quy định của ĐKDV này, Gene Friend có quyền đình chỉ hoặc chấm dứt Tài Khoản Genetica của bạn và từ chối bất kỳ và tất cả việc sử dụng Dịch Vụ (hoặc bất kỳ phần nào của Dịch Vụ) bởi bạn trong hiện tại hoặc trong tương lai.</p><p><h3>25. CÁC QUY ĐỊNH KHÁC</h3></p><p>(i)<b>Thỏa Thuận Toàn Bộ</b></p><p>ĐKDV này cấu thành thỏa thuận toàn bộ giữa bạn và Gene Friend và điều chỉnh việc bạn sử dụng Dịch Vụ, thay thế bất kỳ thỏa thuận nào trước đây giữa bạn và Gene Friend về đối tượng của ĐKDV. Bạn cũng phải tuân thủ các điều khoản và điều kiện bổ sung mà có thể được áp dụng khi bạn sử dụng các dịch vụ của các bên liên kết, nội dung của bên thứ ba, hoặc phần mềm của bên thứ ba.</p><p>(ii)<b>Luật Áp Dụng và Giải Quyết Tranh Chấp</b></p><p>Tất cả các khiếu nại và tranh chấp phát sinh từ hoặc có liên quan đến ĐKDV này đều được giải quyết phù hợp với quy định của pháp luật áp dụng tại Việt Nam.</p><p>(iii)<b>Khước Từ</b></p><p>Việc Gene Friend không thực hiện hoặc thực thi bất kỳ quyền hoặc điều khoản nào của ĐKDV này đều không cấu thành việc khước từ quyền hoặc điều khoản đó. Nếu một điều khoản của ĐKDV này bị cho là không có hiệu lực bởi một tòa án có thẩm quyền, thì các bên đồng ý rằng tòa án nên cố gắng để trao hiệu lực theo ý định của các bên như được phản ánh trong điều khoản đó, và các điều khoản khác của ĐKDV này sẽ giữ nguyên hiệu lực và tính thực thi.</p><p>(iv)<b>Thừa Nhận Hiệu Lực bản in</b></p><p>Văn bản in của ĐKDV này và của bất kỳ thông báo nào được đưa ra dưới dạng điện tử đều được thừa nhận theo thủ tục tư pháp hoặc hành chính dựa trên và liên quan đến ĐKDV này trong cùng phạm vi và tùy thuộc vào cùng điều kiện như là tài liệu giao dịch và lưu trữ khác mà được tạo lập và lưu giữ ban đầu ở dạng bản in.</p><p>(v)<b>Tiêu Đề Của Các Mục</b></p><p>Tiêu đề của các mục trong ĐKDV này chỉ cho mục đích thuận tiện và không có hiệu lực pháp lý hoặc hiệu lực theo hợp đồng.</p><p>(vi)<b>Chuyển Nhượng</b></p><p>Bạn không được chuyển nhượng hoặc ủy quyền bất kỳ quyền hoặc nghĩa vụ nào của mình theo ĐKDV này. Bất kỳ việc chuyển nhượng và ủy quyền cố ý nào đều không có hiệu lực. Chúng tôi có quyền tự do chuyển nhượng hoặc ủy quyền bất kỳ hoặc tất cả các quyền và nghĩa vụ của mình theo ĐKDV này, một phần hoặc toàn bộ, mà không phải thông báo cho bạn. Chúng tôi cũng có quyền thay thế, một cách đơn phương, có hiệu lực khi thông báo cho bạn, Gene Friend bởi bất kỳ bên thứ ba nào mà có quyền và nghĩa vụ của chúng tôi theo ĐKDV này.</p><p>Cập nhật lần cuối ngày 14 tháng 10 năm 2022.</p>",
+    "sidebar": {
+      "menu": {
+        "privacyPolicy": {
+          "label": "Chính sách quyền riêng tư"
+        },
+        "termsOfService": {
+          "label": "Điều khoản dịch vụ"
+        }
+      }
+    }
+  },
+  "unlockv2": {
+    "body": {
+      "formCartDetails": {
+        "header": {
+          "title": "Dịch vụ"
+        },
+        "labels": {
+          "unlock": "Mở khóa",
+          "removed": "đã được xóa",
+          "for": "Cho"
+        },
+        "actions": {
+          "saveCartItemForLater": {
+            "text": "Xóa"
+          },
+          "undoSaveCartItemForLater": {
+            "text": "Hoàn tác"
+          }
+        }
+      }
+    }
+  },
+  "verified": {
+    "error": "Có lỗi xảy ra. Vui lòng mở lại liên kết!",
+    "description": "Thông tin của bạn đã được xác thực",
+    "contact": "Liên hệ <1>1900599927</1> hoặc <3>cs@genetica.asia</3> nếu cần hỗ trợ.",
+    "backToHome": "Quay về trang chủ"
+  },
+  "verify": {
+    "header": {
+      "title": "Thông tin quan trọng",
+      "description": "Việc xác nhận các thông tin quan trọng sau giúp bảo vệ tính bảo mật của báo cáo giải mã gen của bạn."
+    },
+    "body": {
+      "form": {
+        "field": {
+          "name": {
+            "label": "Họ và tên",
+            "value": {
+              "empty": "Chưa có"
+            },
+            "error": {
+              "empty": "Vui lòng không để trống thông tin này"
+            }
+          },
+          "phone": {
+            "label": "Số điện thoại nhận báo cáo",
+            "notification": "Vui lòng sử dụng đúng số điện thoại này khi đăng nhập xem báo cáo chi tiết trên app Genetica"
+          },
+          "email": {
+            "label": "Email nhận báo cáo",
+            "value": {
+              "empty": "Chưa có"
+            },
+            "error": {
+              "format": "Email không đúng",
+              "empty": "Vui lòng không để trống thông tin này"
+            }
+          },
+          "dob": {
+            "label": "Ngày sinh",
+            "value": {
+              "empty": "Chưa có"
+            },
+            "error": {
+              "format": "Ngày sinh không đúng",
+              "empty": "Vui lòng không để trống thông tin này",
+              "limitAge": "Dịch vụ bạn đã đăng kí không áp dụng cho độ tuổi bạn vừa nhập. Liên hệ hotline 1900 599 927 để được Genetica hỗ trợ"
+            }
+          },
+          "gender": {
+            "label": "Giới tính",
+            "values": {
+              "empty": "Chưa có",
+              "male": "Nam",
+              "female": "Nữ",
+              "unspecified": "Không xác định"
+            },
+            "error": {
+              "empty": "Vui lòng không để trống thông tin này"
+            }
+          },
+          "policy": {
+            "label": "Tôi đồng ý cung cấp thông tin để thực hiện các dịch vụ của Genetica. Tôi đảm bảo tính chính xác và tự chịu trách nhiệm về những thông tin đã cung cấp như trên."
+          },
+          "submit": {
+            "label": "Xác nhận"
+          }
+        }
+      }
+    }
+  },
+  "whatIsGeneDecoding": {
+    "header": {
+      "title": "Giải mã gen là gì"
+    },
+    "body": {
+      "sectionHero": {
+        "title": "Xét nghiệm, giải mã <br/>gen là gì?",
+        "description": "Phân tích gen là dùng các phương pháp trong phòng thí nghiệm để giải mã các hướng dẫn ADN (axit deoxyribonucleic) có trong gen được di truyền từ cha và mẹ có trong các tế bào của cơ thể con người. Phân tích gen giúp xác định những gì liên quan đến di truyền như tiềm năng trí tuệ, tiềm năng thể chất, dinh dưỡng, xu hướng hành vi, & các nguy cơ sức khỏe trong mỗi người."
+      },
+      "sectionBenefits": {
+        "title": "Lợi ích của giải mã gen?",
+        "description": "Có nhiều loại xét nghiệm gen khác nhau. Xét nghiệm gen có thể giúp:",
+        "benefits": {
+          "1": {
+            "title": "Khám phá bản thân <br/>qua bộ gen",
+            "items": [
+              "Tối ưu hóa kế hoạch tập luyện thể dục.",
+              "Tối ưu hóa kế hoạch dinh dưỡng."
+            ]
+          },
+          "2": {
+            "title": "Các khuyến nghị được cá nhân hóa",
+            "items": [
+              "Khai phá tiềm năng thiên tài.",
+              "Phát huy thế mạnh.",
+              "Cải thiện điểm yếu."
+            ]
+          },
+          "3": {
+            "title": "Chăm sóc phòng và ngừa bệnh tật",
+            "items": [
+              "Chẩn đoán bệnh.",
+              "Xác định các đột biến gen gây bệnh.",
+              "Xác định mức độ nghiêm trọng của bệnh.",
+              "Xác định các đột biến gen có thể di truyền sang cho con.",
+              "Hướng dẫn bác sĩ quyết định loại thuốc hay phương pháp điều trị tốt nhất để sử dụng cho một số người.",
+              "Xác định các đột biến gen có thể làm tăng nguy cơ gây ra bệnh."
+            ]
+          }
+        }
+      },
+      "sectionWhy": {
+        "title": "Vì sao cần giải mã gen?",
+        "description": "Xét nghiệm gen để có được “tấm bản đồ sinh học” trong tay, khai mở tiềm năng và giúp mỗi <br/>người trở thành phiên bản tốt nhất.",
+        "reasons": {
+          "1": {
+            "title": "Biết được tác động của gen với cơ thể của chúng ta.",
+            "description": "Trong những năm gần đây, giải mã gen đã đóng góp những thông tin quan trọng cho y tế và khoa học thế giới. Gen di truyền cho phép chúng ta biết được các biến thể trong DNA tương tác với nhau như thế nào và tác động của chúng đối với sự phát triển, hành vi và sức khỏe nền tảng của chúng ta."
+          },
+          "2": {
+            "title": "Gen là chiếc chìa khóa vạn năng giúp ta hiểu được chính mình.",
+            "description": "Gen mở ra kho thông tin ẩn sâu bên trong cơ thể của chúng ta, khiến mỗi người là một cá thể duy nhất theo cách riêng của mình."
+          }
+        }
+      }
+    }
+  }
+}

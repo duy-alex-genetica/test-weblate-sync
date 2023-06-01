@@ -1,0 +1,146 @@
+{
+  "account": {
+    "title": "My account",
+    "edit": {
+      "title": "Edit account info"
+    },
+    "content": {
+      "label": {
+        "accountPhoneNumber": "Account phone number",
+        "fullName": "Full name",
+        "contactNumber": "Contact number",
+        "email": "Email",
+        "optional": "optional",
+        "gender": "Gender",
+        "dateOfBirth": "Date of birth",
+        "signInPhoneNumber": "Sign-in phone number",
+        "otherContactNumbers": "Other Contact Numbers",
+        "updateContactNumber": "Update Contact Number"
+      },
+      "placeholder": {
+        "email": "Enter your email address"
+      },
+      "value": {
+        "male": "Male",
+        "female": "Female",
+        "unspecified": "Unspecified",
+        "notAvailable": "(Not available)"
+      },
+      "updatePhoneNumber": {
+        "actions": {
+          "submit": {
+            "label": "Submit"
+          },
+          "close": {
+            "label": "Close"
+          }
+        },
+        "successMessage": {
+          "title": "You have updated your contact number successfully",
+          "description": "<b>{{ name }}:</b> {{ currentPhoneNumber }} <br /> <span> has been changed to </span> <br/> <b>{{ name }}:</b> {{ phoneNumberUpdated }}",
+          "description2": "This phone number will be appeared in Account > Other Contact Numbers."
+        },
+        "errorMessage": {
+          "description": "Please add phone number so that we can call this person."
+        }
+      }
+    },
+    "errorMessage": {
+      "fullName": "You must specify your name",
+      "contactPhoneNumber": "You must specify your phone number",
+      "required": "Required",
+      "error": "Error"
+    },
+    "modalMessage": {
+      "errorMessage": "An error has occurred. Your changes haven’t been saved.",
+      "successMessage": "Update Information Successful!"
+    },
+    "action": {
+      "editAccountInfo": "Edit account info",
+      "save": "Save",
+      "cancel": "Cancel",
+      "tryAgain": "Try Again"
+    }
+  },
+  "reports": {
+    "title": "My reports",
+    "content": {
+      "labels": {
+        "": "",
+        "sampleStatusTracking": "Sample status tracking",
+        "awaitingSample": "A waiting sample",
+        "daysUntilPublication": "{{count}} day until publication",
+        "daysUntilPublication_plural": "{{count}} days until publication",
+        "daysLeftToBeUnlocked": "{{count}} day left to be unlocked",
+        "daysLeftToBeUnlocked_plural": "{{count}} days left to be unlocked",
+        "unlocking": "Unlocking"
+      },
+      "actions": {
+        "viewDetails": {
+          "label": "View details"
+        },
+        "viewReport": {
+          "label": "View Report"
+        },
+        "download": {
+          "label": "Download"
+        }
+      },
+      "footer": {
+        "labels": {
+          "seeAllReports": "See all {{count}} reports",
+          "collapse": "collapse"
+        }
+      }
+    },
+    "reportEmpty": {
+      "label": "You have no reports to show"
+    },
+    "loading": {
+      "label": "Loading"
+    },
+    "modal": {
+      "content": {
+        "downloadApp": {
+          "label": "Download Genetica App here to view your report"
+        }
+      },
+      "actions": {
+        "close": {
+          "label": "Close"
+        }
+      }
+    }
+  },
+  "securitySettings": {
+    "title": "Your devices",
+    "subtitle": "You're currently signed in to Genetica on these devices",
+    "content": {
+      "labels": {
+        "activeNow": "Active now",
+        "logoutTime": "{{ date }} at {{ time }}"
+      },
+      "actions": {
+        "logOutOfAllDevices": "Log out of all devices"
+      }
+    },
+    "modal": {
+      "content": {
+        "message": "This will log you out of Genetica from every device that you’re currently logged in on. Are you sure you want to do that?"
+      },
+      "actions": {
+        "agree": "Agree",
+        "cancel": "Cancel"
+      }
+    }
+  },
+  "sidebar": {
+    "myAccount": "My account",
+    "profiles": "Profiles",
+    "consultation": "Consultation",
+    "redeem": "Redeem",
+    "paymentHistory": "Payment history",
+    "securitySettings": "Security settings",
+    "reports": "My reports"
+  }
+}

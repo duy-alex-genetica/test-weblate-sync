@@ -1,0 +1,33 @@
+{
+  "content": {
+    "notification": {
+      "link": "返回首页",
+      "text": "或搜索更多信息"
+    },
+    "search": {
+      "placeholder": "在 Genetica 上搜索"
+    },
+    "suggest": {
+      "about": {
+        "label": "关于我们"
+      },
+      "adults": {
+        "label": "自我实现"
+      },
+      "contact": {
+        "label": "联系"
+      },
+      "health": {
+        "label": "健康与保健"
+      },
+      "kids": {
+        "label": "儿童发展"
+      },
+      "salivaCollectingGuide": {
+        "label": "唾液收集指南"
+      },
+      "title": "您可能对以下内容感兴趣："
+    }
+  },
+  "title": "找不到网页"
+}

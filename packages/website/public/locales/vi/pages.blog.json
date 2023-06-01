@@ -1,0 +1,65 @@
+{
+  "common": {
+    "labels": {
+      "relatedPosts": "Tin liên quan",
+      "referencePosts": "Tham khảo thêm",
+      "mostReadPosts": "Xem nhiều nhất",
+      "recentPosts": "Bài viết mới nhất",
+      "highlightPosts": "Bài viết nổi bật"
+    },
+    "actions": {
+      "seeMore": "Xem thêm",
+      "seeDetails": "Xem chi tiết"
+    }
+  },
+  "header": {
+    "title": "Blog"
+  },
+  "body": {
+    "sectionFilters": {
+      "title": "Lọc",
+      "content": {
+        "list": {
+          "itemShowAll": "Tất cả"
+        }
+      }
+    },
+    "sectionHeader": {
+      "title": "Tin tức & Sự kiện",
+      "description": {
+        "segments": {
+          "0": "Nắm trọn mọi thông tin và cập nhật Genetica",
+          "1": "tại đây."
+        }
+      }
+    },
+    "sectionNavbar": {
+      "menuItems": {
+        "news": "Tin tức",
+        "blog": "Blog",
+        "press": "Báo chí nói về chúng tôi"
+      }
+    },
+    "sectionFollowUs": {
+      "title": "Theo dõi"
+    },
+    "sectionSharingSocials": {
+      "title": "Chia sẻ bài viết"
+    },
+    "sectionBreadcrumb": {
+      "menuItems": {
+        "home": "Trang chủ",
+        "blog": "Blog",
+        "news": "Tin tức",
+        "experts": "Đội Ngũ Chuyên Gia"
+      }
+    },
+    "sectionPostContent": {
+      "meta": {
+        "author": "Tác giả bài viết:",
+        "doctor": "Bác sĩ tham vấn:",
+        "doctor_plural": "Bác sĩ tham vấn:"
+      }
+    }
+  }
+}

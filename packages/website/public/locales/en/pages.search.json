@@ -1,0 +1,20 @@
+{
+  "title": "Search results for:",
+  "content": {
+    "sectionProductPackages": {
+      "title": "Products"
+    },
+    "sectionBlog": {
+      "title": "Blog"
+    },
+    "sectionNews": {
+      "title": "News"
+    },
+    "press": {
+      "title": "Media say about Genetica"
+    },
+    "sectionEmpty": {
+      "description": "Sorry, cannot find related products <br/>to your search"
+    }
+  }
+}

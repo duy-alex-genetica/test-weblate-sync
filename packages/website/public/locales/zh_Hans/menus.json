@@ -1,0 +1,27 @@
+{
+  "policies": {
+    "children": {
+      "termsOfService": {
+        "label": "服务条款"
+      },
+      "privacyPolicy": {
+        "label": "隐私政策"
+      },
+      "generalTransactionConditions": {
+        "label": "一般交易条件"
+      },
+      "serviceDeliveryProcess": {
+        "label": "服务交付流程"
+      },
+      "paymentMethods": {
+        "label": "支付方式"
+      },
+      "returnAndComplaintHandlingPolicy": {
+        "label": "投诉处理政策"
+      },
+      "serviceExchangeCancellationAndRefundPolicy": {
+        "label": "服务交换、取消和退款政策"
+      }
+    }
+  }
+}

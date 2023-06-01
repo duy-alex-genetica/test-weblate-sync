@@ -1,0 +1,67 @@
+{
+  "content": {
+    "FAQs": {
+      "1": {
+        "question": "1. What is <span>GeneNFT</span>?",
+        "answer": "<span>GeneNFT</span> is a type of digital asset that represents an individual's genetic data. Your genotype is completely unique, so is your <span>GeneNFT</span>."
+      },
+      "2": {
+        "question": "2. What is the purpose of <span>GeneNFT</span>?",
+        "answer": "In addition to being a digital asset, <span>GeneNFT</span> acts as a certificate (token) that ensures the user's full ownership of their genetic data."
+      },
+      "3": {
+        "question": "3. How does <span>GeneNFT</span> work? How to own one?",
+        "answer": "After conducting the Gene Decoding Service at Genetica, your genetic data will be encrypted, stored, secured and administered on the Gene Friend Network system as a digital asset. Gene Friend Network credits the ownership of this property for you."
+      },
+      "4": {
+        "question": "4. How can I check my <span>GeneNFT</span>?",
+        "answer": {
+          "1": "1. Download and open the Genetica app.",
+          "2": "2. Accessing the Genetica app, going to the <b>Genetica Wallet</b>, opening the <span>GeneNFT</span> tab, users can:<ul><li>- See your own <span>GeneNFT</span> certificate</li><li>- Check NFT tokens directly on the blockchain network</li></ul>"
+        }
+      },
+      "5": {
+        "question": "5. Some governments have not recognized NFT as a digital asset, so is there any risk in owning it?",
+        "answer": "You do not have any legal risk associated with <span>GeneNFT</span>. <span>GeneNFT</span> simplifies the ownership of your data. We digitize this ownership through NFT and leave it to you to manage."
+      },
+      "6": {
+        "question": "6. Will <span>GeneNFT</span> help me make money, and how?",
+        "answer": "<p>There is no guarantee of a person's ability to generate financial income from genetic data. To the best of our knowledge, there has never been a documented case of becoming wealthy through selling or renting one's genetic data.</p><p>However, the genetic information of a subset of individuals that are relevant to a particular field of study can help research efforts aimed at applying genetic information to areas such as personalized medicine, individualized specific drugs.. In these cases, research institutions are often willing to sponsor a small fee for access to genetic data analysis.</p><p><span>GeneNFT</span> owners have the right to allow or not allow anyone to access their genetic data, in return for a funding fee mentioned above, or simply for free in contribution to humanity's progress.</p><p>All authorized data access from the owner of the genome himself (which is yourself) is fully documented and transparent to the owner.</p>"
+      }
+    },
+    "contactForm": {
+      "title": "Get a free consultation about <span>GeneNFT</span>",
+      "description": "Leave your information, Genetica® will contact you as soon as possible",
+      "form": {
+        "field": {
+          "name": "Your name (optional)",
+          "phone": "Phone number"
+        },
+        "submit": "Submit"
+      },
+      "more": "Learn more about gene decoding"
+    },
+    "modalSuccess": {
+      "header": {
+        "title": "Request successful",
+        "description": "Should you have any questions, contact us via hotline <1>1900 599 927</1> for better support."
+      },
+      "action": {
+        "close": {
+          "label": "Close"
+        }
+      }
+    },
+    "modalError": {
+      "header": {
+        "title": "Request failed",
+        "description": "Should you have any questions, contact us via hotline <1>1900 599 927</1> for better support."
+      },
+      "action": {
+        "close": {
+          "label": "Try again"
+        }
+      }
+    }
+  }
+}

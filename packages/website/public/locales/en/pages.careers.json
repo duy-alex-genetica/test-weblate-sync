@@ -1,0 +1,12 @@
+{
+  "header": {
+    "title": "Recruitment"
+  },
+  "body": {
+    "sectionJobs": {
+      "contentEmpty": {
+        "description": "Sorry, we don’t have any <br/>vacancies at the moment!"
+      }
+    }
+  }
+}

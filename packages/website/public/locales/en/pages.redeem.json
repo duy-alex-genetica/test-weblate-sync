@@ -1,0 +1,138 @@
+{
+  "sectionInputCode": {
+    "header": {
+      "title": "Gifts Code",
+      "description": "Enter the referral code you received"
+    },
+    "body": {
+      "formInsertCode": {
+        "fields": {
+          "code": {
+            "placeholder": "Gifts code / Referral code"
+          }
+        },
+        "buttons": {
+          "submit": {
+            "label": "Submit"
+          }
+        }
+      }
+    }
+  },
+  "sectionCustomerInformation": {
+    "header": {
+      "title": "Customer information",
+      "description": "Please provide your information so that Genetica can deliver the saliva collecting kit to you"
+    },
+    "body": {
+      "formCustomerInformation": {
+        "fields": {
+          "name": {
+            "label": "Full name",
+            "placeholder": "Full name",
+            "error": {
+              "message": {
+                "error": "Error",
+                "required": "Required"
+              }
+            }
+          },
+          "phone": {
+            "label": "Phone number",
+            "placeholder": "Phone number",
+            "error": {
+              "message": {
+                "error": "Invalid phone number",
+                "required": "Required"
+              }
+            }
+          },
+          "address": {
+            "label": "Address",
+            "fields": {
+              "country": {
+                "placeholder": "Country",
+                "error": {
+                  "message": {
+                    "outsideVietNam": "We do not deliver to outside of Vietnam at the moment. Please email us at <1>contact@genetica.asia</1> for support.",
+                    "required": "Required"
+                  }
+                }
+              },
+              "provinceCity": {
+                "placeholder": "Province/City",
+                "error": {
+                  "message": {
+                    "error": "Error",
+                    "required": "Required"
+                  }
+                }
+              },
+              "district": {
+                "placeholder": "District",
+                "error": {
+                  "message": {
+                    "error": "Error",
+                    "required": "Required"
+                  }
+                }
+              },
+              "ward": {
+                "placeholder": "Ward",
+                "error": {
+                  "message": {
+                    "error": "Error",
+                    "required": "Required"
+                  }
+                }
+              },
+              "locationDetail": {
+                "placeholder": "Location detail (land mark, number etc)",
+                "error": {
+                  "message": {
+                    "error": "Error",
+                    "required": "Required"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "buttons": {
+          "submit": {
+            "label": "finish"
+          }
+        }
+      }
+    }
+  },
+  "modalSuccess": {
+    "header": {
+      "title": "Thank you for choosing Genetica®"
+    },
+    "body": {
+      "message": {
+        "notify": "Genetica will send a saliva collecting kit to your address within 1 - 3 working days:",
+        "address": "9th Floor, National Innovation Center - NIC Building, Lane 07 Ton That Thuyet Street, Dich Vong Hau Ward, Cau Giay District, Hanoi city, VietNam",
+        "contact": "Should you require any further support, please contact us via email <1>cs@genetica.asia</1> or hotline <3>1900 599 927</3>."
+      },
+      "button": {
+        "label": "Back to home page"
+      }
+    }
+  },
+  "modalError": {
+    "header": {
+      "title": "Something went wrong"
+    },
+    "body": {
+      "message": {
+        "notify": "Your changes haven’t been saved.",
+        "contact": "Should you require any further support, please contact us via email <1>cs@genetica.asia</1> or hotline <3>1900 599 927</3>."
+      },
+      "button": {
+        "label": "Try again"
+      }
+    }
+  }
+}

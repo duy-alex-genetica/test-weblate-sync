@@ -1,0 +1,33 @@
+{
+  "content": {
+    "notification": {
+      "link": "Back to home page",
+      "text": "or search for more information"
+    },
+    "search": {
+      "placeholder": "Search on Genetica"
+    },
+    "suggest": {
+      "about": {
+        "label": "About Us"
+      },
+      "adults": {
+        "label": "Self-actualization"
+      },
+      "contact": {
+        "label": "Contact"
+      },
+      "health": {
+        "label": "Health & wellness"
+      },
+      "kids": {
+        "label": "Child development"
+      },
+      "salivaCollectingGuide": {
+        "label": "Saliva Collecting Guide"
+      },
+      "title": "You might be interested in:"
+    }
+  },
+  "title": "Page not found"
+}

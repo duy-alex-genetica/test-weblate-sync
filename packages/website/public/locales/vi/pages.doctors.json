@@ -1,0 +1,22 @@
+{
+  "header": {
+    "title": "Đội Ngũ Chuyên Gia"
+  },
+  "body": {
+    "filters": {
+      "title": {
+        "label": "Bộ lọc",
+        "option": {
+          "all": "Tất cả"
+        }
+      }
+    },
+    "list": {
+      "item": {
+        "buttonDetails": {
+          "label": "Thông tin bác sĩ"
+        }
+      }
+    }
+  }
+}

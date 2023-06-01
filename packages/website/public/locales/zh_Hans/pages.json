@@ -1,0 +1,2069 @@
+{
+  "404": {
+    "content": {
+      "notification": {
+        "link": "返回首页",
+        "text": "或搜索更多信息"
+      },
+      "search": {
+        "placeholder": "在 Genetica 上搜索"
+      },
+      "suggest": {
+        "about": {
+          "label": "关于我们"
+        },
+        "adults": {
+          "label": "自我实现"
+        },
+        "contact": {
+          "label": "联系"
+        },
+        "health": {
+          "label": "健康与保健"
+        },
+        "kids": {
+          "label": "儿童发展"
+        },
+        "salivaCollectingGuide": {
+          "label": "唾液收集指南"
+        },
+        "title": "您可能对以下内容感兴趣："
+      }
+    },
+    "title": "找不到网页"
+  },
+  "404v2": {
+    "content": {
+      "text": "抱歉，找不到页面"
+    }
+  },
+  "about": {
+    "header": {
+      "title": "关于基因"
+    },
+    "body": {
+      "sectionAboutUs": {
+        "header": {
+          "title": "Genetica® 是一家生物技术公司，提供由人工智能驱动的基因检测服务",
+          "description": "<p>Genetica® 是一家提供由人工智能提供支持的基因检测服务的生物技术公司。Genetica® 总部位于旧金山，由来自世界一流大学（例如加州大学旧金山分校、哈佛大学、斯坦福大学和康奈尔大学）的科学家提供支持。\n与 Illumina® 和 Thermo Fisher Scientific 合作，Genetica's® 基因解码芯片是专为亚洲人群制造的专有技术。 通过分析数百个基因，我们的报告提供了关于一个人的健康相关风险、先天潜力、行为和能力的全面信息。</p><p>我们的使命是帮助优化发展，保护健康生活， 你和你的家人。</p>"
+        }
+      }
+    }
+  },
+  "accountManagement": {
+    "account": {
+      "title": "我的账户",
+      "edit": {
+        "title": "修改账户信息"
+      },
+      "content": {
+        "label": {
+          "accountPhoneNumber": "账户电话号码",
+          "fullName": "姓名",
+          "contactNumber": "联系电话",
+          "email": "电子邮件",
+          "optional": "选修的",
+          "gender": "性别",
+          "dateOfBirth": "出生日期",
+          "signInPhoneNumber": "登录电话号码",
+          "otherContactNumbers": "其他联系电话",
+          "updateContactNumber": "更新联系电话"
+        },
+        "placeholder": {
+          "email": "输入你的电子邮箱地址"
+        },
+        "value": {
+          "male": "男性",
+          "female": "女性",
+          "unspecified": "未指定",
+          "notAvailable": "（无法使用）"
+        },
+        "updatePhoneNumber": {
+          "actions": {
+            "submit": {
+              "label": "提交"
+            }
+          },
+          "successMessage": {
+            "title": "您已成功更新联络号码",
+            "description": "<b>{{ name }}：</b> {{ currentPhoneNumber }} <br /> <span> 已更改为 </span> <br/> <b>{{ name }}：</b> {{ phoneNumberUpdated }}",
+            "description2": "此电话号码将出现在“帐户”>“其他联系电话”中。"
+          },
+          "errorMessage": {
+            "description": "请添加电话号码，以便我们可以呼叫此人。"
+          }
+        }
+      },
+      "errorMessage": {
+        "fullName": "您必须指定您的姓名",
+        "contactPhoneNumber": "您必须指定您的电话号码",
+        "required": "必需的",
+        "error": "错误"
+      },
+      "modalMessage": {
+        "errorMessage": "发生了错误。 您的更改尚未保存。",
+        "successMessage": "更新信息成功！"
+      },
+      "action": {
+        "editAccountInfo": "修改账户信息",
+        "save": "储存",
+        "cancel": "取消",
+        "tryAgain": "再试一次"
+      }
+    },
+    "reports": {
+      "title": "我的报告",
+      "content": {
+        "labels": {
+          "": "",
+          "sampleStatusTracking": "样本状态追踪",
+          "awaitingSample": "等待样品",
+          "daysUntilPublication": "距离发布还有 {{count}} 天",
+          "daysUntilPublication_plural": "{{count}} 天后发布",
+          "daysLeftToBeUnlocked": "解锁还有 {{count}} 天",
+          "daysLeftToBeUnlocked_plural": "解锁还有 {{count}} 天",
+          "unlocking": "解锁"
+        },
+        "actions": {
+          "viewDetails": {
+            "label": "查看详细"
+          },
+          "viewReport": {
+            "label": "查看报告"
+          },
+          "download": {
+            "label": "下载"
+          }
+        },
+        "footer": {
+          "labels": {
+            "seeAllReports": "查看所有 {{count}} 份报告",
+            "collapse": "缩小"
+          }
+        }
+      },
+      "reportEmpty": {
+        "label": "您没有要显示的报告"
+      },
+      "loading": {
+        "label": "加载中"
+      },
+      "modal": {
+        "content": {
+          "downloadApp": {
+            "label": "在此处下载 Genetica 应用程序以查看您的报告"
+          }
+        },
+        "actions": {
+          "close": {
+            "label": "关闭"
+          }
+        }
+      }
+    },
+    "securitySettings": {
+      "title": "您的设备",
+      "subtitle": "您目前已在这些设备上登录 Genetica",
+      "content": {
+        "labels": {
+          "activeNow": "现在激活",
+          "logoutTime": "{{ date }} 在 {{ time }}"
+        },
+        "actions": {
+          "logOutOfAllDevices": "注销所有设备"
+        }
+      },
+      "modal": {
+        "content": {
+          "message": "这将使您从当前登录的每台设备上注销 Genetica。 你确定要这样做吗？"
+        },
+        "actions": {
+          "agree": "同意",
+          "cancel": "取消"
+        }
+      }
+    },
+    "sidebar": {
+      "myAccount": "我的账户",
+      "profiles": "简介",
+      "consultation": "咨询",
+      "redeem": "收打折代码",
+      "paymentHistory": "支付历史",
+      "securitySettings": "安全设定",
+      "reports": "我的报告"
+    }
+  },
+  "advisors": {
+    "header": {
+      "title": "顾问委员会"
+    },
+    "body": {
+      "sectionAdvisors": {
+        "actions": {
+          "seeMore": "查看更多"
+        }
+      }
+    }
+  },
+  "blog": {
+    "common": {
+      "labels": {
+        "relatedPosts": "相关新闻",
+        "referencePosts": "阅读更多",
+        "mostReadPosts": "大多数阅读",
+        "recentPosts": "最近的帖子",
+        "highlightPosts": "突出显示帖子"
+      },
+      "actions": {
+        "seeMore": "查看更多",
+        "seeDetails": "查看具体信息"
+      }
+    },
+    "header": {
+      "title": "网志"
+    },
+    "body": {
+      "sectionFilters": {
+        "title": "按类别过滤",
+        "content": {
+          "list": {
+            "itemShowAll": "显示所有"
+          }
+        }
+      },
+      "sectionHeader": {
+        "title": "新闻和事件",
+        "description": {
+          "segments": {
+            "0": "获取有关遗传学的最新消息",
+            "1": "这里。"
+          }
+        }
+      },
+      "sectionNavbar": {
+        "menuItems": {
+          "news": "消息",
+          "blog": "博客",
+          "press": "媒体对 Genetica 的评价"
+        }
+      },
+      "sectionFollowUs": {
+        "title": "跟着我们"
+      },
+      "sectionSharingSocials": {
+        "title": "分享"
+      },
+      "sectionBreadcrumb": {
+        "menuItems": {
+          "home": "主页",
+          "blog": "博客",
+          "news": "消息",
+          "experts": "顾问团队"
+        }
+      },
+      "sectionPostContent": {
+        "meta": {
+          "author": "作者：",
+          "doctor": "咨询医生：",
+          "doctor_plural": "咨询医生："
+        }
+      }
+    }
+  },
+  "blogDetails": {
+    "body": {
+      "sectionAuthor": {
+        "buttonSeeMore": {
+          "label": "查看更多"
+        }
+      },
+      "sectionReference": {
+        "header": {
+          "title": "参考"
+        },
+        "buttonSeeMore": {
+          "label": "查看更多"
+        }
+      },
+      "sectionShare": {
+        "header": {
+          "title": "分享"
+        }
+      },
+      "sectionDiscussion": {
+        "header": {
+          "title": "关于这篇文章的讨论"
+        }
+      }
+    }
+  },
+  "careerDetails": {
+    "header": {
+      "title": "招聘"
+    },
+    "body": {
+      "sectionOtherJobs": {
+        "title": "我们也在寻找"
+      }
+    }
+  },
+  "careers": {
+    "header": {
+      "title": "招聘"
+    },
+    "body": {
+      "sectionJobs": {
+        "contentEmpty": {
+          "description": "抱歉，我们目前没有任何<br/>职位空缺！"
+        }
+      }
+    }
+  },
+  "cartAndCheckout": {
+    "header": {
+      "steps": {
+        "1": "您的购物车",
+        "2": "支付",
+        "3": "订单完成"
+      }
+    },
+    "body": {
+      "cartDetails": {
+        "field": {
+          "service": {
+            "label": "服务"
+          },
+          "quantity": {
+            "label": "数量"
+          },
+          "price": {
+            "label": "价格"
+          },
+          "discount": {
+            "label": "折扣"
+          },
+          "subtotal": {
+            "label": "小计"
+          }
+        }
+      },
+      "formRedeem": {
+        "field": {
+          "promotionCode": {
+            "label": "有优惠代码吗？",
+            "placeholder": {
+              "1": "输入优惠代码",
+              "2": "选择或输入优惠代码"
+            }
+          }
+        },
+        "errors": {
+          "1": "优惠代码无效。 请再检查一次。",
+          "2": "优惠不适用于此服务。",
+          "3": "此代码已被使用。",
+          "4": "之前已输入优惠代码，请联系热线寻求支持。"
+        },
+        "actions": {
+          "applyPromotion": "申请"
+        }
+      },
+      "orderSummary": {
+        "title": "总金额",
+        "meta": {
+          "subtotal": {
+            "label": "小计"
+          },
+          "discount": {
+            "label": "折扣"
+          },
+          "total": {
+            "label": "总额"
+          }
+        },
+        "actions": {
+          "checkout": "支付"
+        }
+      },
+      "formOrderInformation": {
+        "header": {
+          "title": "订单信息"
+        },
+        "field": {
+          "name": {
+            "placeholder": "姓名"
+          },
+          "phone": {
+            "placeholder": "电话号码"
+          },
+          "email": {
+            "placeholder": "电子邮件"
+          }
+        }
+      },
+      "formAddress": {
+        "header": {
+          "title": "您的送货地址"
+        },
+        "field": {
+          "fullLocation": {
+            "placeholder": "省/市、郡、区"
+          },
+          "city": {
+            "placeholder": "省/市"
+          },
+          "district": {
+            "placeholder": "郡"
+          },
+          "ward": {
+            "placeholder": "区"
+          },
+          "address": {
+            "placeholder": "详细地址"
+          },
+          "search": {
+            "placeholder": "搜索"
+          },
+          "postalCode": {
+            "placeholder": "邮政编码"
+          }
+        },
+        "errors": {
+          "1": "请提供您的送货地址以处理付款",
+          "2": "我们目前不送货到{{country}}。 请发送电子邮件至 <a href='mailto:contact@genetica.asia'>contact@genetica.asia</a> 寻求支持。"
+        },
+        "actions": {
+          "back": {
+            "text": "返回"
+          },
+          "complete": {
+            "text": "完成"
+          },
+          "adjust": {
+            "text": "编辑"
+          }
+        }
+      },
+      "formCartDetails": {
+        "header": {
+          "title": "服务"
+        },
+        "field": {
+          "quantity": {
+            "label": "数量"
+          }
+        },
+        "actions": {
+          "updateAddress": {
+            "text": "编辑"
+          }
+        }
+      },
+      "formPaymentMethod": {
+        "header": {
+          "title": "支付方式"
+        },
+        "field": {
+          "paymentMethods": {
+            "1": {
+              "title": "银行转账",
+              "description": "（电子银行/二维码）"
+            },
+            "2": {
+              "title": "银行卡",
+              "description": "（ATM/信用卡/借记卡）"
+            },
+            "3": {
+              "title": "手机钱包（Momo、ZaloPay）",
+              "description": ""
+            },
+            "4": {
+              "title": "使用信用卡付款时分期付款为 0%",
+              "description": "（适用于订单总额 3,000,000 越南盾及以上）"
+            },
+            "5": {
+              "title": "西贡商业银行（网上银行）",
+              "description": ""
+            },
+            "6": {
+              "title": "直接银行转账",
+              "description": "直接转账到我们的银行账户"
+            },
+            "7": {
+              "title": "二维码转账",
+              "description": "使用 VNPay 支付"
+            },
+            "8": {
+              "title": "信用卡/借记卡",
+              "description": "使用信用卡/借记卡付款"
+            },
+            "9": {
+              "title": "提款卡",
+              "description": "使用 OnePay 支付"
+            },
+            "10": {
+              "title": "用 Momo支付",
+              "description": " MomoAPP支付"
+            },
+            "11": {
+              "title": "使用 ZaloPay 支付",
+              "description": "在 ZaloPay 应用中付款"
+            }
+          }
+        }
+      },
+      "sectionBankTransfer": {
+        "header": {
+          "title": "银行转账说明"
+        },
+        "body": {
+          "title": "要处理付款，您可以使用任何银行账户转账到以下账户：",
+          "meta": {
+            "beneficiaryBank": "收款银行",
+            "branch": "分支",
+            "beneficiaryName": "受益人姓名",
+            "amount": "金额 (越南盾)",
+            "accountNumber": "账号",
+            "transactionDescription": "交易说明"
+          },
+          "message": {
+            "notice": "<span>注意</span>：需要交易说明，以便 Genetica 可以识别和验证您的付款。",
+            "help": "付款完成后，您将收到短信通知。 您将在 2-3 个工作日内收到样品采集套件。"
+          },
+          "actions": {
+            "openBankApp": "打开应用/银行网站",
+            "copy": "复制",
+            "copied": "已复制！"
+          }
+        }
+      },
+      "sectionEmptyCart": {
+        "body": {
+          "title": "您的购物车是空的",
+          "description": "看起来你还没有添加任何东西。",
+          "widgetSeeMore": {
+            "title": "了解有关服务的更多信息"
+          }
+        }
+      }
+    },
+    "modal": {
+      "content": {
+        "messagePrefix": "消除",
+        "messageSuffix": "从你的购物车？"
+      },
+      "action": {
+        "remove": "消除",
+        "cancel": "取消"
+      }
+    },
+    "emptyContent": {
+      "message": "您的购物车中没有任何商品。 浏览我们的商店："
+    }
+  },
+  "checkout": {
+    "alert": {
+      "promotion": {
+        "invalid": {
+          "message": "促销代码无效"
+        },
+        "required": {
+          "message": "促销代码字段是必需的。"
+        }
+      }
+    }
+  },
+  "consultation": {
+    "body": {
+      "sectionProfiles": {
+        "header": {
+          "title": "选择要预订的个人资料"
+        },
+        "body": {
+          "list": {
+            "item": {
+              "description": "{{count}} 份符合预订条件的报告",
+              "description_plural": "{{count}} 份符合预订条件的报告",
+              "actions": {
+                "book": {
+                  "label": "预订"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "consultationBooking": {
+    "header": {
+      "title": "咨询预约"
+    },
+    "body": {
+      "sectionSteps": {
+        "list": {
+          "0": {
+            "label": "选择报告"
+          },
+          "1": {
+            "label": "选择频道"
+          },
+          "2": {
+            "label": "选择一个时间段"
+          }
+        }
+      },
+      "sectionSelectReports": {
+        "header": {
+          "title": "选择报告"
+        },
+        "body": {
+          "meta": {
+            "expectedSessionLength": {
+              "label": "预计会话长度"
+            }
+          }
+        }
+      },
+      "sectionSelectConsultationMethods": {
+        "header": {
+          "title": "选择咨询渠道"
+        },
+        "body": {
+          "description": "请选择电话号码"
+        }
+      },
+      "sectionSelectTimeslot": {
+        "header": {
+          "title": "选择一个时间段"
+        },
+        "body": {
+          "timeslots": {
+            "empty": {
+              "label": "没有可用的时间段！<br/>请选择其他日期或联系我们的热线<b>1900 599 927</b>"
+            }
+          }
+        }
+      },
+      "sectionActions": {
+        "next": {
+          "label": "下一个"
+        },
+        "back": {
+          "label": "返回"
+        },
+        "book": {
+          "label": "预订"
+        }
+      },
+      "sectionSelectedProfile": {
+        "header": {
+          "title": "基因检测结果"
+        }
+      },
+      "sectionSelectedReports": {
+        "header": {
+          "title": "报告",
+          "title_plural": "报告"
+        }
+      },
+      "sectionSelectedConsultationMethod": {
+        "header": {
+          "title": "渠道"
+        }
+      },
+      "sectionCreatedAppointment": {
+        "header": {
+          "title": "预订成功！"
+        },
+        "body": {
+          "description": "您的遗传咨询预约已成功处理。",
+          "sectionInformation": {
+            "headers": {
+              "name": {
+                "label": "姓名"
+              },
+              "reports": {
+                "label": "报告"
+              },
+              "channel": {
+                "label": "渠道"
+              },
+              "timeslot": {
+                "label": "时间"
+              }
+            }
+          },
+          "actions": {
+            "backToHomepage": {
+              "label": "返回首页"
+            }
+          }
+        },
+        "footer": {
+          "description": "下载 Genetica 应用以接收有关您的预订时间表的通知。"
+        }
+      }
+    }
+  },
+  "consultationContact": {
+    "header": {
+      "title": "预约咨询会"
+    },
+    "body": {
+      "title": "选择咨询渠道",
+      "content": {
+        "menu": {
+          "phone": "通过电话",
+          "office": "见面"
+        },
+        "form": {
+          "label": {
+            "1": "联系信息",
+            "2": "咨询时间",
+            "3": "选择时段",
+            "4": "买给",
+            "5": "话题",
+            "6": "价格范围（可选）",
+            "7": "选择价格",
+            "8": "地点"
+          },
+          "name": "你的名字（可选）",
+          "dropdown": {
+            "labelDefault": "选择",
+            "price": {
+              "labelDefault": "选择价格"
+            },
+            "timeBooking": {
+              "labelDefault": "选择时段"
+            }
+          },
+          "locations": {
+            "1": {
+              "label": "河内办事处",
+              "description": "Cau Giay郡，Dich Vong Hau区，Ton That Thuyet街，07巷国家创新中心NIC大楼, 9楼"
+            },
+            "2": {
+              "label": "胡志明办事处",
+              "description": "第3郡，Vo Thi Sau 区, Pham Ngoc Thach街, 40号, 2楼"
+            }
+          },
+          "serviceUsers": {
+            "1": "孩子",
+            "2": "成人"
+          },
+          "topics": {
+            "1": "营养、体育",
+            "2": "智慧、行为",
+            "3": "健康与保健",
+            "4": "儿童发展"
+          },
+          "priceOptions": {
+            "1": "低于 3,000,000đ",
+            "2": "从 3,000,000đ 到 5,000,000đ",
+            "3": "从 5,000,000đ 到 10,000,000đ",
+            "4": "超过 10,000,000đ"
+          },
+          "button": {
+            "label": "预订"
+          }
+        }
+      }
+    },
+    "modal": {
+      "success": {
+        "online": {
+          "content": "感谢您对 Genetica® 的关注！ 我们的工作人员会尽快与您联系。 请确保您的手机随时可用。",
+          "action": "回到首页"
+        },
+        "meetUp": {
+          "content": "感谢您对 Genetica® 的关注！ 我们的工作人员会尽快与您联系。",
+          "action": "回到首页"
+        }
+      }
+    }
+  },
+  "contactUs": {
+    "title": "联系我们",
+    "content": {
+      "timeOfWeek": {
+        "label": "周一至周五"
+      },
+      "office": "办事处",
+      "contacts": "联系人",
+      "workingHours": "工作时间",
+      "mondayToFriday": "周一至周五"
+    }
+  },
+  "disclaimer": {
+    "header": {
+      "title": "免责声明"
+    }
+  },
+  "doctors": {
+    "header": {
+      "title": "认识我们的专家"
+    },
+    "body": {
+      "filters": {
+        "title": {
+          "label": "筛选",
+          "option": {
+            "all": "全部"
+          }
+        }
+      },
+      "list": {
+        "item": {
+          "buttonDetails": {
+            "label": "医生信息"
+          }
+        }
+      }
+    }
+  },
+  "frequentlyAskedQuestions": {
+    "title": "常见问题"
+  },
+  "generalTransactionConditions": {
+    "header": {
+      "title": "一般交易条件"
+    }
+  },
+  "getYourOwnGeneNft": {
+    "content": {
+      "FAQs": {
+        "1": {
+          "question": "1. 什么是<span>GeneNFT</span>？",
+          "answer": "<span>GeneNFT</span> 是一种代表个人基因数据的数字资产。 您的基因型是完全独一无二的，您的 <span>GeneNFT</span> 也是如此。"
+        },
+        "2": {
+          "question": "2.<span>GeneNFT</span>的目的是什么？",
+          "answer": "<span>GeneNFT</span> 除了是一种数字资产外，还充当证书（令牌），确保用户对其基因数据拥有完全所有权。"
+        },
+        "3": {
+          "question": "3. <span>GeneNFT</span> 是如何工作的？ 如何拥有一个？",
+          "answer": "在 Genetica 进行基因解码服务后，您的基因数据将作为数字资产在 Gene Friend Network 系统上加密、存储、保护和管理。 Gene Friend Network 将此财产的所有权归功于您。"
+        },
+        "4": {
+          "question": "4. 如何查看我的<span>GeneNFT</span>？",
+          "answer": {
+            "1": "1. 下载并打开 Genetica 应用。",
+            "2": "2. 访问 Genetica 应用，转到 <b>Genetica 钱包</b>，打开 <span>GeneNFT</span> 选项卡，用户可以：<ul><li>- 查看您自己的 <span>GeneNFT< /span> 证书</li><li>- 直接在区块链网络上查看 NFT 代币</li></ul>"
+          }
+        },
+        "5": {
+          "question": "5. 一些政府尚未承认NFT为数字资产，持有NFT是否存在风险？",
+          "answer": "您没有任何与 <span>GeneNFT</span> 相关的法律风险。 <span>GeneNFT</span> 简化了您的数据所有权。 我们通过 NFT 将这种所有权数字化，交给你来管理。"
+        },
+        "6": {
+          "question": "6. <span>GeneNFT</span> 会帮我赚钱吗？如何赚钱？",
+          "answer": "<p>无法保证一个人有能力从基因数据中获得经济收入。 据我们所知，从来没有记录在案的通过出售或出租个人基因数据致富的案例。</p><p>但是，与特定领域相关的个体子集的遗传信息 研究可以帮助旨在将遗传信息应用于个性化医疗、个性化特定药物等领域的研究工作。在这些情况下，研究机构通常愿意赞助少量费用以获取遗传数据分析。</p><p> <span>GeneNFT</span> 所有者有权允许或不允许任何人访问他们的基因数据，以换取上述资金费用，或者只是免费为人类进步做出贡献。</p><p> 基因组所有者本人（即您自己）的所有授权数据访问均已完整记录并对所有者透明。</p>"
+        }
+      },
+      "contactForm": {
+        "title": "获得关于 <span>GeneNFT</span> 的免费咨询",
+        "description": "留下您的信息，Genetica®将尽快与您联系",
+        "form": {
+          "field": {
+            "name": "你的名字（可选）",
+            "phone": "电话号码"
+          },
+          "submit": "提交"
+        },
+        "more": "了解有关基因解码的更多信息"
+      },
+      "modalSuccess": {
+        "header": {
+          "title": "请求成功",
+          "description": "如果您有任何疑问，请通过热线 <1>1900 599 927</1> 联系我们以获得更好的支持。"
+        },
+        "action": {
+          "close": {
+            "label": "关闭"
+          }
+        }
+      },
+      "modalError": {
+        "header": {
+          "title": "请求失败",
+          "description": "如果您有任何疑问，请通过热线 <1>1900 599 927</1> 联系我们以获得更好的支持。"
+        },
+        "action": {
+          "close": {
+            "label": "再试一次"
+          }
+        }
+      }
+    }
+  },
+  "home": {
+    "title": "Genetica® 美国技术亚洲人基因型测试",
+    "section1": {
+      "title": "探索基因组<br>掌握未来",
+      "description": "数据驱动且经过科学验证的报告可帮助您为您和您的家人设计最佳生活方式。",
+      "button": {
+        "label": "了解更多"
+      }
+    },
+    "sectionTutorials": {
+      "body": {
+        "list": {
+          "0": {
+            "subtitle": "收到你的收藏包了吗？",
+            "title": "观看我们的唾液收集教程"
+          },
+          "1": {
+            "subtitle": "收到你的报告了吗？",
+            "title": "预约",
+            "actions": {
+              "book": {
+                "label": "现在预订"
+              }
+            }
+          }
+        }
+      }
+    },
+    "section2": {
+      "header": {
+        "title": "1000 多份报告，一键点击"
+      },
+      "footer": {
+        "text": "* 支付起始费用后，您就可以使用我们的<b>Care</b> 套餐。 解锁 <b>Pro</b> 包以享受全部好处。"
+      }
+    },
+    "sectionProcess": {
+      "header": {
+        "title": "我们简单的 DNA 测试过程"
+      },
+      "body": {
+        "list": {
+          "1": {
+            "title": "购买您的唾液收集套件",
+            "description": "购买后，您的 Genetica DNA 检测套件将直接送货上门。"
+          },
+          "2": {
+            "title": "收集您的唾液样本",
+            "description": "只需按照 DNA 检测试剂盒内的说明收集唾液即可。 准备就绪后，将您的唾液寄回给我们进行 DNA 分析。"
+          },
+          "3": {
+            "title": "30 个工作日内出结果",
+            "description": "安装 Genetica 移动应用程序以查看您的综合结果和个性化建议。"
+          }
+        }
+      }
+    },
+    "sectionLearnMoreAboutUs": {
+      "header": {
+        "title": "了解更多关于我们"
+      },
+      "body": {
+        "actions": {
+          "viewMore": {
+            "label": "查看更多"
+          }
+        }
+      }
+    },
+    "sectionPrivacyAndSecurityStatement": {
+      "title": "隐私和安全",
+      "description": "使用 Genetica®，您的信息是完全安全的。 我们会尽最大努力确保您的数据受到保护、安全且仅供您使用。"
+    },
+    "sectionAdvisors": {
+      "header": {
+        "title": "领先专家的建议",
+        "description": "我们的顾问委员会由硅谷最成功的投资者和来自哈佛、斯坦福、康奈尔等常春藤盟校的顶尖教授组成。",
+        "actions": {
+          "button": {
+            "label": "了解更多"
+          }
+        }
+      }
+    },
+    "sectionTestimonials": {
+      "header": {
+        "title": "客户体验"
+      },
+      "body": {
+        "content": {
+          "slide": {
+            "cta": {
+              "content": "<p>Genetica 已为数以千计的客户提供服务，帮助他们优化生活方式。 </p> <p> 让我们听听他们鼓舞人心的故事，并告诉我们您的故事。</p>",
+              "actions": {
+                "listenToOtherStory": "听别人的故事"
+              }
+            }
+          }
+        },
+        "actions": {
+          "viewMore": {
+            "label": "查看更多"
+          }
+        }
+      },
+      "list": {
+        "0": {
+          "giver": {
+            "name": "Vy Le",
+            "description": "参加三项全能比赛的运动员"
+          },
+          "comment": {
+            "title": "优美服务",
+            "content": "我对 Genetica® 服务的基因报告感到满意。 了解这个基因分析对我更有效地重新安排我的练习很有意义。"
+          }
+        },
+        "1": {
+          "giver": {
+            "name": "Anh Nguyen",
+            "description": "丈夫和父亲"
+          },
+          "comment": {
+            "title": "优美服务",
+            "content": "GENETICA® Genetica® 服务的基因报告帮助我了解自己的优势和劣势。 这使我能够个性化我的健身计划以取得良好表现。"
+          }
+        },
+        "2": {
+          "giver": {
+            "name": "Lam Nguyen",
+            "description": "耐力赛跑者"
+          },
+          "comment": {
+            "title": "优美服务",
+            "content": "我可以定义适合我的健康和运动进度的练习方法。"
+          }
+        }
+      }
+    }
+  },
+  "homeV2": {
+    "title": "Genetica® 美国技术亚洲人基因型测试",
+    "sectionAdvisors": {
+      "body": {
+        "title": "专业咨询部",
+        "description": "我们的顾问委员会是硅谷最成功的投资者和来自哈佛、斯坦福、康奈尔等常春藤联盟大学的顶级教授。",
+        "actions": {
+          "1": {
+            "label": "了解更多"
+          }
+        }
+      }
+    },
+    "sectionDownload": {
+      "body": {
+        "title": "遗传学移动应用程序",
+        "description": "超过 1000 多份关于您自己的深度报告 <br/> 触手可及",
+        "subtitle": "立即下载应用程序"
+      }
+    },
+    "sectionBenefits": {
+      "header": {
+        "title": "<br/>基因检测的好处"
+      },
+      "body": {
+        "list": {
+          "0": {
+            "actions": {
+              "learnMore": {
+                "label": "了解更多"
+              }
+            }
+          },
+          "1": {
+            "title": "个性化您自己的<br/>生活方式",
+            "description": "根据对潜力、营养需求、健身计划和专家建议的遗传分析来设计您的发展计划。"
+          },
+          "2": {
+            "title": "帮助您的孩子<br/>充分发挥潜力",
+            "description": "认识孩子的天生能力，在医疗保健、教育和未来定位方面创造最适合的发展路径。"
+          },
+          "3": {
+            "title": "尽早了解您的健康<br/>风险",
+            "description": "通过我们专家的个性化建议预防天性疾病。"
+          }
+        }
+      }
+    },
+    "sectionMedia": {
+      "header": {
+        "title": "媒体对 Genetica 的评价"
+      }
+    },
+    "sectionPartners": {
+      "header": {
+        "title": "我们的合作者",
+        "description": "Genetica® 被我们的全球合作伙伴公认为个人基因组学行业的领先者。"
+      },
+      "body": {
+        "menu": {
+          "partnersFromUSA": {
+            "label": "在美国"
+          },
+          "partnersFromVietnam": {
+            "label": "在越南"
+          }
+        }
+      }
+    },
+    "sectionCertificates": {
+      "header": {
+        "title": "国际证书"
+      },
+      "body": {
+        "certificate": {
+          "1": "CLIA 证书",
+          "2": "CAP证书"
+        },
+        "description": "Genetica 在旧金山和越南的实验室符合 CLIA 标准——美国最严格的实验室准确性标准。<br /><br />通过分析数百个基因，我们的基因报告提供了关于身体、行为、智力特征和 健康风险，为每个用户提供个性化建议。"
+      }
+    },
+    "sectionProcess": {
+      "header": {
+        "title": "3步测试过程"
+      },
+      "body": {
+        "list": {
+          "1": {
+            "title": "注册服务",
+            "description": "购买后，Genetica 会将 DNA 采集套件发送到您的注册地址。"
+          },
+          "2": {
+            "title": "收集您的唾液样本",
+            "description": "只需按照 DNA 检测试剂盒内的说明收集唾液即可。 准备就绪后，将您的唾液寄回给我们进行 DNA 分析。",
+            "actions": {
+              "1": {
+                "label": "说明视频"
+              }
+            }
+          },
+          "3": {
+            "title": "30 个工作日内出结果",
+            "description": "下载 Genetica 移动应用程序，通过个性化推荐查看您的综合结果。",
+            "actions": {
+              "1": {
+                "label": "谷歌播放"
+              },
+              "2": {
+                "label": "应用商店"
+              }
+            },
+            "thumbnail": {
+              "caption": "通过以下方式下载应用程序："
+            }
+          }
+        }
+      }
+    },
+    "sectionServices": {
+      "header": {
+        "title": "服务"
+      },
+      "body": {
+        "list": {
+          "adults": {
+            "title": "成年人",
+            "subtitle": "对于 18 岁以上的人"
+          },
+          "kids": {
+            "title": "孩子们",
+            "subtitle": "对于 18 岁以下的孩子"
+          },
+          "health": {
+            "title": "健康",
+            "subtitle": "所有年龄段"
+          }
+        }
+      }
+    },
+    "sectionSpecialists": {
+      "header": {
+        "title": "认识 Genetica® 专家",
+        "description": "我们的专家是来自全国各大医院和研究机构的经验丰富的医生<br/>。",
+        "actions": {
+          "1": {
+            "label": "了解更多"
+          }
+        }
+      }
+    },
+    "sectionTestimonials": {
+      "header": {
+        "title": "客户体验"
+      },
+      "body": {
+        "list": {
+          "0": {
+            "actions": {
+              "viewMore": {
+                "label": "查看更多"
+              }
+            }
+          },
+          "-1": {
+            "content": "<p>Genetica 已为数以千计的客户提供服务，帮助他们优化生活方式。 </p> <p> 让我们听听他们鼓舞人心的故事，并告诉我们您的故事。</p>",
+            "actions": {
+              "listenToOtherStory": "听别人的故事"
+            }
+          }
+        }
+      }
+    },
+    "sectionUtilities": {
+      "body": {
+        "list": {
+          "1": {
+            "title": "样本报告"
+          },
+          "2": {
+            "title": "预约咨询会",
+            "description": "预约咨询会"
+          },
+          "3": {
+            "title": "礼品码",
+            "description": "礼品码"
+          }
+        }
+      }
+    },
+    "sectionWhyChoosingGenetica": {
+      "header": {
+        "title": "为什么选择 Genetica<span>®</span>"
+      },
+      "body": {
+        "list": {
+          "0": {
+            "actions": {
+              "viewDetails": {
+                "label": "查看详细"
+              }
+            }
+          },
+          "1": {
+            "title": "美国标准技术<br/>具有99.9%的准确度"
+          },
+          "2": {
+            "title": "使用区块链技术确保客户数据安全<br/>"
+          },
+          "3": {
+            "title": "收集唾液样本 - 安全<br/>非侵入性"
+          },
+          "4": {
+            "title": "深入的结果咨询<br/>与遗传专家"
+          }
+        }
+      }
+    },
+    "sectionBestSellingPackages": {
+      "header": {
+        "title": "最畅销的服务"
+      },
+      "actions": {
+        "viewAllProducts": "查看 Genetica 的所有服务"
+      }
+    }
+  },
+  "news": {
+    "header": {
+      "title": "消息"
+    }
+  },
+  "newsDetails": {
+    "body": {
+      "sectionShare": {
+        "header": {
+          "title": "分享"
+        }
+      },
+      "sectionDiscussion": {
+        "header": {
+          "title": "关于这篇文章的讨论"
+        }
+      }
+    }
+  },
+  "partners": {
+    "header": {
+      "title": "我们的伙伴",
+      "breadcrumb": {
+        "home": "首页",
+        "partners": "伙伴"
+      }
+    },
+    "sectionPartnersVN": {
+      "header": {
+        "title": "越南合作伙伴"
+      }
+    },
+    "sectionPartnersUS": {
+      "header": {
+        "title": "美国合作伙伴"
+      }
+    }
+  },
+  "paymentMethods": {
+    "header": {
+      "title": "支付方式"
+    }
+  },
+  "pressRelease": {
+    "header": {
+      "title": "报纸公告"
+    }
+  },
+  "privacyPolicy": {
+    "title": "隐私声明和信息披露",
+    "content": "\"<p>本隐私声明和信息披露 (the<b>\"\"Statement\"\"</b>）适用于<a href=“https://genetica.asia/\"\">https://genetica.asia/</a>和Gene Friend拥有和运营的任何其他网站、应用程序（包括软件和/或任何其他移动应用程序）、页面、功能和/或内容(the<b>\"\"Website\"\"</b>)以及您对我们服务的使用。在本声明中，术语“我们”和“我们”是指基因之友及其许可方；术语“您”和“您的”指的是用户。本网站还可能包含其他实体拥有和运营的其他网站和/或应用程序的链接，本声明不适用于这些链接</p> <p>本声明旨在让您更好地了解我们如何收集、使用、存储、处理、共享和传输与您使用我们服务相关的信息。请确保您仔细审查本声明和我们的<b>服务条款</b>（“<b>TOS</b>”），因为在继续使用我们的服务之前，您必须同意本声明和服务条款</p> <h3>1。\r\n定义</h3><p>除非在本节或本声明中另有说明，首字母大写的术语应具有 TOS 中赋予它们的相应含义，可在<a href =\"\"/terms-of-service/\"\">https://genetica.asia/terms-of-service/</a>。</p><p>(i) \"\"<b>汇总信息</b> \"\"：已与其他用户的信息相结合并作为一个整体进行分析或评估的信息，因此无法合理识别特定个人。</p><p>(ii) \"\"<b>个体级遗传信息 </b>\"\"：关于单个个体的基因型、疾病或其他特征/特征的信息，但不一定与注册信息相关联。</p><p>(iii) \"\"<b>报告</b> \"\"：指Gene Friend根据您的基因检测结果给出的Genetic Information和General Recommendations。</p><h3>2. 我们收集的您的信息</h3><p>(i) 我们从您的注册和/或使用我们的网站和/或我们的服务中收集的个人信息</p><p>(ii) 您向我们提供的其他信息：</ p><p>a)<u>用户内容：</u>我们的一些服务允许您创建和发布或上传内容，例如数据、文本、软件、音乐、音频、照片、图形、视频、消息 ，或您通过公共或私人传输创建或提供给我们的其他材料，包括但不限于您在 Gene Friend 论坛上发送的任何讨论、帖子或消息。</p><p>b)<u> 博客和论坛：</u>我们的网站提供可公开访问的博客。 此外，Gene Friend 客户可以参与我们的在线论坛。 您应该知道，您在这些区域中提供或发布的任何信息都可能被访问它们的其他人阅读、收集和使用。 要请求从我们的博客或论坛中删除或取消识别任何可用于识别您身份的信息，请通过 cs@genetica.asia 联系我们。 请注意，无论何时您公开发布内容，在某些情况下，可能无法删除已发布信息的所有实例，例如，如果有人对您的帖子进行了屏幕截图。 在选择在我们的博客、论坛或任何其他帖子中公开分享任何信息之前，请谨慎行事。 您可能需要注册第三方应用程序才能发表评论。要了解第三方应用程序如何使用您的信息，请查看第三方的隐私声明。</p><p>c)<u>Gifts</u>：如果您向我们提供有关他人的信息，或者如果 其他人向我们提供您的信息，为了将服务作为礼物订购，我们将仅出于向我们提供该信息的特定原因使用该信息。 一旦礼品接收者注册了他或她的服务并同意本声明、我们的服务条款以及某些同意文件（如适用）（如申请表），此类信息将以与本声明一致的方式使用，并且不会被共享 与购买者分享，除非他们独立选择通过服务与购买者分享他们自己的信息。</p><p>d)<u>客户服务：</u>当您联系我们的客户服务或与我们通信时 我们的服务，我们收集信息以：跟踪和回复您的询问； 调查任何违反我们的服务条款、本声明或适用法律或法规的行为； 并分析和改进我们的服务。</p><p>(iii) 我们从您使用服务中收集的信息：</p><p><u>唾液样本：</u>要使用我们的基因检测服务， 您必须购买或接受他人赠送的样品采集套件作为服务礼物； 创建一个在线 Genetica 帐户并注册您的样本采集套件，然后将您的唾液样本发送给 Gene Friend。 Gene Friend 和/或其许可方将从您的唾液样本中提取 DNA 进行分析。 在样品采集套件注册期间，您需要查看我们的相关申请表，并向我们提交您已填写并签名的申请表。</p><p>(iv) 其他信息来源：我们还收集公开信息。 例如，我们可能会收集您提交给博客、论坛、聊天室或社交网络（如 Facebook、Twitter 或 Google+）的信息。 我们还可能从其他公司和组织收集有关您的信息。 我们收到的信息取决于您对此类信息资源的隐私设置，这些信息资源的特征要么由第三方托管，要么直接托管在我们的网站上。您与这些功能的交互受提供这些功能的第三方公司的隐私政策约束。 我们不控制第三方网站的信息实践。 在将第三方网站和服务链接或连接到我们的网站或服务之前，您应该始终查看并在必要时调整您在第三方网站和服务上的隐私设置。</p><p>通过收集关于您的额外信息，我们可以更正不准确的信息 ，增强您交易的安全性，并为您提供您更有可能感兴趣的产品推荐和特别优惠。</p><h3>3. 我们如何使用信息</h3><p>Gene Friend 将仅以本声明中所述的方式使用和与第三方共享您在第 2 节中所述的信息，包括：</p><p>(i) 对于服务运营、提供、分析和改进，除其他事项外，包括：</p><p>a) 开设您的 Genetica 帐户、启用购买功能和处理付款、与您沟通并执行您的请求（例如，推荐） );</p><p>b) 启用并增强您对网络的使用，包括验证您的访问、提供个性化内容和信息以及跟踪您对我们服务的使用情况；</p><p>c) 联系您 关于您的 Genetica 帐户，以及关于我们服务的任何相关信息（例如声明更改、安全更新或问题等）；</p><p>d) 与您执行我们的服务条款和其他协议；</p><p >e) 监控、检测、调查和防止我们服务中的禁止或非法行为，以打击垃圾邮件和其他安全风险；</p><p>f) 进行研究和 开发活动，例如，可能包括进行数据分析和研究以开发新产品或改进现有产品和服务，以及执行质量控制活动；</p><p>g) 提供客户支持； </p><p>h) 获得调查、民意调查和获得推荐。 我们重视您的反馈，可能会向您发送调查、民意调查或推荐请求，以改进和优化我们的服务。 您可以控制要与我们分享的信息。 如果您不希望收到这些请求，您可以在您的 Genetica 帐户设置中进行管理。</p><p>(ii) 对于基因测试的过程：</p><p>如上文章节所述 2.(iii)，要使用我们的基因检测服务并接收结果，您必须创建一个 Genetica 帐户，注册您的样本采集套件，并将您的唾液样本提交给我们进行处理和分析，以便为您提供遗传信息 ，取决于购买的服务。 Gene Friend 不断致力于根据我们的研究和产品开发以及科学文献中确定的遗传关联来改进我们的服务。 如果您将来有资格接收其他报告或更新，您可能会收到这些更新的通知或可以直接访问这些更新。</p><p>(iii) 与他人共享您的信息：</p><p> Gene, Friend 让您能够通过服务共享信息，包括个人信息。 您可以选择使用 Genetica 帐户通过 (a) 我们的论坛，(b) 亲属查找功能（例如“DNA 亲属”），(c) 其他共享功能和工具直接与个人分享。</p>< p> 为 Gene Friend 研究和/或产品开发共享您的信息，这些研究和/或产品开发可能由第三方赞助、代表第三方进行或与第三方合作进行，例如非营利基金会、学术机构或制药公司。Gene Friend Research 可以研究特定群体或人群，确定治疗学开发的潜在领域或目标，进行或支持药物、诊断或设备的开发以诊断、预测或治疗医疗或其他健康状况，与公共、私人和/ 或非营利实体的基因研究计划，或以其他方式创造、商业化和应用这些新知识来改善医疗保健。 Gene Friend Research 使用相应申请表中指定的汇总和/或个人级遗传信息和自我报告信息。</p><p>如果您选择不填写相应的申请表或与 Gene Friend 的任何附加协议 ，您在本节中描述的信息将不会用于 Gene Friend 研究和产品开发。 但是，您的遗传信息和自我报告的信息仍可能被我们使用，并按照本声明所述与我们的第三方服务提供商共享。</p><p>(iv) 招募您进行外部研究：</p><p>(iv) 招募您进行外部研究：</p> p><p>研究是服务的一个重要方面，我们希望确保感兴趣的参与者了解更多机会，为学术机构、医疗保健组织、制药公司和其他团体进行的有趣、新颖的科学研究做出贡献。 如果您选择参与 Gene Friend 研究和产品开发，我们可能会不时通知您您可能有资格获得的第三方研究机会。 但是，未经您的同意，我们不会与任何第三方共享个人水平的遗传信息或自我报告的信息。 如果您不希望收到这些通知，您可以通过在您的 Genetica 帐户设置中编辑您的偏好来管理它们。</p><p>(v) 对于营销传播的提供：</p><p>通过创建 一个 Genetica 帐户，您同意我们可以向您发送产品和促销电子邮件或关于我们服务的通知，以及新产品、服务、促销或竞赛的优惠。 您可以随时取消订阅接收这些营销通讯。 要取消订阅，请单击电子邮件页脚的“取消订阅”链接或转到您的 Genetica 帐户设置的“首选项”部分以编辑您的电子邮件通知首选项。 您不得选择不接收有关您的 Genetica 帐户的非促销信息，例如技术通知、购买确认或与服务相关的电子邮件。</p><h3>4. 我们与第三方共享的信息</h3><p>(i) 一般服务提供商：</p><p>我们与我们的第三方服务提供商共享上述第 2 节中描述的信息，以便他们提供必要的服务 他们为我们提供的服务，并帮助我们履行与您签订的合同。服务提供商是帮助我们提供、分析和改进我们服务的第三方（其他公司或个人）。 虽然 Gene Friend 直接进行为您提供我们的服务所需的大部分数据处理活动，但我们聘请了一些第三方服务提供商来协助支持我们的服务，包括但不限于以下领域：</p>< p>a) 订单履行和运输。</p><p>b) 我们的 CLIA 认证基因分型实验室。</p><p>c) 客户服务支持。</p><p>d) 云存储， IT 和安全。</p><p>(ii) 汇总信息：</p><p>我们可能会共享汇总信息，这些信息已去除您的姓名和联系信息，并与其他人的信息相结合 这样您就无法合理地被第三方识别为个人。 此类信息不同于个人级别的遗传信息，不属于个人信息，因为它不识别任何特定个人或披露任何特定个人的数据。 Gene Friend 将征求您的同意，以便我们向您提供服务所必需的情况下，与我们的服务提供商以外的任何第三方共享个人水平的遗传信息或自我报告的信息。</p><p>(iii ) 我们与共同拥有的实体共享的信息：</p><p>我们可能会与 Gene Friend 共同拥有或控制的其他公司共享您的部分或全部信息，其中可能包括我们的子公司、我们的母公司或任何其他公司 我们母公司拥有的子公司，以便为您提供更好的服务并改善用户体验。 通常，共享此类信息是我们履行与您签订的合同所必需的。 如果我们希望以与本声明中讨论的方式截然不同的方式与我们共同拥有的实体共享您在第 2 节中所述的上述信息，我们可能会提供额外通知并征求您的事先同意。</p><p>(iv) 为了帮助我们保护合法利益和/或根据适用法律的要求：</p><p>您承认并同意 Gene Friend 可以自由保存任何和所有个人信息，并在需要时向执法机构或其他人披露 因此根据法律或真诚地认为，此类保存或披露对于：(a) 遵守法律程序（例如司法程序、法院命令或政府调查）或 Gene Friend 可能根据道德义务承担的义务 和其他专业规则、法律和法规； (b) 执行服务条款和/或与您达成的其他协议，和/或我们的政策； (c) 回应任何内容侵犯第三方权利的主张； (d) 保护 Gene Friend、其员工、其用户、其客户和公众的权利、财产或人身安全。</p><p>(v) 商业交易：</p><p> 如果 Gene Friend 经历业务转型，例如合并、被另一家公司收购或出售其全部或部分资产，您承认并同意您在上述第 2 节中所述的所有信息将在 要转让的资产，并将继续遵守相关受让方的隐私声明。</p><h3>5. 您的控制权</h3><p>(i) 访问您的 Genetica 帐户：</p><p>我们允许您访问您的 Genetica 帐户中的 Gene Friend 数据。您可以在您的 Genetica 帐户设置以及适用的报告、工具和功能中访问和下载由 Gene Friend 处理的数据。 如果您无法访问您的 Genetica 帐户或 Genetica 帐户的电子邮件地址，请联系客户服务寻求帮助。 如果您无法访问您的 Genetica 帐户，在某些情况下，我们可能会要求您提交足以验证您身份的额外信息，然后再向您提供访问权限或以其他方式发布信息。 如果您选择不提交所需的文件，或者所提供的信息不足以达到所寻求的目的，Gene Friend 将无法充分验证您的身份以完成您的请求。</p><p>您可以访问 ，在您的 Genetica 帐户设置中自行更正或更新您的大部分注册信息。</p><p>(ii) 营销传播：</p><p>如第 3.(v) 节所述，您可以 根据您所在的位置，在创建您的 Genetica 帐户时被要求选择接收产品和促销电子邮件或通知。 否则，您可以通过访问您的 Genetica 帐户设置或通过 contact@genetica.asia 联系我们的隐私管理员来查看或更新您的电子邮件通知首选项。 您也可以点击促销电子邮件通信底部的“取消订阅”按钮。</p><p>(iii) 在服务之外共享：</p><p>您可以决定与朋友和朋友共享您的信息 /或家庭成员、医生或其他医疗保健专业人员，和/或我们服务之外的其他个人，包括通过第三方服务，例如社交网络和通过我们的应用程序编程接口连接到我们网站的第三方应用程序（“API ”）。 这些第三方使用您的信息的方式可能与我们根据本声明所做的不同。 请谨慎做出此类选择，并查看交易中涉及的所有其他第三方的政策。 Gene Friend不认可或赞助任何API应用程序，也不肯定第三方API应用程序所做的任何解释的准确性或有效性。 Gene Friend 对因您发布或与他人分享您的信息而可能导致的任何后果不承担任何责任。</p><p>(iv) 法律保留要求：</p><p>Gene Friend 和我们的 第三方基因分型实验室可能会根据适用法律义务的要求保留您的遗传信息、出生日期和性别。</p><h3>6. 安全措施</h3><p>(i) Gene Friend 非常重视您对我们的信任。Gene Friend 实施物理、技术和管理措施，以防止未经授权访问或披露您的信息，以保持数据准确性，确保信息的适当使用，并以其他方式保护您的个人信息免遭任何未经授权的访问和/或使用 遵守本声明和适用法律。</p><p>(ii) 您承认并同意保护您的信息也是您的责任。 您需要负责保护您的密码以及您用于访问我们服务的其他身份验证信息。 您不应向任何第三方透露您的身份验证信息，并应立即通知 Gene Friend 任何未经授权使用您的密码的情况。 Gene Friend 无法保护您自行发布或要求我们发布的信息。</p><p>(iii) 通过服务收集的您的信息可能会在越南或 Gene 所在的任何其他国家/地区存储和处理 Friend 或其许可方维护设施，因此，您的信息可能受其他司法管辖区的法律约束，这些法律可能与您居住国家/地区的法律不同。</p><h3>7. 儿童隐私</h3><p>Gene Friend 致力于保护儿童和成人的隐私。 Gene Friend 网站/应用程序及其任何服务都不是为 18 岁以下的儿童设计的，旨在吸引或针对 18 岁以下的儿童。但是，父母或法定监护人可以收集唾液样本，创建帐户，并 提供与他或她未满 18 岁的孩子或在他/她监护人之下的未满 18 岁孩子有关的信息。 父母或监护人承担全部责任，以确保他/她向 Gene Friend 提供的关于他或她的孩子或孩子在他/她的监护人之下的信息是安全的，并且所提交的信息是准确的。</p>< h3>8。 链接的网站</h3><p>Gene Friend 提供指向由与 Gene Friend 无关的组织运营的第三方网站的链接。 Gene Friend 不会将您的信息透露给运营此类链接的第三方网站的组织。 Gene Friend 不审查或认可这些组织的隐私惯例，也不对其负责。 我们鼓励您阅读您访问的每个网站的声明。 本声明仅适用于 Gene Friend 和我们的服务提供商代表我们收集的信息。</p><h3>9. 本声明的变更</h3><p>每当本声明发生重大变更时，我们将在变更生效前 30 天将通知作为本声明的一部分发布在我们的网站上。 Gene Friend 可能会提供额外的“及时”披露或关于特定服务的数据收集、使用和共享实践的额外信息。 此类通知可以补充或阐明 Gene Friend 的隐私惯例，或者可以为您提供有关 Gene Friend 如何收集、处理、存储、使用、共享和传输您的个人信息的其他选择。 您应经常查看本声明，以便更新我们的更改。</p><h3>10. 联系信息</h3><p>如果您对本声明有任何疑问，或希望提交投诉，请发送电子邮件至 Gene Friend 的隐私管理员：<a href=\"\"mailto:contact@genetica.asia\"\">contact@genetica。 亚洲</a></p><p>最后更新时间：2022 年 10 月 14 日</p><p>如果我们的隐私声明和信息披露有任何更新、修正或更改，那么这些将是 发布在这个页面上。</p>\r\"\t\"<p>本隐私声明和信息披露 (the<b>\"\"Statement\"\"</b>）适用于<a href=“https://genetica.asia/\"\">https://genetica.asia/</a>和Gene Friend拥有和运营的任何其他网站、应用程序（包括软件和/或任何其他移动应用程序）、页面、功能和/或内容(the<b>\"\"Website\"\"</b>)以及您对我们服务的使用。在本声明中，术语“我们”和“我们”是指基因之友及其许可方；术语“您”和“您的”指的是用户。本网站还可能包含其他实体拥有和运营的其他网站和/或应用程序的链接，本声明不适用于这些链接</p> <p>本声明旨在让您更好地了解我们如何收集、使用、存储、处理、共享和传输与您使用我们服务相关的信息。请确保您仔细审查本声明和我们的<b>服务条款</b>（“<b>TOS</b>”），因为在继续使用我们的服务之前，您必须同意本声明和服务条款</p> <h3>1。\r\n定义</h3><p>除非在本节或本声明中另有说明，首字母大写的术语应具有 TOS 中赋予它们的相应含义，可在<a href =\"\"/terms-of-service/\"\">https://genetica.asia/terms-of-service/</a>。</p><p>(i) \"\"<b>汇总信息</b> \"\"：已与其他用户的信息相结合并作为一个整体进行分析或评估的信息，因此无法合理识别特定个人。</p><p>(ii) \"\"<b>个体级遗传信息 </b>\"\"：关于单个个体的基因型、疾病或其他特征/特征的信息，但不一定与注册信息相关联。</p><p>(iii) \"\"<b>报告</b> \"\"：指Gene Friend根据您的基因检测结果给出的Genetic Information和General Recommendations。</p><h3>2. 我们收集的您的信息</h3><p>(i) 我们从您的注册和/或使用我们的网站和/或我们的服务中收集的个人信息</p><p>(ii) 您向我们提供的其他信息：</ p><p>a)<u>用户内容：</u>我们的一些服务允许您创建和发布或上传内容，例如数据、文本、软件、音乐、音频、照片、图形、视频、消息 ，或您通过公共或私人传输创建或提供给我们的其他材料，包括但不限于您在 Gene Friend 论坛上发送的任何讨论、帖子或消息。</p><p>b)<u> 博客和论坛：</u>我们的网站提供可公开访问的博客。 此外，Gene Friend 客户可以参与我们的在线论坛。 您应该知道，您在这些区域中提供或发布的任何信息都可能被访问它们的其他人阅读、收集和使用。 要请求从我们的博客或论坛中删除或取消识别任何可用于识别您身份的信息，请通过 cs@genetica.asia 联系我们。 请注意，无论何时您公开发布内容，在某些情况下，可能无法删除已发布信息的所有实例，例如，如果有人对您的帖子进行了屏幕截图。 在选择在我们的博客、论坛或任何其他帖子中公开分享任何信息之前，请谨慎行事。 您可能需要注册第三方应用程序才能发表评论。要了解第三方应用程序如何使用您的信息，请查看第三方的隐私声明。</p><p>c)<u>Gifts</u>：如果您向我们提供有关他人的信息，或者如果 其他人向我们提供您的信息，为了将服务作为礼物订购，我们将仅出于向我们提供该信息的特定原因使用该信息。 一旦礼品接收者注册了他或她的服务并同意本声明、我们的服务条款以及某些同意文件（如适用）（如申请表），此类信息将以与本声明一致的方式使用，并且不会被共享 与购买者分享，除非他们独立选择通过服务与购买者分享他们自己的信息。</p><p>d)<u>客户服务：</u>当您联系我们的客户服务或与我们通信时 我们的服务，我们收集信息以：跟踪和回复您的询问； 调查任何违反我们的服务条款、本声明或适用法律或法规的行为； 并分析和改进我们的服务。</p><p>(iii) 我们从您使用服务中收集的信息：</p><p><u>唾液样本：</u>要使用我们的基因检测服务， 您必须购买或接受他人赠送的样品采集套件作为服务礼物； 创建一个在线 Genetica 帐户并注册您的样本采集套件，然后将您的唾液样本发送给 Gene Friend。 Gene Friend 和/或其许可方将从您的唾液样本中提取 DNA 进行分析。 在样品采集套件注册期间，您需要查看我们的相关申请表，并向我们提交您已填写并签名的申请表。</p><p>(iv) 其他信息来源：我们还收集公开信息。 例如，我们可能会收集您提交给博客、论坛、聊天室或社交网络（如 Facebook、Twitter 或 Google+）的信息。 我们还可能从其他公司和组织收集有关您的信息。 我们收到的信息取决于您对此类信息资源的隐私设置，这些信息资源的特征要么由第三方托管，要么直接托管在我们的网站上。您与这些功能的交互受提供这些功能的第三方公司的隐私政策约束。 我们不控制第三方网站的信息实践。 在将第三方网站和服务链接或连接到我们的网站或服务之前，您应该始终查看并在必要时调整您在第三方网站和服务上的隐私设置。</p><p>通过收集关于您的额外信息，我们可以更正不准确的信息 ，增强您交易的安全性，并为您提供您更有可能感兴趣的产品推荐和特别优惠。</p><h3>3. 我们如何使用信息</h3><p>Gene Friend 将仅以本声明中所述的方式使用和与第三方共享您在第 2 节中所述的信息，包括：</p><p>(i) 对于服务运营、提供、分析和改进，除其他事项外，包括：</p><p>a) 开设您的 Genetica 帐户、启用购买功能和处理付款、与您沟通并执行您的请求（例如，推荐） );</p><p>b) 启用并增强您对网络的使用，包括验证您的访问、提供个性化内容和信息以及跟踪您对我们服务的使用情况；</p><p>c) 联系您 关于您的 Genetica 帐户，以及关于我们服务的任何相关信息（例如声明更改、安全更新或问题等）；</p><p>d) 与您执行我们的服务条款和其他协议；</p><p >e) 监控、检测、调查和防止我们服务中的禁止或非法行为，以打击垃圾邮件和其他安全风险；</p><p>f) 进行研究和 开发活动，例如，可能包括进行数据分析和研究以开发新产品或改进现有产品和服务，以及执行质量控制活动；</p><p>g) 提供客户支持； </p><p>h) 获得调查、民意调查和获得推荐。 我们重视您的反馈，可能会向您发送调查、民意调查或推荐请求，以改进和优化我们的服务。 您可以控制要与我们分享的信息。 如果您不希望收到这些请求，您可以在您的 Genetica 帐户设置中进行管理。</p><p>(ii) 对于基因测试的过程：</p><p>如上文章节所述 2.(iii)，要使用我们的基因检测服务并接收结果，您必须创建一个 Genetica 帐户，注册您的样本采集套件，并将您的唾液样本提交给我们进行处理和分析，以便为您提供遗传信息 ，取决于购买的服务。 Gene Friend 不断致力于根据我们的研究和产品开发以及科学文献中确定的遗传关联来改进我们的服务。 如果您将来有资格接收其他报告或更新，您可能会收到这些更新的通知或可以直接访问这些更新。</p><p>(iii) 与他人共享您的信息：</p><p> Gene, Friend 让您能够通过服务共享信息，包括个人信息。 您可以选择使用 Genetica 帐户通过 (a) 我们的论坛，(b) 亲属查找功能（例如“DNA 亲属”），(c) 其他共享功能和工具直接与个人分享。</p>< p> 为 Gene Friend 研究和/或产品开发共享您的信息，这些研究和/或产品开发可能由第三方赞助、代表第三方进行或与第三方合作进行，例如非营利基金会、学术机构或制药公司。Gene Friend Research 可以研究特定群体或人群，确定治疗学开发的潜在领域或目标，进行或支持药物、诊断或设备的开发以诊断、预测或治疗医疗或其他健康状况，与公共、私人和/ 或非营利实体的基因研究计划，或以其他方式创造、商业化和应用这些新知识来改善医疗保健。 Gene Friend Research 使用相应申请表中指定的汇总和/或个人级遗传信息和自我报告信息。</p><p>如果您选择不填写相应的申请表或与 Gene Friend 的任何附加协议 ，您在本节中描述的信息将不会用于 Gene Friend 研究和产品开发。 但是，您的遗传信息和自我报告的信息仍可能被我们使用，并按照本声明所述与我们的第三方服务提供商共享。</p><p>(iv) 招募您进行外部研究：</p><p>(iv) 招募您进行外部研究：</p> p><p>研究是服务的一个重要方面，我们希望确保感兴趣的参与者了解更多机会，为学术机构、医疗保健组织、制药公司和其他团体进行的有趣、新颖的科学研究做出贡献。 如果您选择参与 Gene Friend 研究和产品开发，我们可能会不时通知您您可能有资格获得的第三方研究机会。 但是，未经您的同意，我们不会与任何第三方共享个人水平的遗传信息或自我报告的信息。 如果您不希望收到这些通知，您可以通过在您的 Genetica 帐户设置中编辑您的偏好来管理它们。</p><p>(v) 对于营销传播的提供：</p><p>通过创建 一个 Genetica 帐户，您同意我们可以向您发送产品和促销电子邮件或关于我们服务的通知，以及新产品、服务、促销或竞赛的优惠。 您可以随时取消订阅接收这些营销通讯。 要取消订阅，请单击电子邮件页脚的“取消订阅”链接或转到您的 Genetica 帐户设置的“首选项”部分以编辑您的电子邮件通知首选项。 您不得选择不接收有关您的 Genetica 帐户的非促销信息，例如技术通知、购买确认或与服务相关的电子邮件。</p><h3>4. 我们与第三方共享的信息</h3><p>(i) 一般服务提供商：</p><p>我们与我们的第三方服务提供商共享上述第 2 节中描述的信息，以便他们提供必要的服务 他们为我们提供的服务，并帮助我们履行与您签订的合同。服务提供商是帮助我们提供、分析和改进我们服务的第三方（其他公司或个人）。 虽然 Gene Friend 直接进行为您提供我们的服务所需的大部分数据处理活动，但我们聘请了一些第三方服务提供商来协助支持我们的服务，包括但不限于以下领域：</p>< p>a) 订单履行和运输。</p><p>b) 我们的 CLIA 认证基因分型实验室。</p><p>c) 客户服务支持。</p><p>d) 云存储， IT 和安全。</p><p>(ii) 汇总信息：</p><p>我们可能会共享汇总信息，这些信息已去除您的姓名和联系信息，并与其他人的信息相结合 这样您就无法合理地被第三方识别为个人。 此类信息不同于个人级别的遗传信息，不属于个人信息，因为它不识别任何特定个人或披露任何特定个人的数据。 Gene Friend 将征求您的同意，以便我们向您提供服务所必需的情况下，与我们的服务提供商以外的任何第三方共享个人水平的遗传信息或自我报告的信息。</p><p>(iii ) 我们与共同拥有的实体共享的信息：</p><p>我们可能会与 Gene Friend 共同拥有或控制的其他公司共享您的部分或全部信息，其中可能包括我们的子公司、我们的母公司或任何其他公司 我们母公司拥有的子公司，以便为您提供更好的服务并改善用户体验。 通常，共享此类信息是我们履行与您签订的合同所必需的。 如果我们希望以与本声明中讨论的方式截然不同的方式与我们共同拥有的实体共享您在第 2 节中所述的上述信息，我们可能会提供额外通知并征求您的事先同意。</p><p>(iv) 为了帮助我们保护合法利益和/或根据适用法律的要求：</p><p>您承认并同意 Gene Friend 可以自由保存任何和所有个人信息，并在需要时向执法机构或其他人披露 因此根据法律或真诚地认为，此类保存或披露对于：(a) 遵守法律程序（例如司法程序、法院命令或政府调查）或 Gene Friend 可能根据道德义务承担的义务 和其他专业规则、法律和法规； (b) 执行服务条款和/或与您达成的其他协议，和/或我们的政策； (c) 回应任何内容侵犯第三方权利的主张； (d) 保护 Gene Friend、其员工、其用户、其客户和公众的权利、财产或人身安全。</p><p>(v) 商业交易：</p><p> 如果 Gene Friend 经历业务转型，例如合并、被另一家公司收购或出售其全部或部分资产，您承认并同意您在上述第 2 节中所述的所有信息将在 要转让的资产，并将继续遵守相关受让方的隐私声明。</p><h3>5. 您的控制权</h3><p>(i) 访问您的 Genetica 帐户：</p><p>我们允许您访问您的 Genetica 帐户中的 Gene Friend 数据。您可以在您的 Genetica 帐户设置以及适用的报告、工具和功能中访问和下载由 Gene Friend 处理的数据。 如果您无法访问您的 Genetica 帐户或 Genetica 帐户的电子邮件地址，请联系客户服务寻求帮助。 如果您无法访问您的 Genetica 帐户，在某些情况下，我们可能会要求您提交足以验证您身份的额外信息，然后再向您提供访问权限或以其他方式发布信息。 如果您选择不提交所需的文件，或者所提供的信息不足以达到所寻求的目的，Gene Friend 将无法充分验证您的身份以完成您的请求。</p><p>您可以访问 ，在您的 Genetica 帐户设置中自行更正或更新您的大部分注册信息。</p><p>(ii) 营销传播：</p><p>如第 3.(v) 节所述，您可以 根据您所在的位置，在创建您的 Genetica 帐户时被要求选择接收产品和促销电子邮件或通知。 否则，您可以通过访问您的 Genetica 帐户设置或通过 contact@genetica.asia 联系我们的隐私管理员来查看或更新您的电子邮件通知首选项。 您也可以点击促销电子邮件通信底部的“取消订阅”按钮。</p><p>(iii) 在服务之外共享：</p><p>您可以决定与朋友和朋友共享您的信息 /或家庭成员、医生或其他医疗保健专业人员，和/或我们服务之外的其他个人，包括通过第三方服务，例如社交网络和通过我们的应用程序编程接口连接到我们网站的第三方应用程序（“API ”）。 这些第三方使用您的信息的方式可能与我们根据本声明所做的不同。 请谨慎做出此类选择，并查看交易中涉及的所有其他第三方的政策。 Gene Friend不认可或赞助任何API应用程序，也不肯定第三方API应用程序所做的任何解释的准确性或有效性。 Gene Friend 对因您发布或与他人分享您的信息而可能导致的任何后果不承担任何责任。</p><p>(iv) 法律保留要求：</p><p>Gene Friend 和我们的 第三方基因分型实验室可能会根据适用法律义务的要求保留您的遗传信息、出生日期和性别。</p><h3>6. 安全措施</h3><p>(i) Gene Friend 非常重视您对我们的信任。Gene Friend 实施物理、技术和管理措施，以防止未经授权访问或披露您的信息，以保持数据准确性，确保信息的适当使用，并以其他方式保护您的个人信息免遭任何未经授权的访问和/或使用 遵守本声明和适用法律。</p><p>(ii) 您承认并同意保护您的信息也是您的责任。 您需要负责保护您的密码以及您用于访问我们服务的其他身份验证信息。 您不应向任何第三方透露您的身份验证信息，并应立即通知 Gene Friend 任何未经授权使用您的密码的情况。 Gene Friend 无法保护您自行发布或要求我们发布的信息。</p><p>(iii) 通过服务收集的您的信息可能会在越南或 Gene 所在的任何其他国家/地区存储和处理 Friend 或其许可方维护设施，因此，您的信息可能受其他司法管辖区的法律约束，这些法律可能与您居住国家/地区的法律不同。</p><h3>7. 儿童隐私</h3><p>Gene Friend 致力于保护儿童和成人的隐私。 Gene Friend 网站/应用程序及其任何服务都不是为 18 岁以下的儿童设计的，旨在吸引或针对 18 岁以下的儿童。但是，父母或法定监护人可以收集唾液样本，创建帐户，并 提供与他或她未满 18 岁的孩子或在他/她监护人之下的未满 18 岁孩子有关的信息。 父母或监护人承担全部责任，以确保他/她向 Gene Friend 提供的关于他或她的孩子或孩子在他/她的监护人之下的信息是安全的，并且所提交的信息是准确的。</p>< h3>8。 链接的网站</h3><p>Gene Friend 提供指向由与 Gene Friend 无关的组织运营的第三方网站的链接。 Gene Friend 不会将您的信息透露给运营此类链接的第三方网站的组织。 Gene Friend 不审查或认可这些组织的隐私惯例，也不对其负责。 我们鼓励您阅读您访问的每个网站的声明。 本声明仅适用于 Gene Friend 和我们的服务提供商代表我们收集的信息。</p><h3>9. 本声明的变更</h3><p>每当本声明发生重大变更时，我们将在变更生效前 30 天将通知作为本声明的一部分发布在我们的网站上。 Gene Friend 可能会提供额外的“及时”披露或关于特定服务的数据收集、使用和共享实践的额外信息。 此类通知可以补充或阐明 Gene Friend 的隐私惯例，或者可以为您提供有关 Gene Friend 如何收集、处理、存储、使用、共享和传输您的个人信息的其他选择。 您应经常查看本声明，以便更新我们的更改。</p><h3>10. 联系信息</h3><p>如果您对本声明有任何疑问，或希望提交投诉，请发送电子邮件至 Gene Friend 的隐私管理员：<a href=\"\"mailto:contact@genetica.asia\"\">contact@genetica。 亚洲</a></p><p>最后更新时间：2022 年 10 月 14 日</p><p>如果我们的隐私声明和信息披露有任何更新、修正或更改，那么这些将是 发布在这个页面上。</p>\r\"",
+    "sidebar": {
+      "menu": {
+        "privacyPolicy": {
+          "label": "隐私政策"
+        },
+        "termsOfService": {
+          "label": "服务条款"
+        }
+      }
+    }
+  },
+  "productCategory": {
+    "header": {
+      "title": {
+        "prefix": ""
+      }
+    },
+    "sectionFilters": {
+      "field": {
+        "ages": "年龄",
+        "demands": "特质",
+        "filterBy": "过滤"
+      },
+      "actions": {
+        "select": "选择",
+        "seeMore": "查看更多"
+      }
+    },
+    "sectionTestimonials": {
+      "title": "超过 <br>100,000 名客户 <br>选择 Genetica",
+      "description": "聆听我们客户的故事<br />并与我们分享您的故事！",
+      "actions": {
+        "seeOtherStories": "来自我们客户的更多故事"
+      }
+    },
+    "sectionDownload": {
+      "title": "阅读示例报告<br/>立即下载 Genetica 应用程序！",
+      "description": "Genetica 移动应用程序上有 1000 多个相关结果，<br/>可随时随地轻松访问。"
+    },
+    "sectionComparePackages": {
+      "comparisonTable": {
+        "columnLabel": {
+          "installment": "0%利息分期付款"
+        }
+      }
+    },
+    "sectionCompareCombos": {
+      "comparisonTable": {
+        "columnLabel": {
+          "1": "服务包括",
+          "2": "服务数量"
+        },
+        "packageRows": {
+          "0": {
+            "title": "G-Pro",
+            "description": "成人综合护理"
+          },
+          "1": {
+            "title": "G-Kid Pro",
+            "description": "全面呵护孩子"
+          },
+          "2": {
+            "title": "Mở khóa G-免疫力 *",
+            "description": "了解您的免疫力"
+          },
+          "3": {
+            "title": "Mở khóa G-过敏 *",
+            "description": "接触过敏的固有风险"
+          },
+          "4": {
+            "title": "",
+            "description": "接触过敏的固有风险"
+          }
+        },
+        "tooltip": {
+          "seeDetails": "转到产品详细信息"
+        },
+        "notice": "解锁套餐仅适用于组合使用G-Pro或G-Kid Pro的用户，新用户不适用。<br />联系Genetica热线获取组合数量和服务定制支持，具体取决于您的家庭需求 ."
+      }
+    }
+  },
+  "productDetails": {
+    "header": {
+      "content": {
+        "seeTestedTraits": {
+          "label": "其他特质"
+        }
+      },
+      "packages": {
+        "statistics": {
+          "numberOfGenesAnalyzed": {
+            "label": "基因分析"
+          },
+          "numberOfResultsAndPersonalizedRecommendations": {
+            "label": "结果和个性化<br/>建议"
+          },
+          "salivaOnly": {
+            "label": "只使用唾液"
+          },
+          "numberOfCommonCancers": {
+            "label": "常见癌症"
+          },
+          "personalizedRecommendations": {
+            "label": "个性化推荐"
+          },
+          "everyoneWillBenefit": {
+            "label": "每个人都会受益"
+          }
+        }
+      },
+      "actions": {
+        "addToCart": {
+          "label": "添加到购物车"
+        },
+        "download": {
+          "label": "查看样本报告 (PDF)"
+        }
+      }
+    },
+    "body": {
+      "sectionSection": {
+        "content": {
+          "traits": {
+            "seeDetails": {
+              "label": "查看具体信息"
+            }
+          }
+        }
+      },
+      "sectionBanners1": {
+        "header": {
+          "title": "随时随地获取结果<br/>。"
+        }
+      },
+      "sectionPackageFeatures": {
+        "header": {
+          "title": "选择适合您的套餐",
+          "healthTitle": "测试的癌症列表"
+        },
+        "body": {
+          "table": {
+            "header": {
+              "userObject": "用户对象",
+              "geneAnalyzed": "基因分析",
+              "genes": "基因",
+              "upTo": "达到",
+              "Results": "结果",
+              "results": "结果",
+              "resultsValue": "最多 {{value}} 个结果",
+              "personalisedRecommendations": "建议",
+              "viewReportOnMobileApp": "移动应用报告",
+              "paperReport": "打印件报告",
+              "availableAtRequest": "根据要求",
+              "actions": {
+                "addToCart": {
+                  "label": "添加到购物车"
+                }
+              },
+              "genders": {
+                "male": "男性",
+                "female": "女性"
+              }
+            },
+            "footer": {
+              "seeAllReports": "查看所有报告"
+            }
+          }
+        }
+      },
+      "sectionOtherServices": {
+        "header": {
+          "title": "其他服务"
+        }
+      },
+      "sectionBanners2": {
+        "list": {
+          "1": {
+            "title": "美国专家",
+            "description": "我们在旧金山的实验室拥有一些科学界最聪明的头脑。"
+          },
+          "2": {
+            "title": "人工智能技术",
+            "description": "我们使用尖端人工智能来揭示您基因的秘密。"
+          },
+          "3": {
+            "title": "安全",
+            "description": "您的信息是安全的、可靠的并且只有您可以访问。"
+          },
+          "4": {
+            "title": "30 天后的结果",
+            "description": "您的报告将在您的手机上可用并发送到您家门口。"
+          }
+        }
+      },
+      "sectionTestedTraits": {
+        "header": {
+          "title": "特性测试"
+        },
+        "body": {
+          "labels": {
+            "genes": "基因"
+          }
+        }
+      },
+      "sectionGetInTouch": {
+        "header": {
+          "title": "还有问题吗？"
+        },
+        "body": {
+          "description": {
+            "textBefore": "随时联系您的查询",
+            "textAfter": ". 我们的工作人员会尽快回复您。 请记住，我们希望收到您的来信！"
+          }
+        },
+        "footer": {
+          "actions": {
+            "text": "联系"
+          }
+        }
+      }
+    }
+  },
+  "productDetailsV2": {
+    "common": {
+      "labels": {
+        "originalPrice": "原价",
+        "specialOffer": "特价",
+        "benefits": "您将获得的好处",
+        "serviceFeatures": "服务特色",
+        "downloadAppAt": "下载应用",
+        "relatedServices": "相关服务",
+        "priceNotInclude": "价格不含",
+        "details": "细节",
+        "result": "结果"
+      },
+      "buttons": {
+        "installment": "0% 分期付款",
+        "addToCart": "添加到您的购物车",
+        "videoHelp": "请遵循此视频中的指南",
+        "seeDetails": "查看具体信息",
+        "buyNow": "立即购买",
+        "viewSampleReport": "查看样本报告",
+        "seeMore": "查看更多",
+        "seeAll": "查看全部",
+        "seeMoreComparison": "查看比较",
+        "viewSampleReportPDF": "查看样本报告 (PDF)",
+        "installmentTerms": "分期付款条款和条件"
+      }
+    },
+    "sectionServiceNotInclude": {
+      "title": "价格不含成本",
+      "items": {
+        "1": {
+          "title": "专家深度咨询"
+        },
+        "2": {
+          "title": "样品采集套件",
+          "description": "适用于第 3 次唾液采集"
+        },
+        "3": {
+          "title": "纸质报告（应要求提供）"
+        }
+      }
+    },
+    "sectionServiceInclusion": {
+      "title": "服务包括",
+      "items": {
+        "1": "DNA采集试剂盒（样品采集管、登记表、指南）",
+        "2": "Genetica 应用程序上的遗传报告",
+        "3": "咨询Genetica的专家"
+      }
+    },
+    "sectionSubmenu": {
+      "items": {
+        "details": "细节",
+        "howToUse": "如何使用",
+        "compareServices": "比较服务",
+        "relevantServices": "相关服务",
+        "contactUs": "联系我们"
+      }
+    },
+    "sectionProcess": {
+      "title": "简单的过程",
+      "steps": {
+        "1": {
+          "title": "第1步：领取DNA采集包",
+          "description": "Genetica 会将 DNA 采集套件发送到您的地址。"
+        },
+        "2": {
+          "title": "第 2 步：收集并发送您的唾液样本",
+          "description": "唾液提取简单且无痛。您可以轻松按照随附指南中的步骤进行操作。之后，请通过 Genetica 移动应用程序或热线通知我们进行样本采集。"
+        },
+        "3": {
+          "title": "第三步：接收基因报告",
+          "description": "从我们收到您的合格唾液之日起计算，您的基因报告将在 30 个工作日后出具。 在 Genetica 移动应用程序或您注册的电子邮箱中阅读您的报告。"
+        }
+      },
+      "links": {
+        "salivaCollectingGuide": "https://youtu.be/Vc9PQVddhVs?list=PLHSgVYL21dUW3ENntE8brlRmRFH18JMM3"
+      }
+    },
+    "sectionServiceComparison": {
+      "title": "比较<br />服务"
+    },
+    "sectionDownloadSampleReport": {
+      "title": "在 Genetica 移动应用程序上接收报告。"
+    }
+  },
+  "redeem": {
+    "sectionInputCode": {
+      "header": {
+        "title": "礼品代码",
+        "description": "输入您收到的推荐码"
+      },
+      "body": {
+        "formInsertCode": {
+          "fields": {
+            "code": {
+              "placeholder": "礼物代码/推荐代码"
+            }
+          },
+          "buttons": {
+            "submit": {
+              "label": "提交"
+            }
+          }
+        }
+      }
+    },
+    "sectionCustomerInformation": {
+      "header": {
+        "title": "客户信息",
+        "description": "请提供您的信息，以便 Genetica 可以将唾液收集套件交付给您"
+      },
+      "body": {
+        "formCustomerInformation": {
+          "fields": {
+            "name": {
+              "label": "全名",
+              "placeholder": "全名",
+              "error": {
+                "message": {
+                  "error": "错误",
+                  "required": "必需的"
+                }
+              }
+            },
+            "phone": {
+              "label": "电话号码",
+              "placeholder": "电话号码",
+              "error": {
+                "message": {
+                  "error": "无效的电话号码",
+                  "required": "必需的"
+                }
+              }
+            },
+            "address": {
+              "label": "地址",
+              "fields": {
+                "country": {
+                  "placeholder": "国家",
+                  "error": {
+                    "message": {
+                      "outsideVietNam": "我们目前不运送到越南以外的地方。 请发送电子邮件至 <1>contact@genetica.asia</1> 寻求支持。",
+                      "required": "必需的"
+                    }
+                  }
+                },
+                "provinceCity": {
+                  "placeholder": "省/市",
+                  "error": {
+                    "message": {
+                      "error": "错误",
+                      "required": "必需的"
+                    }
+                  }
+                },
+                "district": {
+                  "placeholder": "郡/区",
+                  "error": {
+                    "message": {
+                      "error": "错误",
+                      "required": "必需的"
+                    }
+                  }
+                },
+                "ward": {
+                  "placeholder": "街道/镇",
+                  "error": {
+                    "message": {
+                      "error": "错误",
+                      "required": "必需的"
+                    }
+                  }
+                },
+                "locationDetail": {
+                  "placeholder": "位置详细信息（地标、号码等）",
+                  "error": {
+                    "message": {
+                      "error": "错误",
+                      "required": "必需的"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "buttons": {
+            "submit": {
+              "label": "结束"
+            }
+          }
+        }
+      }
+    },
+    "modalSuccess": {
+      "header": {
+        "title": "感谢您选择 Genetica®"
+      },
+      "body": {
+        "message": {
+          "notify": "Genetica 将在 1 - 3 个工作日内将唾液收集套件发送到您的地址：",
+          "address": "越南，河内市，Cau Giay郡，Dich Vong Hau区，Ton That Thuyet街，07号国家创新中心9楼",
+          "contact": "如果您需要任何进一步的支持，请通过电子邮件 <1>cs@genetica.asia</1> 或热线 <3>1900 599 927</3> 与我们联系。"
+        },
+        "button": {
+          "label": "返回首页"
+        }
+      }
+    },
+    "modalError": {
+      "header": {
+        "title": "出了些问题"
+      },
+      "body": {
+        "message": {
+          "notify": "您的更改尚未保存。",
+          "contact": "如果您需要任何进一步的支持，请通过电子邮件 <1>cs@genetica.asia</1> 或热线 <3>1900 599 927</3> 与我们联系。"
+        },
+        "button": {
+          "label": "再试一次"
+        }
+      }
+    }
+  },
+  "reportReadingGuide": {
+    "title": "如何阅读遗传报告",
+    "sidebar": {
+      "menu": {
+        "title": "选择主题"
+      }
+    },
+    "sectionMenu": {
+      "actions": {
+        "seeMore": "查看更多"
+      }
+    },
+    "sectionReportReadingGuide": {
+      "title": "{{reportName}}报告阅读指南"
+    }
+  },
+  "returnAndComplaintHandlingPolicy": {
+    "header": {
+      "title": "投诉处理政策"
+    }
+  },
+  "screeningQuestionnaire": {
+    "title": "筛查问卷",
+    "subtitle": "- 即将推出 -"
+  },
+  "search": {
+    "title": "搜索结果：",
+    "content": {
+      "sectionProductPackages": {
+        "title": "产品"
+      },
+      "sectionBlog": {
+        "title": "博客"
+      },
+      "sectionNews": {
+        "title": "消息"
+      },
+      "press": {
+        "title": "媒体对 Genetica 的评价"
+      },
+      "sectionEmpty": {
+        "description": "抱歉，找不到与您的搜索相关的产品 <br/>"
+      }
+    }
+  },
+  "serviceDeliveryProcess": {
+    "header": {
+      "title": "服务交付流程"
+    }
+  },
+  "serviceExchangeCancellationAndRefundPolicy": {
+    "header": {
+      "title": "服务交换、取消和退款政策"
+    }
+  },
+  "surveys": {
+    "postConsultation": {
+      "header": {
+        "title": "你怎么认为？",
+        "for": "咨询会议"
+      },
+      "body": {
+        "submit": "发送",
+        "loading": "加载中"
+      },
+      "success": {
+        "title": "感谢您完成调查",
+        "content": "请打开您的 Genetica® 应用程序以接收我们为您准备的礼物 - 适用于任何 Genetica® 服务的解锁凭证 <i>（G-Care、G-Pro、G-Kid Care 和 G-Kid Pro 除外）</i> .",
+        "contactUs": "如需支持，请通过热线联系我们",
+        "backToHomePage": "返回首页"
+      },
+      "errors": {
+        "default": {
+          "title": "目前无法加载您的问题。",
+          "message": "请稍后再试"
+        },
+        "dataRetrieveFailed": {
+          "title": "目前无法加载您的问题。",
+          "message": "请稍后再试"
+        },
+        "feedbackFormExpired": {
+          "title": "",
+          "message": "您的问题已过期！"
+        }
+      },
+      "modalError": {
+        "content": "目前无法发送您的反馈，请重试。 如需支持，请通过热线联系",
+        "action": "OK"
+      }
+    },
+    "preConsultation": {
+      "header": {
+        "progress": {
+          "label": "您已完成调查问卷的 {{ value }}%"
+        },
+        "for": "给"
+      },
+      "body": {
+        "loading": "加载中"
+      },
+      "actions": {
+        "skip": "跳过",
+        "back": "后退",
+        "next": "下一个",
+        "submit": "提交"
+      },
+      "success": {
+        "title": "感谢您完成调查。",
+        "content": "",
+        "contactUs": "如需支持，请通过热线联系我们",
+        "backToHomePage": "返回首页"
+      },
+      "errors": {
+        "default": {
+          "title": "目前无法加载您的问题。",
+          "message": "请稍后再试"
+        },
+        "dataRetrieveFailed": {
+          "title": "目前无法加载您的问题。",
+          "message": "请稍后再试"
+        },
+        "feedbackFormExpired": {
+          "title": "",
+          "message": "您的问题已过期！"
+        }
+      },
+      "modalError": {
+        "content": "目前无法发送您的反馈，请重试。 如需支持，请通过热线联系",
+        "action": "好的"
+      }
+    },
+    "onboarding": {
+      "content": {
+        "title": "欢迎来到遗传学",
+        "description": "请告诉我们一些关于您的信息，以便我们更好地为您服务。 您的意见对我们非常重要！"
+      },
+      "actions": {
+        "skip": "跳过",
+        "close": "关闭",
+        "previous": "以前的",
+        "next": "下一个",
+        "finish": "结束"
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "服务条款",
+    "content": "<p>请仔细阅读这些服务条款，因为使用这些服务，您同意遵守这些服务条款（“<b>TOS</b>”）以及通过引用纳入本文的所有条款。如果您不同意这些服务条款，请不要使用这些服务</p> <h3>1.定义</h3><p>（i）“<b>汇总遗传和自我报告信息</b>”是指与其他用户的遗传和自我报道信息相结合，并作为一个整体进行分析或评估，从而无法合理识别任何特定个人的遗传和自己报告信息</p> <p>（ii）“<b>客户关怀</b>”是Gene Friend在使用服务期间向用户提供的支持功能</p> <p>（iii）“<b>基因之友</b>”是指基因之友越南有限公司，该公司根据胡志明市规划和投资部于2018年5月16日颁发的第0108276596号企业注册证书正式注册成立，其办公室位于胡志明市第3区沃氏秀区范恩戈萨街40号2楼，Vietnam（也称为“我们”或“我们”）</p><p>（iv）“<b>Genetica账户</b>”是用户在网络和/或应用程序上免费创建并经Gene Friend允许的账户，用于他/她访问和/或使用服务</p> <p>（v）“<b>基因之友研究</b>”是指基因之友进行的旨在在同行评审的科学期刊上发表的科学研究。将您的信息用于基因朋友研究应符合适用同意书、本服务条款和隐私声明中的同意</p> <p>（vi）“许可方”是指Gene Friend的合伙人，即Gene Fiend Way，Inc.，该公司根据加利福尼亚州务卿于2017年12月5日颁发的许可证编号4086894注册成立，和/或在提供服务时与Gene Fliend签订有效协议的任何其他第三方</p> <p>（vii）“<b>个人信息</b>”是可以单独或与其他信息结合使用来识别您的信息。Gene Friend收集、处理、存储和使用以下类型的个人信息：</p><p>a。“<b>基因信息</b>”是指基因之友或其许可方、继承人和/或受让人通过处理您的唾液样本而产生的关于您的基因型（例如，您基因组中特定位置的As、Ts、Cs和Gs）的信息；或由Gene Friend以其他方式处理和/或贡献给Gene Friends</p> <p>b。“<b>注册信息</b>”是您在注册和/或购买我们的服务时提供的关于您自己的信息（包括但不限于姓名、电子邮件、地址、用户ID和密码以及付款信息）；和</p><p>c。“<b>自我报告信息</b>”是关于您自己的所有信息，包括您的疾病状况、其他与健康相关的信息、个人特征、种族、家族史，以及您在登录Genetica帐户时输入调查、表格或功能的其他信息</p> <p>（viii）“<b>隐私声明和信息披露</b>”是位于<a href=“https://genetica.asia/privacy-policy\">https://genetica.asia/privacy-policy</a></p> <p>（ix）“<b>产品开发</b>”是指为新产品开发和Gene Friend对未识别的用户数据进行的新产品开发活动而进行的研究。这些活动可能包括改进我们的服务和/或向您提供新产品或服务；开展质量控制活动；进行可能导致和/或包括与第三方进行商业化的数据分析</p><p>（x）“<b>服务</b>”或“<b>服务</b><b>”是指用户不时访问和使用的Gene Friend的产品、软件、服务、应用程序和网站（包括但不限于文本、图形、图像和其他材料和信息），无论该使用是否与Genetica账户有关</p> <p>（xi）“用户”指访问或使用服务和/或Web和/或应用程序的任何人</p> <p>（xii）“<b>用户内容</b>”是指所有信息、数据、文本、软件、音乐、音频、照片、图形、视频、消息或其他材料，但基因朋友服务用户生成并公开或私下传输到网络或通过网络传输的基因信息和自我报告信息除外</p> <p>（xiii）“<b>Web</b>”是指基因之友的网站，位于<a href=“https://genetica.asia\">https://genetica.asia</a></p> <p>（xiv）“<b>应用程序</b>”是指用户用于注册其信息和基因朋友服务的移动应用程序</p> <h3>2.条款的接受</h3><p>您使用Gene Friend的服务（不包括Gene Friends根据单独协议提供的任何服务）应遵守本服务条款以及通过引用纳入本文的任何和所有文件中规定的您与Gene Friday之间的法律协议条款。除本协议另有规定外，这些TOS适用于服务的任何使用，包括但不限于（i）提交唾液样本进行DNA提取和处理，（ii）上传您的遗传信息的数字版本并在网络和/或应用程序上与之交互，和/或（iii）在不提供唾液样本或遗传信息的情况下创建和使用免费的Genetica账户。为了使用服务，您必须首先同意这些服务条款。如果您不接受这些TOS，您就不能使用服务。您可以通过以下方式接受这些TOS：（i）点击接受或同意这些TOS，Gene Friend为您提供任何服务；或通过（ii）实际使用服务。在这种情况下，您承认并同意，从那时起，Gene Friend将把您使用服务视为接受这些TOS。此外，在使用特定服务时，您应遵守可能不时发布的适用于此类服务的任何指南或规则。所有此类指南或规则均通过引用纳入本服务条款。Gene Friend还可能不时提供受不同服务条款管辖的其他服务</p> <h3>3.先决条件</h3><p>无论您是否提交自己的唾液样本、您有合法权限同意的任何人的唾液样本，或以其他方式提供您自己的遗传信息，只有当您年满十八（18）岁，并且完全有民事行为能力代表您自己或您有合法权限的人同意这些服务条款时，您才能使用服务并接受这些服务条款</p> <p>Gene Friend的网络/应用程序及其任何服务都不是为18岁以下的儿童设计的、旨在吸引或定向的。</p><h3>4。服务描述</h3><p>服务包括访问网络和/或应用程序以及个人基因分型服务，包括唾液样本的收集和分析。除非另有明确规定，增加或增强当前服务的每个新功能都应遵守这些TOS。您承认并同意，这些服务是“按原样”提供的，并且是基于Gene Friend在购买或观看时使用的基因研究和技术的当前现状。随着研究的进展以及科学知识和技术的发展，Gene Friend不断创新，为其用户提供尽可能好的体验。您承认并同意，Gene Friend提供的服务的形式和性质可能会不时发生变化，恕不另行通知。作为这一持续创新的一部分，您承认并同意Gene Friend可以（永久或暂时）停止向您或用户提供某些服务（或服务中的任何功能），这通常由Gene Friends自行决定，无需事先通知您。您可以随时停止使用服务。当您停止使用服务时，无需特别通知Gene Friend。Gene Friend对本服务条款或其他适用条款之外的服务使用不承担任何责任</p> <p>您应负责任何互联网服务费用以及使用我们的网站和/或应用程序和/或服务所需的任何设备/设备</p> <h3>5.与服务有关的风险和注意事项</h3><p>一旦您获得了您的遗传信息，这些知识是不可撤销的。你不应该认为我们能够提供给你的任何信息，无论是现在还是随着基因研究的进展，都是受欢迎的或积极的。你还应该明白，随着研究的进展，为了在这些进展的背景下评估你的DNA的意义，你可能需要从Gene Friend、你的医生、遗传顾问或其他医疗保健提供者那里获得进一步的服务</p> <p>我们鼓励您在采集样本进行检测之前，与遗传咨询师，一位受过遗传条件特殊培训的健康专业人士交谈，了解更多信息，以便您能够在知情的情况下决定检测是否适合您。遗传咨询师也可以帮助你了解你的结果和选择</p> <p>实验室可能无法处理您的样本，并且实验室处理可能会导致错误。如果（i）您的唾液样本中没有足够的DNA，（ii）您没有提供足够的唾液样本，或（iii）处理结果不符合我们的准确性标准，实验室可能无法处理高达3.0%的样本。如果由于上述任何原因处理失败，用户应根据我们的要求，向我们提供其他唾液样本（第二个样本），Gene Friend将免费对其进行重新处理。然而，在这种情况下，延迟时间不应计入基因之友进行和完成流程的时限。此外，Gene Friend不承担您因此类延误而产生的任何和所有费用</p> <p>如果用户发送了另一个样本，而Gene Friend尝试处理第二个样本失败，Gene Friends将不会发送额外的样本采集试剂盒，前提是用户不得通过未来购买该服务重新提交另一个样品，Gene Friend有权拒绝处理您的样本，而不对您承担任何法律和退款责任，在同意书第3（f）条规定的任何一种情况下。此外，如果用户违反了这些TOS，并在未来购买服务时重新提交了另一个样本，但处理不成功，Gene Friend将不会重新处理样本或向用户退款。即使是符合我们高标准的处理，实验室过程中产生的一小部分未知数据也可能无法解释或不正确（称为“错误”）。由于这种可能性是事先已知的，如果出现这些错误，用户无权获得退款</p> <p>你不应该仅仅根据基因朋友的信息来改变你的健康行为。在您对基因朋友服务产生的基因信息采取行动之前，请确保与医生或其他医疗保健提供者讨论您的基因信息。无论如何，如果你对通过基因朋友学到的东西有顾虑或疑问，你应该联系你的医生或其他医疗保健提供者。请注意，遗传风险评估不适用于携带者筛查测试的结果</p> <p>基因研究并不全面。虽然我们从你的DNA中测量了数十万个数据点，但已知其中只有一小部分与人类特征或健康状况有关</p> <p>您与他人共享的基因信息可能会被用来损害您的利益。你应该小心与他人分享你的基因信息</p> <p>此外，您选择与医生或其他医疗保健提供者共享的遗传信息可能会成为您医疗记录的一部分，并在未来通过该途径可供其他医疗保健提供商和/或保险公司访问</p> <p>我们不提供医疗建议。基因之友提供的基因信息仅供您研究和参考。用户不打算将服务用于任何诊断目的，也不能替代专业医疗建议。对于您可能对任何疾病或其他医疗状况或损伤或健康状况的诊断、治疗、缓解或预防有任何疑问，您应始终寻求医生或其他医疗保健提供者的建议</p> <p>Gene Friend不认可、保证或保证我们的网站和/或应用程序上可能提到的任何特定行动方案、资源、测试、医生或其他医疗保健提供者、药物、生物制品、医疗设备或其他产品、程序、意见或其他信息的有效性。如果我们在我们的网站和/或应用程序上根据您的遗传信息和自我报告信息以及科学文献或研究，向您提供任何识别您的建议，这些信息仅供参考，并用于与您的医生或其他医疗保健提供者讨论</p> <h3>6.用户陈述</h3><p>通过访问服务，您同意、承认并陈述如下：</p><p>您理解，您从Gene Friend了解到的信息并不是为了独立诊断、预防或治疗任何疾病或疾病，也不是为了在缺乏医疗和临床信息的情况下确定您的健康状况。您承认，如果您对您的遗传信息有疑问或担忧，Gene Friend会敦促您寻求医生或其他医疗保健提供者的建议</p> <p>您允许Gene Friend、其许可方、继承人和受让人对您唾液样本中提取的DNA进行基因分型服务，并特别要求Gene Friends向您和您特别授权的其他人披露对您的DNA进行的分析结果</p> <p>如果您提供唾液样本或访问您的遗传信息，您表示您年满十八（18）岁，并且具有完全民事行为能力。</p><p>您保证您提供的任何唾液样本都是您自己的唾液；如果您代表您有合法授权的人同意这些TOS，您确认提供的唾液样本将是该人的唾液</p> <p>您同意您提供的任何唾液样本以及由此产生的所有数据都可以在您居住的国家以外进行转移和/或处理</p> <p>您对与他人共享您的遗传信息和自我报告信息所产生的所有可能后果负责</p> ＜p＞放弃产权：您理解，通过提供任何样本、处理您的遗传信息、访问您的遗传数据或提供您的自我报告信息，您不会获得Gene Friend或其合作伙伴可能开发的任何研究或商业产品的权利。您明确理解，您将不会因包含您的遗传信息或自我报告信息或由此产生的任何研究或商业产品而获得补偿</p> <h3>7.账户创建、通用账户、密码和安全义务</h3><p>考虑到您使用服务，您同意：（i）根据服务提示提供真实、准确、最新和完整的关于您自己的注册信息；以及（ii）维护并及时更新注册信息，以保持其真实、准确、最新和完整。如果您提供的任何注册信息不真实、不准确、不及时或不完整，或者Gene Friend有合理理由怀疑这些信息不真实或不准确，Gene Friends有权暂停或终止您的Genetica账户，并拒绝您当前或未来使用服务（或其任何部分）。该服务仅在您的样本采集试剂盒从Gene Friend运到的国家/地区使用</p> <p>购买我们的服务后，您将创建一个密码和Genetica帐户名称。您有责任维护您的密码和Genetica账户的机密性，并对您的密码或Genetica帐户下发生的所有活动负全部责任。如果您允许第三方通过您的用户名和密码访问网站和/或应用程序，您将保护Gene Friend、其许可方及其任何其他附属公司免受因第三方基于或与此类访问和/或使用有关的索赔或诉讼而产生的任何责任、成本或损害，包括律师费。您同意：（i）立即通知Gene Friend任何未经授权使用您的密码、您的Genetica帐户和/或任何其他违反安全的行为，以及（ii）确保您在每次会话结束时退出您的Genetic帐户。Gene Friend不能也不会对您未能遵守本节规定而造成的任何损失或损害承担责任</p> <h3>8.基因朋友的隐私声明和信息披露</h3><p>请阅读<a href=“https://genetica.asia/privacy-policy\">https://genetica.asia/privacy-policy</a>仔细了解Gene Friend如何收集、处理、存储、使用和披露有关用户的信息，以及如何更新或更改您的个人信息，以及我们如何与您沟通</p> <p>您承认并同意Gene Friend有权随时监控其人员对其系统的任何使用，并保留记录此类监控的副本。Gene Friend可自行决定以任何理由限制您访问网站和/或应用程序。我们的隐私声明和信息披露规定了任何个人在使用基因之友服务、网络和/或应用程序或其他系统方面对隐私的唯一期望。除非法律要求，Gene Friend在未经您明确同意的情况下，绝不会向任何第三方发布您的个人级遗传信息和/或自我报告信息</p> <h3>9.用户行为-非法和禁止使用</h3><p>作为您使用服务和/或网站和/或应用程序的条件，您向Gene Friend保证，您不会将服务用于任何非法或受本服务条款和适用法律禁止的目的。您不得以任何可能损坏、禁用、负担过重或损害服务或干扰任何其他方使用和享受服务的方式使用服务。您不得通过任何非故意通过服务提供或提供的方式获取或试图获取任何材料或信息</p> <p>此外，您同意不进行任何非法或受本服务条款和适用法律禁止的行为，和/或侵犯任何其他用户的合法权利或利益，和/或者对网站和/或应用程序和/或我们的服务造成损害或伤害</p> <p>您承认并同意，您对您违反本服务条款项下的义务或承诺以及任何此类违约的后果（包括Gene Friend可能遭受的任何损失或损害）承担全部责任（Gene Friends对您或任何第三方不承担任何责任）。如果您违反这些协议中的任何一项，Gene Friend有权暂停或终止您的Genetica账户，并拒绝您当前或未来使用服务（或其任何部分），您将保护和赔偿Gene Friends、其许可方及其任何其他附属公司免受任何责任、成本、，或因违反陈述而产生的损害赔偿</p> <p>如果您违反了本节的条款和/或Gene Friend有合理理由怀疑您违反了该节的条款，Gene Friends有权暂停或终止您的Genetica账户，并拒绝您当前或未来使用服务（或其中任何部分）</p> <h3>10.通过服务发布的材料</h3><p>Gene Friend在任何时候都不会控制通过该服务发布的任何用户内容，因此，也不能保证此类非Gene Friends内容的准确性、完整性或合法性。您承认并同意，您必须评估并承担与使用任何内容相关的所有风险，包括对此类内容的准确性、完整性或有用性的任何依赖</p> <p>在任何情况下，Gene Friend都不会以任何方式对通过服务提供的任何内容和/或任何非Gene Friends内容进行预筛选、审查、过滤、修改、拒绝或移动负责，包括但不限于任何此类内容中的任何错误或遗漏，或因使用发布的任何此类内容而产生的任何类型的损失或损害，通过电子邮件或其他方式通过服务传输。然而，基因之友应有权删除任何违反本服务条款的内容，或基因之友自行认为在其他方面令人反感的内容</p> <h3>11.提供给GENE FRIEND的材料-您的专有权</h3><p>（i）用户内容：您承认，所有用户内容，无论是公开发布还是私下传输，都是此类用户内容来源的个人的唯一责任。这意味着，您（而不是Gene Friend）对您通过服务上传、发布、发送电子邮件或以其他方式传输的所有用户内容负有全部责任。Gene Friend不会声称您向Gene Friends提供的用户内容（包括反馈和建议）的所有权，也不会向服务发布、上传、输入或提交用户内容。除非另有规定，否则您保留对您创建并在服务上或通过服务提交、发布或显示的用户内容的版权和任何其他权利。然而，通过提交、发布或显示用户内容，您向Gene Friend、其关联公司、分许可方、许可方以及继承人和受让人授予永久、不可撤销、全球范围内、免版税和非排他性的许可，以复制、改编、修改、翻译、发布、公开表演、公开展示、分发、复制、编辑、重新格式化，并根据您在服务上或通过服务提交、发布或显示的任何用户内容创建衍生作品。您承认并同意，本许可证包括基因朋友向与基因朋友有关系的其他公司、组织或个人提供此类用户内容的权利，以及将此类用户内容用于提供服务的权利</p> <p>您理解，Gene Friend在执行向我们的用户提供服务所需的技术步骤时，可能（a）通过各种公共网络和各种媒体传输或分发您的用户内容；以及（b）对您的内容进行必要的更改，以使该内容符合连接网络、设备、服务或媒体的技术要求。您承认并同意本许可证将允许Gene Friend采取这些行动。您向Gene Friend声明并保证，您拥有授予上述许可所需的所有权利、权力和权限</p> <p>（ii）遗传和/或自我报告信息：除非法律要求，否则未经明确同意，不得向第三方披露个人层面的遗传和（或）自我报告信息。请注意，基因之友无法控制您在基因之友网站和/或应用程序上公开分享的基因和/或自我报告信息的任何进一步分发。您承认并同意您有责任保护和执行这些权利，Gene Friend没有义务代表您这样做</p> <p>您的唾液样本一旦提交给我们并由我们进行分析，将以不可逆的方式进行处理，无法退还给您。有关示例处理的更多信息，请参阅我们的Web和/或应用程序。从您的唾液中获得的任何遗传信息仍然是您的信息，受我们在本服务条款中规定的权利约束。您明白，您不应因处理您的基因信息而期望基因朋友带来任何经济利益；向您提供；或者，根据我们的隐私声明和信息披露以及TOS中的规定，与包括商业合作伙伴在内的研究合作伙伴共享或包含在汇总遗传和自我报告信息中</p> <p>（iii）<b>放弃财产权</b>：如上所述，您理解，通过提供任何样本、处理您的遗传信息、访问您的基因信息或提供自我报告信息，您不会获得Gene Friend或其合作伙伴可能开发的任何研究或商业产品的权利。您明确理解，您将不会因包含您的遗传信息或自我报告信息或由此产生的任何研究或商业产品而获得补偿</p> <h3>12.赔偿</h3><p>您同意保护Gene Friend及其子公司、附属公司、高管、代理人、许可方、承包商、合作伙伴、员工、继任者和受让人免受任何第三方因您提交、发布或通过服务传输的用户内容而提出的任何索赔或要求，包括合理的律师费；您对服务的使用；您与服务的连接；您违反这些TOS；或者侵犯他人的任何权利。</p><p>如果您提交了唾液样本或以其他方式提供了您自己的遗传信息，您将保护Gene Friend、其员工、许可方、承包商、继承人和受让人免受因使用或披露从唾液样本基因分型和/或分析您的遗传信息中获得的任何信息而产生的任何责任，根据我们的隐私声明和信息披露或我们提供的任何第三方附加工具的结果向您披露的信息。此外，如果您选择向第三方提供您的基因和/或自我报告信息，无论是您有意或无意为其提供便利的个人，还是出于诊断或其他目的向第三方向其提供信息，您同意保护Gene Friend、其员工、许可方、承包商、继承人，并免除因披露或使用您的遗传和/或自我报告信息而产生的任何和所有责任</p> <h3>13.不得转售服务</h3><p>除非您和Gene Friend之间的单独协议另有约定，否则您同意不展示、分发、许可、执行、发布、复制、复制、创建衍生作品、修改、出售、转售、利用、转让或出于任何商业目的传输全部或任何部分服务、使用服务，或访问服务</p> <h3>14.服务修改</h3><p>Gene Friend保留随时临时或永久修改或终止服务（或其任何部分）的权利，无论是否发出通知。您承认并同意：（i）修改可能导致Gene Friend某些功能或服务的计算延迟，以及（ii）Gene Friends不对您或任何第三方对服务的任何修改、暂停或中止承担责任</p> <p>您使用的软件（定义见下文第19节）可能会不时自动从Gene Friend下载并安装更新。这些更新旨在改进、增强和进一步开发服务，可以采取错误修复、增强功能、新软件模块和全新版本的形式。您同意接收此类更新（并允许Gene Friend向您提供这些更新），作为您使用服务的一部分</p> <p>您承认，Gene Friend可能会在未来提供不同或额外的技术或功能来收集和/或解释遗传信息，并且您首次购买该服务不会使您有权免费获得任何不同或额外技术或功能以收集或解释您的遗传信息，并且您将不得不支付额外费用，以便使用任何未来或额外的技术或功能收集、处理和/或解释您的遗传信息</p> <h3>15.终止</h3><p>Gene Friend可以在任何时候终止与您的法律协议（以及您的密码和Genetica帐户），如果：（i）您违反了这些TOS的任何条款（或以表明您不打算或无法遵守这些TOS条款的方式行事）；（ii）法律要求Gene Friend这样做（例如，向您提供服务是非法的或变得非法的）；（iii）Gene Friend向您提供服务的许可方已终止与Gene Friends的关系或停止向您提供该服务；（iv）Gene Friend正在过渡到不再向您居住或使用服务的国家或州的用户提供服务；或（v）基因朋友认为基因朋友向您提供服务在商业上不再可行。</p><p>任何涉嫌欺诈、滥用或非法活动，可能会成为您终止使用服务的理由，可将其提交给适当的执法部门。您承认并同意，Gene Friend对您或任何第三方终止使用服务不承担任何责任</p> <h3>16.条款的存续</h3><p>当这些TOS结束时，您和Gene Friend从中受益、受到约束（或在这些TOS生效期间随着时间的推移而累积）或表示无限期持续的所有法律权利、义务和责任均不受此终止的影响，并且第1节（定义）的规定也不受此影响；2.（接受条款）；3.（先决条件）；4.（服务说明）；5.（有关服务的风险和注意事项）；6.（用户陈述）；7.（账户创建、Genetica账户、密码和安全义务）；8.（基因朋友隐私声明和信息披露）；9.（用户行为——非法和禁止使用）；10.（通过服务张贴的材料）；11.（提供给Gene Friend的材料——您的专有权）；12.（赔偿）；13.（不得转售服务）；15.（终止）；16.（条款的存续）；17.（与信息提供商和上市资源的交易）；18.（超链接和第三方网站）；19.（基因之友专有权）；20.（免责声明）；21.（责任限制）；22.（通知）；24.（违反或涉嫌违反TOS）；和25.（杂项）应无限期地继续适用于此类权利、义务和责任</p> <h3>17.与信息提供商和上市资源的交易</h3><p>您与信息提供商、供应商和/或通过服务找到的资源的通信或业务往来，或参与信息提供商、供货商和/或资源的促销活动，包括相关商品或服务的付款和交付，以及与此类交易相关的任何其他条款、条件、保证或陈述，仅在您和此类信息提供商或资源之间。您承认并同意，对于因任何此类交易或因服务中存在此类信息提供商或资源而产生的任何类型的损失或损害，Gene Friend不承担任何责任</p> <h3>18.HYPERLINKS和第三方网站</h3><p>服务提供，并且第三方可能提供到互联网上其他网站和资源的链接（“<b>第三方站点和资源</b>”）。由于Gene Friend对此类第三方网站和资源没有控制权，您承认并同意Gene Friends不对此类第三方网站或资源的可用性负责，也不对此类第二方网站或资源上或可从其获得的任何内容、广告、产品或其他材料背书，也不负责。您进一步承认并同意，对于因使用或依赖任何此类第三方网站或资源上或通过任何此类网站或资源提供的任何此类内容、商品或服务而造成或声称造成的任何损害或损失，Gene Friend不承担直接或间接的责任</p> <h3>19.基因朋友的专有权</h3><p>您承认并同意基因朋友（或基因朋友的许可方，如适用）拥有服务的所有合法权利、所有权和权益，包括服务中存在的任何知识产权（包括但不限于专利）（无论这些权利是否碰巧注册，以及这些权利在世界上任何地方可能存在）。您进一步承认，服务可能包含Gene Friend指定的保密信息，未经Gene Friends事先书面同意，您不得披露此类信息</p> <p>您进一步承认并同意，服务和与服务相关的任何必要软件（“<b>软件</b>”）包含受适用知识产权和其他法律保护的专有和机密信息。您进一步承认并同意，通过服务或赞助商向您提供的信息受版权、商标、服务标志、专利或其他所有权和法律的保护。除非Gene Friend明确授权，否则您同意且不允许任何其他人修改、出租、租赁、贷款、出售、分发或创建服务或软件或其任何部分的全部或部分源代码，或进行反向工程、反编译或以其他方式试图提取服务或软件的源代码。可从服务下载的软件（如有），不包括最终用户通过服务提供的软件，是Gene Friend和/或其供应商的版权作品。您对本软件的使用受最终用户许可协议（如有）的条款管辖，该协议随本软件附带或包含在本软件中（“<b>许可协议</b>”）。除非您首先同意许可协议条款，否则您不得安装或使用任何附带或包含许可协议的软件</p> <p>Gene Friend Way，Inc.、Gene Fiend、Genetica和其他Gene Fliend的徽标以及产品和服务名称是Gene Freend的商标或许可给Gene Frind的，这些标记与任何其他Gene-Friend商标、服务标记、徽标、域名和其他独特的品牌特征一起是“Gene F朋友标记”。除非您与Gene Friend另有书面约定，否则这些TOS中的任何内容都不赋予您使用任何Gene Friends标记的权利，并且您同意不显示或以任何方式使用Gene Friday标记</p> <p>您同意，您不得删除、模糊或更改任何可能贴在服务上或包含在服务中的所有权声明（包括版权和商标声明）</p> <p>除非Gene Friend以书面形式明确授权您这样做，否则您同意在使用服务时，您不会使用任何公司或组织的任何商标、服务商标、商品名称、徽标，从而可能或意图对此类商标、名称或徽标的所有者或授权用户造成混淆</p> <p>对于任何未附带许可协议的软件，Gene Friend授予您在一台计算机上使用其软件的目标代码的个人、不可转让和非排他性权利和许可。除非法律明确允许或要求，否则您不得（也不得允许任何第三方）复制、修改、创建的衍生作品、反向工程、反向组装或以其他方式试图发现任何源代码、出售、转让、再许可、授予担保权益或以其他方式转让软件中的任何权利，或者除非吉恩·弗伦德以书面形式明确告诉你可以这样做。本许可证的唯一目的是使您能够以本服务条款允许的方式使用和享受Gene Friend提供的服务。除非Gene Friend已给予您具体的书面许可，否则您不得转让（或授予其分许可）您使用本软件的权利，不得授予您使用本“软件”的权利的担保权益，也不得以其他方式转让您使用本《软件》的任何部分权利。您同意不以任何方式或形式修改软件，也不使用软件的修改版本，包括（但不限于）以获得未经授权的服务访问权限为目的。您同意不通过Gene Friend提供的用于访问服务的接口以外的任何方式访问服务。保留本协议未明确授予的任何权利</p> <h3>20.免责声明</h3><p>您明确承认并同意：</p><p>（i）您使用服务的风险由您自行承担。这些服务是在“现状”和“可用”的基础上提供的。GENE FRIEND明确否认任何形式的保证，无论是明示的还是暗示的，包括但不限于对适销性、适用于特定目的和不侵权的暗示保证</p> <p>（ii）GENE FRIEND不保证（a）服务符合您的要求；（b） 服务将是不间断的、及时的、可靠的或无错误的；（c） 可以从服务的使用中获得的结果将是准确或可靠的；（d） 您通过服务购买或获得的任何产品、服务、信息或其他材料的质量将符合您的预期，并且（e）软件中的任何错误都将得到纠正</p> <p>（iii）通过使用服务下载或以其他方式获得的任何材料由您自行决定并承担风险，您将对下载任何此类材料对您的计算机系统造成的任何损坏或数据丢失承担全部责任</p> <p>（iv）您从GENE FRIEND和/或通过或从服务获得的任何和所有建议或信息（包括但不限于基因信息），无论是口头的还是书面的，仅用于您的参考目的，不得以任何方式被视为医疗建议，应自担风险使用，并由您自行负责，并且不应产生本说明书中未明确规定的任何担保</p> <p>（v）在提供任何关于你自己或你有合法权限的人的个人身份信息时，你应该始终小心。GENE FRIEND不控制或认可您参与服务所产生的任何行为，因此，GENE friends明确否认对您参与服务产生的任何行动承担任何责任</p> <p>（vi）只有您对您向基因朋友提供的信息和/或唾液样本的完整性、准确性和合法性以及基因朋友根据这些服务条款使用此类个人信息和唾液样本负责</p> <h3>21.责任限制</h3><p>在适用法律允许的范围内，您明确承认并同意GENE FRIEND不对任何直接、间接、附带、特殊、后果性或示范性损害承担责任，包括但不限于利润损失、商誉、使用、，由于以下原因造成的数据或其他无形损失（即使GENE FRIEND已被告知此类损失的可能性）：（i）使用或无法使用服务；（ii）您根据通过服务或从服务收到的信息采取的任何行动，（iii）您未能对您的密码或GENETICA账户详细信息保密，（iv）由于任何商品、数据、信息，或通过或从服务购买或获得的服务，或接收到的消息或达成的交易；（v） 未经授权访问或更改您的传输或数据；（vi）声称拥有此类授权的人对服务的不当授权；或（vii）任何第三方对服务的声明或行为</p> <h3>22. 通知</h3><p>可以通过电子邮件或普通邮件向您发出通知。Gene Friend也可以通过在服务上或通过服务向您显示通知或通知链接来提供这些TOS或其他事项的更改通知</p> <p>与这些TOS相关的官方通知必须发送给我们，地址为：</p><p><b>Gene Friend Vietnam Company Limited</b></p><p><b>越南胡志明市第3区Vo Thi Sau Ward Pham Ngoc Thach街40号2楼</b><p><p>您在不遵守本通知条款的情况下提供的任何通知均不具有法律效力</p> <h3>23.对这些TOS的更改</h3><p>Gene Friend保留在任何时候自行决定更改、修改和/或删除所有或任何部分这些TOS。任何更改或修改将在将修订发布到Web和应用程序后立即生效，您放弃收到此类更改或修改的具体通知的任何权利。您承认并同意，如果您在这些TOS更改后使用服务，Gene Friend将视您的使用为接受更新的TOS。因此，您应该经常查看这些服务条款，以了解适用于服务的条款和条件。如果您不同意更新的TOS，您必须停止使用服务</p> <h3>24.违反或涉嫌违反服务条款</h3><p>如果您违反了这些服务条款和/或Gene Friend有合理理由怀疑您违反了服务条款，Gene Friends有权暂停或终止您的Genetica账户，并拒绝您当前或未来使用服务（或其任何部分）</p> <h3>25.其他条款</h3><p>（i）<b>完整协议</b></p><p>这些服务条款构成您与吉恩·弗伦德之间的完整协议，并管辖您对服务的使用，取代您与吉恩·弗伦德之前就此达成的任何协议。当您使用附属服务、第三方内容或第三方软件时，您还可能受到其他条款和条件的约束</p> <p>（ii）<b>适用法律和争议解决</b></p><p>由本服务条款或服务引起或与之相关的所有索赔或争议应根据越南适用法律解决</p> <p>（iii）<b>弃权</b></p><p>Gene Friend未能行使或执行本服务条款中的任何权利或规定不应构成对该权利或规定的弃权。如果具有管辖权的法院认定本服务条款的任何条款无效，双方同意法院应努力实现条款中反映的双方意图，且本服务条款中的其他条款仍然完全有效</p> <p>（iv）<b>印刷版的可接受性</b></p><p>本服务条款的印刷版和以电子形式发出的任何通知在基于本服务条款或与本服务条款有关的司法或行政程序中应可接受，其程度和条件与最初以印刷形式生成和保存的其他业务文件和记录相同。</p></p>（v）<b>章节标题</b></p><p>本服务条款中的章节标题仅为方便起见，不具有法律或合同效力</p> <p>（vi）<b>转让</b></p><p>您不得转让或委托您在TOS下的任何权利或义务。任何声称的转让和授权均无效。我们可以完全或部分自由转让或委托我们在TOS下的任何和所有权利和义务，而无需通知您。我们也可以通过单方面更替的方式，在通知您后生效，Gene Friend代替承担我们在这些TOS下的权利和义务的任何第三方</p> <p>上次更新时间：2022年10月14日</p>",
+    "sidebar": {
+      "menu": {
+        "privacyPolicy": {
+          "label": "隐私政策"
+        },
+        "termsOfService": {
+          "label": "服务条款"
+        }
+      }
+    }
+  },
+  "unlockv2": {
+    "body": {
+      "formCartDetails": {
+        "header": {
+          "title": "服务"
+        },
+        "labels": {
+          "unlock": "开锁",
+          "removed": "已删除",
+          "for": "给"
+        },
+        "actions": {
+          "saveCartItemForLater": {
+            "text": "删除"
+          },
+          "undoSaveCartItemForLater": {
+            "text": "撤消"
+          }
+        }
+      }
+    }
+  },
+  "verified": {
+    "error": "发生错误。 请重新打开链接！",
+    "description": "您的信息已经确认",
+    "contact": "如果您需要任何进一步的支持，请通过<1>1900599927</1> 或<3>cs@genetica.asia</3> 联系我们。",
+    "backToHome": "返回首页"
+  },
+  "verify": {
+    "header": {
+      "title": "重要信息",
+      "description": "确认以下信息有助于保护您的基因报告的机密性。"
+    },
+    "body": {
+      "form": {
+        "field": {
+          "name": {
+            "label": "全名",
+            "value": {
+              "empty": "不可用"
+            },
+            "error": {
+              "empty": "请不要将此字段留空"
+            }
+          },
+          "phone": {
+            "label": "接报电话",
+            "notification": "请在登录 Genetica 应用程序时使用此电话号码查看详细报告"
+          },
+          "email": {
+            "label": "接收报告的电子邮件",
+            "value": {
+              "empty": "不可用"
+            },
+            "error": {
+              "format": "不合规电邮",
+              "empty": "请不要将此字段留空"
+            }
+          },
+          "dob": {
+            "label": "出生日期",
+            "value": {
+              "empty": "不可用"
+            },
+            "error": {
+              "format": "出生日期无效",
+              "empty": "请不要将此字段留空",
+              "limitAge": "您注册的服务不适用于您输入的年龄。 通过 1900 599 927 联系 Genetica 以获得任何支持"
+            }
+          },
+          "gender": {
+            "label": "性别",
+            "values": {
+              "empty": "不可用",
+              "male": "男性",
+              "female": "女性",
+              "unspecified": "未指定"
+            },
+            "error": {
+              "empty": "请不要将此字段留空"
+            }
+          },
+          "policy": {
+            "label": "我特此同意提供我的信息以执行 Genetica(r) 的服务。 我保证信息的准确性，并对以上提供的信息承担全部责任。"
+          },
+          "submit": {
+            "label": "确认"
+          }
+        }
+      }
+    }
+  },
+  "whatIsGeneDecoding": {
+    "header": {
+      "title": "解码基因是什么？"
+    },
+    "body": {
+      "sectionHero": {
+        "title": "什么是基因检测，<br/>基因解码？",
+        "description": "基因解码使用实验室方法破译基因内的脱氧核糖核酸 (DNA)。 基因存在于你的细胞内，是你从父母那里继承来的材料。 通过基因测试进行基因解码有助于确定与遗传相关的问题，例如智力和身体潜力、行为倾向和健康风险。"
+      },
+      "sectionBenefits": {
+        "title": "基因检测的好处",
+        "description": "有多种类型的基因测试。 基因检测有助于：",
+        "benefits": {
+          "1": {
+            "title": "根据<br/>你的基因探索你自己",
+            "items": {
+              "0": "优化您的锻炼计划。",
+              "1": "优化您的营养计划。"
+            }
+          },
+          "2": {
+            "title": "个性化推荐",
+            "items": {
+              "0": "探索学术潜力。",
+              "1": "磨练你的长处。",
+              "2": "改进你的缺点。"
+            }
+          },
+          "3": {
+            "title": "疾病预防保健",
+            "items": {
+              "0": "诊断疾病。",
+              "1": "确定引起疾病的突变。",
+              "2": "确定疾病的严重程度。",
+              "3": "确定显示传递给您的孩子的可能性的突变。",
+              "4": "指导适合每个人的药物和治疗。",
+              "5": "确定增加患病风险的突变。"
+            }
+          }
+        }
+      },
+      "sectionWhy": {
+        "title": "为什么要进行基因检测？",
+        "description": "分析基因并掌握您的“生物图谱”，释放潜能并帮助<br>人们实现最佳状态。",
+        "reasons": {
+          "1": {
+            "title": "了解基因如何影响您的身体。",
+            "description": "近年来，基因检测为全球医学和科学贡献了重要信息。 遗传基因使我们能够了解 DNA 的变异如何相互作用并影响我们的发育、行为和健康基础。"
+          },
+          "2": {
+            "title": "基因就像万能钥匙，帮助我们了解自己。",
+            "description": "基因打开了我们体内隐藏信息的潘多拉，使每个人都以自己的方式独一无二。"
+          }
+        }
+      }
+    }
+  }
+}

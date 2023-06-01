@@ -1,0 +1,67 @@
+{
+  "content": {
+    "FAQs": {
+      "1": {
+        "question": "1. <span>GeneNFT</span> là gì?",
+        "answer": "<span>GeneNFT</span> là một loại tài sản kỹ thuật số, đại diện cho dữ liệu gen của một cá nhân. Bộ gen của mỗi người là duy nhất, vì vậy <span>GeneNFT</span> của bạn cũng là duy nhất."
+      },
+      "2": {
+        "question": "2. Mục đích của <span>GeneNFT</span> là gì?",
+        "answer": "Bên cạnh là tài sản kỹ thuật số, <span>GeneNFT</span> có vai trò như một chứng chỉ đảm bảo việc người dùng thực sự sở hữu dữ liệu gene của họ."
+      },
+      "3": {
+        "question": "3. Cách thức hoạt động của <span>GeneNFT</span>? Làm sao để sở hữu?",
+        "answer": "Sau khi thực hiện Dịch vụ Giải mã gen tại Genetica, dữ liệu gen của bạn sẽ được mã hóa, lưu trữ, bảo mật và quản trị trên hệ thống của Gene Friend Network với định dạng là tài sản kỹ thuật số. Và Gene Friend Network ghi nhận quyền sở hữu tài sản này cho bạn."
+      },
+      "4": {
+        "question": "4. Tôi có thể kiểm tra <span>GeneNFT</span> của tôi bằng cách nào?",
+        "answer": {
+          "1": "1. Tải và mở ứng dụng Genetica.",
+          "2": "2. Truy cập app Genetica, vào <b>Genetica Wallet</b> (Ví Genetica), mở tab <span>GeneNFT</span>, người dùng có thể:<ul><li>- Nhìn thấy certificate <span>GeneNFT</span> của chính mình</li><li>- Kiểm tra NFT token trực tiếp trên mạng blockchain</li></ul>"
+        }
+      },
+      "5": {
+        "question": "5. Một số chính phủ chưa công nhận NFT là một tài sản kỹ thuật số, vậy có rủi ro nào khi sở hữu nó hay không?",
+        "answer": "Bạn không chịu bất kỳ rủi ro pháp lý nào liên quan đến <span>GeneNFT</span>. <span>GeneNFT</span> đơn giản quyền sở hữu dữ liệu của bạn. Chúng tôi số hoá quyền sở hữu này thông qua NFT và giao nó cho bạn quản lý."
+      },
+      "6": {
+        "question": "6. <span>GeneNFT</span> có giúp tôi kiếm được tiền không, và bằng cách nào?",
+        "answer": "<p>Không có một đảm bảo nào về khả năng tạo ra thu nhập tài chính từ dữ liệu gen của một người. Theo kiến thức của chúng tôi, chưa từng có một trường hợp nào được ghi nhận rằng đã trở nên giàu có thông qua bán hay cho thuê dữ liệu di truyền của bản thân.</p><p>Tuy nhiên, thông tin di truyền của một tập hợp các cá thể phù hợp với một phạm vi nghiên cứu cụ thể có thể giúp ích cho các nỗ lực nghiên cứu nhằm ứng dụng thông tin di truyền vào các lĩnh vực như y học các thể hoá, thuốc chuyên biệt theo cá thể…. Trong các trường hợp này, các tổ chức nghiên cứu thường sẵn lòng tài trợ một khoản chi phí nhỏ cho quyền truy cập phân tích dữ liệu di truyền.</p><p>Người sở hữu <span>GeneNFT</span> có quyền cho phép hoặc không cho phép ai truy cập vào dữ liệu gene của họ, để đổi lại một khoản phí tài trợ như trên, hoặc đơn giản là miễn phí vì mục tiêu tiến bộ của nhân loại.</p><p>Tất cả các truy cập dữ liệu được uỷ quyền từ chính người chủ sở hữu của bộ gen (là chính bạn) đều được ghi nhận đầy đủ và minh bạch với người chủ sở hữu.</p>"
+      }
+    },
+    "contactForm": {
+      "title": "Nhận tư vấn miễn phí về <span>GeneNFT</span>",
+      "description": "Để lại thông tin, Genetica® sẽ liên hệ để tư vấn cho bạn sớm nhất",
+      "form": {
+        "field": {
+          "name": "Họ và tên (không bắt buộc)",
+          "phone": "Số điện thoại"
+        },
+        "submit": "Gửi yêu cầu"
+      },
+      "more": "Hiểu thêm về Giải mã gen"
+    },
+    "modalSuccess": {
+      "header": {
+        "title": "Yêu cầu thành công",
+        "description": "Liên hệ <1>1900 599 927</1> để được hỗ trợ nhanh nhất."
+      },
+      "action": {
+        "close": {
+          "label": "Đóng"
+        }
+      }
+    },
+    "modalError": {
+      "header": {
+        "title": "Yêu cầu thất bại",
+        "description": "Liên hệ <1>1900 599 927</1> để được hỗ trợ nhanh nhất."
+      },
+      "action": {
+        "close": {
+          "label": "Thử lại"
+        }
+      }
+    }
+  }
+}

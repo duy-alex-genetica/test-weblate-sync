@@ -1,0 +1,27 @@
+{
+  "policies": {
+    "children": {
+      "termsOfService": {
+        "label": "Terms of Service"
+      },
+      "privacyPolicy": {
+        "label": "Privacy Policy"
+      },
+      "generalTransactionConditions": {
+        "label": "General Transaction Conditions"
+      },
+      "serviceDeliveryProcess": {
+        "label": "Service Delivery Process"
+      },
+      "paymentMethods": {
+        "label": "Payment Methods"
+      },
+      "returnAndComplaintHandlingPolicy": {
+        "label": "Complaint Handling Policy"
+      },
+      "serviceExchangeCancellationAndRefundPolicy": {
+        "label": "Service Exchange, Cancellation & Refund Policy"
+      }
+    }
+  }
+}

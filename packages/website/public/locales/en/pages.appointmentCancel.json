@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "Cancel appointment"
+  },
+  "body": {
+    "information": {
+      "labels": {
+        "appointmentInformation": "Appointment information",
+        "consultationTime": "Date and time",
+        "consultationFor": "For",
+        "method": "Method"
+      },
+      "reason": "Enter the reason you cancel appointment"
+    },
+    "question": "Let us know why you cancel the session",
+    "actions": {
+      "backToHome": "No, i want to keep this session",
+      "cancel": "Cancel"
+    }
+  },
+  "success": {
+    "body": {
+      "title": "Successfully canceled",
+      "description": "Your consultation appointment has been canceled with the reason: <b>“{{reason}}”</b>. Please contact 1900599927 if you need any assistant.",
+      "actions": {
+        "backToHome": "Back to home page"
+      }
+    }
+  },
+  "appointmentCanceled": {
+    "description": "Your consultation appointment has been canceled. Please contact 1900599927 if you need any assistant.",
+    "actions": {
+      "backToHome": "Back to home page"
+    },
+    "loading": "Loading"
+  },
+  "appointmentCompleted": {
+    "description": "Your consultation session has been completed. Please contact 1900599927 for any support."
+  },
+  "appointmentOverScheduleTime": {
+    "description": "You cannot cancel this appointment since it has started . Please contact 1900599927 if you need any assistant."
+  }
+}

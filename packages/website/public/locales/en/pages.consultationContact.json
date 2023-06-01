@@ -1,0 +1,77 @@
+{
+  "header": {
+    "title": "Book a consultation session"
+  },
+  "body": {
+    "title": "Select consultation channel",
+    "content": {
+      "menu": {
+        "phone": "Online",
+        "office": "Meet up"
+      },
+      "form": {
+        "label": {
+          "1": "Contact information",
+          "2": "Consultation time",
+          "3": "Select time slot",
+          "4": "Buy for",
+          "5": "Topic",
+          "6": "Price range (optional)",
+          "7": "Select price",
+          "8": "Location"
+        },
+        "name": "Your name (optional)",
+        "dropdown": {
+          "labelDefault": "Select",
+          "price": {
+            "labelDefault": "Select price"
+          },
+          "timeBooking": {
+            "labelDefault": "Select time slot"
+          }
+        },
+        "locations": {
+          "1": {
+            "label": "Hà Nội Office",
+            "description": "9th Floor, National Innovation Center - NIC Building, Lane 07 Ton That Thuyet Street, Dich Vong Hau Ward, Cau Giay District"
+          },
+          "2": {
+            "label": "Hồ Chí Minh Office",
+            "description": "2nd Floor, 40 Pham Ngoc Thach Street, Vo Thi Sau Ward, Dist.3"
+          }
+        },
+        "serviceUsers": {
+          "1": "Kid",
+          "2": "Adult"
+        },
+        "topics": {
+          "1": "Nutrition, fitness",
+          "2": "Intelligence, behavior",
+          "3": "Health and Wellness",
+          "4": "Child development"
+        },
+        "priceOptions": {
+          "1": "Under 3,000,000đ",
+          "2": "From 3,000,000đ to 5,000,000đ",
+          "3": "From 5,000,000đ to 10,000,000đ",
+          "4": "Above 10,000,000đ"
+        },
+        "button": {
+          "label": "Book"
+        }
+      }
+    }
+  },
+  "modal": {
+    "success": {
+      "online": {
+        "content": "Thank you for your interest in Genetica®! Our staff will contact you as soon as possible. Please make sure your mobile is available at any time.",
+        "action": "Back to home"
+      },
+      "meetUp": {
+        "content": "Thank you for your interest in Genetica®! Our staff will contact you as soon as possible.",
+        "action": "Back to home"
+      }
+    }
+  }
+}

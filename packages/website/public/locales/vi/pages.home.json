@@ -1,0 +1,139 @@
+{
+  "title": "Genetica® Xét Nghiệm Gen Công Nghệ Mỹ cho người Châu Á",
+  "section1": {
+    "title": "Khám phá bộ gen<br>Làm chủ tương lai",
+    "description": "Tối ưu cuộc sống của bạn và gia đình yêu thương bằng dữ liệu di truyền.",
+    "button": {
+      "label": "Tìm hiểu thêm"
+    }
+  },
+  "sectionTutorials": {
+    "body": {
+      "list": {
+        "0": {
+          "subtitle": "Bạn đã nhận được ống thu mẫu?",
+          "title": "Xem hướng dẫn lấy mẫu"
+        },
+        "1": {
+          "subtitle": "Bạn đã nhận được báo cáo?",
+          "title": "Đặt lịch hẹn tư vấn",
+          "actions": {
+            "book": {
+              "label": "Đặt lịch ngay"
+            }
+          }
+        }
+      }
+    }
+  },
+  "section2": {
+    "header": {
+      "title": "Hơn 1000 báo cáo chỉ với 1 click chuột"
+    },
+    "footer": {
+      "text": "* Với mức giá khởi điểm, bạn sẽ nhận được gói dịch vụ nền tảng - <b>Care</b>. Nâng cấp lên gói dịch vụ tối ưu - <b>Pro</b> để tận hưởng những lợi ích độc đáo đi kèm."
+    }
+  },
+  "sectionProcess": {
+    "header": {
+      "title": "Quy trình xét nghiệm DNA<br/>đơn giản bao gồm 3 bước"
+    },
+    "body": {
+      "list": {
+        "1": {
+          "title": "Đặt mua bộ thu mẫu",
+          "description": "Bộ dụng cụ lấy mẫu DNA của Genetica sẽ được giao trực tiếp đến địa chỉ bạn đã đăng ký."
+        },
+        "2": {
+          "title": "Cung cấp mẫu nước bọt",
+          "description": "Bạn chỉ cần làm theo hướng dẫn có sẵn bên trong bộ dụng cụ lấy mẫu DNA để thu thập nước bọt của mình. Sau khi hoàn tất, hãy gửi lại mẫu nước bọt của bạn để chúng tôi phân tích DNA."
+        },
+        "3": {
+          "title": "Nhận kết quả sau 30 ngày làm việc",
+          "description": "Cài đặt ứng dụng Genetica trên điện thoại để xem kết quả giải mã gen và các khuyến nghị dành cho bạn."
+        }
+      }
+    }
+  },
+  "sectionLearnMoreAboutUs": {
+    "header": {
+      "title": "Tìm hiểu về chúng tôi"
+    },
+    "body": {
+      "actions": {
+        "viewMore": {
+          "label": "Xem thêm"
+        }
+      }
+    }
+  },
+  "sectionPrivacyAndSecurityStatement": {
+    "title": "Chính sách bảo mật và quyền riêng tư",
+    "description": "Tại Genetica®, thông tin của bạn hoàn toàn được bảo mật. Chúng tôi đặc biệt chú trọng đến tính riêng tư, an toàn và dữ liệu di truyền chỉ có thể được truy cập bởi chính người sở hữu."
+  },
+  "sectionAdvisors": {
+    "header": {
+      "title": "Ban cố vấn với bề dày chuyên môn",
+      "description": "Thành viên Ban Cố vấn của Genetica® là những nhà đầu tư nổi tiếng nhất từ thung lũng Silicon và các giáo sư thuộc Liên đoàn những trường Đại học xuất sắc nhất thế giới như Harvard, Stanford, Cornell,...",
+      "actions": {
+        "button": {
+          "label": "Tìm hiểu thêm"
+        }
+      }
+    }
+  },
+  "sectionTestimonials": {
+    "header": {
+      "title": "Trải nghiệm khách hàng"
+    },
+    "body": {
+      "content": {
+        "slide": {
+          "cta": {
+            "content": "<p>Genetica tự hào đã phục vụ hơn hàng nghìn khách hàng trong việc mang đến giải pháp tối ưu sức khoẻ. </p> <p> Hãy lắng nghe câu chuyện của khách hàng Genetica và chia sẻ câu chuyện của bạn với chúng tôi. </p>",
+            "actions": {
+              "listenToOtherStory": "Lắng nghe những câu chuyện khác"
+            }
+          }
+        }
+      },
+      "actions": {
+        "viewMore": {
+          "label": "Xem thêm"
+        }
+      }
+    },
+    "list": {
+      "0": {
+        "giver": {
+          "name": "Vy Le",
+          "description": "Triathlete"
+        },
+        "comment": {
+          "title": "Tuyệt vời",
+          "content": "Tôi hài lòng với báo cáo giải mã gen của GENETICA®. Việc giải mã gen thực sự có ý nghĩa, nhờ đó tôi có thể điều chỉnh lại các bài tập hợp lý và hiệu quả hơn."
+        }
+      },
+      "1": {
+        "giver": {
+          "name": "Anh Nguyen",
+          "description": "Chồng và cha"
+        },
+        "comment": {
+          "title": "Tuyệt vời",
+          "content": "Báo cáo giải mã gen của Genetica® giúp tôi hiểu được điểm mạnh và điểm yếu của mình, cho phép tôi cá nhân hoá chế độ luyện tập để có một cơ thể khoẻ đẹp hơn."
+        }
+      },
+      "2": {
+        "giver": {
+          "name": "Lam Nguyen",
+          "description": "Vận động viên chạy bền"
+        },
+        "comment": {
+          "title": "Tuyệt vời",
+          "content": "Tôi có thể tối ưu hoá chế độ tập luyện được thiết lập riêng cho mình và phù hợp với sức khoẻ thể chất của mình."
+        }
+      }
+    }
+  }
+}

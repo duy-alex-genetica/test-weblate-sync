@@ -1,0 +1,86 @@
+{
+  "common": {
+    "labels": {
+      "originalPrice": "原价",
+      "specialOffer": "特价",
+      "benefits": "您将获得的好处",
+      "serviceFeatures": "服务特点",
+      "downloadAppAt": "下载应用程序",
+      "relatedServices": "相关服务",
+      "priceNotInclude": "价格不含",
+      "details": "详细信息",
+      "result": "结果"
+    },
+    "buttons": {
+      "installment": "0% 分期付款",
+      "addToCart": "添加到您的购物车",
+      "videoHelp": "说明视频",
+      "seeDetails": "查看具体信息",
+      "buyNow": "立即购买",
+      "viewSampleReport": "查看样本报告",
+      "seeMore": "查看更多",
+      "seeAll": "查看全部",
+      "seeMoreComparison": "查看比较",
+      "viewSampleReportPDF": "查看样本报告 (PDF)",
+      "installmentTerms": "分期付款条款和条件"
+    }
+  },
+  "sectionServiceNotInclude": {
+    "title": "价格不含成本",
+    "items": {
+      "1": {
+        "title": "专家深度咨询"
+      },
+      "2": {
+        "title": "样品采集套件",
+        "description": "适用于第 3 次唾液采集"
+      },
+      "3": {
+        "title": "打印件报告（应要求提供）"
+      }
+    }
+  },
+  "sectionServiceInclusion": {
+    "title": "服务包括",
+    "items": {
+      "1": "DNA采集试剂盒（样品采集管、登记表、说明表）",
+      "2": "Genetica 应用程序上的遗传报告",
+      "3": "咨询Genetica的专家"
+    }
+  },
+  "sectionSubmenu": {
+    "items": {
+      "details": "详细信息",
+      "howToUse": "如何使用",
+      "compareServices": "比较服务",
+      "relevantServices": "相关服务",
+      "contactUs": "联系我们"
+    }
+  },
+  "sectionProcess": {
+    "title": "简单的过程",
+    "steps": {
+      "1": {
+        "title": "第 1 步：领取DNA采集包",
+        "description": "Genetica 会将 DNA 采集套件发送到您的地址。"
+      },
+      "2": {
+        "title": "第 2 步：收集并发送您的唾液样本",
+        "description": "唾液提取简单且无痛。您可以轻松按照随附指南中的步骤进行操作。之后，请通过 Genetica 移动应用程序或热线通知我们进行样本采集。"
+      },
+      "3": {
+        "title": "第 3 步：接收基因报告",
+        "description": "从我们收到您的合格唾液之日起计算，您的基因报告将在 30 个工作日后出具。 在 Genetica 移动应用程序或您注册的电子邮箱中阅读您的报告。"
+      }
+    },
+    "links": {
+      "salivaCollectingGuide": "https://youtu.be/Vc9PQVddhVs?list=PLHSgVYL21dUW3ENntE8brlRmRFH18JMM3"
+    }
+  },
+  "sectionServiceComparison": {
+    "title": "比较<br />服务"
+  },
+  "sectionDownloadSampleReport": {
+    "title": "在 Genetica 移动应用程序上接收报告。"
+  }
+}

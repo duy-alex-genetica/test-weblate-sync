@@ -1,0 +1,22 @@
+{
+  "body": {
+    "sectionProfiles": {
+      "header": {
+        "title": "选择要预订的个人资料"
+      },
+      "body": {
+        "list": {
+          "item": {
+            "description": "{{count}} 份符合预订条件的报告",
+            "description_plural": "{{count}} 份符合预订条件的报告",
+            "actions": {
+              "book": {
+                "label": "预订"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

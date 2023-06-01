@@ -1,0 +1,161 @@
+{
+  "404": {
+    "title": "404: Không tìm thấy trang"
+  },
+  "FAQ": {
+    "title": "Câu Hỏi Thường Gặp",
+    "description": "Những câu hỏi thường gặp: Xét nghiệm gen là gì? Những lợi ích của xét nghiệm gen là gì? Sự khác biệt giữa phân tích gen thực hiện bởi Genetica và nơi khác là gì? Quy trình thực hiện dịch vụ giải mã gen như thế nào?"
+  },
+  "about": {
+    "title": "Giới Thiệu Về Công Ty Xét Nghiệm Gene",
+    "description": "Genetica® là công ty Xét nghiệm gen ứng dụng Trí tuệ nhân tạo ✅ có trụ sở đặt tại San Francisco (Mỹ) và được cố vấn bởi đội ngũ nhà khoa học thuộc các trường đại học hàng đầu như UCSF, Harvard, Stanford, Cornell."
+  },
+  "advisors": {
+    "title": "Ban Cố Vấn Tại",
+    "description": "Với ban cố vấn có uy tín trong lĩnh vực xét nghiệm gen bằng công nghệ trí tuệ nhân tạo ✅ Genetica® tin rằng có thể mang lại giá trị và ý nghĩa lớn hơn vào cuộc sống của mỗi khách hàng."
+  },
+  "advisorsBusiness": {
+    "title": "Cố Vấn Kinh Doanh",
+    "description": "Với ban cố vấn kinh doanh dày dạn kinh nghiệm ✅ Genetica® tin rằng sẽ mang lại giá trị và ý nghĩa lớn hơn vào cuộc sống của mỗi khách hàng."
+  },
+  "advisorsScientific": {
+    "title": "Cố Vấn Khoa Học",
+    "description": "Với kiến thức và chuyên môn sâu rộng từ các nhà khoa học có uy tín trong lĩnh vực xét nghiệm gen bằng công nghệ trí tuệ nhân tạo ✅ Genetica® tin rằng có thể mang lại giá trị và ý nghĩa lớn hơn vào cuộc sống của mỗi khách hàng."
+  },
+  "blog": {
+    "title": "Cập Nhật Kiến Thức Về Gene & Thông Tin Sức Khỏe Hữu Ích",
+    "description": "Cập nhật kiến thức hữu ích về Gene, thông tin sức khỏe đáng tin cậy cho chính bản thân và cả gia đình bạn tại Genetica.asia"
+  },
+  "careers": {
+    "title": "Thông tin tuyển dụng",
+    "description": "Thông tin tuyển dụng, tìm kiếm việc làm tại Genetica® Hãy cùng chúng tôi khám phá cơ hội nghề nghiệp của bạn để hoàn thành sứ mệnh đưa giải mã gen đến gần hơn với cộng đồng!"
+  },
+  "cart": {
+    "title": "Giỏ hàng"
+  },
+  "checkout": {
+    "title": "Thanh Toán"
+  },
+  "checkoutCallback": {
+    "title": "Thông tin thanh toán"
+  },
+  "consultation": {
+    "title": "Đặt lịch tư vấn",
+    "description": "Để lại thông tin, Genetica® sẽ liên hệ để tư vấn miễn phí và hỗ trợ đăng ký dịch vụ"
+  },
+  "consultationContact": {
+    "title": "Đặt lịch hẹn tư vấn Giải Mã Gen",
+    "description": "Để lại thông tin, Genetica® sẽ liên hệ để tư vấn miễn phí và hỗ trợ đăng ký dịch vụ. Tư vấn miễn phí, hotline: 1900599927"
+  },
+  "contact": {
+    "title": "Liên Hệ",
+    "description": "Liên hệ với Genetica® để chúng tôi có thể tư vấn trực tiếp cho bạn về sản phẩm và dịch vụ bạn quan tâm. Genetica® luôn sẵn lòng lắng nghe và hỗ trợ bạn."
+  },
+  "disclaimer": {
+    "title": "Thông tin quan trọng về các Giới Hạn và Trường Hợp Loại Trừ của Giải Mã Gen",
+    "description": "Thông tin quan trọng về các Giới Hạn và Trường Hợp Loại Trừ của Giải Mã Gen"
+  },
+  "general": {
+    "legalName": "CÔNG TY TNHH GENE FRIEND VIỆT NAM",
+    "description": "Genetica® | Xét Nghiệm Gen Công Nghệ Mỹ Cho Người Châu Á",
+    "address": {
+      "streetAddress": "Tầng 2, Số 40 Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3",
+      "addressLocality": "Thành phố Hồ Chí Minh",
+      "addressCountry": "Việt Nam",
+      "addressPostalCode": "700000",
+      "addressCountryCode": "VN"
+    },
+    "GeoCoordinates": {
+      "latitude": 10.7851302,
+      "longitude": 106.6935657
+    },
+    "dayOfWeek": {
+      "1": "Thứ hai",
+      "2": "Thứ sáu",
+      "3": "thứ năm",
+      "4": "Thứ Tư",
+      "5": "Thứ ba"
+    },
+    "email": "cs@genetica.asia",
+    "telephone": "1900 599 927"
+  },
+  "generalTransactionConditions": {
+    "title": "Điều Khoản Giao Dịch",
+    "description": "Điều khoản giao dịch trên website Genetica.asia. Đồng ý với các điều khoản, điều kiện sử dụng Dịch Vụ và Ứng dụng của Genetica®"
+  },
+  "getYourOwnGeneNft": {
+    "title": "Sở hữu GeneNFT của bạn ngay!",
+    "description": "Giải mã gen tại Genetica, sở  hữu tài sản kỹ thuật số GeneNFT đại diện cho dữ liệu gen của bạn. Xem ngay tại Genetica.asia"
+  },
+  "home": {
+    "title": "Genetica® | Xét Nghiệm Gen Công Nghệ Mỹ Cho Người Châu Á",
+    "description": "Genetica® Ứng Dụng Trí Tuệ Nhân Tạo Trong Phân Tích Gene Công Nghệ Mỹ ✅ Đối Tác Của ILLUMINA  Và Thermo Fisher, 2 Tổ Chức Sản Xuất Chip Giải Mã Gene Số 🥇 Thế Giới.",
+    "breadcrumb": {
+      "title": "Home"
+    }
+  },
+  "legal": {
+    "breadcrumb": {
+      "title": "Chính sách & Điều khoản"
+    }
+  },
+  "news": {
+    "title": "Tin Tức  - Sự Kiện",
+    "description": "Sứ mệnh của Genetica® là tối ưu hóa kế hoạch phát triển cá nhân, cũng như bảo vệ sức khỏe cho chính bản thân bạn và gia đình ✅ Xem ngay tại Genetica.asia"
+  },
+  "partners": {
+    "title": "Đối Tác - Khách Hàng Của",
+    "description": ""
+  },
+  "partnersUs": {
+    "title": "Đối Tác - Khách Hàng Tại Mỹ Của",
+    "description": ""
+  },
+  "partnersVn": {
+    "title": "Đối Tác - Khách Hàng Tại Việt Nam Của",
+    "description": ""
+  },
+  "paymentMethods": {
+    "title": "Phương Thức Thanh Toán",
+    "description": "Phương thức thanh toán tại Genetica®. Cung cấp thông tin thanh toán để khách hàng dễ dàng sử dụng dịch vụ trên website genetica.asia"
+  },
+  "pressRelease": {
+    "title": "Thông Cáo Báo Chí",
+    "description": "Sứ mệnh của Genetica® là tối ưu hóa kế hoạch phát triển cá nhân, cũng như bảo vệ sức khỏe cho chính bản thân bạn và gia đình ✅ Xem ngay tại Genetica.asia"
+  },
+  "privacyPolicy": {
+    "title": "Chính Sách Bảo Mật Và Quyền Riêng Tư",
+    "description": "Chính Sách Bảo Mật & Quyền Riêng Tư này áp dụng cho trang web Genetica.asia và bất kỳ trang web, ứng dụng nào khác, các trang, tính năng và/hoặc nội dung do Genetica® sở hữu và vận hành và việc bạn sử dụng Dịch Vụ của chúng tôi."
+  },
+  "reportSamplesDetails": {
+    "title": "Báo cáo mẫu",
+    "description": "Báo cáo mẫu"
+  },
+  "returnAndComplaintHandlingPolicy": {
+    "title": "Chính Sách Khiếu Nại",
+    "description": "Genetica® luôn có trách nhiệm tiếp nhận và xử lý khiếu nại của Khách hàng liên quan đến giao dịch tại genetica.asia ✅ Thông tin chi tiết xem tại đây."
+  },
+  "screeningQuestionnaire": {
+    "title": "Báo cáo nguy cơ ung thư - Câu hỏi sàng lọc"
+  },
+  "securitySetting": {
+    "title": "Cài đặt bảo mật"
+  },
+  "serviceDeliveryProcess": {
+    "title": "Phương Thức Cung Cấp Dịch Vụ",
+    "description": "Phương thức cung cấp dịch vụ tại Genetica®. Cung cấp quy trình đăng ký dịch vụ, hướng dẫn lấu mẫu xét nghiệm, phân tích, giải mã gen và gửi báo cáo, tư vấn."
+  },
+  "serviceExchangeCancellationAndRefundPolicy": {
+    "title": "Chính sách đổi, hủy và hoàn phí dịch vụ",
+    "description": "Chính sách đổi, hủy và hoàn phí dịch vụ Tại Genetica®. KH vui lòng cập nhật chính sách mới nhất tại genetica.asia hoặc Ứng dụng Genetica của Công ty để cập nhật thông tin liên quan."
+  },
+  "termsOfService": {
+    "title": "Điều Khoản Dịch Vụ",
+    "description": "Việc bạn sử dụng Dịch Vụ của Genetica® phải tuân theo các điều khoản của thỏa thuận pháp lý giữa bạn và Genetica® được quy định trong các ĐKDV này và trong bất kỳ và tất cả các tài liệu được kết hợp vào ĐKDV này bằng cách dẫn chiếu."
+  },
+  "whatIsGeneDecoding": {
+    "breadcrumb": {
+      "title": "Bạn có biết"
+    }
+  }
+}

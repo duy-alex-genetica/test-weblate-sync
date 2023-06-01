@@ -1,0 +1,20 @@
+{
+  "title": "搜索结果：",
+  "content": {
+    "sectionProductPackages": {
+      "title": "产品"
+    },
+    "sectionBlog": {
+      "title": "博客"
+    },
+    "sectionNews": {
+      "title": "消息"
+    },
+    "press": {
+      "title": "媒体对 Genetica 的评价"
+    },
+    "sectionEmpty": {
+      "description": "抱歉，找不到与您的搜索相关的产品 <br/>"
+    }
+  }
+}
